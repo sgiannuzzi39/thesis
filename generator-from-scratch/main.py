@@ -3,8 +3,9 @@ from src.preprocess import preprocess_stories
 from src.train_model import fine_tune_model
 from src.generate_story import generate_story
 import os
-os.environ["WANDB_DISABLED"] = "true"
+from datetime import datetime
 
+os.environ["WANDB_DISABLED"] = "true"
 
 def main():
     print("Starting AI Story Generator...")
@@ -38,13 +39,35 @@ def main():
 
     # Generate a story based on a prompt
     print("Generating a story...")
-    prompt = """Title: The Dark Night
-Author: Emily Bronte
+    prompt = """Title: The Button
+Author: John Doe
 
-The wind howled through the ancient trees, carrying with it the whispers of forgotten tales. In the heart of the forest, a young woman wandered, lost not only in the woods but in the labyrinth of her thoughts..."""
+Mr. Smithson was not accustomed to the esteemed ways of higher society. In fact, ..."""
     generated_story = generate_story(prompt)
     print("Generated Story:\n")
     print(generated_story)
+
+    # Save the generated story to a file
+    save_generated_story(prompt, generated_story, len(stories))
+
+def save_generated_story(prompt, generated_story, story_count):
+    # Ensure the directory exists
+    os.makedirs('stories_generated', exist_ok=True)
+
+    # Create the filename with a timestamp
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"stories_generated/generated_story_{timestamp}.txt"
+
+    # Prepare the content to save
+    content = f"Fine Tuned GPT-2\n{datetime.now().strftime('%B %dth, %Y')}\n{story_count} stories\n\n"
+    content += f"Prompt: \"{prompt.strip()}\"\n\nGenerated Story:\n\n"
+    content += generated_story
+
+    # Save to file
+    with open(filename, 'w') as file:
+        file.write(content)
+
+    print(f"Story saved to {filename}")
 
 if __name__ == "__main__":
     main()

@@ -78,4 +78,5 @@ It produces the final output of the project—a new, AI-generated story based on
 To train the model and generate a story, run the following command:
 
 ```bash
+rm -rf fine_tuned_gpt2
 python main.py
