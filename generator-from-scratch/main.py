@@ -38,7 +38,10 @@ def main():
 
     # Generate a story based on a prompt
     print("Generating a story...")
-    prompt = "Title: A Strange Encounter\nAuthor: John Doe\n\n"
+    prompt = """Title: The Dark Night
+Author: Emily Bronte
+
+The wind howled through the ancient trees, carrying with it the whispers of forgotten tales. In the heart of the forest, a young woman wandered, lost not only in the woods but in the labyrinth of her thoughts..."""
     generated_story = generate_story(prompt)
     print("Generated Story:\n")
     print(generated_story)
