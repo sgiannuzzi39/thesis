@@ -1,24 +1,21 @@
-from transformers import GPT2Tokenizer, GPT2LMHeadModel  # Import necessary components
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
 
-def generate_story(prompt, max_length=300):
+def generate_story(prompt):
     tokenizer = GPT2Tokenizer.from_pretrained("./fine_tuned_gpt2")
     model = GPT2LMHeadModel.from_pretrained("./fine_tuned_gpt2")
 
     inputs = tokenizer.encode(prompt, return_tensors="pt")
-    attention_mask = tokenizer(prompt, return_tensors="pt").attention_mask
+    attention_mask = inputs.ne(tokenizer.pad_token_id)
 
-    outputs = model.generate(
-        inputs,
+    generated_story = model.generate(
+        input_ids=inputs,
         attention_mask=attention_mask,
-        max_length=max_length,
-        num_return_sequences=1,
-        no_repeat_ngram_size=2,
-        do_sample=True,
-        top_k=50,
-        top_p=0.95,
-        temperature=0.7,
-        num_beams=5,  # Using beam search with 5 beams
-        early_stopping=True
+        max_length=512,
+        temperature=0.8,  # Slightly higher temperature for more variability
+        top_k=50,         # Top-k sampling
+        top_p=0.9,        # Nucleus sampling
+        repetition_penalty=1.2,  # Adds a penalty to repeated sequences
+        do_sample=True    # Enable sampling
     )
 
-    return tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return tokenizer.decode(generated_story[0], skip_special_tokens=True)
