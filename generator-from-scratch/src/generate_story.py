@@ -1,21 +1,26 @@
-from transformers import GPT2Tokenizer, GPT2LMHeadModel
+from openai import OpenAI
 
-def generate_story(prompt):
-    tokenizer = GPT2Tokenizer.from_pretrained("./fine_tuned_gpt2")
-    model = GPT2LMHeadModel.from_pretrained("./fine_tuned_gpt2")
+def generate_story(prompt="Write a short story.", min_length=1000, max_length=7500):
+    # Instantiate the OpenAI client
+    client = OpenAI(api_key="_____")
 
-    inputs = tokenizer.encode(prompt, return_tensors="pt")
-    attention_mask = inputs.ne(tokenizer.pad_token_id)
-
-    generated_story = model.generate(
-        input_ids=inputs,
-        attention_mask=attention_mask,
-        max_length=512,
-        temperature=0.8,  # Slightly higher temperature for more variability
-        top_k=50,         # Top-k sampling
-        top_p=0.9,        # Nucleus sampling
-        repetition_penalty=1.2,  # Adds a penalty to repeated sequences
-        do_sample=True    # Enable sampling
+    response = client.chat.completions.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "You are a creative writer."},
+            {"role": "user", "content": prompt}
+        ],
+        max_tokens=max_length,
+        temperature=0.7,
+        top_p=0.9,
+        frequency_penalty=0,
+        presence_penalty=0.6,
     )
 
-    return tokenizer.decode(generated_story[0], skip_special_tokens=True)
+    # Extract the generated text
+    generated_text = response.choices[0].message.content
+
+    # No title extraction needed since we are not providing one
+    title = "Untitled"
+
+    return title, generated_text

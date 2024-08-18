@@ -1,11 +1,10 @@
+import os
+import re
+from datetime import datetime
 from src.load_data import load_txt_files
 from src.preprocess import preprocess_stories
-from src.train_model import fine_tune_model
 from src.generate_story import generate_story
-import os
-from datetime import datetime
-
-os.environ["WANDB_DISABLED"] = "true"
+from src.train_model import fine_tune_model
 
 def main():
     print("Starting AI Story Generator...")
@@ -25,32 +24,23 @@ def main():
     preprocessed_stories = preprocess_stories(stories)
     print("Preprocessing complete.")
 
-    # Create a corpus
+    # Create a corpus (not used in this version but kept for potential future use)
     print("Creating corpus...")
     corpus = ""
     for story in preprocessed_stories:
-        corpus += f"Title: {story['title']}\nAuthor: {story['author']}\n\n{story['content']}\n\n"
+        corpus += f"{story['content']}\n\n"
     print("Corpus created.")
 
-    # Fine-tune the model
-    print("Fine-tuning the model...")
-    fine_tune_model(corpus)
-    print("Model fine-tuning complete.")
-
-    # Generate a story based on a prompt
+    # Generate a story based on a simple prompt using GPT-4
     print("Generating a story...")
-    prompt = """Title: The Button
-Author: John Doe
-
-Mr. Smithson was not accustomed to the esteemed ways of higher society. In fact, ..."""
-    generated_story = generate_story(prompt)
+    title, generated_story = generate_story(prompt="Write a short story.", min_length=1000, max_length=7500)
     print("Generated Story:\n")
     print(generated_story)
 
     # Save the generated story to a file
-    save_generated_story(prompt, generated_story, len(stories))
+    save_generated_story(title, generated_story, len(stories))
 
-def save_generated_story(prompt, generated_story, story_count):
+def save_generated_story(title, generated_story, story_count):
     # Ensure the directory exists
     os.makedirs('stories_generated', exist_ok=True)
 
@@ -59,9 +49,8 @@ def save_generated_story(prompt, generated_story, story_count):
     filename = f"stories_generated/generated_story_{timestamp}.txt"
 
     # Prepare the content to save
-    content = f"Fine Tuned GPT-2\n{datetime.now().strftime('%B %dth, %Y')}\n{story_count} stories\n\n"
-    content += f"Prompt: \"{prompt.strip()}\"\n\nGenerated Story:\n\n"
-    content += generated_story
+    content = f"Fine Tuned GPT-4\n{datetime.now().strftime('%B %dth, %Y')}\n{story_count} stories\n\n"
+    content += f"{generated_story}"
 
     # Save to file
     with open(filename, 'w') as file:
