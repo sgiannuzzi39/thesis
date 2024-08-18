@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Create directory to save stories
-output_dir = 'new_yorker_stories'
+output_dir = 'new_yorker_stories/new_yorker_page19_29'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
@@ -17,7 +17,7 @@ if not os.path.exists(output_dir):
 driver = webdriver.Chrome()
 
 # Step 1: Navigate to the New Yorker fiction page
-start_url = 'https://www.newyorker.com/magazine/fiction'
+start_url = 'https://www.newyorker.com/magazine/fiction?page=24'
 driver.get(start_url)
 print(f"Accessed page")
 
@@ -55,16 +55,19 @@ def scrape_story(story_url):
     author_tag = soup.find('a', {'class': 'BylineLink-gEnFiw'})
     author = author_tag.text.strip() if author_tag else 'Unknown Author'
     
-    # Extract story content, filtering out unwanted elements
-    story_paragraphs = soup.find_all('p', {'class': 'paywall'})
-    story_content = "\n\n".join([p.text.strip() for p in story_paragraphs if not p.find('a') and not p.find('strong')])
+    # Extract story content, ensuring the first paragraph is captured
+    story_paragraphs = soup.find_all('p', class_=lambda x: x and 'paywall' in x.split())
+    story_content = "\n\n".join([
+        p.text.strip() for p in story_paragraphs 
+        if p.find('a') is None and p.find('strong') is None
+    ])
     
     # Prepare the file name
     author_lastname = author.split()[-1]
     file_name = os.path.join(output_dir, f"{title}, {author_lastname}.txt")
     
     # Save to a text file
-    with open(file_name, 'w') as file:
+    with open(file_name, 'w', encoding='utf-8') as file:
         file.write(f"Title: {title}\n")
         file.write(f"Author: {author}\n\n")
         file.write(story_content)
@@ -77,8 +80,9 @@ def crawl_fiction_page(start_url):
     driver.get(start_url)
     
     stories_scraped = 0
+    page_number = 24  # Start from page 18
     
-    while True:  # Remove the story limit to scrape as many as possible
+    while True:  # Continue until no more pages are found
         print("Scraping page...")
         
         # Wait for the story links to load
@@ -97,15 +101,16 @@ def crawl_fiction_page(start_url):
             stories_scraped += 1
             time.sleep(1)  # To avoid overwhelming the server
         
-        # Click "Next Page" if there are more stories to scrape
+        # Try to go to the next page
+        page_number += 1
+        next_page_url = f'https://www.newyorker.com/magazine/fiction?page={page_number}'
+        print(f"Navigating to page {page_number}")
+        
         try:
-            next_button = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.CSS_SELECTOR, '.ButtonWrapper-xCepQ'))
-            )
-            next_button.click()
-            time.sleep(2)  # Wait for the next page to load
+            driver.get(next_page_url)
+            time.sleep(3)  # Wait for the next page to load
         except Exception as e:
-            print(f"Error navigating to the next page: {e}")
+            print(f"No more pages to navigate or error navigating: {e}")
             break  # No more pages to navigate
     
     print(f"Scraped {stories_scraped} stories.")
