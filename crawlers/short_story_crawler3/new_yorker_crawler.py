@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Create directory to save stories
-output_dir = 'new_yorker_stories/new_yorker_page19_29'
+output_dir = 'new_yorker_stories/new_yorker_page19_28'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
@@ -17,7 +17,7 @@ if not os.path.exists(output_dir):
 driver = webdriver.Chrome()
 
 # Step 1: Navigate to the New Yorker fiction page
-start_url = 'https://www.newyorker.com/magazine/fiction?page=24'
+start_url = 'https://www.newyorker.com/magazine/fiction?page=27'
 driver.get(start_url)
 print(f"Accessed page")
 
@@ -80,7 +80,7 @@ def crawl_fiction_page(start_url):
     driver.get(start_url)
     
     stories_scraped = 0
-    page_number = 24  # Start from page 18
+    page_number = 27  # Start from page 18
     
     while True:  # Continue until no more pages are found
         print("Scraping page...")
