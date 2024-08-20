@@ -34,6 +34,13 @@ def main():
     # Generate a story based on a simple prompt using GPT-4
     print("Generating a story...")
     title, generated_story = generate_story(prompt="Write a short story.", min_length=1000, max_length=7500)
+
+    # Check if the generated story starts with "Once upon a time"
+    if generated_story.lower().startswith("once upon a time"):
+        # You can either re-generate the story or modify it.
+        print("Story starts with 'Once upon a time'. Modifying the start...")
+        generated_story = generated_story[len("once upon a time"):].strip().capitalize()
+
     print("Generated Story:\n")
     print(generated_story)
 
