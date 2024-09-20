@@ -1,0 +1,210 @@
+### Analysis Results for Each File ###
+
+Title: Echoes of Time
+Unnecessary words: 5
+Adjectives: 32
+Adverbs: 16
+Word count: 463
+Character count: 2680
+Sentence count: 32
+
+Title: The Heart of the Woods
+Unnecessary words: 4
+Adjectives: 83
+Adverbs: 36
+Word count: 1038
+Character count: 6174
+Sentence count: 55
+
+Title: The Last Symphony
+Unnecessary words: 9
+Adjectives: 49
+Adverbs: 67
+Word count: 1141
+Character count: 6759
+Sentence count: 71
+
+Title: The Lighthouse Keeper's Gift
+Unnecessary words: 4
+Adjectives: 89
+Adverbs: 44
+Word count: 1112
+Character count: 6566
+Sentence count: 69
+
+Title: The Painter and the Mysterious Portrait
+Unnecessary words: 6
+Adjectives: 81
+Adverbs: 51
+Word count: 1221
+Character count: 7193
+Sentence count: 75
+
+Title: The Clockmaker's Secret
+Unnecessary words: 5
+Adjectives: 77
+Adverbs: 49
+Word count: 1119
+Character count: 6579
+Sentence count: 64
+
+Title: The Forgotten Melody
+Unnecessary words: 3
+Adjectives: 62
+Adverbs: 39
+Word count: 1010
+Character count: 6092
+Sentence count: 66
+
+Title: The Lighthouse Keeper's Secret
+Unnecessary words: 2
+Adjectives: 73
+Adverbs: 46
+Word count: 1143
+Character count: 6501
+Sentence count: 64
+
+Title: The Symphony of Life
+Unnecessary words: 3
+Adjectives: 77
+Adverbs: 36
+Word count: 1078
+Character count: 6422
+Sentence count: 62
+
+Title: The Last Symphony
+Unnecessary words: 3
+Adjectives: 73
+Adverbs: 49
+Word count: 1092
+Character count: 6393
+Sentence count: 61
+
+Title: The Unseen Guardian
+Unnecessary words: 4
+Adjectives: 67
+Adverbs: 42
+Word count: 1130
+Character count: 6570
+Sentence count: 78
+
+Title: The Unseen Guardian
+Unnecessary words: 1
+Adjectives: 42
+Adverbs: 25
+Word count: 432
+Character count: 2555
+Sentence count: 26
+
+Title: The Song of the Wind
+Unnecessary words: 8
+Adjectives: 56
+Adverbs: 50
+Word count: 1122
+Character count: 6190
+Sentence count: 62
+
+Title: The Unseen Melody
+Unnecessary words: 3
+Adjectives: 73
+Adverbs: 36
+Word count: 1180
+Character count: 6868
+Sentence count: 69
+
+Title: The Enchanted Library
+Unnecessary words: 0
+Adjectives: 88
+Adverbs: 45
+Word count: 1091
+Character count: 6574
+Sentence count: 66
+
+Title: A Melody in the Wind
+Unnecessary words: 1
+Adjectives: 27
+Adverbs: 20
+Word count: 455
+Character count: 2566
+Sentence count: 34
+
+Title: The Unseen Masterpiece
+Unnecessary words: 6
+Adjectives: 68
+Adverbs: 60
+Word count: 1120
+Character count: 6781
+Sentence count: 72
+
+Title: The Forgotten Diary
+Unnecessary words: 0
+Adjectives: 69
+Adverbs: 37
+Word count: 1211
+Character count: 6853
+Sentence count: 66
+
+Title: The Lost Melody
+Unnecessary words: 6
+Adjectives: 64
+Adverbs: 44
+Word count: 1072
+Character count: 6300
+Sentence count: 59
+
+Title: The Enchanted Canvas
+Unnecessary words: 5
+Adjectives: 73
+Adverbs: 35
+Word count: 1072
+Character count: 6084
+Sentence count: 59
+
+Title: The Last Dance of the Fireflies
+Unnecessary words: 4
+Adjectives: 81
+Adverbs: 35
+Word count: 1123
+Character count: 6516
+Sentence count: 66
+
+Title: The Colors of Time
+Unnecessary words: 6
+Adjectives: 83
+Adverbs: 54
+Word count: 1374
+Character count: 7896
+Sentence count: 79
+
+Title: The Clockmaker's Gift
+Unnecessary words: 2
+Adjectives: 33
+Adverbs: 12
+Word count: 429
+Character count: 2493
+Sentence count: 26
+
+Title: The Forgotten Melody
+Unnecessary words: 3
+Adjectives: 69
+Adverbs: 38
+Word count: 1122
+Character count: 6723
+Sentence count: 74
+
+Title: The Time Capsule
+Unnecessary words: 2
+Adjectives: 75
+Adverbs: 34
+Word count: 1204
+Character count: 6952
+Sentence count: 64
+
+### Averages Across All Files ###
+
+Average unnecessary words: 3.80
+Average adjectives: 66.56
+Average adverbs: 40.00
+Average word count: 1022.16
+Average character count: 5971.20
+Average sentence count: 60.76
