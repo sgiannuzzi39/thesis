@@ -1,0 +1,29 @@
+### Average Euclidean Distances for Each File ###
+Ghoul_split_embeddings.txt: 92.0564
+The Aleph_split_embeddings.txt: 88.7321
+indian_uprising_split_embeddings.txt: 83.7205
+midnight_zone_split_embeddings.txt: 79.0832
+The Dead_split_embeddings.txt: 90.3143
+Lost in the Funhouse_split_embeddings.txt: 82.7177
+The Tell-Tale Heart_split_embeddings.txt: 85.6486
+Goodbye, My Brother_split_embeddings.txt: 93.2169
+yellow_wallpaper_split_embeddings.txt: 107.0361
+A Temporary Matter_split_embeddings.txt: 90.3311
+Bela_split_embeddings.txt: 101.7075
+all_summer_in_a_day_split_embeddings.txt: 109.6280
+Gooseberries_split_embeddings.txt: 90.7053
+who_will_greet_you_at_home_split_embeddings.txt: 87.0007
+the_overcoat_split_embeddings.txt: 88.6888
+uncle_wiggly_split_embeddings.txt: 104.8013
+Brokeback Mountain_split_embeddings.txt: 79.3917
+Sonny's Blues_split_embeddings.txt: 79.7053
+Mother_split_embeddings.txt: 101.0634
+where_are_you_going_where_have_you_been_split_embeddings.txt: 89.5396
+How to Tell a True War Story, O'Brien_split_embeddings.txt: 91.3674
+Big Two-Hearted River_split_embeddings.txt: 83.0716
+two_men_arrive_split_embeddings.txt: 94.3858
+The Gardener_split_embeddings.txt: 81.9455
+why_don't_you_dance_split_embeddings.txt: 94.1295
+
+### Overall Average Euclidean Distance Across All Files ###
+Overall Average: 90.7995
