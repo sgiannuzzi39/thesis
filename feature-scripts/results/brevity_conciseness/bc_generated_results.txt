@@ -1,13 +1,5 @@
 ### Analysis Results for Each File ###
 
-Title: Echoes of Time
-Unnecessary words: 5
-Adjectives: 32
-Adverbs: 16
-Word count: 463
-Character count: 2680
-Sentence count: 32
-
 Title: The Heart of the Woods
 Unnecessary words: 4
 Adjectives: 83
@@ -15,6 +7,14 @@ Adverbs: 36
 Word count: 1038
 Character count: 6174
 Sentence count: 55
+
+Title: The Last Starlight
+Unnecessary words: 1
+Adjectives: 84
+Adverbs: 33
+Word count: 1031
+Character count: 6132
+Sentence count: 66
 
 Title: The Last Symphony
 Unnecessary words: 9
@@ -31,6 +31,14 @@ Adverbs: 44
 Word count: 1112
 Character count: 6566
 Sentence count: 69
+
+Title: The Whispering Violin
+Unnecessary words: 3
+Adjectives: 62
+Adverbs: 46
+Word count: 1107
+Character count: 6357
+Sentence count: 58
 
 Title: The Painter and the Mysterious Portrait
 Unnecessary words: 6
@@ -80,6 +88,14 @@ Word count: 1092
 Character count: 6393
 Sentence count: 61
 
+Title: The Magic of the Forgotten Forest
+Unnecessary words: 3
+Adjectives: 74
+Adverbs: 37
+Word count: 1092
+Character count: 6241
+Sentence count: 72
+
 Title: The Unseen Guardian
 Unnecessary words: 4
 Adjectives: 67
@@ -87,14 +103,6 @@ Adverbs: 42
 Word count: 1130
 Character count: 6570
 Sentence count: 78
-
-Title: The Unseen Guardian
-Unnecessary words: 1
-Adjectives: 42
-Adverbs: 25
-Word count: 432
-Character count: 2555
-Sentence count: 26
 
 Title: The Song of the Wind
 Unnecessary words: 8
@@ -120,14 +128,6 @@ Word count: 1091
 Character count: 6574
 Sentence count: 66
 
-Title: A Melody in the Wind
-Unnecessary words: 1
-Adjectives: 27
-Adverbs: 20
-Word count: 455
-Character count: 2566
-Sentence count: 34
-
 Title: The Unseen Masterpiece
 Unnecessary words: 6
 Adjectives: 68
@@ -151,6 +151,14 @@ Adverbs: 44
 Word count: 1072
 Character count: 6300
 Sentence count: 59
+
+Title: The Magic Quill
+Unnecessary words: 3
+Adjectives: 83
+Adverbs: 63
+Word count: 1107
+Character count: 6313
+Sentence count: 68
 
 Title: The Enchanted Canvas
 Unnecessary words: 5
@@ -176,14 +184,6 @@ Word count: 1374
 Character count: 7896
 Sentence count: 79
 
-Title: The Clockmaker's Gift
-Unnecessary words: 2
-Adjectives: 33
-Adverbs: 12
-Word count: 429
-Character count: 2493
-Sentence count: 26
-
 Title: The Forgotten Melody
 Unnecessary words: 3
 Adjectives: 69
@@ -202,9 +202,9 @@ Sentence count: 64
 
 ### Averages Across All Files ###
 
-Average unnecessary words: 3.80
-Average adjectives: 66.56
-Average adverbs: 40.00
-Average word count: 1022.16
-Average character count: 5971.20
-Average sentence count: 60.76
+Average unnecessary words: 3.84
+Average adjectives: 73.32
+Average adverbs: 44.24
+Average word count: 1124.48
+Average character count: 6561.16
+Average sentence count: 66.60
