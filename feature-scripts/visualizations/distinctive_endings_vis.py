@@ -1,6 +1,5 @@
 import os
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
 
 # Function to load distances from the results file
 def load_distances(file_path, label):
@@ -13,23 +12,35 @@ def load_distances(file_path, label):
     
     Returns:
         list of tuples: Each tuple contains a cleaned story name, Euclidean distance, and label.
+        float: The overall average Euclidean distance across all files.
     """
     story_data = []
+    overall_avg = 0.0
     
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
-            # Skip the overall average line
+            line = line.strip()  # Clean up extra whitespace
+            # Look for the overall average line
             if "Overall Average" in line:
+                try:
+                    overall_avg = float(line.split(":")[1].strip())
+                except (IndexError, ValueError) as e:
+                    print(f"Error parsing overall average in file: {file_path}")
+                    print(f"Line: {line}, Error: {e}")
                 continue
             
-            # We expect lines in the format "StoryName_split_embeddings.txt: distance"
+            # We expect lines in the format "StoryName_embeddings.txt: distance"
             if ":" in line:
                 # Extract and clean the story name
-                story_name, distance_str = line.split(":")[0], line.split(":")[1].strip()
-                story_name = story_name.replace('_', ' ').replace('split', '').replace('embeddings', '').replace('.txt', '').title().strip()
-                story_data.append((story_name, float(distance_str), label))
+                try:
+                    story_name, distance_str = line.split(":")[0], line.split(":")[1].strip()
+                    story_name = story_name.replace('_', ' ').replace('split', '').replace('embeddings', '').replace('.txt', '').title().strip()
+                    story_data.append((story_name, float(distance_str), label))
+                except (IndexError, ValueError) as e:
+                    print(f"Error parsing story data in file: {file_path}")
+                    print(f"Line: {line}, Error: {e}")
     
-    return story_data
+    return story_data, overall_avg
 
 # Provide the absolute paths to the generated and human results files
 generated_results_file = '/Users/sgiannuzzi/Desktop/thesis/feature-scripts/results/distinctive_endings/endings_generated_results.txt'
@@ -44,44 +55,33 @@ if not os.path.exists(human_results_file):
     print(f"Error: Human results file not found at {human_results_file}")
     exit(1)
 
-# Load distances from both generated and human short stories
-generated_data = load_distances(generated_results_file, 'Generated')
-human_data = load_distances(human_results_file, 'Human')
+# Load distances from both generated and human short stories and their overall averages
+generated_data, generated_avg = load_distances(generated_results_file, 'Generated')
+human_data, human_avg = load_distances(human_results_file, 'Human')
 
-# Combine both datasets
-combined_data = generated_data + human_data
+# Combine the datasets by separating the distances for the box plot
+generated_distances = [distance for _, distance, label in generated_data]
+human_distances = [distance for _, distance, label in human_data]
 
-# Sort the combined data by Euclidean distance
-sorted_data = sorted(combined_data, key=lambda x: x[1])
-
-# Unpack the sorted data into separate lists
-sorted_story_names, sorted_distances, sorted_labels = zip(*sorted_data)
-
-# Set style and figure size
-plt.style.use('seaborn-whitegrid')  # Using seaborn whitegrid for cleaner look
+# Create a box-and-whisker plot
 plt.figure(figsize=(12, 8))
+boxplot = plt.boxplot([generated_distances, human_distances], labels=['Generated', 'Human'], patch_artist=True)
 
-# Use different colors for the labels and increase point size
-colors = ['#1f77b4' if label == 'Generated' else '#ff7f0e' for label in sorted_labels]  # Blue for generated, orange for human
-plt.scatter(sorted_distances, sorted_story_names, c=colors, s=100, edgecolor='black', alpha=0.7)
+# Customize the plot appearance
+plt.title('Euclidean Distances Between Beginnings and Endings of Short Stories', fontsize=16, fontweight='bold')
+plt.ylabel('Euclidean Distance', fontsize=14, fontweight='bold')
 
-# Add labels and title with improved font sizes
-plt.xlabel('Euclidean Distance', fontsize=14, fontweight='bold')
-plt.ylabel('Story Title', fontsize=14, fontweight='bold')
-plt.title('Euclidean Distances Between Beginning and Endings of Short Stories', fontsize=16, fontweight='bold')
+# Customize colors for the box plots to shades of purple
+colors = ['#CBC3E3', '#5D3FD3']
+for patch, color in zip(boxplot['boxes'], colors):
+    patch.set_facecolor(color)
 
-# Improve tick parameters
-plt.xticks(fontsize=12)
-plt.yticks(fontsize=12)
+# Change the median line color to light gray
+for median in boxplot['medians']:
+    median.set_color('#A9A9A9')  # Light gray color
+    median.set_linewidth(2)  # Increase line width for better visibility
 
-# Create custom legend with both blue and orange dots
-blue_patch = mpatches.Patch(color='#1f77b4', label='Generated Short Stories')
-orange_patch = mpatches.Patch(color='#ff7f0e', label='Human-Written Short Stories')
-plt.legend(handles=[blue_patch, orange_patch], fontsize=12)
-
-# Add a grid for better readability
-plt.grid(True, linestyle='--', alpha=0.5)
-
-# Show the plot with tight layout for better spacing
+# Display the plot
 plt.tight_layout()
+plt.grid(True, linestyle='--', alpha=0.5)
 plt.show()
