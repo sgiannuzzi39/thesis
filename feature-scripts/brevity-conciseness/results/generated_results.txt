@@ -1,0 +1,233 @@
+### Analysis Results for Each File ###
+
+Title: The Heart of the Woods
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 257, 'PUNCT': 145, 'DET': 139, 'PROPN': 44, 'ADP': 144, 'SPACE': 18, 'ADV': 36, 'SCONJ': 17, 'ADJ': 83, 'VERB': 142, 'PRON': 82, 'CCONJ': 47, 'AUX': 29, 'NUM': 2, 'PART': 30}
+Total words: 1038
+Total characters: 6174
+Sentence count: 55
+Avg words per sentence: 18.87
+Avg characters per sentence: 112.25
+
+Title: The Last Starlight
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 237, 'PUNCT': 162, 'DET': 134, 'ADJ': 84, 'PROPN': 69, 'SPACE': 18, 'ADV': 33, 'SCONJ': 18, 'ADP': 115, 'PART': 43, 'VERB': 155, 'PRON': 94, 'AUX': 33, 'CCONJ': 36, 'NUM': 3}
+Total words: 1031
+Total characters: 6132
+Sentence count: 66
+Avg words per sentence: 15.62
+Avg characters per sentence: 92.91
+
+Title: The Last Symphony
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 293, 'PUNCT': 186, 'DET': 130, 'ADJ': 49, 'PROPN': 30, 'SPACE': 20, 'ADV': 67, 'SCONJ': 19, 'ADP': 140, 'VERB': 173, 'PRON': 128, 'AUX': 44, 'CCONJ': 46, 'PART': 35, 'NUM': 2}
+Total words: 1141
+Total characters: 6759
+Sentence count: 71
+Avg words per sentence: 16.07
+Avg characters per sentence: 95.20
+
+Title: The Lighthouse Keeper's Gift
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 285, 'PUNCT': 198, 'DET': 142, 'PROPN': 40, 'PART': 32, 'SPACE': 24, 'ADV': 44, 'SCONJ': 21, 'ADP': 131, 'ADJ': 89, 'VERB': 160, 'PRON': 105, 'AUX': 42, 'CCONJ': 37, 'NUM': 4}
+Total words: 1112
+Total characters: 6566
+Sentence count: 69
+Avg words per sentence: 16.12
+Avg characters per sentence: 95.16
+
+Title: The Whispering Violin
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 265, 'PUNCT': 160, 'DET': 144, 'PROPN': 88, 'SPACE': 16, 'ADV': 46, 'SCONJ': 23, 'ADP': 143, 'ADJ': 62, 'VERB': 158, 'PRON': 72, 'AUX': 45, 'PART': 33, 'NUM': 1, 'CCONJ': 38}
+Total words: 1107
+Total characters: 6357
+Sentence count: 58
+Avg words per sentence: 19.09
+Avg characters per sentence: 109.60
+
+Title: The Painter and the Mysterious Portrait
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 270, 'PUNCT': 182, 'DET': 149, 'PROPN': 34, 'CCONJ': 50, 'SPACE': 20, 'ADV': 51, 'SCONJ': 24, 'ADP': 137, 'ADJ': 81, 'VERB': 207, 'PRON': 142, 'AUX': 44, 'NUM': 6, 'PART': 33}
+Total words: 1221
+Total characters: 7193
+Sentence count: 75
+Avg words per sentence: 16.28
+Avg characters per sentence: 95.91
+
+Title: The Clockmaker's Secret
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 297, 'PUNCT': 172, 'DET': 147, 'PROPN': 42, 'PART': 30, 'SPACE': 16, 'ADP': 125, 'ADJ': 77, 'VERB': 146, 'CCONJ': 41, 'PRON': 107, 'NUM': 7, 'AUX': 55, 'ADV': 49, 'SCONJ': 11}
+Total words: 1119
+Total characters: 6579
+Sentence count: 64
+Avg words per sentence: 17.48
+Avg characters per sentence: 102.80
+
+Title: The Forgotten Melody
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 243, 'PUNCT': 174, 'DET': 126, 'PROPN': 52, 'SPACE': 19, 'ADP': 119, 'ADJ': 62, 'PRON': 92, 'VERB': 173, 'CCONJ': 41, 'AUX': 33, 'SCONJ': 10, 'NUM': 5, 'ADV': 39, 'PART': 35}
+Total words: 1010
+Total characters: 6092
+Sentence count: 66
+Avg words per sentence: 15.30
+Avg characters per sentence: 92.30
+
+Title: The Lighthouse Keeper's Secret
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 261, 'PUNCT': 172, 'DET': 149, 'PROPN': 72, 'PART': 20, 'SPACE': 20, 'ADV': 46, 'SCONJ': 16, 'ADP': 151, 'PRON': 120, 'VERB': 160, 'ADJ': 73, 'AUX': 40, 'NUM': 4, 'CCONJ': 42}
+Total words: 1143
+Total characters: 6501
+Sentence count: 64
+Avg words per sentence: 17.86
+Avg characters per sentence: 101.58
+
+Title: The Symphony of Life
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 268, 'PUNCT': 161, 'DET': 135, 'PROPN': 71, 'ADP': 137, 'SPACE': 20, 'ADV': 36, 'SCONJ': 23, 'ADJ': 77, 'PRON': 103, 'VERB': 155, 'AUX': 40, 'CCONJ': 38, 'PART': 35, 'NUM': 2}
+Total words: 1078
+Total characters: 6422
+Sentence count: 62
+Avg words per sentence: 17.39
+Avg characters per sentence: 103.58
+
+Title: The Last Symphony
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 294, 'PUNCT': 179, 'DET': 128, 'ADJ': 73, 'PROPN': 16, 'SPACE': 18, 'ADP': 125, 'PRON': 155, 'ADV': 49, 'VERB': 142, 'AUX': 42, 'SCONJ': 17, 'CCONJ': 36, 'PART': 24, 'NUM': 2}
+Total words: 1092
+Total characters: 6393
+Sentence count: 61
+Avg words per sentence: 17.90
+Avg characters per sentence: 104.80
+
+Title: The Magic of the Forgotten Forest
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 252, 'PUNCT': 187, 'DET': 128, 'PROPN': 62, 'ADP': 143, 'SPACE': 23, 'ADV': 37, 'SCONJ': 18, 'ADJ': 74, 'PRON': 111, 'VERB': 152, 'AUX': 46, 'PART': 37, 'CCONJ': 44, 'NUM': 4}
+Total words: 1092
+Total characters: 6241
+Sentence count: 72
+Avg words per sentence: 15.17
+Avg characters per sentence: 86.68
+
+Title: The Unseen Guardian
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 243, 'PUNCT': 213, 'DET': 130, 'PROPN': 70, 'SPACE': 27, 'ADV': 42, 'SCONJ': 18, 'ADP': 142, 'ADJ': 67, 'PRON': 118, 'VERB': 175, 'AUX': 56, 'NUM': 6, 'CCONJ': 35, 'PART': 43}
+Total words: 1130
+Total characters: 6570
+Sentence count: 78
+Avg words per sentence: 14.49
+Avg characters per sentence: 84.23
+
+Title: The Song of the Wind
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 242, 'PUNCT': 174, 'DET': 158, 'PROPN': 58, 'ADP': 139, 'SPACE': 19, 'ADV': 50, 'SCONJ': 25, 'ADJ': 56, 'VERB': 163, 'CCONJ': 34, 'AUX': 47, 'PART': 47, 'PRON': 121, 'NUM': 3}
+Total words: 1122
+Total characters: 6190
+Sentence count: 62
+Avg words per sentence: 18.10
+Avg characters per sentence: 99.84
+
+Title: The Unseen Melody
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 316, 'PUNCT': 204, 'DET': 152, 'PROPN': 48, 'SPACE': 23, 'ADV': 36, 'SCONJ': 19, 'ADP': 136, 'ADJ': 73, 'PRON': 125, 'VERB': 163, 'CCONJ': 56, 'AUX': 42, 'NUM': 4, 'PART': 25}
+Total words: 1180
+Total characters: 6868
+Sentence count: 69
+Avg words per sentence: 17.10
+Avg characters per sentence: 99.54
+
+Title: The Enchanted Library
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 269, 'PUNCT': 168, 'DET': 143, 'PROPN': 37, 'SPACE': 19, 'ADV': 45, 'SCONJ': 18, 'ADP': 139, 'ADJ': 88, 'PRON': 99, 'VERB': 153, 'AUX': 45, 'PART': 25, 'CCONJ': 40, 'NUM': 4}
+Total words: 1091
+Total characters: 6574
+Sentence count: 66
+Avg words per sentence: 16.53
+Avg characters per sentence: 99.61
+
+Title: The Unseen Masterpiece
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 260, 'PUNCT': 189, 'DET': 114, 'PROPN': 58, 'SPACE': 21, 'ADV': 60, 'SCONJ': 19, 'ADP': 135, 'ADJ': 68, 'VERB': 173, 'PRON': 143, 'AUX': 38, 'CCONJ': 36, 'PART': 34, 'NUM': 4}
+Total words: 1120
+Total characters: 6781
+Sentence count: 72
+Avg words per sentence: 15.56
+Avg characters per sentence: 94.18
+
+Title: The Forgotten Diary
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 279, 'PUNCT': 165, 'DET': 150, 'PROPN': 55, 'SPACE': 18, 'ADP': 158, 'ADJ': 69, 'VERB': 173, 'CCONJ': 45, 'PRON': 138, 'PART': 38, 'AUX': 68, 'NUM': 4, 'ADV': 37, 'SCONJ': 17}
+Total words: 1211
+Total characters: 6853
+Sentence count: 66
+Avg words per sentence: 18.35
+Avg characters per sentence: 103.83
+
+Title: The Lost Melody
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 276, 'PUNCT': 171, 'DET': 125, 'ADJ': 64, 'PROPN': 67, 'SPACE': 17, 'ADP': 133, 'VERB': 142, 'PRON': 118, 'CCONJ': 48, 'AUX': 48, 'PART': 31, 'ADV': 44, 'NUM': 2, 'SCONJ': 11}
+Total words: 1072
+Total characters: 6300
+Sentence count: 59
+Avg words per sentence: 18.17
+Avg characters per sentence: 106.78
+
+Title: The Magic Quill
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 250, 'PUNCT': 191, 'DET': 118, 'PROPN': 41, 'SPACE': 21, 'ADV': 63, 'SCONJ': 18, 'ADP': 129, 'ADJ': 83, 'VERB': 148, 'AUX': 49, 'NUM': 4, 'CCONJ': 37, 'PRON': 149, 'PART': 34, 'INTJ': 1}
+Total words: 1107
+Total characters: 6313
+Sentence count: 68
+Avg words per sentence: 16.28
+Avg characters per sentence: 92.84
+
+Title: The Enchanted Canvas
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 267, 'PUNCT': 166, 'DET': 138, 'ADJ': 73, 'PROPN': 33, 'SPACE': 17, 'ADV': 35, 'SCONJ': 12, 'ADP': 139, 'VERB': 148, 'PRON': 105, 'CCONJ': 44, 'PART': 43, 'AUX': 40, 'NUM': 2, 'X': 1}
+Total words: 1072
+Total characters: 6084
+Sentence count: 59
+Avg words per sentence: 18.17
+Avg characters per sentence: 103.12
+
+Title: The Last Dance of the Fireflies
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 284, 'PUNCT': 177, 'DET': 147, 'ADJ': 81, 'ADP': 139, 'PROPN': 34, 'SPACE': 18, 'VERB': 141, 'CCONJ': 45, 'PRON': 130, 'AUX': 45, 'PART': 36, 'SCONJ': 18, 'NUM': 2, 'ADV': 35}
+Total words: 1123
+Total characters: 6516
+Sentence count: 66
+Avg words per sentence: 17.02
+Avg characters per sentence: 98.73
+
+Title: The Colors of Time
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 349, 'PUNCT': 231, 'DET': 172, 'ADP': 176, 'PROPN': 53, 'SPACE': 21, 'ADV': 54, 'SCONJ': 19, 'PRON': 141, 'VERB': 198, 'ADJ': 83, 'AUX': 39, 'PART': 30, 'CCONJ': 66, 'NUM': 4}
+Total words: 1374
+Total characters: 7896
+Sentence count: 79
+Avg words per sentence: 17.39
+Avg characters per sentence: 99.95
+
+Title: The Forgotten Melody
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 263, 'PUNCT': 217, 'DET': 125, 'PROPN': 75, 'SPACE': 21, 'ADV': 38, 'SCONJ': 27, 'ADP': 122, 'ADJ': 69, 'VERB': 157, 'PRON': 144, 'CCONJ': 38, 'AUX': 49, 'NUM': 4, 'PART': 39}
+Total words: 1122
+Total characters: 6723
+Sentence count: 74
+Avg words per sentence: 15.16
+Avg characters per sentence: 90.85
+
+Title: The Time Capsule
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 298, 'PUNCT': 191, 'DET': 169, 'PROPN': 53, 'SPACE': 19, 'ADV': 34, 'SCONJ': 21, 'ADP': 164, 'ADJ': 75, 'VERB': 175, 'PRON': 114, 'AUX': 34, 'CCONJ': 48, 'NUM': 3, 'PART': 26}
+Total words: 1204
+Total characters: 6952
+Sentence count: 64
+Avg words per sentence: 18.81
+Avg characters per sentence: 108.62
+
+### Averages Across All Files ###
+
+Average unnecessary words: 3.96
+Average parts of speech: {'NOUN': 272.72, 'PUNCT': 181.4, 'DET': 139.68, 'PROPN': 52.08, 'ADP': 138.44, 'SPACE': 19.72, 'ADV': 44.24, 'SCONJ': 18.36, 'ADJ': 73.32, 'VERB': 161.28, 'PRON': 118.24, 'CCONJ': 42.72, 'AUX': 43.72, 'NUM': 3.52, 'PART': 33.52, 'unnecessary_word_count': 3.96, 'total_words': 1124.48, 'total_characters': 6561.16, 'sentence_count': 66.6, 'avg_words_per_sentence': 16.970762155577294, 'avg_characters_per_sentence': 98.99552224945214, 'INTJ': 0.04, 'X': 0.04}
+Average words per sentence: 16.97
+Average characters per sentence: 99.00
