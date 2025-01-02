@@ -1,0 +1,177 @@
+### Analysis Results for Each File ###
+
+Title: the_heart_of_the_woods.txt
+Psychological Intensity: 0
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 0
+
+Title: the_last_starlight.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 3
+
+Title: the_last_symphony.txt
+Psychological Intensity: 2
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 2
+
+Title: the_lighthouse_keeper's_gift.txt
+Psychological Intensity: 0
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 0
+
+Title: the_whispering_violin.txt
+Psychological Intensity: 1
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 1
+
+Title: the_painter_and_the_mysterious_portrait.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 1
+Total Score: 4
+
+Title: the_clockmaker's_secret.txt
+Psychological Intensity: 1
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 1
+
+Title: the_forgotten_melody.txt
+Psychological Intensity: 2
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 1
+Total Score: 3
+
+Title: the_lighthouse_keeper's_secret.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 3
+
+Title: the_symphony_of_life.txt
+Psychological Intensity: 0
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 0
+
+Title: the_last_symphony_2.txt
+Psychological Intensity: 7
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 7
+
+Title: the_magic_of_the_forgotten_forest.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 3
+
+Title: unseen_guardian_2.txt
+Psychological Intensity: 7
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 7
+
+Title: the_song_of_the_wind.txt
+Psychological Intensity: 0
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 0
+
+Title: the_unseen_melody.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 3
+
+Title: enchanted_library.txt
+Psychological Intensity: 1
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 1
+
+Title: the_unseen_masterpiece.txt
+Psychological Intensity: 5
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 5
+
+Title: the_forgotten_diary.txt
+Psychological Intensity: 4
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 4
+
+Title: the_lost_melody.txt
+Psychological Intensity: 0
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 0
+
+Title: the_magic_quill.txt
+Psychological Intensity: 5
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 1
+Total Score: 6
+
+Title: the_enchanted_canvas.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 3
+
+Title: the_last_dance_of_the_fireflies.txt
+Psychological Intensity: 4
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 4
+
+Title: the_colors_of_time.txt
+Psychological Intensity: 1
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 1
+
+Title: the_forgotten_melody_2.txt
+Psychological Intensity: 2
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 2
+
+Title: the_time_capsule.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 0
+Total Score: 3
+
