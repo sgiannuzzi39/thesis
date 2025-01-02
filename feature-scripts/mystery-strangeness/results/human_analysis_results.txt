@@ -1,0 +1,177 @@
+### Analysis Results for Each File ###
+
+Title: Goodbye, My Brother.txt
+Psychological Intensity: 54
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 2
+Total Score: 56
+
+Title: The Tell-Tale Heart.txt
+Psychological Intensity: 11
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 3
+Total Score: 14
+
+Title: Mother.txt
+Psychological Intensity: 23
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 8
+Total Score: 31
+
+Title: uncle_wiggly.txt
+Psychological Intensity: 52
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 18
+Total Score: 70
+
+Title: The Aleph.txt
+Psychological Intensity: 18
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 2
+Total Score: 20
+
+Title: why_don't_you_dance.txt
+Psychological Intensity: 5
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 2
+Total Score: 7
+
+Title: The Gardener.txt
+Psychological Intensity: 14
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 7
+Total Score: 21
+
+Title: How to Tell a True War Story, O'Brien.txt
+Psychological Intensity: 32
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 6
+Total Score: 38
+
+Title: Big Two-Hearted River.txt
+Psychological Intensity: 41
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 14
+Total Score: 55
+
+Title: indian_uprising.txt
+Psychological Intensity: 12
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 2
+Total Score: 14
+
+Title: midnight_zone.txt
+Psychological Intensity: 23
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 6
+Total Score: 29
+
+Title: Lost in the Funhouse.txt
+Psychological Intensity: 47
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 10
+Total Score: 57
+
+Title: The Dead.txt
+Psychological Intensity: 90
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 21
+Total Score: 111
+
+Title: two_men_arrive.txt
+Psychological Intensity: 3
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 3
+Total Score: 6
+
+Title: Brokeback Mountain.txt
+Psychological Intensity: 46
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 10
+Total Score: 56
+
+Title: Ghoul.txt
+Psychological Intensity: 57
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 5
+Total Score: 62
+
+Title: who_will_greet_you_at_home.txt
+Psychological Intensity: 28
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 7
+Total Score: 35
+
+Title: yellow_wallpaper.txt
+Psychological Intensity: 50
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 7
+Total Score: 57
+
+Title: Gooseberries.txt
+Psychological Intensity: 16
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 2
+Total Score: 18
+
+Title: all_summer_in_a_day.txt
+Psychological Intensity: 10
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 5
+Total Score: 15
+
+Title: Bela.txt
+Psychological Intensity: 70
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 18
+Total Score: 88
+
+Title: A Temporary Matter.txt
+Psychological Intensity: 33
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 2
+Total Score: 35
+
+Title: the_overcoat.txt
+Psychological Intensity: 35
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 11
+Total Score: 46
+
+Title: Sonny's Blues.txt
+Psychological Intensity: 73
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 25
+Total Score: 98
+
+Title: where_are_you_going_where_have_you_been.txt
+Psychological Intensity: 34
+Mystery Score: 0
+Supernatural Elements: 0
+Deviant Behavior Count: 10
+Total Score: 44
+
