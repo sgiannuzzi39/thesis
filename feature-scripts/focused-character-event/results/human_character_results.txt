@@ -1,0 +1,125 @@
+### Focused Character Analysis Results for Each File ###
+
+Title: Goodbye, My Brother.txt
+Focused Character Score: 0.0008
+Details: {'Odette', 'Ruth', 'Chaddy', 'Helen', 'Tifty', 'Andromeda', 'Martini', 'Mother', 'Lawrence'}
+
+
+Title: The Tell-Tale Heart.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: Mother.txt
+Focused Character Score: 0.0005
+Details: {'George', 'George Willard'}
+
+
+Title: uncle_wiggly.txt
+Focused Character Score: 0.0019
+Details: {'Lew', 'Jimmy Jimmereeno', 'Mary\nJane', 'Mickey', 'Weyinburg', 'Jimmy', 'Barbara Hill', 'Mary Jane', 'Mommy', 'Akim Tamiroff', 'Grace', 'Miz Wengler', 'Walt'}
+
+
+Title: The Aleph.txt
+Focused Character Score: 0.0008
+Details: {'Aleph', 'Zunni', 'Daneri', 'Carlos Argentino', 'Elena Viterbo'}
+
+
+Title: why_don't_you_dance.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: The Gardener.txt
+Focused Character Score: 0.0019
+Details: {'Gallipoli', 'Helen', 'Mummy', 'George', 'Michael', 'Anderson', 'Michael Turrell -', 'Emma', 'Mrs Scarsworth'}
+
+
+Title: How to Tell a True War Story, O'Brien.txt
+Focused Character Score: 0.0005
+Details: {'Sanders', 'Dave Jensen', 'Rat Kiley'}
+
+
+Title: Big Two-Hearted River.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: indian_uprising.txt
+Focused Character Score: 0.0014
+Details: {'mon cher', 'Gustave Aschenbach', 'Kenneth', 'Sylvia'}
+
+
+Title: midnight_zone.txt
+Focused Character Score: 0.0002
+Details: {'O.K.'}
+
+
+Title: Lost in the Funhouse.txt
+Focused Character Score: 0.0005
+Details: {'Peter', 'Ambrose', 'Magda', 'M', 'Uncle Karl', 'Peter M'}
+
+
+Title: The Dead.txt
+Focused Character Score: 0.0024
+Details: {"Freddy Malins'", 'Bergin', 'Cassidy', 'Miss Daly', 'Conroy', 'Miss\nDaly', 'Gretta', "D'Arcy", "Mary Jane's", 'Aunt Kate', 'Lily', 'Julia', 'Aunt\nKate', 'Dan', 'Caruso', "Bartell D'Arcy", 'Morkan', 'Bessie', 'Connacht', 'Molly', "O'Callaghan", 'Freddy Malins', 'Malins', 'Mary Jane', 'meek', 'Browne', 'Kerrigan', 'Freddy', 'Teddy', 'Gabriel', 'brown satin', "Mary\nJane's", "Miss O'Callaghan", 'Michael Furey', 'Miss Ivors', 'Monkstown', 'Johnny', 'Furlong', 'Healey', 'Aunt Julia', 'Dinorah', 'Kate', 'Amy', 'Julia Morkan', 'Mary Grimes'}
+
+
+Title: two_men_arrive.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: Brokeback Mountain.txt
+Focused Character Score: 0.0007
+Details: {'Riverton', 'Joe Aguirre', 'Alma Jr.', 'Alma', 'Jesus', 'Linda\nHiggins', 'Jack', 'Francine', 'Jack Twist'}
+
+
+Title: Ghoul.txt
+Focused Character Score: 0.0005
+Details: {'Rolph', 'Regis', 'Tom Frame', 'Dad', 'Gabrielle D.'}
+
+
+Title: who_will_greet_you_at_home.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: yellow_wallpaper.txt
+Focused Character Score: 0.0006
+Details: {'sticketh closer', 'Jane', 'John', 'John’s'}
+
+
+Title: Gooseberries.txt
+Focused Character Score: 0.0013
+Details: {'Nicholai Ivanich', 'Pavel Koustantinich', 'Bourkin', 'Aliokhin', 'Pelagueya', 'Ivan Ivanich'}
+
+
+Title: all_summer_in_a_day.txt
+Focused Character Score: 0.0004
+Details: {'William'}
+
+
+Title: Bela.txt
+Focused Character Score: 0.0008
+Details: {'Maxim Maximych', 'Kazbich', 'I.\n"Maybe', 'Glad', 'Yakshi', 'Alexei Petrovich', 'Kuban', 'Grigori Alexandrovich', 'Bela', 'Pechorin', 'Kobi', 'Azamat', 'I.', 'Mitka'}
+
+
+Title: A Temporary Matter.txt
+Focused Character Score: 0.0006
+Details: {'Shukumar', 'Shoba', 'Gillian', 'Martini'}
+
+
+Title: the_overcoat.txt
+Focused Character Score: 0.0002
+Details: {"Karolina Ivanovna's", 'Ivan Abramovitch', 'Petrovitch'}
+
+
+Title: Sonny's Blues.txt
+Focused Character Score: 0.0002
+Details: {'Sonny?""I', 'jazz,"he', 'Sonny', 'hear?""I'}
+
+
+Title: where_are_you_going_where_have_you_been.txt
+Focused Character Score: 0.0015
+Details: {'Eddie', 'Tillie', 'Bobby\nKing', 'Nancy Pettinger', 'Pettinger', 'Connie', "Don'tcha", 'Betty Schultz', 'Ellie', 'Tony Fitch', 'Charley', 'Jimmy Pettinger', 'Arnold Friend'}

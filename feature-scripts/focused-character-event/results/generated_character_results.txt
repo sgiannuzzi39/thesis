@@ -1,0 +1,125 @@
+### Focused Character Analysis Results for Each File ###
+
+Title: the_heart_of_the_woods.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_last_starlight.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_last_symphony.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_lighthouse_keeper's_gift.txt
+Focused Character Score: 0.0015
+Details: {'Samuel', 'Thomas'}
+
+
+Title: the_whispering_violin.txt
+Focused Character Score: 0.0008
+Details: {'Antonio'}
+
+
+Title: the_painter_and_the_mysterious_portrait.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_clockmaker's_secret.txt
+Focused Character Score: 0.0008
+Details: {'Albert'}
+
+
+Title: the_forgotten_melody.txt
+Focused Character Score: 0.0008
+Details: {'Lily'}
+
+
+Title: the_lighthouse_keeper's_secret.txt
+Focused Character Score: 0.0008
+Details: {'Ethan'}
+
+
+Title: the_symphony_of_life.txt
+Focused Character Score: 0.0016
+Details: {'Samuel', 'Tobias'}
+
+
+Title: the_last_symphony_2.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_magic_of_the_forgotten_forest.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: unseen_guardian_2.txt
+Focused Character Score: 0.0015
+Details: {'Sam', 'Gryphon'}
+
+
+Title: the_song_of_the_wind.txt
+Focused Character Score: 0.0008
+Details: {'Enoch'}
+
+
+Title: the_unseen_melody.txt
+Focused Character Score: 0.0014
+Details: {'Sam', 'Lily'}
+
+
+Title: enchanted_library.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_unseen_masterpiece.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_forgotten_diary.txt
+Focused Character Score: 0.0007
+Details: {'Lily'}
+
+
+Title: the_lost_melody.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_magic_quill.txt
+Focused Character Score: 0.0015
+Details: {'Max', 'Penelope'}
+
+
+Title: the_enchanted_canvas.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_last_dance_of_the_fireflies.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_colors_of_time.txt
+Focused Character Score: 0.0000
+Details: set()
+
+
+Title: the_forgotten_melody_2.txt
+Focused Character Score: 0.0022
+Details: {'Clara', 'Wilhelm', 'Requiem'}
+
+
+Title: the_time_capsule.txt
+Focused Character Score: 0.0000
+Details: set()
