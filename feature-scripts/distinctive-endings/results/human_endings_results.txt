@@ -2,12 +2,16 @@
 
 Title: Goodbye, My Brother.txt
 Min Change: 0.5905290563277732
+
 Title: The Tell-Tale Heart.txt
 Min Change: 0.7303267618066775
+
 Title: Mother.txt
 Min Change: 0.6809741530872666
+
 Title: uncle_wiggly.txt
 Min Change: 0.5525508515347392
+
 Title: The Aleph.txt
 Min Change: 0.6657638524066088
 Title: why_don't_you_dance.txt
