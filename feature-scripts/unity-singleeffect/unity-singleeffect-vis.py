@@ -4,6 +4,7 @@ import os
 # Paths to results files
 generated_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/generated_results.txt"
 human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/human_results.txt"
+output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results"
 
 def parse_results(file_path):
     """
@@ -24,36 +25,30 @@ def parse_results(file_path):
 
     return ttr_values, vvi_values, distance_values
 
-def create_boxplot(data, labels, title, ylabel, output_path):
+def create_boxplot(data, labels, title, ylabel, output_filename):
     """
     Create a box-and-whisker plot.
     """
     plt.figure(figsize=(8, 6))
-    box = plt.boxplot(data, labels=labels, patch_artist=True, showmeans=True, 
-                      meanprops=dict(linestyle='-', color='orange', linewidth=2), 
-                      flierprops=dict(marker='^', color='green', alpha=0.5))
+    boxprops = dict(facecolor="white", color="black")
+    meanprops = dict(marker='D', markerfacecolor='green', markersize=7, linestyle='none', color='green')
+    medianprops = dict(color='orange', linewidth=2)
 
-    # Customize box colors
-    colors = ['lightblue', 'lightgreen']
-    for patch, color in zip(box['boxes'], colors):
-        patch.set_facecolor(color)
+    plt.boxplot(data, labels=labels, patch_artist=True, showmeans=True, 
+                meanprops=meanprops, medianprops=medianprops, boxprops=boxprops)
 
     plt.title(title)
     plt.ylabel(ylabel)
-    plt.grid(axis='y', linestyle='--', alpha=0.7)
 
     # Add a legend
-    plt.legend([
-        plt.Line2D([0], [0], color='lightblue', lw=4),
-        plt.Line2D([0], [0], color='lightgreen', lw=4),
-        plt.Line2D([0], [0], color='orange', linestyle='-', lw=2),
-        plt.Line2D([0], [0], color='green', marker='^', linestyle='', markersize=8, alpha=0.5),
-        plt.Line2D([0], [0], color='grey', marker='^', linestyle='', markersize=8, alpha=0.5)
-    ], 
-               ["Generated", "Human", "Mean (Orange Line)", "Outlier (Green Triangle)", "Default Outlier (Grey Triangle)"], loc='upper right')
+    legend_elements = [
+        plt.Line2D([0], [0], color='orange', lw=2, label='Median (Orange Line)'),
+        plt.Line2D([0], [0], marker='D', color='green', label='Mean (Green Diamond)', linestyle='None', markersize=8)
+    ]
+    plt.legend(handles=legend_elements, loc='upper right')
 
     plt.tight_layout()
-    plt.savefig(output_path)
+    plt.savefig(os.path.join(output_folder, output_filename))
     plt.close()
 
 def main():
@@ -75,7 +70,7 @@ def main():
         labels, 
         "TTR: Generated vs. Human Stories", 
         "Type-Token Ratio (TTR)", 
-        "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/ttr_boxplot.png"
+        "ttr_boxplot.png"
     )
 
     # Create VVI plot
@@ -84,7 +79,7 @@ def main():
         labels, 
         "VVI: Generated vs. Human Stories", 
         "Verbal Variety Index (VVI)", 
-        "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/vvi_boxplot.png"
+        "vvi_boxplot.png"
     )
 
     # Create Average Paragraph Distance plot
@@ -93,7 +88,7 @@ def main():
         labels, 
         "Average Paragraph Distance: Generated vs. Human Stories", 
         "Average Euclidean Distance", 
-        "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/distance_boxplot.png"
+        "distance_boxplot.png"
     )
 
     print("Plots generated and saved!")

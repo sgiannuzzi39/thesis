@@ -7,6 +7,7 @@ import numpy as np
 # Define file paths for results
 human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/brevity-conciseness/results/human_results.txt"
 generated_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/brevity-conciseness/results/generated_results.txt"
+output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/brevity-conciseness/results"
 
 def parse_results(file_path):
     """
@@ -85,7 +86,7 @@ def calculate_per_story_averages(data):
 
     return pos_data, word_counts, character_counts, words_per_sentence, unnecessary_words
 
-def create_bar_whisker_plot(data_human, data_generated, label):
+def create_bar_whisker_plot(data_human, data_generated, label, output_filename):
     """
     Creates a bar and whisker plot for a specific metric.
 
@@ -93,29 +94,32 @@ def create_bar_whisker_plot(data_human, data_generated, label):
         data_human (list): List of percentages for human-written works.
         data_generated (list): List of percentages for generated works.
         label (str): The label for the metric to visualize.
+        output_filename (str): Filename to save the plot.
 
     Returns:
         None.
     """
     data = [data_human, data_generated]
-    boxprops = dict(facecolor="lightblue", color="black")
-    meanprops = dict(marker='o', markerfacecolor='red', markersize=5, linestyle='none', color='red')
-    medianprops = dict(color='blue', linewidth=2)
+    boxprops = dict(facecolor="white", color="black")
+    meanprops = dict(marker='D', markerfacecolor='green', markersize=7, linestyle='none', color='green')
+    medianprops = dict(color='orange', linewidth=2)
 
+    plt.figure(figsize=(8, 6))
     plt.boxplot(data, labels=["Human", "Generated"], showmeans=True, meanprops=meanprops, medianprops=medianprops, patch_artist=True, boxprops=boxprops)
     plt.title(f"Distribution of {label} (Percentage per Story)")
     plt.ylabel("Percentage")
 
     # Add a legend for the plot elements
     legend_elements = [
-        mpatches.Patch(facecolor='lightblue', edgecolor='black', label='Box (Interquartile Range)'),
-        plt.Line2D([0], [0], color='blue', lw=2, label='Median (Blue Line)'),
-        plt.Line2D([0], [0], marker='o', color='red', label='Mean (Red Dot)', linestyle='None', markersize=8)
+        mpatches.Patch(facecolor='white', edgecolor='black', label='Box (Interquartile Range)'),
+        plt.Line2D([0], [0], color='orange', lw=2, label='Median (Orange Line)'),
+        plt.Line2D([0], [0], marker='D', color='green', label='Mean (Green Diamond)', linestyle='None', markersize=8)
     ]
     plt.legend(handles=legend_elements, loc='upper right')
 
     plt.tight_layout()
-    plt.show()
+    plt.savefig(os.path.join(output_folder, output_filename))
+    plt.close()
 
 def create_data_table(data_human, data_generated, human_stats, generated_stats, human_unnecessary, generated_unnecessary):
     """
@@ -151,7 +155,7 @@ def create_data_table(data_human, data_generated, human_stats, generated_stats, 
     })
 
     print(data_table)
-    data_table.to_csv("relative_averages.csv", index=False)
+    data_table.to_csv(os.path.join(output_folder, "relative_averages.csv"), index=False)
 
 if __name__ == "__main__":
     human_data = parse_results(human_results_path)
@@ -165,10 +169,10 @@ if __name__ == "__main__":
 
     # Create bar and whisker plots for target parts of speech
     for pos_tag in target_pos_tags:
-        create_bar_whisker_plot(human_pos_data[pos_tag], generated_pos_data[pos_tag], pos_tag)
+        create_bar_whisker_plot(human_pos_data[pos_tag], generated_pos_data[pos_tag], pos_tag, f"{pos_tag}_distribution.png")
 
     # Create bar and whisker plot for unnecessary words
-    create_bar_whisker_plot(human_unnecessary, generated_unnecessary, "Unnecessary Words")
+    create_bar_whisker_plot(human_unnecessary, generated_unnecessary, "Unnecessary Words", "unnecessary_words_distribution.png")
 
     # Create data table for relative averages
     create_data_table(human_pos_data, generated_pos_data, 
