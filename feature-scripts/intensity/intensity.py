@@ -1,3 +1,8 @@
+"""
+SETUP: conda activate py39
+Code co-authored with ChatGPT
+"""
+
 import os
 from textblob import TextBlob
 import spacy
