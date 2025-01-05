@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import os
 
-# Paths to results files
 generated_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/generated_results.txt"
 human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results/human_results.txt"
 output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results"
@@ -40,7 +39,6 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.title(title)
     plt.ylabel(ylabel)
 
-    # Add a legend
     legend_elements = [
         plt.Line2D([0], [0], color='orange', lw=2, label='Median (Orange Line)'),
         plt.Line2D([0], [0], marker='D', color='green', label='Mean (Green Diamond)', linestyle='None', markersize=8)
@@ -52,19 +50,15 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.close()
 
 def main():
-    # Parse results
     generated_ttr, generated_vvi, generated_distances = parse_results(generated_results_path)
     human_ttr, human_vvi, human_distances = parse_results(human_results_path)
 
-    # Data for plots
     ttr_data = [generated_ttr, human_ttr]
     vvi_data = [generated_vvi, human_vvi]
     distance_data = [generated_distances, human_distances]
 
-    # Labels for the plots
     labels = ["Generated", "Human"]
 
-    # Create TTR plot
     create_boxplot(
         ttr_data, 
         labels, 
@@ -73,7 +67,6 @@ def main():
         "ttr_boxplot.png"
     )
 
-    # Create VVI plot
     create_boxplot(
         vvi_data, 
         labels, 
@@ -82,7 +75,6 @@ def main():
         "vvi_boxplot.png"
     )
 
-    # Create Average Paragraph Distance plot
     create_boxplot(
         distance_data, 
         labels, 

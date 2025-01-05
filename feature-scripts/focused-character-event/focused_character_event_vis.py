@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import os
 
-# File paths
 generated_event_file = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/focused-character-event/results/generated_event_results.txt"
 human_event_file = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/focused-character-event/results/human_event_results.txt"
 generated_character_file = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/focused-character-event/results/generated_character_results.txt"
@@ -38,7 +37,6 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.title(title)
     plt.ylabel(ylabel)
 
-    # Add a legend
     legend_elements = [
         plt.Line2D([0], [0], color='orange', lw=2, label='Median (Orange Line)'),
         plt.Line2D([0], [0], marker='D', color='green', label='Mean (Green Diamond)', linestyle='None', markersize=8)
@@ -50,18 +48,15 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.close()
 
 def main():
-    # Parse scores for events
     generated_event_scores = parse_results(generated_event_file, "Focused Event")
     human_event_scores = parse_results(human_event_file, "Focused Event")
 
-    # Parse scores for characters
     generated_character_scores = parse_results(generated_character_file, "Focused Character")
     human_character_scores = parse_results(human_character_file, "Focused Character")
 
     if not generated_event_scores and not human_event_scores:
         print("No event scores available to plot.")
     else:
-        # Create Focused Event plot
         create_boxplot(
             [generated_event_scores, human_event_scores], 
             ["Generated Stories", "Human Stories"], 
@@ -73,7 +68,6 @@ def main():
     if not generated_character_scores and not human_character_scores:
         print("No character scores available to plot.")
     else:
-        # Create Focused Character plot
         create_boxplot(
             [generated_character_scores, human_character_scores], 
             ["Generated Stories", "Human Stories"], 

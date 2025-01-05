@@ -9,18 +9,13 @@ import os
 import spacy
 from textblob import TextBlob
 
-# Download necessary NLTK data
 nltk.download('punkt')
 
-# Load spaCy model for NER and dependency parsing
 nlp = spacy.load("en_core_web_sm")
 
-# Keywords for analysis
 mystery_keywords = {"mystery", "secret", "hidden", "unknown", "unseen"}
 supernatural_keywords = {"ghost", "spirit", "monster", "witch", "vampire", "zombie"}
 deviant_verbs = {"kill", "stab", "laugh", "scream", "attack", "burn", "torture"}
-
-# Main analysis logic with lower psychological intensity threshold
 
 def analyze_file(file_path):
     """Analyze a file for mystery and strangeness metrics."""
@@ -40,18 +35,15 @@ def analyze_file(file_path):
     deviant_behavior_count = 0
 
     for sentence in sentences:
-        # Sentiment analysis
         sentiment = sentence.sentiment.polarity
-        if sentiment < -0.2:  # Reduced threshold
+        if sentiment < -0.2:  
             psychological_intensity += 1
 
-        # Supernatural elements
         doc = nlp(str(sentence))
         for entity in doc.ents:
             if entity.label_ in {"PERSON", "NORP", "ORG", "LOC"} and entity.text.lower() in supernatural_keywords:
                 supernatural_elements += 1
 
-        # Deviant behavior
         for token in doc:
             if token.pos_ == "VERB" and token.lemma_.lower() in deviant_verbs:
                 deviant_behavior_count += 1
