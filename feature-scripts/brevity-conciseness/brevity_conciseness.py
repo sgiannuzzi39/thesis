@@ -7,7 +7,6 @@ import os
 import spacy
 from collections import Counter
 
-# Load the spaCy English model globally
 nlp = spacy.load("en_core_web_sm")
 
 def load_text_from_file(file_path):
@@ -97,10 +96,8 @@ def analyze_folder(folder_path, unnecessary_words, output_file):
             text = load_text_from_file(file_path)
             title = extract_title(text)
 
-            # Analyze the text
             analysis_result = analyze_text(text, unnecessary_words)
 
-            # Aggregate totals for averaging later
             aggregated_metrics.update(analysis_result["pos_counts"])
             aggregated_metrics["unnecessary_word_count"] += analysis_result["unnecessary_word_count"]
             aggregated_metrics["total_words"] += analysis_result["total_words"]
@@ -110,7 +107,6 @@ def analyze_folder(folder_path, unnecessary_words, output_file):
             aggregated_metrics["avg_characters_per_sentence"] += analysis_result["avg_characters_per_sentence"]
             total_files += 1
 
-            # Add individual file's results to the list
             results.append(f"Title: {title}\n"
                            f"Unnecessary words: {analysis_result['unnecessary_word_count']}\n"
                            f"Parts of Speech: {analysis_result['pos_counts']}\n"
@@ -120,19 +116,16 @@ def analyze_folder(folder_path, unnecessary_words, output_file):
                            f"Avg words per sentence: {analysis_result['avg_words_per_sentence']:.2f}\n"
                            f"Avg characters per sentence: {analysis_result['avg_characters_per_sentence']:.2f}\n\n")
 
-    # Calculate averages across all files
     if total_files > 0:
         avg_metrics = {key: value / total_files for key, value in aggregated_metrics.items()}
     else:
         avg_metrics = {key: 0 for key in aggregated_metrics.keys()}
 
-    # Write the results to the output file
     with open(output_file, 'w', encoding='utf-8') as output:
         output.write("### Analysis Results for Each File ###\n\n")
         for result in results:
             output.write(result)
 
-        # Write averages at the end
         output.write("### Averages Across All Files ###\n\n")
         output.write(f"Average unnecessary words: {avg_metrics['unnecessary_word_count']:.2f}\n")
         output.write(f"Average parts of speech: {dict(avg_metrics)}\n")
@@ -140,18 +133,17 @@ def analyze_folder(folder_path, unnecessary_words, output_file):
         output.write(f"Average characters per sentence: {avg_metrics['avg_characters_per_sentence']:.2f}\n")
 
 if __name__ == "__main__":
-    # Specify folders and output files for human-written and generated stories
     human_folder_path = "human-stories/"
     generated_folder_path = "generated-stories/"
     unnecessary_words = [
-        # Intensifiers and qualifiers
+        # intensifiers and qualifiers
         "very", "really", "just", "quite", "somewhat", "rather", "basically", "actually", "literally",
         "totally", "completely", "absolutely", "definitely", "extremely", "incredibly", "seriously",
         "truly", "simply", "frankly", "honestly", "obviously", "surely", "undoubtedly", "essentially",
         "utterly", "slightly", "relatively", "remarkably", "particularly", "especially", "exceptionally",
         "highly", "awfully", "probably", "certainly", "virtually",
 
-        # Redundant phrases
+        # redundant phrases
         "end result", "added bonus", "free gift", "past history", "future plans", "unexpected surprise",
         "advance warning", "basic fundamentals", "final outcome", "completely finished",
         "absolutely essential", "each and every", "first and foremost", "in order to",
@@ -165,7 +157,7 @@ if __name__ == "__main__":
         "with the result that", "in the majority of instances", "in view of the fact that",
         "on the occasion of",
 
-        # Clichés and overused expressions
+        # clichés and overused expressions
         "all of a sudden", "at the end of the day", "back to square one", "beyond a shadow of a doubt",
         "crystal clear", "few and far between", "in a nutshell", "in the nick of time", "last but not least",
         "leaves much to be desired", "needless to say", "nipped in the bud", "only time will tell",
