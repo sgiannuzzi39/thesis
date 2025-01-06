@@ -1,3 +1,8 @@
+"""
+SETUP: conda activate py39
+Code co-authored with ChatGPT
+"""
+
 import os
 import glob
 from sklearn.feature_extraction.text import TfidfVectorizer
