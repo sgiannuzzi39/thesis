@@ -1,24 +1,11 @@
-"""
-SETUP: conda activate py39
-Code co-authored with ChatGPT
-"""
-
 import nltk
 from nltk.tokenize import sent_tokenize
 import os
-import spacy
 from textblob import TextBlob
 
 nltk.download('punkt')
 
-nlp = spacy.load("en_core_web_sm")
-
-mystery_keywords = {"mystery", "secret", "hidden", "unknown", "unseen"}
-supernatural_keywords = {"ghost", "spirit", "monster", "witch", "vampire", "zombie"}
-deviant_verbs = {"kill", "stab", "laugh", "scream", "attack", "burn", "torture"}
-
 def analyze_file(file_path):
-    """Analyze a file for mystery and strangeness metrics."""
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             text = file.read()
@@ -29,33 +16,17 @@ def analyze_file(file_path):
     blob = TextBlob(text)
     sentences = blob.sentences
 
-    psychological_intensity = 0
-    mystery_score = 0
-    supernatural_elements = 0
-    deviant_behavior_count = 0
+    if not sentences:
+        print(f"Skipping file due to no valid sentences: {file_path}")
+        return None
 
-    for sentence in sentences:
-        sentiment = sentence.sentiment.polarity
-        if sentiment < -0.2:  
-            psychological_intensity += 1
+    total_polarity = sum(sentence.sentiment.polarity for sentence in sentences)
+    average_polarity = total_polarity / len(sentences)
 
-        doc = nlp(str(sentence))
-        for entity in doc.ents:
-            if entity.label_ in {"PERSON", "NORP", "ORG", "LOC"} and entity.text.lower() in supernatural_keywords:
-                supernatural_elements += 1
-
-        for token in doc:
-            if token.pos_ == "VERB" and token.lemma_.lower() in deviant_verbs:
-                deviant_behavior_count += 1
-
-    total_score = psychological_intensity + mystery_score + supernatural_elements + deviant_behavior_count
+    psychological_intensity = -average_polarity * 10 
 
     return {
-        "psychological_intensity": psychological_intensity,
-        "mystery_score": mystery_score,
-        "supernatural_elements": supernatural_elements,
-        "deviant_behavior_count": deviant_behavior_count,
-        "total_score": total_score,
+        "psychological_intensity": psychological_intensity
     }
 
 def process_directory(directory_path, output_file_path):
@@ -73,11 +44,7 @@ def process_directory(directory_path, output_file_path):
         output_file.write("### Analysis Results for Each File ###\n\n")
         for title, scores in results:
             output_file.write(f"Title: {title}\n")
-            output_file.write(f"Psychological Intensity: {scores['psychological_intensity']}\n")
-            output_file.write(f"Mystery Score: {scores['mystery_score']}\n")
-            output_file.write(f"Supernatural Elements: {scores['supernatural_elements']}\n")
-            output_file.write(f"Deviant Behavior Count: {scores['deviant_behavior_count']}\n")
-            output_file.write(f"Total Score: {scores['total_score']}\n\n")
+            output_file.write(f"Psychological Intensity: {scores['psychological_intensity']:.4f}\n\n")
 
 def main():
     generated_stories_dir = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/generated-stories"

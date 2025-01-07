@@ -1,177 +1,77 @@
 ### Analysis Results for Each File ###
 
 Title: the_heart_of_the_woods.txt
-Psychological Intensity: 0
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 0
+Psychological Intensity: -2.4372
 
 Title: the_last_starlight.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 3
+Psychological Intensity: -0.9916
 
 Title: the_last_symphony.txt
-Psychological Intensity: 2
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 2
+Psychological Intensity: -1.1553
 
 Title: the_lighthouse_keeper's_gift.txt
-Psychological Intensity: 0
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 0
+Psychological Intensity: -1.7319
 
 Title: the_whispering_violin.txt
-Psychological Intensity: 1
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 1
+Psychological Intensity: -2.0058
 
 Title: the_painter_and_the_mysterious_portrait.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 1
-Total Score: 4
+Psychological Intensity: -1.2747
 
 Title: the_clockmaker's_secret.txt
-Psychological Intensity: 1
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 1
+Psychological Intensity: -2.3688
 
 Title: the_forgotten_melody.txt
-Psychological Intensity: 2
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 1
-Total Score: 3
+Psychological Intensity: -0.8439
 
 Title: the_lighthouse_keeper's_secret.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 3
+Psychological Intensity: -1.6176
 
 Title: the_symphony_of_life.txt
-Psychological Intensity: 0
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 0
+Psychological Intensity: -2.2760
 
 Title: the_last_symphony_2.txt
-Psychological Intensity: 7
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 7
+Psychological Intensity: -0.5038
 
 Title: the_magic_of_the_forgotten_forest.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 3
-
-Title: unseen_guardian_2.txt
-Psychological Intensity: 7
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 7
+Psychological Intensity: -1.6806
 
 Title: the_song_of_the_wind.txt
-Psychological Intensity: 0
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 0
+Psychological Intensity: -1.3235
+
+Title: the_enchanted_library.txt
+Psychological Intensity: -2.0804
 
 Title: the_unseen_melody.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 3
-
-Title: enchanted_library.txt
-Psychological Intensity: 1
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 1
+Psychological Intensity: -1.0523
 
 Title: the_unseen_masterpiece.txt
-Psychological Intensity: 5
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 5
+Psychological Intensity: -0.9130
+
+Title: the_unseen_guardian_2.txt
+Psychological Intensity: -0.7150
 
 Title: the_forgotten_diary.txt
-Psychological Intensity: 4
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 4
+Psychological Intensity: -2.0493
 
 Title: the_lost_melody.txt
-Psychological Intensity: 0
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 0
+Psychological Intensity: -1.2780
 
 Title: the_magic_quill.txt
-Psychological Intensity: 5
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 1
-Total Score: 6
+Psychological Intensity: -2.2693
 
 Title: the_enchanted_canvas.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 3
+Psychological Intensity: -1.2427
 
 Title: the_last_dance_of_the_fireflies.txt
-Psychological Intensity: 4
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 4
+Psychological Intensity: -1.0557
 
 Title: the_colors_of_time.txt
-Psychological Intensity: 1
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 1
+Psychological Intensity: -1.4174
 
 Title: the_forgotten_melody_2.txt
-Psychological Intensity: 2
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 2
+Psychological Intensity: -0.9293
 
 Title: the_time_capsule.txt
-Psychological Intensity: 3
-Mystery Score: 0
-Supernatural Elements: 0
-Deviant Behavior Count: 0
-Total Score: 3
+Psychological Intensity: -0.6983
 

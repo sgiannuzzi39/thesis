@@ -12,7 +12,7 @@ def parse_results(file_path):
             lines = file.readlines()
             for line in lines:
                 if line.startswith("Psychological Intensity:"):
-                    score = int(line.split(":")[1].strip())
+                    score = float(line.split(":")[1].strip())
                     scores.append(score)
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
@@ -54,9 +54,9 @@ def main():
     create_boxplot(
         data, 
         labels, 
-        "Psychological Intensity: Generated vs. Human Stories", 
+        "Mystery and Strangeness: Generated vs. Human Stories", 
         "Psychological Intensity", 
-        "psychological_intensity_boxplot.png"
+        "mystery_and_strangeness_boxplot.png"
     )
 
     print("Plot generated and saved!")
