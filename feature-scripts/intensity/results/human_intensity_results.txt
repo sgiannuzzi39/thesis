@@ -1,202 +1,102 @@
-### Intensity Analysis Results for Each File ###
+### Sentiment Analysis Results for Each File ###
 
 Title: Goodbye, My Brother.txt
 High positive sentiment: 10
 High negative sentiment: 7
-Dynamic language count: 1
-Emotive expression count: 0
-Lexical variety score: 0.2
-Total intensity score: 19.97
 
 Title: The Tell-Tale Heart.txt
 High positive sentiment: 10
 High negative sentiment: 4
-Dynamic language count: 1
-Emotive expression count: 0
-Lexical variety score: 0.3
-Total intensity score: 18.01
 
 Title: Mother.txt
 High positive sentiment: 8
 High negative sentiment: 5
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.27
-Total intensity score: 15.7
 
 Title: uncle_wiggly.txt
 High positive sentiment: 22
 High negative sentiment: 12
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.22
-Total intensity score: 36.17
 
 Title: The Aleph.txt
 High positive sentiment: 4
 High negative sentiment: 2
-Dynamic language count: 0
-Emotive expression count: 2
-Lexical variety score: 0.34
-Total intensity score: 11.4
 
 Title: why_don't_you_dance.txt
 High positive sentiment: 3
 High negative sentiment: 2
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.26
-Total intensity score: 7.58
 
 Title: The Gardener.txt
 High positive sentiment: 9
 High negative sentiment: 4
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.3
-Total intensity score: 15.99
 
 Title: How to Tell a True War Story, O'Brien.txt
 High positive sentiment: 15
 High negative sentiment: 7
-Dynamic language count: 1
-Emotive expression count: 1
-Lexical variety score: 0.24
-Total intensity score: 26.42
 
 Title: Big Two-Hearted River.txt
 High positive sentiment: 27
 High negative sentiment: 10
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.16
-Total intensity score: 38.63
 
 Title: indian_uprising.txt
 High positive sentiment: 5
 High negative sentiment: 1
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.4
-Total intensity score: 10.0
 
 Title: midnight_zone.txt
 High positive sentiment: 7
 High negative sentiment: 4
-Dynamic language count: 2
-Emotive expression count: 0
-Lexical variety score: 0.29
-Total intensity score: 15.91
 
 Title: Lost in the Funhouse.txt
 High positive sentiment: 6
 High negative sentiment: 10
-Dynamic language count: 0
-Emotive expression count: 1
-Lexical variety score: 0.26
-Total intensity score: 19.64
 
 Title: The Dead.txt
 High positive sentiment: 72
 High negative sentiment: 21
-Dynamic language count: 2
-Emotive expression count: 0
-Lexical variety score: 0.17
-Total intensity score: 96.72
 
 Title: two_men_arrive.txt
 High positive sentiment: 1
 High negative sentiment: 0
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.34
-Total intensity score: 4.37
 
 Title: Brokeback Mountain.txt
 High positive sentiment: 16
 High negative sentiment: 10
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.22
-Total intensity score: 28.21
 
 Title: Ghoul.txt
 High positive sentiment: 17
 High negative sentiment: 15
-Dynamic language count: 1
-Emotive expression count: 0
-Lexical variety score: 0.23
-Total intensity score: 35.29
 
 Title: who_will_greet_you_at_home.txt
 High positive sentiment: 15
 High negative sentiment: 5
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.25
-Total intensity score: 22.45
 
 Title: yellow_wallpaper.txt
 High positive sentiment: 20
 High negative sentiment: 12
-Dynamic language count: 1
-Emotive expression count: 0
-Lexical variety score: 0.2
-Total intensity score: 34.96
 
 Title: Gooseberries.txt
 High positive sentiment: 20
 High negative sentiment: 2
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.27
-Total intensity score: 24.73
 
 Title: all_summer_in_a_day.txt
 High positive sentiment: 5
 High negative sentiment: 1
-Dynamic language count: 0
-Emotive expression count: 1
-Lexical variety score: 0.32
-Total intensity score: 10.18
 
 Title: Bela.txt
 High positive sentiment: 44
 High negative sentiment: 13
-Dynamic language count: 3
-Emotive expression count: 0
-Lexical variety score: 0.18
-Total intensity score: 61.83
 
 Title: A Temporary Matter.txt
 High positive sentiment: 13
 High negative sentiment: 4
-Dynamic language count: 1
-Emotive expression count: 0
-Lexical variety score: 0.25
-Total intensity score: 20.53
 
 Title: the_overcoat.txt
 High positive sentiment: 17
 High negative sentiment: 9
-Dynamic language count: 1
-Emotive expression count: 0
-Lexical variety score: 0.2
-Total intensity score: 28.96
 
 Title: Sonny's Blues.txt
 High positive sentiment: 34
 High negative sentiment: 18
-Dynamic language count: 0
-Emotive expression count: 0
-Lexical variety score: 0.17
-Total intensity score: 53.66
 
 Title: where_are_you_going_where_have_you_been.txt
 High positive sentiment: 27
 High negative sentiment: 13
-Dynamic language count: 3
-Emotive expression count: 0
-Lexical variety score: 0.19
-Total intensity score: 44.89
 
