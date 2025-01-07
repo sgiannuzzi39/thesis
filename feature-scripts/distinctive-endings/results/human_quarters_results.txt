@@ -1,0 +1,127 @@
+### Analysis Results for Each File ###
+
+Title: Goodbye, My Brother.txt
+Quarter 1 to Quarter 2: WMD = 0.1121
+Quarter 2 to Quarter 3: WMD = 0.1262
+Quarter 3 to Quarter 4: WMD = 0.1209
+
+Title: The Tell-Tale Heart.txt
+Quarter 1 to Quarter 2: WMD = 0.1890
+Quarter 2 to Quarter 3: WMD = 0.1817
+Quarter 3 to Quarter 4: WMD = 0.1441
+
+Title: Mother.txt
+Quarter 1 to Quarter 2: WMD = 0.1999
+Quarter 2 to Quarter 3: WMD = 0.1558
+Quarter 3 to Quarter 4: WMD = 0.1663
+
+Title: uncle_wiggly.txt
+Quarter 1 to Quarter 2: WMD = 0.2941
+Quarter 2 to Quarter 3: WMD = 0.2308
+Quarter 3 to Quarter 4: WMD = 0.2827
+
+Title: The Aleph.txt
+Quarter 1 to Quarter 2: WMD = 0.2009
+Quarter 2 to Quarter 3: WMD = 0.2893
+Quarter 3 to Quarter 4: WMD = 0.1726
+
+Title: why_don't_you_dance.txt
+Quarter 1 to Quarter 2: WMD = 0.2687
+Quarter 2 to Quarter 3: WMD = 0.1686
+Quarter 3 to Quarter 4: WMD = 0.2536
+
+Title: The Gardener.txt
+Quarter 1 to Quarter 2: WMD = 0.1748
+Quarter 2 to Quarter 3: WMD = 0.1422
+Quarter 3 to Quarter 4: WMD = 0.2709
+
+Title: How to Tell a True War Story, O'Brien.txt
+Quarter 1 to Quarter 2: WMD = 0.2341
+Quarter 2 to Quarter 3: WMD = 0.1811
+Quarter 3 to Quarter 4: WMD = 0.2098
+
+Title: Big Two-Hearted River.txt
+Quarter 1 to Quarter 2: WMD = 0.0865
+Quarter 2 to Quarter 3: WMD = 0.1061
+Quarter 3 to Quarter 4: WMD = 0.1547
+
+Title: indian_uprising.txt
+Quarter 1 to Quarter 2: WMD = 0.2042
+Quarter 2 to Quarter 3: WMD = 0.2253
+Quarter 3 to Quarter 4: WMD = 0.2871
+
+Title: midnight_zone.txt
+Quarter 1 to Quarter 2: WMD = 0.2053
+Quarter 2 to Quarter 3: WMD = 0.1855
+Quarter 3 to Quarter 4: WMD = 0.1882
+
+Title: Lost in the Funhouse.txt
+Quarter 1 to Quarter 2: WMD = 0.1769
+Quarter 2 to Quarter 3: WMD = 0.1615
+Quarter 3 to Quarter 4: WMD = 0.1762
+
+Title: The Dead.txt
+Quarter 1 to Quarter 2: WMD = 0.0957
+Quarter 2 to Quarter 3: WMD = 0.1519
+Quarter 3 to Quarter 4: WMD = 0.1959
+
+Title: two_men_arrive.txt
+Quarter 1 to Quarter 2: WMD = 0.3512
+Quarter 2 to Quarter 3: WMD = 0.2292
+Quarter 3 to Quarter 4: WMD = 0.2196
+
+Title: Brokeback Mountain.txt
+Quarter 1 to Quarter 2: WMD = 0.2145
+Quarter 2 to Quarter 3: WMD = 0.1050
+Quarter 3 to Quarter 4: WMD = 0.1365
+
+Title: Ghoul.txt
+Quarter 1 to Quarter 2: WMD = 0.1588
+Quarter 2 to Quarter 3: WMD = 0.1875
+Quarter 3 to Quarter 4: WMD = 0.1106
+
+Title: who_will_greet_you_at_home.txt
+Quarter 1 to Quarter 2: WMD = 0.1620
+Quarter 2 to Quarter 3: WMD = 0.1424
+Quarter 3 to Quarter 4: WMD = 0.2249
+
+Title: yellow_wallpaper.txt
+Quarter 1 to Quarter 2: WMD = 0.1001
+Quarter 2 to Quarter 3: WMD = 0.1064
+Quarter 3 to Quarter 4: WMD = 0.1772
+
+Title: Gooseberries.txt
+Quarter 1 to Quarter 2: WMD = 0.2052
+Quarter 2 to Quarter 3: WMD = 0.1871
+Quarter 3 to Quarter 4: WMD = 0.1166
+
+Title: all_summer_in_a_day.txt
+Quarter 1 to Quarter 2: WMD = 0.2263
+Quarter 2 to Quarter 3: WMD = 0.2609
+Quarter 3 to Quarter 4: WMD = 0.2155
+
+Title: Bela.txt
+Quarter 1 to Quarter 2: WMD = 0.1554
+Quarter 2 to Quarter 3: WMD = 0.1414
+Quarter 3 to Quarter 4: WMD = 0.0925
+
+Title: A Temporary Matter.txt
+Quarter 1 to Quarter 2: WMD = 0.1636
+Quarter 2 to Quarter 3: WMD = 0.1592
+Quarter 3 to Quarter 4: WMD = 0.1553
+
+Title: the_overcoat.txt
+Quarter 1 to Quarter 2: WMD = 0.1103
+Quarter 2 to Quarter 3: WMD = 0.1117
+Quarter 3 to Quarter 4: WMD = 0.0986
+
+Title: Sonny's Blues.txt
+Quarter 1 to Quarter 2: WMD = 0.0997
+Quarter 2 to Quarter 3: WMD = 0.0884
+Quarter 3 to Quarter 4: WMD = 0.1248
+
+Title: where_are_you_going_where_have_you_been.txt
+Quarter 1 to Quarter 2: WMD = 0.2169
+Quarter 2 to Quarter 3: WMD = 0.0833
+Quarter 3 to Quarter 4: WMD = 0.1259
+
