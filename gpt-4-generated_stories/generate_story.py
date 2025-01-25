@@ -37,7 +37,6 @@ def extract_and_format_title(story_text, max_length=50):
     if first_line.lower().startswith("title"):
         first_line = first_line[5:].strip()
     formatted_title = "".join(c if c.isalnum() or c in " _-" else "" for c in first_line).replace(" ", "_")
-    # Limit the length of the title
     return formatted_title[:max_length]
 
 def generate_and_save_story(index):
@@ -67,7 +66,7 @@ def generate_and_save_story(index):
         print(f"Failed to generate the first half of story {index}.")
 
 def main():
-    for i in range(1, 26):  
+    for i in range(1, 12):  
         print(f"Generating story {i}...")
         generate_and_save_story(i)
 
