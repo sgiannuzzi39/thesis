@@ -17,19 +17,14 @@ def analyze_sentiment(file_path):
     blob = TextBlob(text)
     sentences = blob.sentences
 
-    high_positive_sentiment = 0
-    high_negative_sentiment = 0
+    total_absolute_sentiment = 0
 
     for sentence in sentences:
         sentiment = sentence.sentiment.polarity
-        if sentiment > 0.5:
-            high_positive_sentiment += 1
-        elif sentiment < -0.5:
-            high_negative_sentiment += 1
+        total_absolute_sentiment += abs(sentiment)
 
     return {
-        "high_positive_sentiment": high_positive_sentiment,
-        "high_negative_sentiment": high_negative_sentiment,
+        "total_absolute_sentiment": total_absolute_sentiment
     }
 
 def process_sentiment_directory(directory_path, output_file_path):
