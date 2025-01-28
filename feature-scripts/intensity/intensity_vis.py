@@ -6,33 +6,21 @@ human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/intensity
 output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/intensity/results"
 
 def parse_sentiment_results(file_path):
-    high_positive_scores = []
-    high_negative_scores = []
+    absolute_sentiment_scores = []
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
-            high_positive = 0
-            high_negative = 0
 
             for line in lines:
-                if line.startswith("High positive sentiment:"):
+                if line.startswith("Total absolute sentiment:"):
                     try:
-                        high_positive = int(line.split(":")[1].strip())
+                        score = float(line.split(":")[1].strip())
+                        absolute_sentiment_scores.append(score)
                     except ValueError:
-                        print(f"Unable to parse positive sentiment from line: {line}")
-                elif line.startswith("High negative sentiment:"):
-                    try:
-                        high_negative = int(line.split(":")[1].strip())
-                    except ValueError:
-                        print(f"Unable to parse negative sentiment from line: {line}")
-                elif line.strip() == "":  
-                    high_positive_scores.append(high_positive)
-                    high_negative_scores.append(high_negative)
-                    high_positive = 0
-                    high_negative = 0
+                        print(f"Unable to parse absolute sentiment from line: {line}")
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
-    return high_positive_scores, high_negative_scores
+    return absolute_sentiment_scores
 
 def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.figure(figsize=(8, 6))
@@ -57,30 +45,22 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.close()
 
 def main():
-    generated_positive, generated_negative = parse_sentiment_results(generated_results_path)
-    human_positive, human_negative = parse_sentiment_results(human_results_path)
+    generated_absolute = parse_sentiment_results(generated_results_path)
+    human_absolute = parse_sentiment_results(human_results_path)
 
-    if not generated_positive and not human_positive:
+    if not generated_absolute and not human_absolute:
         print("No sentiment scores available to plot.")
         return
 
     create_boxplot(
-        [generated_positive, human_positive],
+        [generated_absolute, human_absolute],
         ["Generated Stories", "Human Stories"],
-        "High Positive Sentiment: Generated vs. Human Stories",
-        "High Positive Sentiment Count",
-        "high_positive_sentiment_boxplot.png"
+        "Total Intensity: Generated vs. Human Stories",
+        "Total Intensity",
+        "total_absolute_sentiment_boxplot.png"
     )
 
-    create_boxplot(
-        [generated_negative, human_negative],
-        ["Generated Stories", "Human Stories"],
-        "High Negative Sentiment: Generated vs. Human Stories",
-        "High Negative Sentiment Count",
-        "high_negative_sentiment_boxplot.png"
-    )
-
-    print("Plots generated and saved!")
+    print("Plot generated and saved!")
 
 if __name__ == "__main__":
     main()
