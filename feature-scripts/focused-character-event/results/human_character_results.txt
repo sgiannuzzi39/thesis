@@ -1,125 +1,1500 @@
-### Focused Character Analysis Results for Each File ###
+### Character Analysis Results for Each File ###
 
-Title: Goodbye, My Brother.txt
-Focused Character Score: 0.0008
-Details: {'Odette', 'Ruth', 'Chaddy', 'Helen', 'Tifty', 'Andromeda', 'Martini', 'Mother', 'Lawrence'}
-
-
-Title: The Tell-Tale Heart.txt
-Focused Character Score: 0.0000
-Details: set()
+Title: Timbuctoo, Maupassant.txt
+Number of Characters: 8
+Characters: ['hot!\'"And', 'Madeleine', 'Bezieres', 'Timbuctoo', 'Turcos', 'ya', 'Africans', 'Chavaharibouhalikranafotapolara']
 
 
-Title: Mother.txt
-Focused Character Score: 0.0005
-Details: {'George', 'George Willard'}
+Title: The Thousand-And-Second Tale of Scheherazade, Poe.txt
+Number of Characters: 7
+Characters: ['Haroun Alraschid', 'Machiavelli', 'Absurd', 'Edgar Allan Poe', 'Scheherazade', 'whiss', 'lal']
 
 
-Title: uncle_wiggly.txt
-Focused Character Score: 0.0019
-Details: {'Lew', 'Jimmy Jimmereeno', 'Mary\nJane', 'Mickey', 'Weyinburg', 'Jimmy', 'Barbara Hill', 'Mary Jane', 'Mommy', 'Akim Tamiroff', 'Grace', 'Miz Wengler', 'Walt'}
+Title: The Soldier_s Peaches, Cloete.txt
+Number of Characters: 31
+Characters: ['Francis Vane', 'Charlie', 'Church Square', 'Boer', 'Bull', 'Joubert', 'Brennen', 'Queen Victoria', 'He"--she', 'Boers', 'George', 'Johnny', 'John Brennen', 'Cecelia Brennen', 'John', 'Jim', 'Kiss', 'Susie', 'Stuart Cloete', 'bush', 'Chaka', 'Klinkie', 'Frantz Joubert', 'kiss', 'Fairburn', 'Vane', 'Bandages', 'De la Rey', 'George Brennen', 'Commandant', 'De Wet']
 
 
-Title: The Aleph.txt
-Focused Character Score: 0.0008
-Details: {'Aleph', 'Zunni', 'Daneri', 'Carlos Argentino', 'Elena Viterbo'}
+Title: Ghoul, Sanders.txt
+Number of Characters: 76
+Characters: ['Bill', 'Frank-a-roo', 'Ann’s', 'Eisenhower', 'Frame', 'Melissa', 'Rolph P. Spengler', 'Rolph', 'Shy Suitor', 'Susan', 'Mom', 'Edgar', 'Lunch', 'Kiko', 'Law', 'Regis', 'Frankie', 'Tom', 'crabs Leonard', 'Gwen', 'Kit Kats', 'Cockney Cook', 'George Saunders', 'Todd Sharpe', 'Gwen Thorsen', 'Regrettable Falsehood', 'Dad', 'Sky', 'Katy Freeze', 'Crap', 'Amy', 'Kitchens', 'Stunners', 'Leonard', 'Stun Brian', 'Décor', 'Kit Kat', 'Tim', 'Gabrielle D. of', 'Bill’s', 'Vat', 'Al', 'Frankenstein', 'Kiss', 'Betty Loomis', 'bobby socks', 'Jim', 'O.K.', 'Shirley', 'Jeez', 'Bret Freeze', 'Jacqueline', 'Squatting Ghouls', 'Randall', 'Carver D.', 'James', 'Torture Racks', 'Spout', 'Death', 'Animatron', 'Ann Frame', 'Feuding Ghouls', 'Ann', 'Bob “Big Bob” French', 'Hence Law 6', 'Ken DiRogini', 'Sweetie', 'Gingerade', 'Dennis', 'Remorseful Demon', 'Gabrielle D.', 'Bri', 'Edgar Spengler', 'Tom Frame', 'Brian', 'Rolph Spengler']
 
 
-Title: why_don't_you_dance.txt
-Focused Character Score: 0.0000
-Details: set()
+Title: A Very Old Man with Enormous Wings, Marquez.txt
+Number of Characters: 6
+Characters: ['Gonzaga', 'Pelayo', 'Gabriel Garcia Marquez', 'Elisenda', 'mush', 'Aramaic']
 
 
-Title: The Gardener.txt
-Focused Character Score: 0.0019
-Details: {'Gallipoli', 'Helen', 'Mummy', 'George', 'Michael', 'Anderson', 'Michael Turrell -', 'Emma', 'Mrs Scarsworth'}
+Title: The Stranger, Mansfield.txt
+Number of Characters: 18
+Characters: ['Scott', 'Lo-ok', 'Hul-lo', 'Katherine Mansfield', 'Thenks', 'Janey', 'Hammond', 'Gaven', 'Jove', 'Said Hammond', 'John', 'Jean', 'Johnson', 'John darling--"\n', 'Jean Scott', 'Arnold', 'Kiss', 'John Hammond']
 
 
-Title: How to Tell a True War Story, O'Brien.txt
-Focused Character Score: 0.0005
-Details: {'Sanders', 'Dave Jensen', 'Rat Kiley'}
+Title: The Sisters, Joyce.txt
+Number of Characters: 10
+Characters: ['Napoleon Bonaparte', 'Flynn', 'Nannie', 'Johnny Rush’s', 'James Joyces', 'R. I. P.', 'James Flynn', 'S. Catherine’s\nChurch', 'James', 'Jack']
 
 
-Title: Big Two-Hearted River.txt
-Focused Character Score: 0.0000
-Details: set()
+Title: Lady with the Dog, Chekhov.txt
+Number of Characters: 19
+Characters: ['Yalta', 'Anna', 'Gurov', 'Anna Sergeyevna', 'Anton Chekhov', 'Anna Ser-\ngeyevna', 'Papa', 'Belyev', 'Anna\nSergeyevna', 'Von Diederitz', 'von Diederitz', 'Geisha', 'Zemstvo', 'Slavyanski Bazaar', 'Dmitri Dmitrich', 'Dmitri', 'Zhizdra', 'Dimitri', 'Dmitri Dmitrich Gurov']
 
 
-Title: indian_uprising.txt
-Focused Character Score: 0.0014
-Details: {'mon cher', 'Gustave Aschenbach', 'Kenneth', 'Sylvia'}
+Title: a_few_normal_things_that_happen_a_lot.txt
+Number of Characters: 4
+Characters: ['Snow White’s', 'Marianna', 'Gwen E. Kirby', 'Headaches']
 
 
-Title: midnight_zone.txt
-Focused Character Score: 0.0002
-Details: {'O.K.'}
+Title: Turkeys Turning The Tables, Howells.txt
+Number of Characters: 4
+Characters: ['ma', 'Queen Victoria', 'William Dean Howells', 'Hubbard']
 
 
-Title: Lost in the Funhouse.txt
-Focused Character Score: 0.0005
-Details: {'Peter', 'Ambrose', 'Magda', 'M', 'Uncle Karl', 'Peter M'}
+Title: Who Will Greet You at Home, Davis.txt
+Number of Characters: 4
+Characters: ['twigs', 'Forbidden', 'Ogechi', 'Yarn']
 
 
-Title: The Dead.txt
-Focused Character Score: 0.0024
-Details: {"Freddy Malins'", 'Bergin', 'Cassidy', 'Miss Daly', 'Conroy', 'Miss\nDaly', 'Gretta', "D'Arcy", "Mary Jane's", 'Aunt Kate', 'Lily', 'Julia', 'Aunt\nKate', 'Dan', 'Caruso', "Bartell D'Arcy", 'Morkan', 'Bessie', 'Connacht', 'Molly', "O'Callaghan", 'Freddy Malins', 'Malins', 'Mary Jane', 'meek', 'Browne', 'Kerrigan', 'Freddy', 'Teddy', 'Gabriel', 'brown satin', "Mary\nJane's", "Miss O'Callaghan", 'Michael Furey', 'Miss Ivors', 'Monkstown', 'Johnny', 'Furlong', 'Healey', 'Aunt Julia', 'Dinorah', 'Kate', 'Amy', 'Julia Morkan', 'Mary Grimes'}
+Title: Beyond the Wall, Bierce.txt
+Number of Characters: 5
+Characters: ['Mohun Dampier', 'Mohan', 'Dampier', 'sum qualis eram', 'Necromantius']
 
 
-Title: two_men_arrive.txt
-Focused Character Score: 0.0000
-Details: set()
+Title: Split Cherry Tree, Stuart.txt
+Number of Characters: 22
+Characters: ['Sexton', 'Glenn Armstrong', 'don', 'breakin', 'Luster', 'Keepin', 'Mom', 'hep', 'Muddy', 'Breakin', 'Ma', 'Seein', 'Ransackin', 'Fred Wutts', 'Herbert', 'Dave', 'Tryin', 'Eif Crabtree', 'Jesse Stuart', 'Varmint', 'Takin', 'Glenn']
 
 
-Title: Brokeback Mountain.txt
-Focused Character Score: 0.0007
-Details: {'Riverton', 'Joe Aguirre', 'Alma Jr.', 'Alma', 'Jesus', 'Linda\nHiggins', 'Jack', 'Francine', 'Jack Twist'}
+Title: The Consul, Davis.txt
+Number of Characters: 30
+Characters: ['Henry twenty-five years', 'Hamilton', 'Gambetta', 'a Rip Van Winkle', 'Dumas', 'Livingstone', 'Porto Banos', 'Majesty', 'Aiken', 'knownGaribaldi', 'Henry', 'Henry Marshall', 'Mary Cairns', 'bashaw', 'Miss Cairns', 'Thesophistryamused Marshall', 'Richard Harding Davis', 'Hanley', 'José', "Abraham Lincoln's", 'Edinburgh Marshall', 'Carlyle', 'Hardy', 'Cairns', 'Adelina Patti', 'Marshall', 'Consul', 'Charles', 'Herbert Livingstone', 'Henry Cairns']
 
 
-Title: Ghoul.txt
-Focused Character Score: 0.0005
-Details: {'Rolph', 'Regis', 'Tom Frame', 'Dad', 'Gabrielle D.'}
+Title: What Christmas Is As We Grow Older, Dickens.txt
+Number of Characters: 6
+Characters: ['Jairus', 'Patriarchs', 'Arise', 'Reader', 'Christmases', 'Charles Dickens']
 
 
-Title: who_will_greet_you_at_home.txt
-Focused Character Score: 0.0000
-Details: set()
+Title: The Boarding House, Joyce.txt
+Number of Characters: 14
+Characters: ['Mooney', 'Bantam Lyons', 'Bob', 'Bass', 'Meade', 'Jack Mooney', 'Mary', 'James Joyce', 'Madam', 'Leonard', 'Londoner', 'Doran', 'Jack', 'Sheridan']
 
 
-Title: yellow_wallpaper.txt
-Focused Character Score: 0.0006
-Details: {'sticketh closer', 'Jane', 'John', 'John’s'}
+Title: some_things_about_typewriters.txt
+Number of Characters: 3
+Characters: ['keys jammed', 'Cindy Hunter Morgan', 'Leroy Anderson’s']
 
 
-Title: Gooseberries.txt
-Focused Character Score: 0.0013
-Details: {'Nicholai Ivanich', 'Pavel Koustantinich', 'Bourkin', 'Aliokhin', 'Pelagueya', 'Ivan Ivanich'}
+Title: The Colonel_s Ideas, Maupassant.txt
+Number of Characters: 7
+Characters: ['Madonna', 'Joan', 'Marseillaise', 'Laporte', 'Jove', 'Marshal MacMahon', 'pell-mell']
 
 
-Title: all_summer_in_a_day.txt
-Focused Character Score: 0.0004
-Details: {'William'}
+Title: conditions_for_growing.txt
+Number of Characters: 3
+Characters: ['Nora', 'Beckie Dashiell', 'Sherry']
 
 
-Title: Bela.txt
-Focused Character Score: 0.0008
-Details: {'Maxim Maximych', 'Kazbich', 'I.\n"Maybe', 'Glad', 'Yakshi', 'Alexei Petrovich', 'Kuban', 'Grigori Alexandrovich', 'Bela', 'Pechorin', 'Kobi', 'Azamat', 'I.', 'Mitka'}
+Title: Waiter, a Bock!, Maupassant.txt
+Number of Characters: 3
+Characters: ['Jean', 'Brennevilles', 'Waiter']
 
 
-Title: A Temporary Matter.txt
-Focused Character Score: 0.0006
-Details: {'Shukumar', 'Shoba', 'Gillian', 'Martini'}
+Title: there_is_no_world.txt
+Number of Characters: 16
+Characters: ['Boni', 'Kristine Ong Muslim', 'Wesley Mapa', 'Alfonso Gato', 'Romina Dansel', 'Dodong Lazarus', 'Boris Spassky’s', 'Jill', 'Karl', 'Wesley', 'Jun Krusnaligas', 'Eddie', 'Emerald Trimmings', 'Anton', 'Stairwell', 'murky greenish']
 
 
-Title: the_overcoat.txt
-Focused Character Score: 0.0002
-Details: {"Karolina Ivanovna's", 'Ivan Abramovitch', 'Petrovitch'}
+Title: i'm_exaggerating.txt
+Number of Characters: 3
+Characters: ['Niko', 'Kate Wisel', 'Janis Joplin']
 
 
-Title: Sonny's Blues.txt
-Focused Character Score: 0.0002
-Details: {'Sonny?""I', 'jazz,"he', 'Sonny', 'hear?""I'}
+Title: The Cats of Ulthar, Lovecraft.txt
+Number of Characters: 5
+Characters: ['Fate', 'Kranon', 'Nith', 'Thul', 'Shang']
 
 
-Title: where_are_you_going_where_have_you_been.txt
-Focused Character Score: 0.0015
-Details: {'Eddie', 'Tillie', 'Bobby\nKing', 'Nancy Pettinger', 'Pettinger', 'Connie', "Don'tcha", 'Betty Schultz', 'Ellie', 'Tony Fitch', 'Charley', 'Jimmy Pettinger', 'Arnold Friend'}
+Title: Bellflower, Maupassant.txt
+Number of Characters: 7
+Characters: ['Sigisbert', 'Grabu', 'Mamma', 'Monsieur Sigisbert', 'Mother Bellflower', 'Monsieur Grabu', "Jean Pila's"]
+
+
+Title: Rikki-Tikki-Tavi, Kipling.txt
+Number of Characters: 23
+Characters: ['Nag', 'Nagaina', 'Valiant Rikki-tikki', 'Rikki-tikki-tavi', 'Tailorbird', "Rikki-tikki's", 'Rikki', 'Alice', 'Darzee', 'Rikki-Tikki-Tavi', 'Ding-dong-tock', 'bush', 'Rikk', 'Rudyard Kipling', 'Segowlee', 'Teddy', 'me?--I', 'Death', 'Rikki-tikki', 'Rikki-tikki-tck-tck', 'Chua', 'Karait', 'Rikki-Tikki-Tavi"At']
+
+
+Title: the_fourth_trimester.txt
+Number of Characters: 3
+Characters: ['Avanti', 'myrrh', 'Debbie Vance']
+
+
+Title: The End of the Party, Greene.txt
+Number of Characters: 17
+Characters: ['Graham Greene', 'Francis Morton', 'Mrs Henne-Falcon', "Peter Morton's", "Francis Morton's", 'Peter Morton', 'Warren', "Colin Henne-Falcon's", 'Mabel Warren', 'Mrs Henne-Falconabsent', 'Francis', "Mrs Henne-Falcon's", 'Mabel', 'buff', 'Peter', 'God', 'Joyce']
+
+
+Title: my_dear_you.txt
+Number of Characters: 12
+Characters: ['Richard', 'hose', 'life”—he', 'Adam’s', 'David Bowie', 'Betsy', 'Jesus', 'ADAM', 'Heidi', 'Adam', 'Rachel Khong', 'mug']
+
+
+Title: possum.txt
+Number of Characters: 2
+Characters: ['Leo', 'Genevieve Hudson']
+
+
+Title: outside_the_raft.txt
+Number of Characters: 16
+Characters: ['Yana', 'Tati', 'Jehovah', 'Clyde', 'Barbie', 'Mike', 'Shawnie', 'Grandma', 'Chris', 'Shawnie Auntie', 'Bonnie', 'Dantiel W. Moniz', 'Bubble', 'Jonah', 'Shayla', 'Tweet']
+
+
+Title: Bela, Lermontov.txt
+Number of Characters: 29
+Characters: ['Grigori Alexandrovich', 'Yakshi', 'Kuban', 'Chains', 'Pechorin', 'Kamenny Brod', 'Maxim Maximych', 'Glad', 'I.', 'Alexei Petrovich', 'Azamat', 'Gamba', 'Kobi', 'Mountains', 'Baidara', 'Bela', 'karagach twigs', 'Shapsugi', 'bush', 'Mikhail Lermontov', 'Mitka', 'Farewell', 'Peter', 'Sweeter', 'I.\n"Maybe', 'bang', 'Prophet', 'Kazbich', 'Krestovaya']
+
+
+Title: The Veteran, Crane.txt
+Number of Characters: 10
+Characters: ['Henry', "Si Conklin's", 'Jim Conklin', 'Stephen Crane\n\nOut', 'Sickles', 'Jimmie', 'Grandpa', 'Fleming', 'Jim', 'Henry warmly']
+
+
+Title: The Tomb, Lovecraft.txt
+Number of Characters: 15
+Characters: ['Jervas Dudley', "J. H.'", 'Betty', 'Anacreon', 'Hydesi', 'Theseus', 'Geoffrey Hyde', 'Hiram', 'Goodman Simpson', 'satin small-clothes', 'Jervas Hyde', 'Squire Brewster', 'Henceforward', 'Hydes', 'silken hose']
+
+
+Title: In the Red Room, Bowles.txt
+Number of Characters: 16
+Characters: ['Gonzag', 'Galleface', 'lianas', 'Justus Gonzag', 'Sonny', 'Sonny\nGonzag', 'Wickramasinghe', 'Sonny Gonzag', 'Paul Bowles', 'Colombo', 'Dodd', 'Bultjens', 'de\nSylva', 'Hannah', 'Weston', 'Buddhas']
+
+
+Title: The Terrible Old Man, Lovecraft.txt
+Number of Characters: 10
+Characters: ['Silva', 'Joe Czanek', 'Angelo Ricci', 'Mate Ellis', 'Peters', 'Ricci', 'Spanish Joe', 'Manuel Silva', 'Jack', 'Czanek']
+
+
+Title: preservation.txt
+Number of Characters: 24
+Characters: ['twigs', 'Annechka', 'Boris', 'Pushkins', 'Marx', 'Caucasian Ovcharka', 'Sergey', 'Zenit', 'Yes”—she laughed—“a big one', 'mug', 'Lenin', 'Moskvich', 'Yurik', 'Valentina', 'Anton Antonovich Saratin', 'Grandfather Frost', 'Kaput', 'Attendance', 'Valentina Nikolaevna', 'Maria Lioutaia', 'stretch marks', 'Katya', 'Saint Basil’s', 'Vladimir Ilyich']
+
+
+Title: The Dowry, Maupassant.txt
+Number of Characters: 6
+Characters: ['Madeleine', 'Henry', 'Vaugirard', 'Jeanne', 'Mademoiselle Jeanne Cordier', 'Mademoiselle Cordier']
+
+
+Title: predator_satiation.txt
+Number of Characters: 4
+Characters: ['Momma', 'Thunderbird High', 'Farah \n\nMomma', 'Nah']
+
+
+Title: The Snows of Kilimanjaro, Hemmingway.txt
+Number of Characters: 40
+Characters: ['Julian', 'Grandfather', 'Cole Porter', 'lorry', 'Versailles', 'Arlberg', 'Marie', 'Bal Musette', 'Tommie', 'Madlener', 'Rimmily Hissa', 'Forks', 'Hans', 'inn', 'Bwana', 'Monte Corono', 'Tristan Tzara', 'Bosphorus', 'Schwarzwald', 'Helen', 'Herr Lent', 'Old Westbury', 'Armour', 'bush', 'Arsiero', 'Barker', 'Café', 'Regence', 'Perticara', 'Roily', 'Williamson', 'Klim', 'Boucherie Chevaline', 'Compton', 'the M. P.’s', 'lombardy poplars', 'Ernest Hemmingway\n\n', 'Bludenz', 'Vorarlberg', 'Harry']
+
+
+Title: An Alpine Divorce, Barr.txt
+Number of Characters: 5
+Characters: ['Bodman', 'An Alpine Divorce', 'Robert Barr', 'John', 'John Bodman']
+
+
+Title: Indiscretion, Maupassant.txt
+Number of Characters: 3
+Characters: ['Monsieur Paul', 'Henriette', 'Paul']
+
+
+Title: Lamb to the Slaughter, Dahl.txt
+Number of Characters: 14
+Characters: ['Charlie', 'Jack Noonan', "Patrick Maloney's", 'Patrick', 'Roald Dahl', 'Mary Maloney', 'Sam', "O'Malley", 'Jack', 'Sergeant Noonan', 'Maloney', 'God', 'Hullo Sam', 'Patrick Maloney']
+
+
+Title: According to Their Lights, Henry.txt
+Number of Characters: 19
+Characters: ['Charlie', 'Dan Pickering', 'O. Henry\n\nSomewhere', 'Gotham', 'Reginald Vanderbilt', 'Finnegan', 'Charlie Finnegan', 'Murray', "O'Shea", 'Mac', 'Jerry', 'Prince Hal', 'Sonny', 'Mike', 'Maroney', 'Bread Line', 'Judas', 'Vanderhurst', 'Malone']
+
+
+Title: The Celebrated Jumping Frog of Calaveras County, Twain.txt
+Number of Characters: 13
+Characters: ['Andrew Jackson', 'Wheeler', 'Mark Twain', 'Gospel', "Leonidas W. H'm", 'Smiley', 'Angel', 'Simon Wheeler', 'Leonidas W. Smiley', "Dan'l Webster", "Smiley kep'", 'Jim Smiley', 'Andrew\nJackson']
+
+
+Title: The Cop and the Anthem, Henry.txt
+Number of Characters: 12
+Characters: ['Sabbath', 'Noisy', 'O. Henry', "Jack Frost's", 'Camembert', 'Mike', 'Soapy', 'Brutus', 'Anthem', 'Law', 'Cop', 'Jack']
+
+
+Title: Marjorie Daw, Aldrich.txt
+Number of Characters: 42
+Characters: ['J. F.4.', 'name?--Tourguenieff', 'Thomas Bailey Aldrich', 'JOHN FLEMMING.Do', 'Miss Marjorie', 'Marjorie', 'J. F.2.', "Frank Livingstone's", 'Rivermouth', 'Stillwater', 'R. W. D.', 'Daw', 'Richard W. Daw', 'E. D.3', 'Fanny', 'Marjorie of Bradly', 'J. F.\nXV', 'Drop', 'Mary', 'JOHN FLEMMIMG', 'Balzac', 'Flemming', 'Miss Daw', 'Fanny Flemming', 'John Flemming', 'Dombey', 'Plucky', 'Marjorie Daw', 'X.\nEDWARD', 'Watkins', 'Roederer', 'Snapt Axle', 'Jack', 'Jonas Delaney', 'Liza', 'Louis Quatorze', 'JOHN FLEMMING.Stay', 'Jove', 'Ned', 'snowy throat', 'Bismillah', 'Edward Delaney']
+
+
+Title: Von Kempelen and His Discovery, Poe.txt
+Number of Characters: 11
+Characters: ['Arago', "Humphrey Davy'", 'Kempelen', 'Gasperitch Lane', 'Edgar Allan Poe', 'Humphrey Davy', 'Lieutenant Maury', 'Kissam', 'Von Kempelen', "Von Kempelen's", 'Quizzem']
+
+
+Title: biblical_proportions.txt
+Number of Characters: 8
+Characters: ['meth head', 'Big Earl', 'Jami Kimbrell', 'Jane Doe', 'Jonah', 'Jane Doe’s', 'Noah', 'Daniel']
+
+
+Title: sisters.txt
+Number of Characters: 33
+Characters: ['Lacey’s', 'Sudafed', 'Needles’s van', 'Duane Reade', 'Nicole', 'Selena', 'Leigh', 'Kyra', 'Jump', 'mouth thick', 'Grass', 'Lacey', 'Ellie', 'Delilah', 'Amina', 'Jonathon Durbin', 'Celia', 'Michelle', 'Needles', 'Val', 'Maya', 'Liza', 'Dawn', 'Zan', 'Marianne', 'Rachel', 'Mallory', 'Aisha', 'Rite Aid', 'Leigh’s', 'Chloe', 'Zyrtec', 'Nathan’s']
+
+
+Title: in_the_exclusion_zone.txt
+Number of Characters: 4
+Characters: ['Mika Taylor', 'kerosene lamps', 'Stalin', 'Hitler']
+
+
+Title: The Sphinx Without a Secret, Wilde.txt
+Number of Characters: 10
+Characters: ['Madeleine', 'Lady Alroy', 'Gioconda', 'Murchison', 'ma belle inconnue', 'Gerald', 'Oscar Wilde', 'Knox', 'Alan Colville', 'Bois']
+
+
+Title: Leiningen Versus the Ants, Stephenson.txt
+Number of Characters: 13
+Characters: ['Dawn', 'Near Leiningen', 'Hood', 'Dante', 'hose', 'bush', 'Pell-mell', 'Scot', 'grey hair', 'Carl Stephenson', 'Macbeth', 'Leiningen', 'Yonder']
+
+
+Title: The Doll_s House, Mansfield.txt
+Number of Characters: 23
+Characters: ['Bush', 'Pat', 'Lena Logan', 'Kelvey', 'Katherine Mansfield', 'Kelveys', 'Hay', 'Lil', 'Sweet', 'Lottie', 'Lecky', 'Jessie May', 'Willie Brent', "Aunt Beryl's", 'Isabel Burnell', 'Pulman', 'Emmie Cole', 'Emmie', 'Aunt Beryl', "Lena Logan's", 'Lena', 'Kezia', 'Pooh']
+
+
+Title: Why Don_t You Dance, Carver.txt
+Number of Characters: 2
+Characters: ['Raymond Carver', 'Jack']
+
+
+Title: ron.txt
+Number of Characters: 35
+Characters: ['Lewis', 'Ron Egglestein', 'Escape', 'Vega', 'Ronaldo', 'Ron Wessell', 'I’m Ron', 'Ron Walden', 'Ron Myers', 'Dante', 'Aaron', 'T. S. Eliot', 'Ronald', 'Hebert', 'Ron Wessell’s', 'Greenwald', 'Ron C.', 'Wasserman', 'Wachowski', 'Ron', 'Ron Cory', 'Egglestein', 'Ron Hebert', 'Sharpied Venn', 'Joy Baglio', 'Ron Svenson', 'Celestron SkyMaster', 'Ron Getty', 'Ron Greenwald', 'Ron Axel Bardacci', 'Ron Wachowski', 'Svenson', 'Ron Bardacci', 'James Joyce’s', 'Carson']
+
+
+Title: Witches_ Loaves, Henry.txt
+Number of Characters: 8
+Characters: ['Witches', 'O. Henry', 'Martha', 'Der', 'Sally Lunns', 'Martha Meacham', 'Blumberger', 'Miss Martha']
+
+
+Title: sea_change.txt
+Number of Characters: 3
+Characters: ['Matia', 'Ziaur', 'Abdus']
+
+
+Title: pity_and_shame.txt
+Number of Characters: 60
+Characters: ['Angus', 'Korah', 'Dickens', 'Pete', 'Robineau', 'Honor', 'Ursula K. Le Guin \n\nHard', 'Van Allen', 'Pete Tonely', 'Miz Tonely', 'William Cowper', '’s Rae Brown', 'Aunt Bessie', 'Koons', 'Ross', 'MacIver', 'Petey', 'Scriptures', 'Bendischer', 'Jeffrey', 'Roy Daid', 'Amy', 'Cooper', 'Keep', 'Ederson', 'Tim', 'Cleo', 'Cowper’s', 'Doc', 'Charles Dickens', 'Peer', 'R.E. Bendischer', 'Whom', '’s William', 'Dorrit', 'Roy', 'Dathan', 'Arthur Clennam', 'William', 'Tonely', 'Doc Mac', 'Rae Brown', 'Marsay', 'Pete’s', 'Hereby', 'Carl Ederson', 'Bingham', 'Girls Rae', 'Miss Rae', 'Miz Brown', 'W. Cowper', 'Cowper', 'Robert Bendischer', 'Gospel', 'Forsaken', 'Carl', 'Grandmother Brown', 'Rae', 'Metcalf', 'Frederick']
+
+
+Title: The Bet, Chekhov.txt
+Number of Characters: 5
+Characters: ['Shakespeare', 'Gospel', 'Gospels', 'Jailer', 'Anton Chekhov']
+
+
+Title: Italian with Grammar, Twain.txt
+Number of Characters: 10
+Characters: ['Verb', 'Mark Twain', 'Florentine', 'Grammar', 'Marimana', 'Sergeant Avere', 'Helm alee', 'Continuous', 'Adam', 'Tu hai un']
+
+
+Title: The Yellow Wallpaper, Gilman.txt
+Number of Characters: 9
+Characters: ['John’s', 'Jane', 'sticketh closer', 'Hurrah', 'Mary', 'Charlotte Perkins Gilman', 'Jennie', 'John', 'Cousin Henry']
+
+
+Title: The Affair at Coulter_s Notch, Bierce.txt
+Number of Characters: 6
+Characters: ['what--', 'Morrison', 'Coulter', 'Barbour', 'Harmon', 'Williams']
+
+
+Title: The Yarkand Manner, Munro.txt
+Number of Characters: 5
+Characters: ['Monte Carlo', 'Salonica', 'H.H. Munro', 'Lulworth Quayne', 'Lulworth']
+
+
+Title: What You Want, Henry.txt
+Number of Characters: 20
+Characters: ['Volumes', 'Tom', 'Tailor', "Clark\nRussell's", 'Barber', 'Bessemer', "James Turner's", 'Rashid', 'Haman', 'Bagdad', 'James Turner', 'James', 'Teddy', 'H. A.', 'Ali Baba', 'Mike', 'O. Henry\n\nNight', 'H. A. Rashid', 'Clark Russell', 'Tom Crowley']
+
+
+Title: The Black Cat, Poe.txt
+Number of Characters: 12
+Characters: ['gore', 'Horror', 'Pluto', 'Edgar Allan Poe', 'Rum', 'Gin', 'slow degrees - degrees', 'theFiendIntemperance-', 'Agony', 'slow degrees', 'Law', 'Rest']
+
+
+Title: Hunters in the Snow, Wolff.txt
+Number of Characters: 16
+Characters: ['Tub', 'Jack Robinson', 'Frank', 'Roxanne\nBrewer', 'Juliet', 'Nancy', 'babysitter', 'Drop', 'Kenny', 'Taht', 'Tobias Wolff\n\nTub', 'Jesus', 'jackknifed', 'Juliet Miller', 'Alice', 'Wherever Tub']
+
+
+Title: All Summer in a Day, Bradbury.txt
+Number of Characters: 3
+Characters: ['Ray Bradbury', 'Venus', 'William']
+
+
+Title: glass_people.txt
+Number of Characters: 3
+Characters: ['Ma', 'Dad', 'Jimi']
+
+
+Title: Pigs Is Pigs, Butler.txt
+Number of Characters: 24
+Characters: ['Morgan', 'St. Patrick', 'Kane', 'N. J. Regarding', 'George', 'Mike Flannery', 'N. J. Please', 'Cava', 'John C. Morehouse', 'Sivin', 'Ellis Parker Butler', 'Gordon', 'Nixt', 'Pigs Franklin', 'Sammy', 'Rooshun', 'wan dang kebbage', "Mike Flannery's", 'Wan', 'Morehouse', 'Misther Morehouse', 'Miss Kane', 'Westcote', 'P. S.']
+
+
+Title: The Wedding-Knell, Hawthorne.txt
+Number of Characters: 5
+Characters: ['Bishop Taylor', 'Ellenwood', 'satin', 'Dabney', 'Nathaniel Hawthorne']
+
+
+Title: Big Two-Hearted River, Hemmingway.txt
+Number of Characters: 8
+Characters: ['Bill', 'Nick\n', 'mosquito', 'Nick', 'Colt', 'Seney', 'Hop', 'Hopkins']
+
+
+Title: Hands, Sherwood.txt
+Number of Characters: 11
+Characters: ['George Willard', 'Wing Biddlebaum', "Wing Biddlebaum's", 'Adolph Myers', "George Willard's", 'Henry Bradford', 'Sympathetically', "Wesley Moyer's", 'Tom Willard', 'Tony Tip', 'Sherwood Anderson']
+
+
+Title: the_monk_dilemma.txt
+Number of Characters: 9
+Characters: ['Barb Havlick', 'Barb', 'Miguel', 'Joan', 'Cameron Stewart', 'Bravo', 'Dickie', 'Jesus', 'Peter']
+
+
+Title: Haircut, Lardner.txt
+Number of Characters: 49
+Characters: ['talkie', 'Gloria Swanson', 'Missus', 'Charley', 'Carterville', 'Dick', 'H. Kendall', 'John Scott', 'outwittin', 'Henry Smith', 'Paul', 'Benton', 'Joe Barnes', 'Doc Gamble', "Doc Stair's", 'Paul Dickson', 'Ralph', 'Ralphie', 'Joe', 'John', 'Julie Gregg', 'Doc', 'Jim', 'Tommy Meighan', 'Scott', 'Charles M. Vail', 'expectin', 'knowin', "Charley Vail's", 'Hod Meyers', 'Doc Stair', 'travelin', 'Ring Lardner\n\nIgot', 'Whitey', 'Milt', 'Milt Sheppard', 'Kendall', 'George Purdy', 'Gloria', "Frank Abbott's", 'Wright', 'borrowin', 'Frank Abbott', 'Jim Kendall', 'Ken Beatty', 'Julie', 'Gregg', 'Adam', 'Hod']
+
+
+Title: Transients in Arcadia, Henry.txt
+Number of Characters: 17
+Characters: ['Count Polinski', 'O. Henry', 'Versailles', 'Mme', 'Mame', 'Harold Farrington', 'Mammoth Store', 'Casey', 'Farrington', 'Mamie Siviter', 'James McManus', "Harold Farrington's", 'McManus', "D'Arcy Beaumont", 'Superfluous', 'Fiske', 'Jimmy']
+
+
+Title: The Diary of a Madman, Maupassant.txt
+Number of Characters: 2
+Characters: ['Prefect', 'Jean']
+
+
+Title: Hearts And Hands, Henry.txt
+Number of Characters: 6
+Characters: ['O. Henry\n\n', 'Fairchild', 'Mamma', 'Leavenworth', 'Marshal', 'Easton']
+
+
+Title: it's_only_been_me_all_this_time.txt
+Number of Characters: 4
+Characters: ['Toni', 'Baby Ruths', 'Fuck', 'Yay']
+
+
+Title: Theodule Sabot_s Confession, Maupassant.txt
+Number of Characters: 12
+Characters: ['Sabot', 'Kneel', 'Easter', 'Mary', 'Christopher', 'The Abbe Maritime', 'Monsieur Sabot', 'Theodule Sabot', 'Abbe Maritime', 'nom de Dieu', 'Rouen', 'Carpenter']
+
+
+Title: regarding_lichen.txt
+Number of Characters: 1
+Characters: ['Isaac Yuen']
+
+
+Title: The Coming of the King, Richards.txt
+Number of Characters: 2
+Characters: ['Laura E. Richards', "Oscar Wilde's"]
+
+
+Title: The Wreck, Maupassant.txt
+Number of Characters: 8
+Characters: ['the Marie Joseph', 'Marie Joseph', 'Richelieu', 'Jean Guiton', 'Kate', 'Georges', 'Georges Garin', 'Rouen']
+
+
+Title: swamps.txt
+Number of Characters: 2
+Characters: ['Ryūnosuke Akutagawa', 'Velvet']
+
+
+Title: the_bug_man.txt
+Number of Characters: 2
+Characters: ['Ma', 'Josh']
+
+
+Title: Shooting an Elephant, Orwell.txt
+Number of Characters: 3
+Characters: ['InMoulmein', 'George Orwell', 'van']
+
+
+Title: The Baron of Grogzwig, Dickens.txt
+Number of Characters: 15
+Characters: ['Von Swillenhausen', 'Grogzwig', 'Von Koëldwethout', 'Nimrod', 'Hem', 'Baroness Von Swillenhausen', 'Koëldwethout', 'Thedamselheld', 'Scolding', 'Charles Dickens', 'Rhine', 'Swillenhausen', 'Gillingwater', 'Baron', 'Grogzwigcoffersran']
+
+
+Title: Princess Mary, Lermontov.txt
+Number of Characters: 42
+Characters: ['Library', 'Walter Scott', "M'sieu Pechorin", 'Mephistopheles', 'Pushkin', 'Spurs', 'Worthy', 'noisy brooks', 'Pechorin', 'thick grey', 'Laughter', 'I.', 'Grushnitsky', 'Mary', 'Waterloo', 'Zheleznaya', 'Ivan Ignatych', 'Elizabeth', 'Reader', 'I.\nGrushnitsky', 'Elizabeth Springs', 'Ligovskaya', 'Semyon Vasilyevich G', 'Triumph', 'Mary\ntold', 'Werner', 'bush', 'Mikhail Lermontov', 'je hais', 'Delicieux', 'Farewell', 'Ivanov', 'Podkumok', 'Vera', 'N. Maxim Maximych', 'Nero', 'Moscovites', 'Kislovodsk', 'I.\n', 'Rayevich', 'Permettez', "Robinson Crusoe's"]
+
+
+Title: the_spoils.txt
+Number of Characters: 12
+Characters: ['Bloomberg', 'Dad', 'Marva', 'gaunt', 'Jesus', 'Stanley', 'Mom', 'Ken Sandbank', 'Soros', 'Hitler Youth', 'Megillah', 'Trevor']
+
+
+Title: Young Goodman Brown, Hawthorne.txt
+Number of Characters: 16
+Characters: ['Goody Cory', 'Sabbath', 'Goody Cloyse', 'Thither', 'Faith', 'Herein', 'Come witch', 'Goodman Brown', 'Lo', 'Deacon Gookin', "Goodman Brown's", 'wolf', 'church bell', 'Martha Carrier', 'Brown', 'Nathaniel Hawthorne']
+
+
+Title: the_superstition_of_albatross.txt
+Number of Characters: 6
+Characters: ['Bad', 'Hound', 'Kerri Finney', 'Greeks', 'Broken', 'Daisy Johnson']
+
+
+Title: Berenice, Poe.txt
+Number of Characters: 7
+Characters: ['gore', 'Secundus Curio', 'Edgar Allan Poe', 'Dei', 'Ebn Zaiat', 'Egaeus', 'Herein']
+
+
+Title: whatever_remains.txt
+Number of Characters: 3
+Characters: ['Tara Isabel Zambrano', 'Maa', 'Papa']
+
+
+Title: Madame Parisse, Maupassant.txt
+Number of Characters: 11
+Characters: ['Monsieur Saribe', 'Monsieur Martini', 'Saint-Michel', 'Saribe', 'Jean de Carmelin', 'Southerner', 'aPaul de Kock', 'M. Martini', 'Gribois', 'Marseilles', 'Trojan']
+
+
+Title: Gooseberries, Chekhov.txt
+Number of Characters: 16
+Characters: ['Aliokhin', "Ivan Ivanich's", 'Mirousky', 'Nicholai Ivanich', 'Tchimbarshov Corner', 'lick', 'Nicholai', 'bush', 'Pavel Koustantinich', 'Pelagueya', 'Aliokin', 'Ivan Ivanich', 'Anton Chekhov', 'Bourkin', 'Hooray', 'Pretty Pelagueya']
+
+
+Title: A Retrieved Reformation, Henry.txt
+Number of Characters: 28
+Characters: ['Socially', 'Annabel', 'Jimmy Valentine', 'Agatha', 'Jimmy', 'May', 'Ben Price', 'Miss Annabel Adams', 'Ralph Spencer', 'O. Henry', 'Ralph', 'Ralph D. Spencer', 'Mike Dolan', 'Adams', "Jimmy Valentine's", 'Polly Simpson', 'James Valentine', 'Valentine', 'Annabel Adams', 'Logansport', 'Billy', 'Dolph Gibson', 'Sullivan', "Dandy Jim Valentine's", 'Ben', "Ben Price's", 'Spencer', 'Mike']
+
+
+Title: the_salesman.txt
+Number of Characters: 1
+Characters: ['Emily Dezurick-Badran']
+
+
+Title: fantasy.txt
+Number of Characters: 4
+Characters: ['Donald Duck', 'Lawrence', 'Råskog', 'Kay']
+
+
+Title: african_violets.txt
+Number of Characters: 1
+Characters: ['Emma Bushnell']
+
+
+Title: The Door in the Wall, Wells.txt
+Number of Characters: 11
+Characters: ['Crawshaw', 'Gurker', 'Wallace', 'Fawcett', 'Gazettestill', 'Lionel Wallace', 'Redmond', 'Hotchkiss', 'H. G. Wells', 'I.\n"', 'Frobisher']
+
+
+Title: Araby, Joyce.txt
+Number of Characters: 12
+Characters: ['Steed', "O'Donovan Rossa", 'Walter Scott', 'James Joyce', 'Freemason', 'Devout Communicant', 'Mangan', 'Araby', 'Farewell', 'Café Chantant', 'Jack', 'Mrs Mercer']
+
+
+Title: A School Story, James.txt
+Number of Characters: 5
+Characters: ['ego veniam ad te', 'Sampson', 'McLeod', 'A.', 'M.R. James']
+
+
+Title: christmas_alligator.txt
+Number of Characters: 3
+Characters: ['Scrabble', 'Valentine’s Day', 'Mandy']
+
+
+Title: Sredni Vashtar, Munro.txt
+Number of Characters: 5
+Characters: ['De Ropp', 'Houdan', 'H.H. Munro', 'Sredni Vashtar', 'Conradin']
+
+
+Title: Where are you going, Where have you been_, Oats.txt
+Number of Characters: 21
+Characters: ['Connie', 'Charley', 'Eddie', 'Nancy Pettinger', 'Tillie', 'Arnold Friend', 'Tony Fitch', 'Bobby\nKing', 'Joyce Carol Oats', 'Pettinger', 'Hornsby', 'Raymond Stanley', 'Ellie', 'ARNOLD FRIEND', 'Jimmy Pettinger', 'Bob Hutter', 'Bobby King', "Don'tcha", "Arnold Friend's", 'Betty Schultz', 'Ellie Oscar']
+
+
+Title: The Sniper, O_Flaherty.txt
+Number of Characters: 1
+Characters: ["Liam O'Flaherty"]
+
+
+Title: Springtime a la Carte, Henry.txt
+Number of Characters: 18
+Characters: ['Shakespeare', 'Walter Franklin', 'Walter', 'Juliet', 'O. Henry', "O.\nHenry's", 'Sarah', 'Lady', 'Easter', 'Percy', 'Spring', 'Flowered', 'Madam', "Farmer Franklin's", 'Lucy Maud Montgomery', 'Gerard', 'Hackett', 'lima beans']
+
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker), Irving.txt
+Number of Characters: 34
+Characters: ['Wolf', 'Peter Vanderdonk', 'a Waterloo Medal', 'D. K."', 'Rip', 'Judith Gardenier', 'Frederick der Rothbart', 'Hendrick Hudson', 'Hudson', 'buff', "Rip Van Winkle's", 'King George', 'Tale', 'Doolittle', 'Knickerbocker', 'Peter Stuyvesant', 'inn', 'Jonathan Doolittle', 'Nicholas Vedder', 'Poor Rip', 'Derrick Van Bummel', 'Dominie Van Shaick', 'uncouth', 'Diedrich Knickerbocker', 'Brom Dutcher', "degrees Rip's", 'Van Bummel', 'Peter', 'Kypphauser', 'Nicholas', 'Rip Van Winkle', 'Hush', 'squirrel shooting', 'Stony Point']
+
+
+Title: Goodbye, My Brother, Cheever.txt
+Number of Characters: 34
+Characters: ['Ruth', 'John Cheever', 'Anna', 'Jenny Lind', 'Edward Chester', 'Jesus', 'Little Jesus', 'Dad', 'Cotton Mather', 'Bette Davis', 'Cassiopeia', 'Anna Ostrovick', 'Dwight MacGregor', 'Talcott', 'Patsy Hewitt', 'Helen', 'Chaddy', 'Auerbach', 'Martini', 'Eric Auerbach', 'Thalassa', 'Henry VIII', 'Lawrence', 'Roosevelt', 'Odette', 'Andromeda', 'Tifty', 'Laud’s Head', 'Gear', 'Diana', 'Lawrence’s', 'Henry Barrett', 'Mother', 'Lew Phillips']
+
+
+Title: cloud_eat_blue_sky.txt
+Number of Characters: 6
+Characters: ['Styrofoam', 'Probably Mandy', 'Granny', 'John Christopher Duncan', 'Clouds', 'Mandy']
+
+
+Title: A True Story, Repeated Word for Word As I Heard It, Twain.txt
+Number of Characters: 17
+Characters: ["Ca'se", 'stan', 'Henry', 'Mark Twain', 'Richmon', 'Shet', 'Aunt Rachel', 'de chile', 'de Norf', 'Git', 'de Lord', 'everywhah', 'Dey', 'Jim', 'Misto C', 'Den', 'De Lord']
+
+
+Title: i_have_her_memories_now.txt
+Number of Characters: 11
+Characters: ['Baby Beluga', 'Marrona', 'Cyndi Lauper', 'Marlie', 'spell hepatocyte', 'Muffin', 'Mother’s', 'Tiny Marlie', 'Mother', 'Carrie Grinstead', 'Marlie O’Hagan']
+
+
+Title: The Christening, Maupassant.txt
+Number of Characters: 4
+Characters: ["L'Assommoir", 'Kerandec', 'Mother Kerandec', 'Breton']
+
+
+Title: how_to_breathe_without_thinking_about_it.txt
+Number of Characters: 5
+Characters: ['Christine Texeira', 'Dad', 'Joe', 'Mom', 'Tim']
+
+
+Title: Gusev, Chekhov.txt
+Number of Characters: 19
+Characters: ['servile mug', 'Gazette', 'Kopeikin', 'Chinaman', 'Anton Chekhov', 'Akulka', 'Pavel Ivanitch half', 'Languidly', 'I.', 'Harkov', 'Pavel Ivanitch’s', 'Petchenyegs', 'Stepan', 'Alexey', 'Pavel Ivanitch', 'Dirka', 'Gusev', 'Jew Isaitchik', 'Domna']
+
+
+Title: Was it Heaven_ Or Hell_, Twain.txt
+Number of Characters: 23
+Characters: ['Loch Lomond', 'Margaret Lester', 'Nancy', 'Hannah', 'Foster', 'God', 'Aunt', 'Mark Twain', 'Aunt Hannah', 'Drop', 'Margaret', 'Kiss', 'Helen', 'Faint', 'Hester Gray', 'Helen Lester', 'Pretty', 'Lester', 'Hester', 'Tilly', 'me?--I', 'Aunt Hester', 'Daily']
+
+
+Title: A Respectable Woman, Chopin.txt
+Number of Characters: 6
+Characters: ['Kate Chopin', 'Baroda', 'Gouvernail', 'ma belle', 'night--', 'Gaston']
+
+
+Title: Two Friends, Maupassant.txt
+Number of Characters: 9
+Characters: ['Mont-Valerien', 'Argenteuil', 'Monsieur Morissot', 'Morissot', 'Colombes', 'Sannois', 'Ile Marante', 'Monsieur Sauvage', 'Dumoulin']
+
+
+Title: Babes in the Jungle, Henry.txt
+Number of Characters: 23
+Characters: ["Willie Manhattan's", 'Morgan', 'O. Henry\n\nMontague Silver', "Andrea del Sarto's", "Helen Gould's", "O'Sullivan", 'Pescud', 'Wiretapper', 'Saint John', 'I.', 'Winnie', 'Jerome', 'Klein', 'Bella', 'S. C.', 'Dewey', 'Silver', 'klein', 'Lawson', 'Billy', 'Peters', 'Chic', 'J. P. Morgan']
+
+
+Title: the_girl_who_did_not_know_fear.txt
+Number of Characters: 13
+Characters: ['Martine', 'Leila', 'Viddy', 'Dido', 'Molly', 'Jie', 'Min Jie', 'Sacher', 'Abby', 'Penny', 'tupelo', 'Sheraton', 'Kate Atkinson']
+
+
+Title: Gentlemen The King!, Barr.txt
+Number of Characters: 11
+Characters: ['Rudolph', 'Count Staumn', 'Steinmetz', 'Alluria', 'Herr Steinmetz', 'Majesty', 'King', 'Robert Barr', 'King Rudolph', 'gaunt', 'Baron']
+
+
+Title: The Drunkard, Maupassant.txt
+Number of Characters: 3
+Characters: ['Paumelle', 'Café', 'Jeremie']
+
+
+Title: The Story of Keesh, London.txt
+Number of Characters: 7
+Characters: ['Bawn', 'Ikeega', 'Massuk', 'Ugh-Gluk', 'Jack London', 'Keesh', 'Bim']
+
+
+Title: The Vendetta, Maupassant.txt
+Number of Characters: 10
+Characters: ['Paolo Saverini', 'Antonia', 'Antoine Saverini', 'Ajaccio', 'Nicolas Ravolati', 'Nicolas', 'Bonifacio', 'Saverini', 'Mother Saverini', 'Semillante']
+
+
+Title: molting.txt
+Number of Characters: 2
+Characters: ['Sarah Marie Kosch', 'Commas']
+
+
+Title: A Vagabond, Maupassant.txt
+Number of Characters: 5
+Characters: ['journeyman carpenter', 'Jacques Randel', 'Vagabond', 'Widow Malet', 'Monsieur le Maire']
+
+
+Title: The Tell-Tale Heart, Poe.txt
+Number of Characters: 5
+Characters: ['Death', 'God!--no', 'Edgar Allan Poe', 'here!--it', 'Evil Eye']
+
+
+Title: Robert Kennedy Saved From Drowning, Barthelme.txt
+Number of Characters: 16
+Characters: ['Hemingway', 'Sidi-Madani', 'Kennedy', 'Arthur M. Schlesinger', 'Kenneth Noland', 'Karsh', 'Pfote', 'Entrepreneur', 'Waiters', 'Affe', 'Paw', 'Donald Barthelme', 'Robert Kennedy', 'Churchill', "John Kennedy's", 'Poulet']
+
+
+Title: An Uncomfortable Bed, Maupassant.txt
+Number of Characters: 0
+Characters: []
+
+
+Title: Man From The South, Dahl.txt
+Number of Characters: 4
+Characters: ['Carlos', 'palm outward', 'Martini', 'dis ting']
+
+
+Title: Mademoiselle Fifi, Maupassant.txt
+Number of Characters: 22
+Characters: ['Baron von Kelweinstein', 'Mademoiselle Fifi\nAuthor', 'Pamela', 'Graf Von Farlsberg', 'Otto', 'Baron von Eyrick', 'Lieutenant von Grossling', 'Mademoiselle Fifi', 'Graf von Farlsberg', 'Fritz', 'Rouen', 'Tomato', 'Comte Fernand', 'Fritz Scheuneberg', 'Lieutenants Otto and', "Abbe Chantavoine's", "Mademoiselle Fifi's", 'Baron Wilhelm', 'Otto von Grossling', 'Rachel', 'Baron van Kelweinstein', "Count Wilhelm d'Eyrick"]
+
+
+Title: The Burial of the Guns, Page.txt
+Number of Characters: 11
+Characters: ['Sabbath', 'Yorktown', 'Thomas Nelson Page', 'Magruder', 'Matthew', 'Harris', 'Lee', 'John', 'Luke', 'Rapidan', 'Mark']
+
+
+Title: coda.txt
+Number of Characters: 2
+Characters: ['Clichés', 'Emily Everett']
+
+
+Title: Jim Baker_s Blue-Jay Yarn, Twain.txt
+Number of Characters: 7
+Characters: ['Mark Twain', "Jim Baker's", 'Baker', 'Jim Baker', 'Yo Semite', 'ﬁrst jay', 'the Yo Semite']
+
+
+Title: The Unrest-Cure, Munro.txt
+Number of Characters: 16
+Characters: ['James Huddle', 'Miss Huddle', 'Clovis', 'Louis Quatorzian', 'Huddle', 'Stanislaus', 'Kilkenny', 'Birberry', 'Telegram', 'Paul Isaacs', 'Alberti', 'H.H. Munro', 'Bishops', 'Leon Birberry', 'J. P. Huddle', 'Gambetta']
+
+
+Title: Mademoiselle Pearl, Maupassant.txt
+Number of Characters: 17
+Characters: ['maid curls', 'Claire', 'Pearl', 'Paul', 'Louise', 'Chantal', 'Mademoiselle Pearl', 'Jacques', 'Uncle', 'Jove', 'Gaston', 'Marie Simonne Claire', 'Marry', 'Pauline', 'blameless hearts', 'M. Chantal', 'Baptiste']
+
+
+Title: The Death Of A Government Clerk, Chekhov.txt
+Number of Characters: 8
+Characters: ['Exc', 'Tchervyakov', 'Aptchee', 'Jove', 'Russian Writers', 'Chekhov', 'Anton Chekhov', 'Ivan Dmitritch Tchervyakov']
+
+
+Title: The Selfish Giant, Wilde.txt
+Number of Characters: 6
+Characters: ['Frost', 'Spring', 'Snow', 'Oscar Wilde', 'Laura E. Richards', 'Fairy Tales']
+
+
+Title: The Child_s Story, Dickens.txt
+Number of Characters: 4
+Characters: ['Charles Dickens', 'Juno', 'Theatres', 'Grandfather']
+
+
+Title: After the Race, Joyce.txt
+Number of Characters: 12
+Characters: ['Cadet\nRoussel', 'Villona', 'Farley', 'James Joyce', 'Andre Riviere', 'Segouin', 'Frenchmen', 'Englishman', 'Doyle', 'Andre', 'Jimmy', 'Charles Segouin']
+
+
+Title: An Affair of State, Maupassant.txt
+Number of Characters: 11
+Characters: ['Hurrah', 'Counselor', 'Send Torcheboeuf', 'Torcheboeuf', 'Celeste', 'Picard', 'Viscountde Varnetot', 'ofSedan', 'Massarel', 'Salmare', 'Napoleon II']
+
+
+Title: The Vertical Fields, Dawson.txt
+Number of Characters: 14
+Characters: ['Birth', 'Billy Berthold', 'Gene', 'Sloan', 'Ed', 'Mary', 'Charles', 'Joseph', 'Reid', "Charles Kean's", 'Emma Jackman', 'Dart', "James Joyce's", 'Lorry']
+
+
+Title: The Storyteller, Munro.txt
+Number of Characters: 7
+Characters: ['bush', 'Bertha', 'Cyril', 'H. H. Munro', 'Saki', 'wolf', 'Storyteller']
+
+
+Title: The Ambitious Guest, Hawthorne.txt
+Number of Characters: 5
+Characters: ['Bartlett', 'toBurlington', 'Esther', 'Lawrence', 'Nathaniel Hawthorne']
+
+
+Title: beautiful_animals.txt
+Number of Characters: 7
+Characters: ['Naomi', 'Forgotten', 'Sam’s', 'Louis Armstrong', 'Sam', 'Jeffrey', 'Lawrence Osborne']
+
+
+Title: The Street That Got Mislaid, Waddington.txt
+Number of Characters: 15
+Characters: ['Flanagan', 'Marc', 'Plonsky', 'Louis', 'Patrick Waddington', 'Bleury', 'Hunter', 'Trusdale', 'Marc Girondin', 'Hazard', 'Jean Desselin', 'Green Bottle\nStreet', 'Michael Flanagan', 'Green Bottle Street', 'Craig']
+
+
+Title: The Shed Chamber, Richards.txt
+Number of Characters: 19
+Characters: ['Richard', 'George Brett', 'Annie', 'George', 'Bowles', 'Lottie', 'Barbara', 'Nora', 'Joe', 'John', 'Rob', 'Sue', 'life!--she', 'Nell', 'Tunkett', 'Brett', 'Billy', 'A. B. C.', 'Laura E. Richards']
+
+
+Title: The Unknown, Maupassant.txt
+Number of Characters: 4
+Characters: ['Jove', 'Gontran', 'Roger des Annettes', 'Solomon']
+
+
+Title: Hills like White Elephants.txt
+Number of Characters: 3
+Characters: ['Ernest Hemmingway', 'Anis', 'Jig']
+
+
+Title: postwar.txt
+Number of Characters: 5
+Characters: ['Los Angles', 'Modelo', 'Alex Webb Wilson', 'Douglas', 'Walter Jr.']
+
+
+Title: ON_AUGUST_EIGHTEENTH_AT_TEN_THIRTY_PM,_ANNIE_OTSUKA_WATCHED_HER_FIRST_JAPANESE_ANIMATED_FILM.txt
+Number of Characters: 5
+Characters: ['Elaine Hsieh Chou', 'Satoshi Kon', 'kawaii', 'Monica Vitti', 'Annie']
+
+
+Title: all_the_sea_in_the_fish.txt
+Number of Characters: 5
+Characters: ['Rob Bockman', 'Rachel', 'Sogbo', 'Rachel’s', 'Sogbo’s']
+
+
+Title: Souls Belated, Wharton.txt
+Number of Characters: 26
+Characters: ['Civis Romanus', 'Monsieur Grossart', 'Pinsent', 'Gannett', 'van', "Lady Susan's", 'chuck', 'Ralph', 'Monte Rosa', 'Lady Susan', 'Edith Wharton', 'Ainger', 'Bradshaw', 'Imustfind', 'Trevenna', 'earl', 'Ganett', 'Cope', 'Drummond', 'Bologna', 'Lady Trevenna', 'Shall', 'Tillotson', 'Grossartisin', 'Lydia', 'Linton']
+
+
+Title: A Temporary Matter, Lahiri.txt
+Number of Characters: 8
+Characters: ['O.K.', 'Martini', 'Gillian', 'Shoba', 'Jhumpa Lahiri', 'Filene’s', 'Shukumar', 'Realtor']
+
+
+Title: Vanka, Chekhov.txt
+Number of Characters: 13
+Characters: ['Grandfather', 'Fedka', 'Sidor', 'Olga Ignatyevna', 'Zhivarev', 'Kashtanka', 'Russian Writers', 'Eel', 'Anton Chekhov', 'Old Kashtanka', 'Ivan Zhukov', 'Pelageya', 'Konstantin Makaritch']
+
+
+Title: Useless Beauty, Maupassant.txt
+Number of Characters: 15
+Characters: ['Bernard Grandin', 'Gabrielle', 'Miss Smith', 'Mascaret', 'Creator', 'Philippe', 'Comtesse Mascaret', 'Grandin', 'Roger de Salnis', 'de Mascaret', 'Jacques', 'Abbe Martin', 'Salnis', 'Bois', 'Jeanne']
+
+
+Title: gretel's_dreams.txt
+Number of Characters: 3
+Characters: ['Maria Adelmann', 'Gretel', 'Beneath Gretel’s']
+
+
+Title: The Shoemaker And The Devil, Chekhov.txt
+Number of Characters: 8
+Characters: ['Beggar', 'Satan Ivanitch', 'Fyodor Pantelyeitch', 'Anton Chekhov', 'Kuzma Lebyodkin', 'kvass', 'Soul', 'Kolokolny Lane']
+
+
+Title: a_guided_tour_of_the_sistine_chapel_ceiling.txt
+Number of Characters: 4
+Characters: ['pun', 'Tom', 'Sandeep', 'Beth']
+
+
+Title: the_other_side_of_the_fence.txt
+Number of Characters: 7
+Characters: ['Crutch', 'Elbow', 'noun', 'V. Adducing', 'Susan Tacent', 'Marty', 'Kindness']
+
+
+Title: my_coworker’s_obituary_photograph.txt
+Number of Characters: 2
+Characters: ['Annie Hartnett', 'George']
+
+
+Title: How I Edited an Agricultural Paper, Twain.txt
+Number of Characters: 3
+Characters: ['Relieve', 'Clams', 'Mark Twain']
+
+
+Title: career_counseling.txt
+Number of Characters: 20
+Characters: ['Aim High', 'Doc Martens', 'Maya Angelou', 'David Bowie', 'Mendozas', 'Luisah Teish', 'Red Zinger', 'Ariel Gore', 'Ntozake Shange', 'Gore', 'Jambalaya', 'Gammie Evelyn', 'Almond Sunset', 'Lehrer Newshour', 'Joe Strummer', 'Jorge Luis Borges', 'Aim', 'Ariel', 'Roberta', 'Curious George']
+
+
+Title: The Unkindest Blow, Munro.txt
+Number of Characters: 5
+Characters: ['Duke', 'bull bison', 'Grandson', 'The Duke of', 'H.H. Munro']
+
+
+Title: she_was_warned.txt
+Number of Characters: 17
+Characters: ['Crabby', 'balsam fir', 'Ovutran', 'Clomid', 'Mínervudottír', 'Leni Zumas', 'Dad', 'Sitka', 'Roberta', 'Fingers', 'Ab', 'Eivør Mínervudottír', 'Jesus', 'Susan', 'Kalbfleisch', 'Kalbfleisch’s', 'Zeus']
+
+
+Title: Politics and the English Language, Orwell.txt
+Number of Characters: 19
+Characters: ['Saxon', 'Comfort', 'Stuart Chase', 'Milton', 'X', 'LANCELOT HOGBEN', 'Shelley', 'Bad', 'Langham Place', 'George Orwell', 'Wrey Gardiner', 'Fascism', 'mutatis mutandis', 'Hogben', 'swan song', 'Basicput', 'Laski', 'HAROLD LASKI', 'Achilles']
+
+
+Title: break.txt
+Number of Characters: 13
+Characters: ['Jake’s', 'Valerie O’Riordan', 'Linda', 'Joey', 'Robby', 'Lady', 'Jesus', 'Francis', '’s Francis', 'Al', 'Ma', 'Jake', 'Johnnie Doe Useless']
+
+
+Title: How the Widow Won the Deacon, Lampton.txt
+Number of Characters: 13
+Characters: ['hooray', 'Kate Stimson', 'Kitty', 'Deacon Hawkins', 'Sister Spicer', 'Sister Clark', 'Maria Cartridge', "Kate Stimson '", 'Sister Green', 'Hooray', 'Susan Spicer', 'William James Lampton', 'Clark']
+
+
+Title: The Devil, Maupassant.txt
+Number of Characters: 9
+Characters: ['Mother Rapet', 'Bontemps', 'Mother Bontemps', 'Host', 'Rapet', 'Eulalie Ratier', 'La Rapet', 'Honore Bontemps', 'Seraphine Grospied']
+
+
+Title: Two Little Soldiers, Maupassant.txt
+Number of Characters: 8
+Characters: ['Chatou', 'Luc Le Ganidec', 'atKermarivan', 'Kerderen', 'Colombes', 'Jean Kerderen', 'Jean', 'Luc']
+
+
+Title: Skeleton Lake An Episode in Camp, Blackwood.txt
+Number of Characters: 10
+Characters: ['Hank', 'Jake the', 'Algernon Blackwood', 'Hank Milligan', 'Skeleton Lake', 'Matt Morris', 'Mister', 'Jake', 'Morris', 'Hank\nMilligan']
+
+
+Title: go_limp.txt
+Number of Characters: 8
+Characters: ['Howie Long Scream', 'Pat', 'Howling Scream', 'Falsetto', 'Baptists', 'James Will Brady', 'Shatters', 'Terrified Wail']
+
+
+Title: I_don't_think_of_you_until_I_do.txt
+Number of Characters: 1
+Characters: ['Tatiana Ryckman']
+
+
+Title: Julie Romain, Maupassant.txt
+Number of Characters: 3
+Characters: ['Monte Carlo', 'Beg', 'Julie Romain']
+
+
+Title: analysis.txt
+Number of Characters: 1
+Characters: ['Katy Rossing']
+
+
+Title: An Encounter, Joyce.txt
+Number of Characters: 17
+Characters: ['Butler', 'Mahony', 'Lytton', 'Halfpenny Marvel', 'Ya', 'Thomas Moore', 'Joe Dillon', 'Walter Scott', 'Ryan', 'Dillon', 'James Joyce', 'Smith', 'Roman History', "Joe Dillon's", 'Leo', 'Murphy', 'josser']
+
+
+Title: The Time Machine, Wells.txt
+Number of Characters: 30
+Characters: ['Southward', 'Filby', 'Fate', "Grant Allen's", 'Battersea', 'Hitherto', 'Swinging', 'Hillyer', 'I.', 'Darwin', 'Traveller', 'Simon Newcomb', 'Lemur', 'Wandsworth', 'Happily', 'Plato', 'Combe Wood', 'Watchett', 'Little Weena', 'Dance', 'Eloi', 'Length', 'Eureka', 'Nebuchadnezzar', 'Richardson', 'Carlyle', 'Weena', 'H. G. Wells', 'I. "Have', 'Hettie Potter']
+
+
+Title: Beware of the Dog, Dahl.txt
+Number of Characters: 6
+Characters: ['Johnny', 'Ill', 'Bluey', 'Peter Williamson', 'Yorky', 'inBagdad']
+
+
+Title: the_big_lemon.txt
+Number of Characters: 2
+Characters: ['The Big Lemon', 'Jim Vockler Whyte']
+
+
+Title: Toine, Maupassant.txt
+Number of Characters: 8
+Characters: ['Toine-', 'inn', 'Normandy', 'Annoyed', 'Cesaire Paumelle', 'Celestin Maloisel', 'Horslaville', 'Prosper Horslaville']
+
+
+Title: irreversible.txt
+Number of Characters: 2
+Characters: ['Mary Kate McGrath', 'Allison']
+
+
+Title: mendelssohn.txt
+Number of Characters: 35
+Characters: ['Stewart', 'Ronson', 'Nowak', 'Lambert', 'Oldberry', 'mug Olive', 'Mom', 'Felix Mendelssohn’s', 'Ollie', 'Conklin', 'Ours', 'Mendelssohn', 'Beyond Castle Wolfenstein', 'Dad', 'Pat Drexler', 'Drexler', 'de bois', 'Velmer', 'Rubio', 'Jethro Tull', 'Andy', 'Butler', 'Seth Fried', 'Wallace', 'hose', 'mush', 'Johnson', 'P. G. Wodehouse', 'Davis', 'kitty litter', 'Emory', 'Stephen', 'Boudin', 'Bags', 'Futz']
+
+
+Title: jerry.txt
+Number of Characters: 4
+Characters: ['Rubik’s Cubes', 'Jerry', 'Miles Greaves', 'Jerry’s']
+
+
+Title: The Disappearance of Crispina Umberleigh,Munro.txt
+Number of Characters: 8
+Characters: ['Crispina Umberleigh', 'Louvre', 'Balkanward', 'Belgrad', 'Teuton', 'Umberleigh', 'H.H. Munro', 'Edward Umberleigh']
+
+
+Title: The School, Barthelme.txt
+Number of Characters: 11
+Characters: ['Murdoch', 'Tony', 'Tony Mavrogordo', 'Billy Brandt', 'Matthew Wein', 'Kim', 'Matthew', 'Edgar', 'Donald Barthelme', 'Nice Edgar', 'Helen']
+
+
+Title: How the Leopard Got His Spots, Kipling.txt
+Number of Characters: 12
+Characters: ['Baviaan', 'Bush', 'Koodoo', 'Said Leopard', 'Flora', 'Said', 'Leopard', 'Rudyard Kipling', 'Quagga', 'Zebra', 'Fauna', 'Giraffe']
+
+
+Title: he_trying_to_say_something_and_couldn't_get_it_out.txt
+Number of Characters: 2
+Characters: ['Kaj Tanaka', 'Dad']
+
+
+Title: His Wife_s Deceased Sister, Stockton.txt
+Number of Characters: 9
+Characters: ['Frank Stockton', 'John Darmstadt', 'Hypatia', 'I.', 'Barbel', 'Gibson', "Suppose Raphael's", 'Morris Moore', 'Trovatore']
+
+
+Title: the_fully-conducted_tour.txt
+Number of Characters: 7
+Characters: ['Emma', 'Il Principe', 'Robert Aickman', 'Richard Coeur de Lion', 'Juno', 'Jane Austen', 'Dusk']
+
+
+Title: the_boathouse.txt
+Number of Characters: 7
+Characters: ['Henry', 'Bird', 'don', 'Robinson Crusoe', 'Henry’s', 'Henry mutters', 'Willy']
+
+
+Title: The Velveteen Rabbit, Williams.txt
+Number of Characters: 7
+Characters: ['Fairy', 'Hurrah', 'Bunny', "Aleksandr Kuprin's", 'Boy', 'Skin Horse', 'Margery Williams']
+
+
+Title: network.txt
+Number of Characters: 1
+Characters: ['Jake Rawdin']
+
+
+Title: bad_luck_meditation.txt
+Number of Characters: 7
+Characters: ['Mary Poppins', 'R. Daniel Foster', 'Good Luck People', 'Bad Luck People', 'Good Luck Guy', 'Good Luck', 'Steve']
+
+
+Title: sink_monkey.txt
+Number of Characters: 5
+Characters: ['Alyssa Proujansky', 'Sink Monkey', 'Sink Monkey’s', 'Ethan', 'Mandy']
+
+
+Title: the_huntress.txt
+Number of Characters: 0
+Characters: []
+
+
+Title: The Whirligig of Life, Henry.txt
+Number of Characters: 13
+Characters: ['Ariela', 'Ranse', 'Ariela Bilbro', 'Benaja Widdup', 'Le', 'Ed', 'Ransie Bilbro', 'O. Henry\n\nJustice', 'Aricla', "Uncle Ziah's", 'Ransie', 'Herein', 'Followin']
+
+
+Title: new_fruit.txt
+Number of Characters: 17
+Characters: ['Feng', 'Carina Wei’s', 'Lao Zhou', 'Fan Shiyi’s', 'Zhu Ayi', 'Te-Ping Chen', 'Carina Wei', 'Sunshan', 'Sunshan Produce', 'SUNSHAN PRODUCE', 'Fan Shiyi', 'knelt', 'Pang Ayi', 'Sun', 'Pang Ayi’s', 'baggy gauze', 'Lao Song']
+
+
+Title: The Aleph, Borges.txt
+Number of Characters: 49
+Characters: ['Down', 'Mariana Cambaceres de Alvear', 'Paul Fort', 'Merlin’s', 'Zungri', 'Lucian', 'Adrogué', 'Ezekiel', 'Goldoni', 'Pedro Henríquez Ureña', 'Tariq ibn-Ziyad', 'Álvaro', 'Philemon Holland', 'Mohammed', 'autour de ma', 'Querétaro', 'Zunni', 'Elena Viterbo', 'Carlos', 'Beatriz Viterbo', 'Carlos Argentino Daneri', 'Aita', 'Carlos Argentino’s', 'Odyssey', 'Carlos Argentino’s feet', 'Third Prize', 'Carlos Argentino', 'Amr', 'Burton', 'Jorge Luis Borges', 'Michael Drayton', 'Aleph', 'Works', 'San Martín', 'Iskander Zu al-Karnayn', 'Alexander Bicornis', 'Viterbo', 'ibn-Khaldun', 'Buenos Aires', 'Carlos\nArgentino Daneri', 'Zunni’s', 'Álvaro Melián\nLafinur', 'Roberto Alessandri', 'Villegas Haedo', 'bison', 'Kai Kosru', 'Tacuarí', 'Daneri', 'Mario Bonfanti']
+
+
+Title: The School of English, Mantel.txt
+Number of Characters: 22
+Characters: ['Hilary Mantel', 'Jonquil', 'Mr Maddox', 'Lady Sophie', 'grey marl torso', 'Wiltshire', 'Maddox', 'Desmond Maddox', 'Robber', 'Marcella', 'Marcella’s feet', 'bush', 'St John’s Wood', 'uncouth', 'Soon', 'Needles', 'Desmond', 'Joshua', 'Moron', 'Mike', 'Lady', 'Vacuum']
+
+
+Title: A Vine on a House, Bierce.txt
+Number of Characters: 6
+Characters: ['J. Gruber', 'Robert Harding', 'Hyatt', 'Gruber', 'Julia Went', 'Harding']
+
+
+Title: The Strangers That Came to Town, Flack.txt
+Number of Characters: 27
+Characters: ['David', 'Abraham Lincoln', 'Thomas Jefferson', 'George Washington', 'Nathan Duvitch', 'Kinsella', 'Miller', 'Benny', 'Tom', 'Manny Duvitch', 'Sophia', 'Lovejoy', 'Manny', 'Abe', 'Nathan', 'Andy', 'Maria Duvitch', 'Esther', 'Mamma', 'Duvitches', 'Kasimar', 'Frithjof Kinsella', 'Dawn', 'Switzer', 'Durston', 'Mother', 'Duvitch']
+
+
+Title: tacky_goblin.txt
+Number of Characters: 5
+Characters: ['Laurie', 'Tacky Goblin\n', 'Kim', 'Dude', 'T. Sean Steele']
+
+
+Title: inauguration.txt
+Number of Characters: 1
+Characters: ['Jordan Castro']
+
+
+Title: How to Tell a True War Story, Hemmingway.txt
+Number of Characters: 18
+Characters: ['gore', 'Kiley', 'Stink Harris', 'jack', 'Mitchell Sanders', 'Quang Ngai', 'Sanders', 'bush', 'Dave Jensen', 'Lemon', 'Jesus Christ', 'Kiowa', 'Bob Kiley', 'Curt Lemon', 'Norman Bowker', 'Tim O’Brien', 'Rat Kiley', 'Willie Peter']
+
+
+Title: The Schartz-Metterklume Method, Munro.txt
+Number of Characters: 8
+Characters: ['Canon Teep', 'Claude', 'Quabarl', 'Irene', 'Hope', 'Teep', 'H.H. Munro', 'Lady Carlotta']
+
+
+Title: The Donkey, Maupassant.txt
+Number of Characters: 9
+Characters: ['Jules', 'Labouise', 'Macquart', 'bush', 'Joinville', 'Saint- Germain', 'jerky gallop', 'snowy white', 'Maillochon']
+
+
+Title: A Telephone Call, Parker.txt
+Number of Characters: 4
+Characters: ['Jesus Christ', 'Knobby', 'Son', 'Dorothy Parker']
+
+
+Title: hungarian_sprats.txt
+Number of Characters: 7
+Characters: ['Otto', 'Dambski', 'Klementyna Hoffmanowa', 'jack-in-the-box', 'King Augustus', 'artichoke hearts', 'Baron']
+
+
+Title: a_syrian_winter.txt
+Number of Characters: 6
+Characters: ['laurel trees', 'grey hair', 'Alexander Khansa', 'Grandpa', 'Maher', 'Abdalla']
+
+
+Title: A Sound of Thunder, Bradbury.txt
+Number of Characters: 17
+Characters: ['Ray Bradbury', 'Time Safari', 'Keith', 'Safari', 'Path', 'Safari Guide', 'Lesperance', 'Alexander', 'Adam', 'Elizabeth', 'iris', 'Kramer', 'Safari Heads', 'Eckels', 'Deutscher', 'Billings', 'Travis']
+
+
+Title: The Egg, Anderson.txt
+Number of Characters: 13
+Characters: ['Bidlow', 'Afire', 'Garfield', 'Joe Kane', "Frank Stockton's", 'Griggs', 'Christopher Columbus', "Joe Kane's", 'Anderson\n\n\n\n', 'Joe', "Ben Head's", 'Thomas Butterworth', 'Albert Griggs']
+
+
+Title: picnic.txt
+Number of Characters: 7
+Characters: ['Uncle Rob', 'Paul', 'Mike', 'Renee', 'Julie', 'Shawn Campbell', 'Hat Rock']
+
+
+Title: abyssal_gigantism.txt
+Number of Characters: 15
+Characters: ['Tons', 'James Bond VHS', 'Pierce Brosnan', 'Natasha', 'Albert', 'Kevin Costner', 'Maria', 'Add Trevor', 'Ruby', 'Breakfast', 'Little Albert', 'Maria’s', 'Lloyd', 'Saliha', 'Trevor']
+
+
+Title: The Elephant_s Child, Kipling.txt
+Number of Characters: 10
+Characters: ['Graham', 'Jack Robinson', 'Kolokolo Bird', 'Kimberley', 'bush', 'Ostrich', 'Rudyard Kipling', 'Hippopotamus', 'Andhe', 'a Bi-Coloured-Python-Rock-Snake']
+
+
+Title: The Coming-Out of Maggie, Henry.txt
+Number of Characters: 25
+Characters: ['Anna', "O'Sullivan", 'Rosa', 'Dempsey Donovan', 'Rose Cassidy', 'Jimmy', 'O. Henry\n\n', 'William McMahan', "Dempsey Donovan's", 'Andy', "Pipe Mag's", 'Maggie Toole', 'Andy Geoghan', 'Tony Spinelli', 'Niagara', 'Chuck', 'Dempsey', "Terry O'Sullivan", 'Jimmy Burns', 'Demps Donovan', 'Beau Brummel', 'Maggie', 'Mag', 'Rhinegold', 'Anna McCarty']
+
+
+Title: origami.txt
+Number of Characters: 3
+Characters: ['Mommy', 'Sabrina Helen Li', 'Hush']
+
+
+Title: The Cask of Amontillado, Poe.txt
+Number of Characters: 4
+Characters: ['Edgar Allan Poe', 'Sherry', 'Luchresi', 'Amontillado']
+
+
+Title: Game, Barthleme.txt
+Number of Characters: 6
+Characters: ['Lucy', 'Brahms', 'Nacht', 'Shotwell', 'Sometimes Shotwell', 'Donald Barthelme\n\nShotwell']
+
+
+Title: Afterward, Wharton.txt
+Number of Characters: 28
+Characters: ['Alida Stair', "Mary Boyne's", 'Horror', 'Dockett', 'Mary Boyne', 'Ned Boyne', 'Boyne', 'thebanterof the other', 'Mary', 'Edith Wharton', 'Stair', 'Bob Elwell', 'Dorchester', 'Alida', 'Trimmle', 'Meldon', 'Elwell', 'Madam', 'Meldon Steep', 'Parvis', 'Americansperverselyin', 'Edward Boyne', 'Death', 'Peters', 'Dorsetshire', 'Ned', 'Robert Elwell', "Bob Elwell's"]
+
+
+Title: Keeping Watch, Jacobs.txt
+Number of Characters: 16
+Characters: ['Minnie Miller', 'Butt', 'W. W. Jacobs', 'Bill', 'Nasty', "D'ye", "Cap'n Butt", 'Shall', 'Winnie', 'John Street', 'Nice', 'Alfred', 'Joe', 'untidy cook', 'Keeping Watch', 'Mile End Road']
+
+
+Title: That Pig of a Morin, Maupassant.txt
+Number of Characters: 10
+Characters: ['Monsieur Belloncle', 'Rivet', 'Henriette', 'Fousserre', 'Jove', 'Mademoiselle Henriette Bonnel', 'Henriette Bonnel', 'Labarbe', 'Danton', 'notDantonwho']
+
+
+Title: the_game.txt
+Number of Characters: 1
+Characters: ['Rachel Heng']
+
+
+Title: Girl, Henry.txt
+Number of Characters: 12
+Characters: ['Billy', 'McComus', 'Percherons', 'O. Henry\n\n', 'Hartley', 'Saxon', 'Hloise', 'Vivienne Arlington', 'Robbins', 'Mamma', 'Montgomery', 'Vivienne']
+
+
+Title: scan.txt
+Number of Characters: 7
+Characters: ['Richard Nixon', 'Claire Underwood', 'Francis', 'Sammy', 'Laurie Stone', 'Nixon', 'Sammy Davis Jr.']
+
+
+Title: The Dreamer, Munro.txt
+Number of Characters: 7
+Characters: ['Ruth', 'Adela Chemping', 'Dreamer', 'H.H. Munro', 'Ruth Colson', 'Adela', 'Chemping']
+
+
+Title: How Santa Claus Came to Simpson_s Bar, Harte.txt
+Number of Characters: 43
+Characters: ['Richard Bullen', 'Bill', 'Hamlin', 'Richard', 'Staples', 'Smiley', 'Jovita', 'Ye', 'Bullen', 'Sandy Claws', 'Dick', 'Jim Smiley - -', 'Joe Dimmick', 'Johnny', 'Bettin', 'Grangers', 'Simpson', 'mar', 'Bret Harte', 'McFadden', 'Whereupon Dick', 'Jim', 'Chrismiss', 'Whar', 'Old Man', 'Sandy Claus', "Dick Bullen's", 'Jack', 'Hevin', 'jest passin', 'Sing', 'Thet', 'Sonny', 'Dick Bullen', 'Thar', 'Santa Claus', 'Jack Simpson', 'Tomorrer', 'Hush', 'Rattlesnake Creek', 'Reckon', 'Rattlesnake Hill', 'Tom Flynn']
+
+
+Title: Jimmy Scarecrow_s Christmas, Freeman.txt
+Number of Characters: 13
+Characters: ['Betsey', "Santa Claus'", 'Mary E. Wilkins', 'Aunt Hannah', 'Santa Claus', "Aunt Hannah's", "Jimmy Scarecrow's", 'Susan', "Nathaniel Hawthorne's", 'Freeman', 'John', 'Jimmy Scarecrow', 'Jimmy']
+
+
+Title: The Enchanted Bluff, Cather.txt
+Number of Characters: 20
+Characters: ['Tommy', 'Bill', 'Ott', 'Bert', 'Uncle Bill', 'Nature', 'Otto', "Spanish Fanny's", 'Tip Smith', 'Percy Pound', 'Sandtown', 'Fritz', 'Otto Hassler', "Nathaniel Hawthorne's", 'Aztecs', 'Bluff', 'Arthur Adams', 'Arthur', 'Percy', 'Smith']
+
+
+Title: The Darling, Chekhov.txt
+Number of Characters: 16
+Characters: ['Plemyanniakov', 'Vladimir Platonitch', 'Towards Lent', 'Vassitchka', 'Olga Semyonovna', 'Olenka', 'Vassily Andreitch', 'Sasha', 'chubby', 'Kukin', 'Mamma', 'Harkov', 'Mrr', 'Babakayev', 'Pustovalov', 'Anton Chekhov\n\nOlenka']
+
+
+Title: rescue.txt
+Number of Characters: 33
+Characters: ['Pete', 'Miskos', 'Bert', 'Amy Price', 'Jesse Leroy', 'Alex', 'Lisa', 'Jesse', 'Jane Ripton', 'Abigail Bronkowski', 'Jesse’s', 'Amy', 'Brenda Leroy', 'Bert Misko', 'Scott', 'Odyssey', 'Carol', 'Brenda', 'Brenda Leroy’s', 'Penny Misko', 'Tipton Lane', 'Penny', 'Carol Li', 'Bert Misko’s', 'Fred Miller', 'Lisa Miller', 'Brenda’s minutes', 'Scott Hernandez', 'Alex Ripton', 'Dementia', 'Sarah Hughes', 'Bert’s', 'Pete Geary']
+
+
+Title: jean_wants.txt
+Number of Characters: 9
+Characters: ['Bob', 'Mike', 'Terry', 'Jenna', 'Jeans', 'Jenna’s', 'Jean Wants', 'Jean', 'Alyse Wexler']
+
+
+Title: alien_hunters.txt
+Number of Characters: 6
+Characters: ['Alma', 'Dad', 'Mom', 'Dylan Brown', 'Evan', 'Gabriel']
+
+
+Title: In The Ravine, Chekhov.txt
+Number of Characters: 42
+Characters: ['Elizarov', 'Yegoryevsky', 'Nikifor Anisimitch', 'Hrymin Juniors', 'Varvara\nNikolaevna', 'Stepanida', 'Varvara', 'Grigory Petrovitch\nTsybukin', 'Anton Chekhov', 'Bricks', 'God', 'gaunt', 'Guntorev', 'Anisim Tsybukin', 'Anisim Grigoritch', 'Ivan Yegorov', 'Tsybukins', 'Lipinka', 'Epifan', 'Stepan', 'Dmitri Filatitch', 'Varvara Nikolaevna', 'Sofya Nikiforovna', 'Kazanskoe', 'Tsybukin', "Grigory Petrovitch's", 'Don', 'Grigory Petrovitch', 'Kostukov', 'Makaritch', 'Nikifor', 'Ilya Makaritch', 'Lipa', 'Praskovya', 'Crutch', 'Beggars', 'Saint Joseph', 'Vassily Danilitch', 'Ho-ho-ho', 'Hrymins', 'Hush', 'Samorodov']
+
+
+Title: An Occurrence at Owl Creek Bridge, Bierce.txt
+Number of Characters: 5
+Characters: ['Keen', 'Peyton Farquhar', 'Farquhar', 'Niagara', 'Aim']
+
+
+Title: dance_dance_revolution.txt
+Number of Characters: 7
+Characters: ['Dad', 'Clara', 'Bushmaster', 'Nick', 'Ben Jahn', 'Hunter', 'Fritz']
+
+
+Title: What Occurred at Franklin, Bierce.txt
+Number of Characters: 15
+Characters: ['Hood', 'P. Sidney Post', 'I. Howbeit', 'Wagner', 'Harpeth', 'Stanley', 'Cleburne', 'D. S. Stanley', 'Dawson', 'Schofield', 'Thomas', 'Adams', 'Emerson Opdycke', 'circumstance!--it', 'Forrest']
+
+
+Title: uncle_ray_intercedes_for_us.txt
+Number of Characters: 4
+Characters: ['Uncle Ray', 'Jody Kennedy', 'Uncle Ray Intercedes', 'Aunt Ida’s']
+
+
+Title: To Build a Fire, London.txt
+Number of Characters: 5
+Characters: ['Bud', 'Sulphur Creek', 'twigs', 'Dyea', 'Jack London\n\nDay']
+
+
+Title: postcards.txt
+Number of Characters: 11
+Characters: ['Dad', 'Westminster Abbey', 'Margaret', 'Cheyenne Autry\n\nJosie', 'Anne Boleyn', 'Mel', 'Mom', 'Grandpa', 'Anne Boleyn’s', 'Mark', 'Anne']
+
+
+Title: The Wind_s Tale, Andersen.txt
+Number of Characters: 22
+Characters: ['Ové Ramel', 'Anna Dorothea', "Marsk Stig's", 'Herr Daa', 'Borreby Hall', 'Hans Christian Andersen', 'squirrel skins', 'Smidstrup Heath', 'Noah', 'Barn', 'Dean', 'Belt', 'Dorothea', 'Herr Ové', 'Little Ida', 'Caw', 'Broken', 'Sister Ida', 'Waldemar Daa', 'Ida', 'Johanna', "Anna Dorothea's"]
+
+
+Title: Hermann The Irascible, Munro.txt
+Number of Characters: 9
+Characters: ['Bill', 'Hermann', 'Wise', 'H.H. Munro', 'King', 'Nelson', 'Trafalgar', 'Suffragettes', 'Metropolis']
+
+
+Title: l'heure_bleue.txt
+Number of Characters: 5
+Characters: ['Ryo', 'Kari', "L'Heure Bleue", 'Susanne Lee', 'yu dan']
+
+
+Title: saturday_night_special.txt
+Number of Characters: 31
+Characters: ['Old Soldier', 'Gentile', 'Gullah', 'George Washington', 'Scotch Irish', 'Goliath', 'Ezekiel', 'Dracula', 'Gohegan', 'Valene', 'Horatio Applewood', 'Paulson', 'Goliath McCullough', 'Applewood', 'Zekie Boy', 'Ezekiel Applewood', 'Gohegan Man', 'Goliath McCullough’s', 'Hepplewhite', 'Sarah Applewood’s', 'Zeke', 'Bela Lugosi', 'Death', 'Geechee', 'Sarah', 'Zekie', 'Horatio', 'Gohegan Man’s Christian', 'Noah Baranski', 'Gohegan Man’s', 'Sarah Applewood']
+
+
+Title: honest_open_willing.txt
+Number of Characters: 6
+Characters: ['Shelley', 'Nicole Simonsen', 'Halloweens', 'Al-Anon', 'Christmases', 'Nelson']
+
+
+Title: The Thorny Road of Honor, Andersen.txt
+Number of Characters: 11
+Characters: ['Thorny', 'Richelieu', 'Joan', 'Hans Christian Andersen', 'Tycho Brahe', 'Griffenfeldt', 'Robert Fulton', 'Thrice', 'Solomon de Cares', 'Camoens', 'Danish Prometheus']
+
+
+Title: Humiliation, Maupassant.txt
+Number of Characters: 11
+Characters: ['Rose', 'Peter Courtin', 'Mlle Simone', 'Simone', 'Henry IV', 'Lady Ryswell', 'John Nicholas\nLecapet', 'Mlle Marguerite', 'Said', 'Francis Pingau', 'Marguerite']
+
+
+Title: The Way to the Dairy, Munro.txt
+Number of Characters: 13
+Characters: ['Brimley Bomefields', 'Monte Carlo', 'Clovis', 'Roger knowingly', 'Roger', 'Recourse', 'Dairy', 'H.H. Munro', 'Monte\nCarlo', 'Bertie van Tahn', 'Dieppe', 'Waiter', 'Bertie']
+
+
+Title: perspective.txt
+Number of Characters: 4
+Characters: ['Grandpa', 'Spiderwoman', 'Robin Littell', 'Matt']
+
+
+Title: escape_plans.txt
+Number of Characters: 1
+Characters: ['Rebecca Fishow']
+
+
+Title: natural_order.txt
+Number of Characters: 2
+Characters: ['Elin Hawkinson', 'Eve']
+
+
+Title: with_gun.txt
+Number of Characters: 3
+Characters: ['Twitter', 'Snapchat', 'Shannon McLeod']
+
+
+Title: the_righting_reflex.txt
+Number of Characters: 2
+Characters: ['Gail', 'Max Berwald']
+
+
+Title: Brokeback Mountain, Proulx.txt
+Number of Characters: 43
+Characters: ['Bill', 'Thresher', 'Don Wroe’s', 'heifers', 'Joe Aguirre', 'Higgins', 'Elwood Hi-Top', 'hurtin', 'Strawberry Roan', 'Carl Perkins', 'Granites', 'Jesus', 'John C. Twist', 'Jack Twist’s', 'Jack’s jaw', 'Alma Jr.', 'Francine', 'Harold', 'Riverton', 'Rattlesnakes', 'Dad', 'Aguirre', 'Gallatins', 'Dead Horse Road', 'Drop', 'Jack Twist', 'Jack\nNasty', 'Lureen', 'dick-clipped', 'Jack\nTwist', 'Jesus Christ', 'K.E.', 'travelin', 'Linda\nHiggins', 'Fuckin', 'Jesus H.', 'Jack', 'Earl', 'Cigar Butt', 'Dawn', 'Alma', 'Joe Aguirre’s', 'K.E. Dad']
+
+
+Title: Just Before the War with the Eskimos, Salinger.txt
+Number of Characters: 22
+Characters: ['Ginnie', 'J.D. Salinger', 'Stopsa', 'Joan', "Miss Basehoar's", 'Eskimos', 'Virginia Mannox', 'Jesus', 'Ginnie Mannox', 'Dick Heffner', 'Hemingway', 'Mannox', 'Selena', 'musicals--"\n "', 'Eric', 'Basehoar', 'Good Samaritan', 'O.K.', 'Ya', 'Joan the', 'Ticker', 'ya mean']
+
+
+Title: Gentle Hand, Rinehart.txt
+Number of Characters: 6
+Characters: ['Tiger', 'Gentle Hand', 'Dusky', 'John', 'Mary Roberts Rinehart', 'Dick']
+
+
+Title: The Boy And The Filberts, Aesop.txt
+Number of Characters: 0
+Characters: []
+
+
+Title: Two Gallants, Joyce.txt
+Number of Characters: 15
+Characters: ['good- night', 'halfpenny', 'Kildare\nStreet', 'coin shone', 'Mac', 'Ginger Ale', 'Stephen', 'James Joyce', 'Refreshment Bar', 'Lenehan', 'Corley', 'Moyle', "Stephen's Green", 'Ginger Beer', 'mug']
+
+
+Title: Bertie_s Christmas Eve, Munro.txt
+Number of Characters: 18
+Characters: ['Steffinks', 'Steffink', 'Daisy', 'Luke Steffink', 'Luke\nSteffink', 'Hence Bertie', 'King Wenceslas', 'Horace Bordenby', 'Teddie', 'H.H. Munro', 'Bertie Steffink', 'Orpingtons', 'Bordenby', 'Russian Chrismush Eve', 'Luke', 'Byre', 'Myrtle', 'Bertie']
+
+
+Title: The Star, Wells.txt
+Number of Characters: 10
+Characters: ['limit"--so', 'Capricorn', 'moon', 'Aldebaran', 'Java', 'Capella', 'H.G. Wells', 'Featured', 'Brighter', 'climb zenithward']
+
+
+Title: Hyacinth, Munro.txt
+Number of Characters: 12
+Characters: ['Gaffins', 'Jutterlys', 'John Ball', 'Thither', 'Jutterly', 'Jacky', 'Yorkshire', 'H.H. Munro', 'Luffbridge', 'Calais', 'Panstreppon', 'Jacky Gaffin']
+
+
+Title: the_miss_april_houses.txt
+Number of Characters: 23
+Characters: ['Becca Samuels', 'Fon', 'April Houses', 'Nnamdi Watson', 'April Lee-June Walters', 'Becca', 'Phd', 'Lenny Roberts', 'Gander', 'Pinda', 'Agadja', 'John Binker Walters', 'Patricia Dwyer', 'Lee', 'Esther Malink', 'Nnamdi', 'Angela Flournoy', 'Buster Griggs', 'Nichole Valdes-James', 'Shaw Hammers', 'lee', 'Lyle Sanders', 'WOLOF']
+
+
+Title: Tennessee_s Partner, Harte.txt
+Number of Characters: 15
+Characters: ['Hill', 'Thet', 'Jack Folinsbee', 'Bret Harte', 'Ido', 'Thar', 'Stockton', 'Prisoner', 'Sandy Bar', 'Clifford', 'Lynch', 'Marley', 'Partner', 'Jinny', 'Pardner']
+
+
+Title: The Boarded Window, Bierce.txt
+Number of Characters: 1
+Characters: ['Murlock']
+
+
+Title: as_close_as_we_dare.txt
+Number of Characters: 2
+Characters: ['Laundrybot', 'Gwendolyn Paradice']
+
+
+Title: the_meat_bee.txt
+Number of Characters: 14
+Characters: ['Glad', 'Betty Crocker', 'Tara Ison \n\nHoney', 'Renee’s avid', 'Chobani Low-Fat Straw ’Nana', 'Brie', 'Renee', 'Jesus', 'Rest', 'Vicodin', 'Pixy Stix', 'Almond Joys', 'Baby Ruths', 'Tootsie Pops']
+
+
+Title: triple_goddess.txt
+Number of Characters: 1
+Characters: ['Radhika Borde']
+
+
+Title: child_psychology.txt
+Number of Characters: 1
+Characters: ['Gina Zucker']
+
+
+Title: delicately,_I_beg_of_you.txt
+Number of Characters: 2
+Characters: ['I Beg of You \n', 'Muhammad Amirul bin Muhamad']
+
+
+Title: Lost in the Funhouse, Barth.txt
+Number of Characters: 36
+Characters: ['Niggers Peter', 'EXAMINED BY', 'James Joyce', 'U. S. War\nBonds', 'Lucky Strike', 'Geronimo', 'Torture Chamber', 'Baltimore', 'Sieg', 'Grace Methodist-Protestant', 'Autogiros', 'Peter’s', 'Ambrose’s', 'Magda', 'Uncle', 'John Barth', 'Assawoman Bay', 'Welsh', 'Karl', 'Roosevelt', 'Amb', 'Peter', 'Uncle Karl', 'Karl’s', 'Noxzema', 'Uncle Konrad', 'John Dos Passos', 'Peter M', 'and/or and/or flatulence', 'Charles I', 'Aloysius', 'Lucky Strikes', 'Pins', 'Adam', 'M', 'Ambrose']
+
+
+Title: daughters_of_the_air.txt
+Number of Characters: 8
+Characters: ['Buenos Aires', 'I’m Bobby', 'Bobby', 'bush', 'Casey', 'Lolo', 'Saliva', 'Anca Szilágyi']
+
+
+Title: The Romance of a Busy Broker, Henry.txt
+Number of Characters: 9
+Characters: ['O. Henry\n\nPitcher', 'Harvey Maxwell', 'Messenger', 'Leslie', 'Harvey', 'Maxwell', 'Pitcher', "Harvey Maxwell's", 'George']
+
+
+Title: The Egg, Weir.txt
+Number of Characters: 5
+Characters: ['Abraham Lincoln', 'John Wilkes Booth', 'Jesus', 'Hitler', 'Andy Weir']
+
+
+Title: the_edifice.txt
+Number of Characters: 3
+Characters: ['Heavier', 'Daniel Uncapher', 'Little Quinn']
+
+
+Title: The Wolves of Cernogatz, Munro.txt
+Number of Characters: 12
+Characters: ['Amalie', 'Schloss Cernogratz', 'a von Cernogratz', 'Fraulein', 'Fraulein\nSchmidt', 'Schmidt', 'H.H. Munro', 'Cernogratz', 'wolf', 'Amalie von Cernogratz', 'Conrad', 'Baron']
+
+
+Title: The Alchemist, Lovecraft.txt
+Number of Characters: 18
+Characters: ['Godfrey', 'Kings', 'Michel', 'Mauvais', 'Henris', 'Pierre', 'Charles Le', 'Louis', 'Charles Le Sorcier', 'Charles', 'Antoines', 'Count', 'Count Henri', 'Michel Mauvais', 'Robert', 'Roberts', 'Wizard', 'Charles Le\nSorcier']
+
+
+Title: the_couplet.txt
+Number of Characters: 2
+Characters: ['Keith Richards', 'Grant Faulkner']
+
+
+Title: Indian Uprising, Barthelme.txt
+Number of Characters: 27
+Characters: ['Jane', 'Abraham', 'Nancy', 'Miss R.', 'Korzybski', 'Vivaldi', 'mon cher', 'Albinoni', 'Harold', 'Harold’s', 'Frank Wedekind', 'Eunice', 'Gabrieli', 'Paula', 'Gustave Aschenbach', 'Kenneth', 'Marcello', 'Boccherini', 'the Rue Chester Nimitz', 'Billy', 'Marianne', 'Sylvia', 'Anna Pedersen', 'George C. Marshall Allée', 'Gabriel Fauré', 'Valéry', 'Donald Barthelme']
+
+
+Title: The Aged Mother, Basho.txt
+Number of Characters: 1
+Characters: ['Matsuo Basho\n\nLong']
+
+
+Title: A Telephonic Conversation, Twain.txt
+Number of Characters: 7
+Characters: ['world--', 'Bagley', 'Mark Twain', 'I.', 'C. O.', 'I. Will', 'C. O. All']
+
+
+Title: Rappaccini_s Daughter, Hawthorne.txt
+Number of Characters: 38
+Characters: ['Ill', 'mirror,--a', 'Signor Giovanni', 'Beatrice', "Giovanni Guasconti's", 'Borgias', 'Nature', 'Eugene Sue', 'Dante', 'Pietro Baglioni', 'Signor Giacomo Rappaccini', 'I. Not', 'Giovanni Guasconti', 'Padua', 'Signor Guasconti', 'Nathaniel Hawthorne', 'Signora Beatrice', 'Benvenuto Cellini', 'Signor Rappaccini', 'Behold', 'Baglioni', "M. de l'Aubepine's", 'Rappaccini', 'Alexander', 'however,--as Giovanni', 'Pluck', 'Papillon Mecanique', 'Signor Pietro Baglioni', 'Guasconti', 'Speedily', 'Araby', 'Giacomo Rappaccini', 'Giovanni', 'Signor Giovanni Guasconti', 'Persian Ghebers', 'Signora', 'minute,--it', 'Adam']
+
+
+Title: Two Men come to a Village, Smith.txt
+Number of Characters: 3
+Characters: ['Lycra', 'Zadie Smith', 'Suzuki']
+
+
+Title: The Dead, Joyce.txt
+Number of Characters: 76
+Characters: ['James Joyce\n\nLily', 'Mary Jane', 'Shakespeare', 'Daly', 'Conroy', 'Pat', 'Aunt Kate', "O'Clohissey", 'Distant Music', "O'Callaghan", 'brown satin', 'Higgins', 'Michael Furey', "Mary Jane's", 'Browning', 'Clancy', 'Caruso', 'Ellen', 'Gabriel', 'Tom', 'Kathleen Kearney', 'Gretta', 'Malins', 'Miss\nDaly', 'Fulham', 'Juliet', 'Hickey', 'Molly Ivors', 'Freddy Malins', 'Julia', 'Furlong', 'Dinorah', 'Johnny', 'Stoney Batter', 'T. J. Conroy', 'Amy', 'Kerrigan', 'Ravelli', 'Massey', 'Connacht', 'Dan', 'Lily', "Mary\nJane's", 'G. C.?', 'Freddy', 'Cassidy', 'Patrick Morkan', 'Browne', 'Miss Daly', 'Bergin', "Aunt Kate's", 'Mary Grimes', 'Constantine', 'Trebelli', 'Giuglini', 'Julia Morkan', 'Kilkelly', "Bartell D'Arcy", "D'Arcy", 'Robert Browning', 'Teddy', 'meek', 'donna', 'Bessie', 'Campanini', 'Freddy\nMalins', 'Aunt\nKate', 'Kate', 'Morkan', 'Aunt Julia', 'Molly', 'Miss Ivors', 'Healey', "Miss O'Callaghan", "Freddy Malins'", 'Monkstown']
+
+
+Title: Aloha Oe, London.txt
+Number of Characters: 24
+Characters: ['Stanton', 'Dorothy', 'Kilauea', "Susie Maydwell's", 'Ka halia ko', 'Willie Kupele', 'Dorothy Sambrooke', 'Jeremy Sambrooke', 'Behrend', 'lava', 'Mervin', 'Stephen Knight', 'Steve', 'Susie Maydwell', 'Kamehameha', 'Slender', 'Jeremy', 'Waikiki', 'Manna Kea', 'Abe Louisson', 'Jack London', 'ke onaona', "Dorothy Sambrooke's", 'Hodgkins']
+
+
+Title: Yvette, Maupassant.txt
+Number of Characters: 8
+Characters: ['M. Joseph Bonenthal', 'Mamma', 'Joseph', 'Mademoiselle Yvette', 'Samuel Morris', 'Count Rouvaloff', 'Yvette', 'Yvette Samoris']
+
+
+Title: moonlight_paddle_in_machac_swamp.txt
+Number of Characters: 3
+Characters: ['Fred Meyer’s', 'Richard', 'Manchac Swamp']
+
+
+Title: Alexandre, Maupassant.txt
+Number of Characters: 3
+Characters: ['Maramballe', 'Joseph Maramballe', 'Alexandre']
+
+
+Title: re_clients.txt
+Number of Characters: 3
+Characters: ['Outlook', 'K. Angel', 'mug']
+
+
+Title: The Door, White.txt
+Number of Characters: 4
+Characters: ['O.K.', 'E. B. White', 'Madam', 'flexsan duro']
+
+
+Title: out_of_nowhere.txt
+Number of Characters: 2
+Characters: ['Kevin Sampsell', 'Jersey']
+
+
+Title: Italian without a Master, Twain.txt
+Number of Characters: 24
+Characters: ['Principessine Reali si', 'Sovrani', 'La Principassa', 'Chiesa Russa', 'Spettacolli del di', 'Gomorrah', 'Mark Twain', 'al Direttissimo', 'La Patrie', 'Don Chisciotte', 'Sarebbe', 'vettura n. 365', 'Giuseppe Sciatti', 'Via Brunelleschi', 'Lo Sciatti fu subito', 'Joseph Sciatti', 'Torri', 'Avaunt', 'Ponte Vecchio', 'Shakespearian', 'Said Sciatti', 'al suolo', 'Florentine', 'Sono Dispiacentissimo']
+
+
+Title: Uncle Wiggily in Connecticut, Salinger.txt
+Number of Characters: 37
+Characters: ['Mary Jane', 'always--', "Wengler'll", 'J.D. Salinger', 'Frank\nHenke', 'Mary\nJane', 'Miriam Ball', "Mary Jane's", 'Hitler', 'Jackson', 'God', 'Jimmy', 'Dick', 'Miz Wengler', 'Donald Duck', 'Whiting', 'Taylor', 'Louise\nHermanson', 'Sleeps', 'Marcia Louise', 'Mickey', 'Barbara Hill', 'Jimmy Jimmereeno', 'Mickey Mickeranno', 'Jane Austen', 'meant--', 'Joyce', 'Uncle Wiggily', 'Akim Tamiroff', 'Mommy', 'Wuzzat', 'Lew', 'Weyinburg', 'Walt', "don't--", 'Mother', 'Grace']
+
+
+Title: In the Wood, Maupassant.txt
+Number of Characters: 8
+Characters: ['Rose', 'Monsieur Beaurain', 'Argenteuil', 'Bredel', 'Daddy Hochedur', 'Rose Leveque', 'Hochedur', 'Simon']
+
+
+Title: Goodbye to all That, Didion.txt
+Number of Characters: 15
+Characters: ['Triborough', 'Henri Bendel', 'Estoril', 'Lynn', 'Madison', 'Village', 'Easter', 'Lowestoft', 'Yorkshire', 'Michael’s Pub', 'box springs', 'Emotional Appeal', 'Hammacher Schlemmer', 'Lester Lanin', 'Joan Didion']
+
+
+Title: Victory Lap, Saunders.txt
+Number of Characters: 53
+Characters: ['Kyle Boot', 'C.', 'Betty', 'Melvin', 'dank hunter', 'Alison', 'Small Package', 'Matt Drey', 'van', 'Jesus', 'dick-munch', 'Allie', 'Mom', 'Sergei', 'Sean Ball', 'Boris', 'Pope', 'George Saunders', 'rond de jambe', 'Dad', 'Matt\nDrey', 'Bev Mirren', 'Feder', 'Callow', 'Rooskie', 'Gladsong', 'Kissing Matt', 'Gladsong Drive', 'Mother Teresa', 'Sackett', 'Kyle', 'O.K.', 'Dmitri', 'Jeez', 'Carol', 'Roosevelt', 'dick-in-the-ear', 'Calm', 'Thumper', 'Helen\nKeller', 'Drama', 'Screw Kenny', 'Gal', 'Treat', 'Mommy', 'Kenny', 'Kenny’s van', 'Pooh', 'Dad Out', 'Dees', 'Scout', 'Matt', 'Curtsy']
+
+
+Title: The Use of Force, Williams.txt
+Number of Characters: 3
+Characters: ['William Carlos Williams', 'Mathilda', 'Olson']
+
+
+Title: raw_season.txt
+Number of Characters: 37
+Characters: ['Carmen', 'Felt', 'Tío Raul’s', 'Laly', 'Manolo El Leñero', 'Qué', 'esa locura', 'Lares', 'Tía Carmen', 'Dead Sleepwalker\n', 'Palpatine', 'Muñoz Maríne', 'Yamil', 'Ma', 'Hurry', 'Manuel Rojas', 'Raul', 'Monsy', 'bush', 'Celia', 'Jabba', 'Mack', 'Hmm', 'Paquito', 'Tía Carmen’s', 'Zeus', 'Tío’s', 'Jabba the Hutt', 'Venancio Román', 'Ma’s', 'La Brava', 'Ignacio', 'Pedro', 'Tío Raul', 'Joaquín Parrilla', 'Raul’s', 'Tío']
+
+
+Title: take_five_hundred_new_nightmares.txt
+Number of Characters: 2
+Characters: ['Liza St. James', 'Howard Lord']
+
+
+Title: hall_of_hantings.txt
+Number of Characters: 2
+Characters: ['Naomi', 'Rebekah Bergman']
+
+
+Title: Sonny_s Blues, Baldwin.txt
+Number of Characters: 20
+Characters: ['Oryour', 'seeIsabel', 'hear?""I', '"It', 'wasSonny', "he'llknow", 'Charlie Parker', 'Sonny?""I', 'Idug', 'jazz,"he', 'Godspeed', 'James Baldwin', 'Thebrother', 'help-"I', 'Sonny', 'Isaid', 'inSonny', 'andIsabel', 'SonnyThen', 'Grace']
+
+
+Title: A Rose for Emily, Faulkner.txt
+Number of Characters: 18
+Characters: ['Miss Emily', 'Emilys', 'Wyatt', 'Miss\nEmily', 'William Faulkner', 'Stevens', 'Emily', 'madam?”hesaid', 'Episcopal', 'Grierson', 'Sartoris', 'Whenherfather', 'Homer Barron', 'Homer', 'H. B.', 'Barron', 'Emily Grierson', 'Griersons']
+
+
+Title: A Slander, Chekhov.txt
+Number of Characters: 9
+Characters: ['Anton Pavlovich Chekhov', 'cook', 'Kissing Marfa', 'Vankin', 'Ahineev', 'I.', 'Marfa', 'Mohammedan', 'Sergei Kapitonich']
