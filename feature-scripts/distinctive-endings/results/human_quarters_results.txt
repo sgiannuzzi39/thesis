@@ -1,127 +1,1502 @@
 ### Analysis Results for Each File ###
 
-Title: Goodbye, My Brother.txt
-Quarter 1 to Quarter 2: WMD = 0.1121
-Quarter 2 to Quarter 3: WMD = 0.1262
-Quarter 3 to Quarter 4: WMD = 0.1209
+Title: Timbuctoo, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.0984
+Quarter 2 to Quarter 3: WMD = 0.0473
+Quarter 3 to Quarter 4: WMD = 0.0435
 
-Title: The Tell-Tale Heart.txt
-Quarter 1 to Quarter 2: WMD = 0.1890
-Quarter 2 to Quarter 3: WMD = 0.1817
-Quarter 3 to Quarter 4: WMD = 0.1441
+Title: The Thousand-And-Second Tale of Scheherazade, Poe.txt
+Quarter 1 to Quarter 2: WMD = 0.1578
+Quarter 2 to Quarter 3: WMD = 0.1429
+Quarter 3 to Quarter 4: WMD = 0.1597
 
-Title: Mother.txt
-Quarter 1 to Quarter 2: WMD = 0.1999
-Quarter 2 to Quarter 3: WMD = 0.1558
-Quarter 3 to Quarter 4: WMD = 0.1663
+Title: The Soldier_s Peaches, Cloete.txt
+Quarter 1 to Quarter 2: WMD = 0.2043
+Quarter 2 to Quarter 3: WMD = 0.1645
+Quarter 3 to Quarter 4: WMD = 0.1675
 
-Title: uncle_wiggly.txt
-Quarter 1 to Quarter 2: WMD = 0.2941
-Quarter 2 to Quarter 3: WMD = 0.2308
-Quarter 3 to Quarter 4: WMD = 0.2827
-
-Title: The Aleph.txt
-Quarter 1 to Quarter 2: WMD = 0.2009
-Quarter 2 to Quarter 3: WMD = 0.2893
-Quarter 3 to Quarter 4: WMD = 0.1726
-
-Title: why_don't_you_dance.txt
-Quarter 1 to Quarter 2: WMD = 0.2687
-Quarter 2 to Quarter 3: WMD = 0.1686
-Quarter 3 to Quarter 4: WMD = 0.2536
-
-Title: The Gardener.txt
-Quarter 1 to Quarter 2: WMD = 0.1748
-Quarter 2 to Quarter 3: WMD = 0.1422
-Quarter 3 to Quarter 4: WMD = 0.2709
-
-Title: How to Tell a True War Story, O'Brien.txt
-Quarter 1 to Quarter 2: WMD = 0.2341
-Quarter 2 to Quarter 3: WMD = 0.1811
-Quarter 3 to Quarter 4: WMD = 0.2098
-
-Title: Big Two-Hearted River.txt
-Quarter 1 to Quarter 2: WMD = 0.0865
-Quarter 2 to Quarter 3: WMD = 0.1061
-Quarter 3 to Quarter 4: WMD = 0.1547
-
-Title: indian_uprising.txt
-Quarter 1 to Quarter 2: WMD = 0.2042
-Quarter 2 to Quarter 3: WMD = 0.2253
-Quarter 3 to Quarter 4: WMD = 0.2871
-
-Title: midnight_zone.txt
-Quarter 1 to Quarter 2: WMD = 0.2053
-Quarter 2 to Quarter 3: WMD = 0.1855
-Quarter 3 to Quarter 4: WMD = 0.1882
-
-Title: Lost in the Funhouse.txt
-Quarter 1 to Quarter 2: WMD = 0.1769
-Quarter 2 to Quarter 3: WMD = 0.1615
-Quarter 3 to Quarter 4: WMD = 0.1762
-
-Title: The Dead.txt
-Quarter 1 to Quarter 2: WMD = 0.0957
-Quarter 2 to Quarter 3: WMD = 0.1519
-Quarter 3 to Quarter 4: WMD = 0.1959
-
-Title: two_men_arrive.txt
-Quarter 1 to Quarter 2: WMD = 0.3512
-Quarter 2 to Quarter 3: WMD = 0.2292
-Quarter 3 to Quarter 4: WMD = 0.2196
-
-Title: Brokeback Mountain.txt
-Quarter 1 to Quarter 2: WMD = 0.2145
-Quarter 2 to Quarter 3: WMD = 0.1050
-Quarter 3 to Quarter 4: WMD = 0.1365
-
-Title: Ghoul.txt
+Title: Ghoul, Sanders.txt
 Quarter 1 to Quarter 2: WMD = 0.1588
 Quarter 2 to Quarter 3: WMD = 0.1875
 Quarter 3 to Quarter 4: WMD = 0.1106
 
-Title: who_will_greet_you_at_home.txt
-Quarter 1 to Quarter 2: WMD = 0.1620
-Quarter 2 to Quarter 3: WMD = 0.1424
-Quarter 3 to Quarter 4: WMD = 0.2249
+Title: A Very Old Man with Enormous Wings, Marquez.txt
+Quarter 1 to Quarter 2: WMD = 0.1986
+Quarter 2 to Quarter 3: WMD = 0.1966
+Quarter 3 to Quarter 4: WMD = 0.2005
 
-Title: yellow_wallpaper.txt
-Quarter 1 to Quarter 2: WMD = 0.1001
-Quarter 2 to Quarter 3: WMD = 0.1064
-Quarter 3 to Quarter 4: WMD = 0.1772
+Title: The Stranger, Mansfield.txt
+Quarter 1 to Quarter 2: WMD = 0.1428
+Quarter 2 to Quarter 3: WMD = 0.1643
+Quarter 3 to Quarter 4: WMD = 0.1634
 
-Title: Gooseberries.txt
-Quarter 1 to Quarter 2: WMD = 0.2052
-Quarter 2 to Quarter 3: WMD = 0.1871
-Quarter 3 to Quarter 4: WMD = 0.1166
+Title: The Sisters, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.2141
+Quarter 2 to Quarter 3: WMD = 0.2168
+Quarter 3 to Quarter 4: WMD = 0.1896
 
-Title: all_summer_in_a_day.txt
-Quarter 1 to Quarter 2: WMD = 0.2263
-Quarter 2 to Quarter 3: WMD = 0.2609
-Quarter 3 to Quarter 4: WMD = 0.2155
+Title: Lady with the Dog, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.2066
+Quarter 2 to Quarter 3: WMD = 0.1804
+Quarter 3 to Quarter 4: WMD = 0.2032
 
-Title: Bela.txt
-Quarter 1 to Quarter 2: WMD = 0.1554
-Quarter 2 to Quarter 3: WMD = 0.1414
+Title: a_few_normal_things_that_happen_a_lot.txt
+Quarter 1 to Quarter 2: WMD = 0.1465
+Quarter 2 to Quarter 3: WMD = 0.1852
+Quarter 3 to Quarter 4: WMD = 0.3293
+
+Title: Turkeys Turning The Tables, Howells.txt
+Quarter 1 to Quarter 2: WMD = 0.2293
+Quarter 2 to Quarter 3: WMD = 0.2584
+Quarter 3 to Quarter 4: WMD = 0.1866
+
+Title: Who Will Greet You at Home, Davis.txt
+Quarter 1 to Quarter 2: WMD = 0.1592
+Quarter 2 to Quarter 3: WMD = 0.1462
+Quarter 3 to Quarter 4: WMD = 0.2266
+
+Title: Beyond the Wall, Bierce.txt
+Quarter 1 to Quarter 2: WMD = 0.1336
+Quarter 2 to Quarter 3: WMD = 0.1867
+Quarter 3 to Quarter 4: WMD = 0.1562
+
+Title: Split Cherry Tree, Stuart.txt
+Quarter 1 to Quarter 2: WMD = 0.2170
+Quarter 2 to Quarter 3: WMD = 0.1464
+Quarter 3 to Quarter 4: WMD = 0.1363
+
+Title: The Consul, Davis.txt
+Quarter 1 to Quarter 2: WMD = 0.1901
+Quarter 2 to Quarter 3: WMD = 0.1209
+Quarter 3 to Quarter 4: WMD = 0.1117
+
+Title: What Christmas Is As We Grow Older, Dickens.txt
+Quarter 1 to Quarter 2: WMD = 0.2372
+Quarter 2 to Quarter 3: WMD = 0.2616
+Quarter 3 to Quarter 4: WMD = 0.2383
+
+Title: The Boarding House, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.3496
+Quarter 2 to Quarter 3: WMD = 0.2052
+Quarter 3 to Quarter 4: WMD = 0.2228
+
+Title: some_things_about_typewriters.txt
+Quarter 1 to Quarter 2: WMD = 0.4447
+Quarter 2 to Quarter 3: WMD = 0.2611
+Quarter 3 to Quarter 4: WMD = 0.3633
+
+Title: The Colonel_s Ideas, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2910
+Quarter 2 to Quarter 3: WMD = 0.1860
+Quarter 3 to Quarter 4: WMD = 0.1400
+
+Title: conditions_for_growing.txt
+Quarter 1 to Quarter 2: WMD = 0.4097
+Quarter 2 to Quarter 3: WMD = 0.3722
+Quarter 3 to Quarter 4: WMD = 0.4479
+
+Title: Waiter, a Bock!, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2950
+Quarter 2 to Quarter 3: WMD = 0.2143
+Quarter 3 to Quarter 4: WMD = 0.1963
+
+Title: there_is_no_world.txt
+Quarter 1 to Quarter 2: WMD = 0.3170
+Quarter 2 to Quarter 3: WMD = 0.3877
+Quarter 3 to Quarter 4: WMD = 0.5279
+
+Title: i'm_exaggerating.txt
+Quarter 1 to Quarter 2: WMD = 0.3274
+Quarter 2 to Quarter 3: WMD = 0.3109
+Quarter 3 to Quarter 4: WMD = 0.3881
+
+Title: The Cats of Ulthar, Lovecraft.txt
+Quarter 1 to Quarter 2: WMD = 0.2228
+Quarter 2 to Quarter 3: WMD = 0.2210
+Quarter 3 to Quarter 4: WMD = 0.2902
+
+Title: Bellflower, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1573
+Quarter 2 to Quarter 3: WMD = 0.2801
+Quarter 3 to Quarter 4: WMD = 0.2669
+
+Title: Rikki-Tikki-Tavi, Kipling.txt
+Quarter 1 to Quarter 2: WMD = 0.1236
+Quarter 2 to Quarter 3: WMD = 0.1122
+Quarter 3 to Quarter 4: WMD = 0.1388
+
+Title: the_fourth_trimester.txt
+Quarter 1 to Quarter 2: WMD = 0.4034
+Quarter 2 to Quarter 3: WMD = 0.3286
+Quarter 3 to Quarter 4: WMD = 0.4059
+
+Title: The End of the Party, Greene.txt
+Quarter 1 to Quarter 2: WMD = 0.1697
+Quarter 2 to Quarter 3: WMD = 0.1455
+Quarter 3 to Quarter 4: WMD = 0.2419
+
+Title: my_dear_you.txt
+Quarter 1 to Quarter 2: WMD = 0.1911
+Quarter 2 to Quarter 3: WMD = 0.1910
+Quarter 3 to Quarter 4: WMD = 0.1773
+
+Title: possum.txt
+Quarter 1 to Quarter 2: WMD = 0.2918
+Quarter 2 to Quarter 3: WMD = 0.1993
+Quarter 3 to Quarter 4: WMD = 0.2412
+
+Title: outside_the_raft.txt
+Quarter 1 to Quarter 2: WMD = 0.1816
+Quarter 2 to Quarter 3: WMD = 0.2724
+Quarter 3 to Quarter 4: WMD = 0.2135
+
+Title: Bela, Lermontov.txt
+Quarter 1 to Quarter 2: WMD = 0.1549
+Quarter 2 to Quarter 3: WMD = 0.1411
 Quarter 3 to Quarter 4: WMD = 0.0925
 
-Title: A Temporary Matter.txt
-Quarter 1 to Quarter 2: WMD = 0.1636
-Quarter 2 to Quarter 3: WMD = 0.1592
+Title: The Veteran, Crane.txt
+Quarter 1 to Quarter 2: WMD = 0.1967
+Quarter 2 to Quarter 3: WMD = 0.3361
+Quarter 3 to Quarter 4: WMD = 0.2146
+
+Title: The Tomb, Lovecraft.txt
+Quarter 1 to Quarter 2: WMD = 0.1886
+Quarter 2 to Quarter 3: WMD = 0.2034
+Quarter 3 to Quarter 4: WMD = 0.2097
+
+Title: In the Red Room, Bowles.txt
+Quarter 1 to Quarter 2: WMD = 0.1381
+Quarter 2 to Quarter 3: WMD = 0.1683
+Quarter 3 to Quarter 4: WMD = 0.2345
+
+Title: The Terrible Old Man, Lovecraft.txt
+Quarter 1 to Quarter 2: WMD = 0.2039
+Quarter 2 to Quarter 3: WMD = 0.3626
+Quarter 3 to Quarter 4: WMD = 0.3243
+
+Title: preservation.txt
+Quarter 1 to Quarter 2: WMD = 0.1468
+Quarter 2 to Quarter 3: WMD = 0.1578
+Quarter 3 to Quarter 4: WMD = 0.1453
+
+Title: The Dowry, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2467
+Quarter 2 to Quarter 3: WMD = 0.2810
+Quarter 3 to Quarter 4: WMD = 0.2062
+
+Title: predator_satiation.txt
+Quarter 1 to Quarter 2: WMD = 0.3218
+Quarter 2 to Quarter 3: WMD = 0.4377
+Quarter 3 to Quarter 4: WMD = 0.4291
+
+Title: The Snows of Kilimanjaro, Hemmingway.txt
+Quarter 1 to Quarter 2: WMD = 0.2052
+Quarter 2 to Quarter 3: WMD = 0.1955
+Quarter 3 to Quarter 4: WMD = 0.0719
+
+Title: An Alpine Divorce, Barr.txt
+Quarter 1 to Quarter 2: WMD = 0.1779
+Quarter 2 to Quarter 3: WMD = 0.3800
+Quarter 3 to Quarter 4: WMD = 0.3316
+
+Title: Indiscretion, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.5259
+Quarter 2 to Quarter 3: WMD = 0.3187
+Quarter 3 to Quarter 4: WMD = 0.2342
+
+Title: Lamb to the Slaughter, Dahl.txt
+Quarter 1 to Quarter 2: WMD = 0.1218
+Quarter 2 to Quarter 3: WMD = 0.1709
+Quarter 3 to Quarter 4: WMD = 0.2403
+
+Title: According to Their Lights, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.3337
+Quarter 2 to Quarter 3: WMD = 0.1983
+Quarter 3 to Quarter 4: WMD = 0.2538
+
+Title: The Celebrated Jumping Frog of Calaveras County, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.2030
+Quarter 2 to Quarter 3: WMD = 0.2271
+Quarter 3 to Quarter 4: WMD = 0.1646
+
+Title: The Cop and the Anthem, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.3005
+Quarter 2 to Quarter 3: WMD = 0.2486
+Quarter 3 to Quarter 4: WMD = 0.1118
+
+Title: Marjorie Daw, Aldrich.txt
+Quarter 1 to Quarter 2: WMD = 0.1015
+Quarter 2 to Quarter 3: WMD = 0.1360
+Quarter 3 to Quarter 4: WMD = 0.1097
+
+Title: Von Kempelen and His Discovery, Poe.txt
+Quarter 1 to Quarter 2: WMD = 0.1919
+Quarter 2 to Quarter 3: WMD = 0.2269
+Quarter 3 to Quarter 4: WMD = 0.1529
+
+Title: biblical_proportions.txt
+Quarter 1 to Quarter 2: WMD = 0.5846
+Quarter 2 to Quarter 3: WMD = 0.5167
+Quarter 3 to Quarter 4: WMD = 0.5242
+
+Title: sisters.txt
+Quarter 1 to Quarter 2: WMD = 0.1065
+Quarter 2 to Quarter 3: WMD = 0.1227
+Quarter 3 to Quarter 4: WMD = 0.2128
+
+Title: in_the_exclusion_zone.txt
+Quarter 1 to Quarter 2: WMD = 0.2059
+Quarter 2 to Quarter 3: WMD = 0.4090
+Quarter 3 to Quarter 4: WMD = 0.3381
+
+Title: The Sphinx Without a Secret, Wilde.txt
+Quarter 1 to Quarter 2: WMD = 0.2132
+Quarter 2 to Quarter 3: WMD = 0.2111
+Quarter 3 to Quarter 4: WMD = 0.1134
+
+Title: Leiningen Versus the Ants, Stephenson.txt
+Quarter 1 to Quarter 2: WMD = 0.1403
+Quarter 2 to Quarter 3: WMD = 0.0792
+Quarter 3 to Quarter 4: WMD = 0.1909
+
+Title: The Doll_s House, Mansfield.txt
+Quarter 1 to Quarter 2: WMD = 0.1858
+Quarter 2 to Quarter 3: WMD = 0.2383
+Quarter 3 to Quarter 4: WMD = 0.1906
+
+Title: Why Don_t You Dance, Carver.txt
+Quarter 1 to Quarter 2: WMD = 0.2490
+Quarter 2 to Quarter 3: WMD = 0.1619
+Quarter 3 to Quarter 4: WMD = 0.2557
+
+Title: ron.txt
+Quarter 1 to Quarter 2: WMD = 0.2049
+Quarter 2 to Quarter 3: WMD = 0.2257
+Quarter 3 to Quarter 4: WMD = 0.2096
+
+Title: Witches_ Loaves, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.1930
+Quarter 2 to Quarter 3: WMD = 0.2143
+Quarter 3 to Quarter 4: WMD = 0.3559
+
+Title: sea_change.txt
+Quarter 1 to Quarter 2: WMD = 0.2476
+Quarter 2 to Quarter 3: WMD = 0.4379
+Quarter 3 to Quarter 4: WMD = 0.3958
+
+Title: pity_and_shame.txt
+Quarter 1 to Quarter 2: WMD = 0.0621
+Quarter 2 to Quarter 3: WMD = 0.1523
+Quarter 3 to Quarter 4: WMD = 0.1481
+
+Title: The Bet, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.2651
+Quarter 2 to Quarter 3: WMD = 0.2324
+Quarter 3 to Quarter 4: WMD = 0.4053
+
+Title: Italian with Grammar, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.3124
+Quarter 2 to Quarter 3: WMD = 0.3171
+Quarter 3 to Quarter 4: WMD = 0.1741
+
+Title: The Yellow Wallpaper, Gilman.txt
+Quarter 1 to Quarter 2: WMD = 0.1000
+Quarter 2 to Quarter 3: WMD = 0.1091
+Quarter 3 to Quarter 4: WMD = 0.1760
+
+Title: The Affair at Coulter_s Notch, Bierce.txt
+Quarter 1 to Quarter 2: WMD = 0.2886
+Quarter 2 to Quarter 3: WMD = 0.2093
+Quarter 3 to Quarter 4: WMD = 0.1348
+
+Title: The Yarkand Manner, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.1733
+Quarter 2 to Quarter 3: WMD = 0.2049
+Quarter 3 to Quarter 4: WMD = 0.2171
+
+Title: What You Want, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.2675
+Quarter 2 to Quarter 3: WMD = 0.5186
+Quarter 3 to Quarter 4: WMD = 0.3269
+
+Title: The Black Cat, Poe.txt
+Quarter 1 to Quarter 2: WMD = 0.1147
+Quarter 2 to Quarter 3: WMD = 0.1139
+Quarter 3 to Quarter 4: WMD = 0.1092
+
+Title: Hunters in the Snow, Wolff.txt
+Quarter 1 to Quarter 2: WMD = 0.1331
+Quarter 2 to Quarter 3: WMD = 0.1089
+Quarter 3 to Quarter 4: WMD = 0.1096
+
+Title: All Summer in a Day, Bradbury.txt
+Quarter 1 to Quarter 2: WMD = 0.2193
+Quarter 2 to Quarter 3: WMD = 0.2566
+Quarter 3 to Quarter 4: WMD = 0.2201
+
+Title: glass_people.txt
+Quarter 1 to Quarter 2: WMD = 0.4265
+Quarter 2 to Quarter 3: WMD = 0.4337
+Quarter 3 to Quarter 4: WMD = 0.5749
+
+Title: Pigs Is Pigs, Butler.txt
+Quarter 1 to Quarter 2: WMD = 0.1837
+Quarter 2 to Quarter 3: WMD = 0.1519
+Quarter 3 to Quarter 4: WMD = 0.2285
+
+Title: The Wedding-Knell, Hawthorne.txt
+Quarter 1 to Quarter 2: WMD = 0.1202
+Quarter 2 to Quarter 3: WMD = 0.1226
+Quarter 3 to Quarter 4: WMD = 0.2773
+
+Title: Big Two-Hearted River, Hemmingway.txt
+Quarter 1 to Quarter 2: WMD = 0.0868
+Quarter 2 to Quarter 3: WMD = 0.1053
+Quarter 3 to Quarter 4: WMD = 0.1524
+
+Title: Hands, Sherwood.txt
+Quarter 1 to Quarter 2: WMD = 0.1577
+Quarter 2 to Quarter 3: WMD = 0.2870
+Quarter 3 to Quarter 4: WMD = 0.2841
+
+Title: the_monk_dilemma.txt
+Quarter 1 to Quarter 2: WMD = 0.3099
+Quarter 2 to Quarter 3: WMD = 0.2748
+Quarter 3 to Quarter 4: WMD = 0.1843
+
+Title: Haircut, Lardner.txt
+Quarter 1 to Quarter 2: WMD = 0.1405
+Quarter 2 to Quarter 3: WMD = 0.1278
+Quarter 3 to Quarter 4: WMD = 0.1096
+
+Title: Transients in Arcadia, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.2365
+Quarter 2 to Quarter 3: WMD = 0.4718
+Quarter 3 to Quarter 4: WMD = 0.1718
+
+Title: The Diary of a Madman, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2311
+Quarter 2 to Quarter 3: WMD = 0.3826
+Quarter 3 to Quarter 4: WMD = 0.2836
+
+Title: Hearts And Hands, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.2388
+Quarter 2 to Quarter 3: WMD = 0.2852
+Quarter 3 to Quarter 4: WMD = 0.3219
+
+Title: it's_only_been_me_all_this_time.txt
+Quarter 1 to Quarter 2: WMD = 0.2945
+Quarter 2 to Quarter 3: WMD = 0.2884
+Quarter 3 to Quarter 4: WMD = 0.2588
+
+Title: Theodule Sabot_s Confession, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.3339
+Quarter 2 to Quarter 3: WMD = 0.1334
+Quarter 3 to Quarter 4: WMD = 0.1795
+
+Title: regarding_lichen.txt
+Quarter 1 to Quarter 2: WMD = 0.2917
+Quarter 2 to Quarter 3: WMD = 0.3527
+Quarter 3 to Quarter 4: WMD = 0.3315
+
+Title: The Coming of the King, Richards.txt
+Quarter 1 to Quarter 2: WMD = 0.3625
+Quarter 2 to Quarter 3: WMD = 0.3097
+Quarter 3 to Quarter 4: WMD = 0.3570
+
+Title: The Wreck, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2008
+Quarter 2 to Quarter 3: WMD = 0.1583
+Quarter 3 to Quarter 4: WMD = 0.1253
+
+Title: swamps.txt
+Quarter 1 to Quarter 2: WMD = 0.2839
+Quarter 2 to Quarter 3: WMD = 0.1789
+Quarter 3 to Quarter 4: WMD = 0.2265
+
+Title: the_bug_man.txt
+Quarter 1 to Quarter 2: WMD = 0.5591
+Quarter 2 to Quarter 3: WMD = 0.5320
+Quarter 3 to Quarter 4: WMD = 0.5737
+
+Title: Shooting an Elephant, Orwell.txt
+Quarter 1 to Quarter 2: WMD = 0.1717
+Quarter 2 to Quarter 3: WMD = 0.2123
+Quarter 3 to Quarter 4: WMD = 0.1357
+
+Title: The Baron of Grogzwig, Dickens.txt
+Quarter 1 to Quarter 2: WMD = 0.2141
+Quarter 2 to Quarter 3: WMD = 0.1856
+Quarter 3 to Quarter 4: WMD = 0.2153
+
+Title: Princess Mary, Lermontov.txt
+Quarter 1 to Quarter 2: WMD = 0.0870
+Quarter 2 to Quarter 3: WMD = 0.0866
+Quarter 3 to Quarter 4: WMD = 0.0731
+
+Title: the_spoils.txt
+Quarter 1 to Quarter 2: WMD = 0.2257
+Quarter 2 to Quarter 3: WMD = 0.3404
+Quarter 3 to Quarter 4: WMD = 0.3629
+
+Title: Young Goodman Brown, Hawthorne.txt
+Quarter 1 to Quarter 2: WMD = 0.0734
+Quarter 2 to Quarter 3: WMD = 0.2285
+Quarter 3 to Quarter 4: WMD = 0.1565
+
+Title: the_superstition_of_albatross.txt
+Quarter 1 to Quarter 2: WMD = 0.1657
+Quarter 2 to Quarter 3: WMD = 0.1979
+Quarter 3 to Quarter 4: WMD = 0.1927
+
+Title: Berenice, Poe.txt
+Quarter 1 to Quarter 2: WMD = 0.1978
+Quarter 2 to Quarter 3: WMD = 0.2723
+Quarter 3 to Quarter 4: WMD = 0.1833
+
+Title: whatever_remains.txt
+Quarter 1 to Quarter 2: WMD = 0.4592
+Quarter 2 to Quarter 3: WMD = 0.3563
+Quarter 3 to Quarter 4: WMD = 0.4989
+
+Title: Madame Parisse, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2200
+Quarter 2 to Quarter 3: WMD = 0.2238
+Quarter 3 to Quarter 4: WMD = 0.3026
+
+Title: Gooseberries, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.2031
+Quarter 2 to Quarter 3: WMD = 0.1847
+Quarter 3 to Quarter 4: WMD = 0.1166
+
+Title: A Retrieved Reformation, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.2042
+Quarter 2 to Quarter 3: WMD = 0.2156
+Quarter 3 to Quarter 4: WMD = 0.2209
+
+Title: the_salesman.txt
+Quarter 1 to Quarter 2: WMD = 0.4670
+Quarter 2 to Quarter 3: WMD = 0.4894
+Quarter 3 to Quarter 4: WMD = 0.4160
+
+Title: fantasy.txt
+Quarter 1 to Quarter 2: WMD = 0.2946
+Quarter 2 to Quarter 3: WMD = 0.3093
+Quarter 3 to Quarter 4: WMD = 0.3395
+
+Title: african_violets.txt
+Quarter 1 to Quarter 2: WMD = 0.7839
+Quarter 2 to Quarter 3: WMD = 0.7074
+Quarter 3 to Quarter 4: WMD = 0.8675
+
+Title: The Door in the Wall, Wells.txt
+Quarter 1 to Quarter 2: WMD = 0.1647
+Quarter 2 to Quarter 3: WMD = 0.1386
+Quarter 3 to Quarter 4: WMD = 0.1053
+
+Title: Araby, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.2623
+Quarter 2 to Quarter 3: WMD = 0.1917
+Quarter 3 to Quarter 4: WMD = 0.3114
+
+Title: A School Story, James.txt
+Quarter 1 to Quarter 2: WMD = 0.2312
+Quarter 2 to Quarter 3: WMD = 0.1811
+Quarter 3 to Quarter 4: WMD = 0.1233
+
+Title: christmas_alligator.txt
+Quarter 1 to Quarter 2: WMD = 0.2645
+Quarter 2 to Quarter 3: WMD = 0.3069
+Quarter 3 to Quarter 4: WMD = 0.3996
+
+Title: Sredni Vashtar, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.1358
+Quarter 2 to Quarter 3: WMD = 0.2460
+Quarter 3 to Quarter 4: WMD = 0.3258
+
+Title: Where are you going, Where have you been_, Oats.txt
+Quarter 1 to Quarter 2: WMD = 0.2134
+Quarter 2 to Quarter 3: WMD = 0.0849
+Quarter 3 to Quarter 4: WMD = 0.1259
+
+Title: The Sniper, O_Flaherty.txt
+Quarter 1 to Quarter 2: WMD = 0.2435
+Quarter 2 to Quarter 3: WMD = 0.1396
+Quarter 3 to Quarter 4: WMD = 0.2194
+
+Title: Springtime a la Carte, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.1853
+Quarter 2 to Quarter 3: WMD = 0.1352
+Quarter 3 to Quarter 4: WMD = 0.3005
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker), Irving.txt
+Quarter 1 to Quarter 2: WMD = 0.1303
+Quarter 2 to Quarter 3: WMD = 0.1014
+Quarter 3 to Quarter 4: WMD = 0.1348
+
+Title: Goodbye, My Brother, Cheever.txt
+Quarter 1 to Quarter 2: WMD = 0.1102
+Quarter 2 to Quarter 3: WMD = 0.1274
+Quarter 3 to Quarter 4: WMD = 0.1209
+
+Title: cloud_eat_blue_sky.txt
+Quarter 1 to Quarter 2: WMD = 0.4461
+Quarter 2 to Quarter 3: WMD = 0.3371
+Quarter 3 to Quarter 4: WMD = 0.2417
+
+Title: A True Story, Repeated Word for Word As I Heard It, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.4568
+Quarter 2 to Quarter 3: WMD = 0.2932
+Quarter 3 to Quarter 4: WMD = 0.2602
+
+Title: i_have_her_memories_now.txt
+Quarter 1 to Quarter 2: WMD = 0.1545
+Quarter 2 to Quarter 3: WMD = 0.1525
+Quarter 3 to Quarter 4: WMD = 0.2308
+
+Title: The Christening, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.3402
+Quarter 2 to Quarter 3: WMD = 0.2928
+Quarter 3 to Quarter 4: WMD = 0.1938
+
+Title: how_to_breathe_without_thinking_about_it.txt
+Quarter 1 to Quarter 2: WMD = 0.2714
+Quarter 2 to Quarter 3: WMD = 0.2127
+Quarter 3 to Quarter 4: WMD = 0.2773
+
+Title: Gusev, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.1883
+Quarter 2 to Quarter 3: WMD = 0.1858
+Quarter 3 to Quarter 4: WMD = 0.2785
+
+Title: Was it Heaven_ Or Hell_, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.2547
+Quarter 2 to Quarter 3: WMD = 0.2024
+Quarter 3 to Quarter 4: WMD = 0.1057
+
+Title: A Respectable Woman, Chopin.txt
+Quarter 1 to Quarter 2: WMD = 0.2466
+Quarter 2 to Quarter 3: WMD = 0.2436
+Quarter 3 to Quarter 4: WMD = 0.2310
+
+Title: Two Friends, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2552
+Quarter 2 to Quarter 3: WMD = 0.3078
+Quarter 3 to Quarter 4: WMD = 0.2289
+
+Title: Babes in the Jungle, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.1549
+Quarter 2 to Quarter 3: WMD = 0.1747
+Quarter 3 to Quarter 4: WMD = 0.2492
+
+Title: the_girl_who_did_not_know_fear.txt
+Quarter 1 to Quarter 2: WMD = 0.0911
+Quarter 2 to Quarter 3: WMD = 0.1672
+Quarter 3 to Quarter 4: WMD = 0.1550
+
+Title: Gentlemen The King!, Barr.txt
+Quarter 1 to Quarter 2: WMD = 0.2034
+Quarter 2 to Quarter 3: WMD = 0.1565
+Quarter 3 to Quarter 4: WMD = 0.2000
+
+Title: The Drunkard, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2544
+Quarter 2 to Quarter 3: WMD = 0.2684
+Quarter 3 to Quarter 4: WMD = 0.3138
+
+Title: The Story of Keesh, London.txt
+Quarter 1 to Quarter 2: WMD = 0.1179
+Quarter 2 to Quarter 3: WMD = 0.1118
+Quarter 3 to Quarter 4: WMD = 0.1453
+
+Title: The Vendetta, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.4237
+Quarter 2 to Quarter 3: WMD = 0.2563
+Quarter 3 to Quarter 4: WMD = 0.1648
+
+Title: molting.txt
+Quarter 1 to Quarter 2: WMD = 0.4647
+Quarter 2 to Quarter 3: WMD = 0.1910
+Quarter 3 to Quarter 4: WMD = 0.3195
+
+Title: A Vagabond, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1761
+Quarter 2 to Quarter 3: WMD = 0.1230
+Quarter 3 to Quarter 4: WMD = 0.2319
+
+Title: The Tell-Tale Heart, Poe.txt
+Quarter 1 to Quarter 2: WMD = 0.1919
+Quarter 2 to Quarter 3: WMD = 0.1815
+Quarter 3 to Quarter 4: WMD = 0.1441
+
+Title: Robert Kennedy Saved From Drowning, Barthelme.txt
+Quarter 1 to Quarter 2: WMD = 0.2486
+Quarter 2 to Quarter 3: WMD = 0.2029
+Quarter 3 to Quarter 4: WMD = 0.1896
+
+Title: An Uncomfortable Bed, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.3468
+Quarter 2 to Quarter 3: WMD = 0.2685
+Quarter 3 to Quarter 4: WMD = 0.3508
+
+Title: Man From The South, Dahl.txt
+Quarter 1 to Quarter 2: WMD = 0.3066
+Quarter 2 to Quarter 3: WMD = 0.2720
+Quarter 3 to Quarter 4: WMD = 0.1789
+
+Title: Mademoiselle Fifi, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1925
+Quarter 2 to Quarter 3: WMD = 0.1040
+Quarter 3 to Quarter 4: WMD = 0.1000
+
+Title: The Burial of the Guns, Page.txt
+Quarter 1 to Quarter 2: WMD = 0.0941
+Quarter 2 to Quarter 3: WMD = 0.1148
+Quarter 3 to Quarter 4: WMD = 0.1712
+
+Title: coda.txt
+Quarter 1 to Quarter 2: WMD = 0.3843
+Quarter 2 to Quarter 3: WMD = 0.3502
+Quarter 3 to Quarter 4: WMD = 0.2346
+
+Title: Jim Baker_s Blue-Jay Yarn, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.2351
+Quarter 2 to Quarter 3: WMD = 0.3229
+Quarter 3 to Quarter 4: WMD = 0.3215
+
+Title: The Unrest-Cure, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2478
+Quarter 2 to Quarter 3: WMD = 0.3136
+Quarter 3 to Quarter 4: WMD = 0.3106
+
+Title: Mademoiselle Pearl, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2327
+Quarter 2 to Quarter 3: WMD = 0.1484
+Quarter 3 to Quarter 4: WMD = 0.2058
+
+Title: The Death Of A Government Clerk, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.3159
+Quarter 2 to Quarter 3: WMD = 0.1785
+Quarter 3 to Quarter 4: WMD = 0.2061
+
+Title: The Selfish Giant, Wilde.txt
+Quarter 1 to Quarter 2: WMD = 0.1816
+Quarter 2 to Quarter 3: WMD = 0.1995
+Quarter 3 to Quarter 4: WMD = 0.2145
+
+Title: The Child_s Story, Dickens.txt
+Quarter 1 to Quarter 2: WMD = 0.1499
+Quarter 2 to Quarter 3: WMD = 0.2033
+Quarter 3 to Quarter 4: WMD = 0.1614
+
+Title: After the Race, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.2399
+Quarter 2 to Quarter 3: WMD = 0.1856
+Quarter 3 to Quarter 4: WMD = 0.1719
+
+Title: An Affair of State, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2345
+Quarter 2 to Quarter 3: WMD = 0.2879
+Quarter 3 to Quarter 4: WMD = 0.1629
+
+Title: The Vertical Fields, Dawson.txt
+Quarter 1 to Quarter 2: WMD = 0.2034
+Quarter 2 to Quarter 3: WMD = 0.1992
+Quarter 3 to Quarter 4: WMD = 0.2016
+
+Title: The Storyteller, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2389
+Quarter 2 to Quarter 3: WMD = 0.2211
+Quarter 3 to Quarter 4: WMD = 0.1685
+
+Title: The Ambitious Guest, Hawthorne.txt
+Quarter 1 to Quarter 2: WMD = 0.1982
+Quarter 2 to Quarter 3: WMD = 0.1470
+Quarter 3 to Quarter 4: WMD = 0.1938
+
+Title: beautiful_animals.txt
+Quarter 1 to Quarter 2: WMD = 0.2702
+Quarter 2 to Quarter 3: WMD = 0.3017
+Quarter 3 to Quarter 4: WMD = 0.2458
+
+Title: The Street That Got Mislaid, Waddington.txt
+Quarter 1 to Quarter 2: WMD = 0.2897
+Quarter 2 to Quarter 3: WMD = 0.2388
+Quarter 3 to Quarter 4: WMD = 0.3041
+
+Title: The Shed Chamber, Richards.txt
+Quarter 1 to Quarter 2: WMD = 0.1012
+Quarter 2 to Quarter 3: WMD = 0.1396
+Quarter 3 to Quarter 4: WMD = 0.2131
+
+Title: The Unknown, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.3422
+Quarter 2 to Quarter 3: WMD = 0.2740
+Quarter 3 to Quarter 4: WMD = 0.2584
+
+Title: Hills like White Elephants.txt
+Quarter 1 to Quarter 2: WMD = 0.3222
+Quarter 2 to Quarter 3: WMD = 0.1486
+Quarter 3 to Quarter 4: WMD = 0.1760
+
+Title: postwar.txt
+Quarter 1 to Quarter 2: WMD = 0.2332
+Quarter 2 to Quarter 3: WMD = 0.3363
+Quarter 3 to Quarter 4: WMD = 0.2756
+
+Title: ON_AUGUST_EIGHTEENTH_AT_TEN_THIRTY_PM,_ANNIE_OTSUKA_WATCHED_HER_FIRST_JAPANESE_ANIMATED_FILM.txt
+Quarter 1 to Quarter 2: WMD = 0.2058
+Quarter 2 to Quarter 3: WMD = 0.1956
+Quarter 3 to Quarter 4: WMD = 0.2005
+
+Title: all_the_sea_in_the_fish.txt
+Quarter 1 to Quarter 2: WMD = 0.4345
+Quarter 2 to Quarter 3: WMD = 0.3307
+Quarter 3 to Quarter 4: WMD = 0.4652
+
+Title: Souls Belated, Wharton.txt
+Quarter 1 to Quarter 2: WMD = 0.1976
+Quarter 2 to Quarter 3: WMD = 0.1881
+Quarter 3 to Quarter 4: WMD = 0.1246
+
+Title: A Temporary Matter, Lahiri.txt
+Quarter 1 to Quarter 2: WMD = 0.1618
+Quarter 2 to Quarter 3: WMD = 0.1574
 Quarter 3 to Quarter 4: WMD = 0.1553
 
-Title: the_overcoat.txt
-Quarter 1 to Quarter 2: WMD = 0.1103
-Quarter 2 to Quarter 3: WMD = 0.1117
-Quarter 3 to Quarter 4: WMD = 0.0986
+Title: Vanka, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.3248
+Quarter 2 to Quarter 3: WMD = 0.2727
+Quarter 3 to Quarter 4: WMD = 0.3227
 
-Title: Sonny's Blues.txt
+Title: Useless Beauty, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2433
+Quarter 2 to Quarter 3: WMD = 0.2850
+Quarter 3 to Quarter 4: WMD = 0.2077
+
+Title: gretel's_dreams.txt
+Quarter 1 to Quarter 2: WMD = 0.2294
+Quarter 2 to Quarter 3: WMD = 0.4489
+Quarter 3 to Quarter 4: WMD = 0.4485
+
+Title: The Shoemaker And The Devil, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.1412
+Quarter 2 to Quarter 3: WMD = 0.1490
+Quarter 3 to Quarter 4: WMD = 0.2241
+
+Title: a_guided_tour_of_the_sistine_chapel_ceiling.txt
+Quarter 1 to Quarter 2: WMD = 0.2413
+Quarter 2 to Quarter 3: WMD = 0.3089
+Quarter 3 to Quarter 4: WMD = 0.1953
+
+Title: the_other_side_of_the_fence.txt
+Quarter 1 to Quarter 2: WMD = 0.3262
+Quarter 2 to Quarter 3: WMD = 0.4554
+Quarter 3 to Quarter 4: WMD = 0.5171
+
+Title: my_coworker’s_obituary_photograph.txt
+Quarter 1 to Quarter 2: WMD = 0.3122
+Quarter 2 to Quarter 3: WMD = 0.2713
+Quarter 3 to Quarter 4: WMD = 0.2520
+
+Title: How I Edited an Agricultural Paper, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.1841
+Quarter 2 to Quarter 3: WMD = 0.2324
+Quarter 3 to Quarter 4: WMD = 0.2131
+
+Title: career_counseling.txt
+Quarter 1 to Quarter 2: WMD = 0.2287
+Quarter 2 to Quarter 3: WMD = 0.1945
+Quarter 3 to Quarter 4: WMD = 0.2304
+
+Title: The Unkindest Blow, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.1945
+Quarter 2 to Quarter 3: WMD = 0.3320
+Quarter 3 to Quarter 4: WMD = 0.3327
+
+Title: she_was_warned.txt
+Quarter 1 to Quarter 2: WMD = 0.2075
+Quarter 2 to Quarter 3: WMD = 0.2119
+Quarter 3 to Quarter 4: WMD = 0.1809
+
+Title: Politics and the English Language, Orwell.txt
+Quarter 1 to Quarter 2: WMD = 0.0950
+Quarter 2 to Quarter 3: WMD = 0.1518
+Quarter 3 to Quarter 4: WMD = 0.1559
+
+Title: break.txt
+Quarter 1 to Quarter 2: WMD = 0.6406
+Quarter 2 to Quarter 3: WMD = 0.4132
+Quarter 3 to Quarter 4: WMD = 0.3927
+
+Title: How the Widow Won the Deacon, Lampton.txt
+Quarter 1 to Quarter 2: WMD = 0.2217
+Quarter 2 to Quarter 3: WMD = 0.1906
+Quarter 3 to Quarter 4: WMD = 0.1639
+
+Title: The Devil, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1854
+Quarter 2 to Quarter 3: WMD = 0.2051
+Quarter 3 to Quarter 4: WMD = 0.1589
+
+Title: Two Little Soldiers, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.3529
+Quarter 2 to Quarter 3: WMD = 0.2224
+Quarter 3 to Quarter 4: WMD = 0.2310
+
+Title: Skeleton Lake An Episode in Camp, Blackwood.txt
+Quarter 1 to Quarter 2: WMD = 0.2176
+Quarter 2 to Quarter 3: WMD = 0.1855
+Quarter 3 to Quarter 4: WMD = 0.1641
+
+Title: go_limp.txt
+Quarter 1 to Quarter 2: WMD = 0.5238
+Quarter 2 to Quarter 3: WMD = 0.3634
+Quarter 3 to Quarter 4: WMD = 0.3270
+
+Title: I_don't_think_of_you_until_I_do.txt
+Quarter 1 to Quarter 2: WMD = 0.2049
+Quarter 2 to Quarter 3: WMD = 0.2199
+Quarter 3 to Quarter 4: WMD = 0.2083
+
+Title: Julie Romain, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1614
+Quarter 2 to Quarter 3: WMD = 0.1572
+Quarter 3 to Quarter 4: WMD = 0.2012
+
+Title: analysis.txt
+Quarter 1 to Quarter 2: WMD = 0.5533
+Quarter 2 to Quarter 3: WMD = 0.6062
+Quarter 3 to Quarter 4: WMD = 0.4087
+
+Title: An Encounter, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.1794
+Quarter 2 to Quarter 3: WMD = 0.1885
+Quarter 3 to Quarter 4: WMD = 0.1436
+
+Title: The Time Machine, Wells.txt
+Quarter 1 to Quarter 2: WMD = 0.1524
+Quarter 2 to Quarter 3: WMD = 0.0726
+Quarter 3 to Quarter 4: WMD = 0.0968
+
+Title: Beware of the Dog, Dahl.txt
+Quarter 1 to Quarter 2: WMD = 0.1666
+Quarter 2 to Quarter 3: WMD = 0.1421
+Quarter 3 to Quarter 4: WMD = 0.1424
+
+Title: the_big_lemon.txt
+Quarter 1 to Quarter 2: WMD = 0.3292
+Quarter 2 to Quarter 3: WMD = 0.4232
+Quarter 3 to Quarter 4: WMD = 0.3030
+
+Title: Toine, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1624
+Quarter 2 to Quarter 3: WMD = 0.2784
+Quarter 3 to Quarter 4: WMD = 0.3058
+
+Title: irreversible.txt
+Quarter 1 to Quarter 2: WMD = 0.3113
+Quarter 2 to Quarter 3: WMD = 0.4181
+Quarter 3 to Quarter 4: WMD = 0.3536
+
+Title: mendelssohn.txt
+Quarter 1 to Quarter 2: WMD = 0.1307
+Quarter 2 to Quarter 3: WMD = 0.1154
+Quarter 3 to Quarter 4: WMD = 0.1386
+
+Title: jerry.txt
+Quarter 1 to Quarter 2: WMD = 0.4669
+Quarter 2 to Quarter 3: WMD = 0.3619
+Quarter 3 to Quarter 4: WMD = 0.2645
+
+Title: The Disappearance of Crispina Umberleigh,Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2321
+Quarter 2 to Quarter 3: WMD = 0.2190
+Quarter 3 to Quarter 4: WMD = 0.2804
+
+Title: The School, Barthelme.txt
+Quarter 1 to Quarter 2: WMD = 0.2680
+Quarter 2 to Quarter 3: WMD = 0.2824
+Quarter 3 to Quarter 4: WMD = 0.2452
+
+Title: How the Leopard Got His Spots, Kipling.txt
+Quarter 1 to Quarter 2: WMD = 0.3009
+Quarter 2 to Quarter 3: WMD = 0.1903
+Quarter 3 to Quarter 4: WMD = 0.2675
+
+Title: he_trying_to_say_something_and_couldn't_get_it_out.txt
+Quarter 1 to Quarter 2: WMD = 0.2774
+Quarter 2 to Quarter 3: WMD = 0.3514
+Quarter 3 to Quarter 4: WMD = 0.3739
+
+Title: His Wife_s Deceased Sister, Stockton.txt
+Quarter 1 to Quarter 2: WMD = 0.1210
+Quarter 2 to Quarter 3: WMD = 0.1818
+Quarter 3 to Quarter 4: WMD = 0.1352
+
+Title: the_fully-conducted_tour.txt
+Quarter 1 to Quarter 2: WMD = 0.2414
+Quarter 2 to Quarter 3: WMD = 0.1843
+Quarter 3 to Quarter 4: WMD = 0.1753
+
+Title: the_boathouse.txt
+Quarter 1 to Quarter 2: WMD = 0.1792
+Quarter 2 to Quarter 3: WMD = 0.2233
+Quarter 3 to Quarter 4: WMD = 0.2007
+
+Title: The Velveteen Rabbit, Williams.txt
+Quarter 1 to Quarter 2: WMD = 0.2341
+Quarter 2 to Quarter 3: WMD = 0.2162
+Quarter 3 to Quarter 4: WMD = 0.1711
+
+Title: network.txt
+Quarter 1 to Quarter 2: WMD = 0.5828
+Quarter 2 to Quarter 3: WMD = 0.3651
+Quarter 3 to Quarter 4: WMD = 0.5397
+
+Title: bad_luck_meditation.txt
+Quarter 1 to Quarter 2: WMD = 0.5094
+Quarter 2 to Quarter 3: WMD = 0.5257
+Quarter 3 to Quarter 4: WMD = 0.4438
+
+Title: sink_monkey.txt
+Quarter 1 to Quarter 2: WMD = 0.3611
+Quarter 2 to Quarter 3: WMD = 0.4613
+Quarter 3 to Quarter 4: WMD = 0.4240
+
+Title: the_huntress.txt
+Quarter 1 to Quarter 2: WMD = 0.5111
+Quarter 2 to Quarter 3: WMD = 0.5095
+Quarter 3 to Quarter 4: WMD = 0.4944
+
+Title: The Whirligig of Life, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.3762
+Quarter 2 to Quarter 3: WMD = 0.1866
+Quarter 3 to Quarter 4: WMD = 0.2982
+
+Title: new_fruit.txt
+Quarter 1 to Quarter 2: WMD = 0.1963
+Quarter 2 to Quarter 3: WMD = 0.1985
+Quarter 3 to Quarter 4: WMD = 0.1947
+
+Title: The Aleph, Borges.txt
+Quarter 1 to Quarter 2: WMD = 0.1975
+Quarter 2 to Quarter 3: WMD = 0.2817
+Quarter 3 to Quarter 4: WMD = 0.1754
+
+Title: The School of English, Mantel.txt
+Quarter 1 to Quarter 2: WMD = 0.2234
+Quarter 2 to Quarter 3: WMD = 0.2183
+Quarter 3 to Quarter 4: WMD = 0.1358
+
+Title: A Vine on a House, Bierce.txt
+Quarter 1 to Quarter 2: WMD = 0.3813
+Quarter 2 to Quarter 3: WMD = 0.2575
+Quarter 3 to Quarter 4: WMD = 0.2610
+
+Title: The Strangers That Came to Town, Flack.txt
+Quarter 1 to Quarter 2: WMD = 0.2167
+Quarter 2 to Quarter 3: WMD = 0.1375
+Quarter 3 to Quarter 4: WMD = 0.1630
+
+Title: tacky_goblin.txt
+Quarter 1 to Quarter 2: WMD = 0.2502
+Quarter 2 to Quarter 3: WMD = 0.2634
+Quarter 3 to Quarter 4: WMD = 0.3740
+
+Title: inauguration.txt
+Quarter 1 to Quarter 2: WMD = 0.4362
+Quarter 2 to Quarter 3: WMD = 0.4580
+Quarter 3 to Quarter 4: WMD = 0.3207
+
+Title: How to Tell a True War Story, Hemmingway.txt
+Quarter 1 to Quarter 2: WMD = 0.2350
+Quarter 2 to Quarter 3: WMD = 0.1771
+Quarter 3 to Quarter 4: WMD = 0.2135
+
+Title: The Schartz-Metterklume Method, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2899
+Quarter 2 to Quarter 3: WMD = 0.2064
+Quarter 3 to Quarter 4: WMD = 0.1703
+
+Title: The Donkey, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2321
+Quarter 2 to Quarter 3: WMD = 0.1871
+Quarter 3 to Quarter 4: WMD = 0.3261
+
+Title: A Telephone Call, Parker.txt
+Quarter 1 to Quarter 2: WMD = 0.1703
+Quarter 2 to Quarter 3: WMD = 0.1697
+Quarter 3 to Quarter 4: WMD = 0.2111
+
+Title: hungarian_sprats.txt
+Quarter 1 to Quarter 2: WMD = 0.2579
+Quarter 2 to Quarter 3: WMD = 0.6852
+Quarter 3 to Quarter 4: WMD = 0.0758
+
+Title: a_syrian_winter.txt
+Quarter 1 to Quarter 2: WMD = 0.2805
+Quarter 2 to Quarter 3: WMD = 0.4039
+Quarter 3 to Quarter 4: WMD = 0.3700
+
+Title: A Sound of Thunder, Bradbury.txt
+Quarter 1 to Quarter 2: WMD = 0.1758
+Quarter 2 to Quarter 3: WMD = 0.2326
+Quarter 3 to Quarter 4: WMD = 0.2045
+
+Title: The Egg, Anderson.txt
+Quarter 1 to Quarter 2: WMD = 0.1488
+Quarter 2 to Quarter 3: WMD = 0.1746
+Quarter 3 to Quarter 4: WMD = 0.1742
+
+Title: picnic.txt
+Quarter 1 to Quarter 2: WMD = 0.3356
+Quarter 2 to Quarter 3: WMD = 0.3170
+Quarter 3 to Quarter 4: WMD = 0.3946
+
+Title: abyssal_gigantism.txt
+Quarter 1 to Quarter 2: WMD = 0.1743
+Quarter 2 to Quarter 3: WMD = 0.1716
+Quarter 3 to Quarter 4: WMD = 0.1367
+
+Title: The Elephant_s Child, Kipling.txt
+Quarter 1 to Quarter 2: WMD = 0.2497
+Quarter 2 to Quarter 3: WMD = 0.1627
+Quarter 3 to Quarter 4: WMD = 0.2189
+
+Title: The Coming-Out of Maggie, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.2217
+Quarter 2 to Quarter 3: WMD = 0.2303
+Quarter 3 to Quarter 4: WMD = 0.2641
+
+Title: origami.txt
+Quarter 1 to Quarter 2: WMD = 0.3177
+Quarter 2 to Quarter 3: WMD = 0.2459
+Quarter 3 to Quarter 4: WMD = 0.2915
+
+Title: The Cask of Amontillado, Poe.txt
+Quarter 1 to Quarter 2: WMD = 0.1772
+Quarter 2 to Quarter 3: WMD = 0.1249
+Quarter 3 to Quarter 4: WMD = 0.2054
+
+Title: Game, Barthleme.txt
+Quarter 1 to Quarter 2: WMD = 0.2763
+Quarter 2 to Quarter 3: WMD = 0.2486
+Quarter 3 to Quarter 4: WMD = 0.2366
+
+Title: Afterward, Wharton.txt
+Quarter 1 to Quarter 2: WMD = 0.1231
+Quarter 2 to Quarter 3: WMD = 0.1142
+Quarter 3 to Quarter 4: WMD = 0.1274
+
+Title: Keeping Watch, Jacobs.txt
+Quarter 1 to Quarter 2: WMD = 0.2363
+Quarter 2 to Quarter 3: WMD = 0.1255
+Quarter 3 to Quarter 4: WMD = 0.1521
+
+Title: That Pig of a Morin, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.1364
+Quarter 2 to Quarter 3: WMD = 0.1769
+Quarter 3 to Quarter 4: WMD = 0.1133
+
+Title: the_game.txt
+Quarter 1 to Quarter 2: WMD = 0.3521
+Quarter 2 to Quarter 3: WMD = 0.3852
+Quarter 3 to Quarter 4: WMD = 0.4088
+
+Title: Girl, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.2563
+Quarter 2 to Quarter 3: WMD = 0.3036
+Quarter 3 to Quarter 4: WMD = 0.2710
+
+Title: scan.txt
+Quarter 1 to Quarter 2: WMD = 0.3668
+Quarter 2 to Quarter 3: WMD = 0.4012
+Quarter 3 to Quarter 4: WMD = 0.3268
+
+Title: The Dreamer, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2098
+Quarter 2 to Quarter 3: WMD = 0.2224
+Quarter 3 to Quarter 4: WMD = 0.2291
+
+Title: How Santa Claus Came to Simpson_s Bar, Harte.txt
+Quarter 1 to Quarter 2: WMD = 0.1629
+Quarter 2 to Quarter 3: WMD = 0.0679
+Quarter 3 to Quarter 4: WMD = 0.1823
+
+Title: Jimmy Scarecrow_s Christmas, Freeman.txt
+Quarter 1 to Quarter 2: WMD = 0.2374
+Quarter 2 to Quarter 3: WMD = 0.3276
+Quarter 3 to Quarter 4: WMD = 0.2679
+
+Title: The Enchanted Bluff, Cather.txt
+Quarter 1 to Quarter 2: WMD = 0.2984
+Quarter 2 to Quarter 3: WMD = 0.1733
+Quarter 3 to Quarter 4: WMD = 0.2025
+
+Title: The Darling, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.0818
+Quarter 2 to Quarter 3: WMD = 0.1184
+Quarter 3 to Quarter 4: WMD = 0.1858
+
+Title: rescue.txt
+Quarter 1 to Quarter 2: WMD = 0.1623
+Quarter 2 to Quarter 3: WMD = 0.1767
+Quarter 3 to Quarter 4: WMD = 0.1546
+
+Title: jean_wants.txt
+Quarter 1 to Quarter 2: WMD = 0.3432
+Quarter 2 to Quarter 3: WMD = 0.3808
+Quarter 3 to Quarter 4: WMD = 0.2668
+
+Title: alien_hunters.txt
+Quarter 1 to Quarter 2: WMD = 0.3979
+Quarter 2 to Quarter 3: WMD = 0.2812
+Quarter 3 to Quarter 4: WMD = 0.2738
+
+Title: In The Ravine, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.1281
+Quarter 2 to Quarter 3: WMD = 0.0983
+Quarter 3 to Quarter 4: WMD = 0.0875
+
+Title: An Occurrence at Owl Creek Bridge, Bierce.txt
+Quarter 1 to Quarter 2: WMD = 0.1517
+Quarter 2 to Quarter 3: WMD = 0.1472
+Quarter 3 to Quarter 4: WMD = 0.1230
+
+Title: dance_dance_revolution.txt
+Quarter 1 to Quarter 2: WMD = 0.3417
+Quarter 2 to Quarter 3: WMD = 0.2595
+Quarter 3 to Quarter 4: WMD = 0.2912
+
+Title: What Occurred at Franklin, Bierce.txt
+Quarter 1 to Quarter 2: WMD = 0.1011
+Quarter 2 to Quarter 3: WMD = 0.1543
+Quarter 3 to Quarter 4: WMD = 0.1548
+
+Title: uncle_ray_intercedes_for_us.txt
+Quarter 1 to Quarter 2: WMD = 0.5651
+Quarter 2 to Quarter 3: WMD = 0.6480
+Quarter 3 to Quarter 4: WMD = 0.9481
+
+Title: To Build a Fire, London.txt
+Quarter 1 to Quarter 2: WMD = 0.1033
+Quarter 2 to Quarter 3: WMD = 0.1755
+Quarter 3 to Quarter 4: WMD = 0.1407
+
+Title: postcards.txt
+Quarter 1 to Quarter 2: WMD = 0.4225
+Quarter 2 to Quarter 3: WMD = 0.5159
+Quarter 3 to Quarter 4: WMD = 0.3888
+
+Title: The Wind_s Tale, Andersen.txt
+Quarter 1 to Quarter 2: WMD = 0.0980
+Quarter 2 to Quarter 3: WMD = 0.1466
+Quarter 3 to Quarter 4: WMD = 0.2153
+
+Title: Hermann The Irascible, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.3553
+Quarter 2 to Quarter 3: WMD = 0.3111
+Quarter 3 to Quarter 4: WMD = 0.2801
+
+Title: l'heure_bleue.txt
+Quarter 1 to Quarter 2: WMD = 0.3953
+Quarter 2 to Quarter 3: WMD = 0.4248
+Quarter 3 to Quarter 4: WMD = 0.3173
+
+Title: saturday_night_special.txt
+Quarter 1 to Quarter 2: WMD = 0.1721
+Quarter 2 to Quarter 3: WMD = 0.2173
+Quarter 3 to Quarter 4: WMD = 0.2294
+
+Title: honest_open_willing.txt
+Quarter 1 to Quarter 2: WMD = 0.3277
+Quarter 2 to Quarter 3: WMD = 0.2497
+Quarter 3 to Quarter 4: WMD = 0.2363
+
+Title: The Thorny Road of Honor, Andersen.txt
+Quarter 1 to Quarter 2: WMD = 0.1936
+Quarter 2 to Quarter 3: WMD = 0.2164
+Quarter 3 to Quarter 4: WMD = 0.1893
+
+Title: Humiliation, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.5234
+Quarter 2 to Quarter 3: WMD = 0.4401
+Quarter 3 to Quarter 4: WMD = 0.3063
+
+Title: The Way to the Dairy, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2259
+Quarter 2 to Quarter 3: WMD = 0.1867
+Quarter 3 to Quarter 4: WMD = 0.2036
+
+Title: perspective.txt
+Quarter 1 to Quarter 2: WMD = 0.3147
+Quarter 2 to Quarter 3: WMD = 0.4380
+Quarter 3 to Quarter 4: WMD = 0.3579
+
+Title: escape_plans.txt
+Quarter 1 to Quarter 2: WMD = 0.3859
+Quarter 2 to Quarter 3: WMD = 0.5307
+Quarter 3 to Quarter 4: WMD = 0.6651
+
+Title: natural_order.txt
+Quarter 1 to Quarter 2: WMD = 0.3677
+Quarter 2 to Quarter 3: WMD = 0.3479
+Quarter 3 to Quarter 4: WMD = 0.2894
+
+Title: with_gun.txt
+Quarter 1 to Quarter 2: WMD = 0.4249
+Quarter 2 to Quarter 3: WMD = 0.3392
+Quarter 3 to Quarter 4: WMD = 0.3933
+
+Title: the_righting_reflex.txt
+Quarter 1 to Quarter 2: WMD = 0.4195
+Quarter 2 to Quarter 3: WMD = 0.3364
+Quarter 3 to Quarter 4: WMD = 0.4099
+
+Title: Brokeback Mountain, Proulx.txt
+Quarter 1 to Quarter 2: WMD = 0.2131
+Quarter 2 to Quarter 3: WMD = 0.1026
+Quarter 3 to Quarter 4: WMD = 0.1361
+
+Title: Just Before the War with the Eskimos, Salinger.txt
+Quarter 1 to Quarter 2: WMD = 0.1755
+Quarter 2 to Quarter 3: WMD = 0.1663
+Quarter 3 to Quarter 4: WMD = 0.1674
+
+Title: Gentle Hand, Rinehart.txt
+Quarter 1 to Quarter 2: WMD = 0.1946
+Quarter 2 to Quarter 3: WMD = 0.2237
+Quarter 3 to Quarter 4: WMD = 0.1934
+
+Title: The Boy And The Filberts, Aesop.txt
+Quarter 1 to Quarter 2: WMD = 0.4803
+Quarter 2 to Quarter 3: WMD = 0.5080
+Quarter 3 to Quarter 4: WMD = 0.7500
+
+Title: Two Gallants, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.2517
+Quarter 2 to Quarter 3: WMD = 0.3155
+Quarter 3 to Quarter 4: WMD = 0.1277
+
+Title: Bertie_s Christmas Eve, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.1828
+Quarter 2 to Quarter 3: WMD = 0.1658
+Quarter 3 to Quarter 4: WMD = 0.1919
+
+Title: The Star, Wells.txt
+Quarter 1 to Quarter 2: WMD = 0.1881
+Quarter 2 to Quarter 3: WMD = 0.2128
+Quarter 3 to Quarter 4: WMD = 0.1051
+
+Title: Hyacinth, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.2034
+Quarter 2 to Quarter 3: WMD = 0.3053
+Quarter 3 to Quarter 4: WMD = 0.2477
+
+Title: the_miss_april_houses.txt
+Quarter 1 to Quarter 2: WMD = 0.2072
+Quarter 2 to Quarter 3: WMD = 0.2189
+Quarter 3 to Quarter 4: WMD = 0.2709
+
+Title: Tennessee_s Partner, Harte.txt
+Quarter 1 to Quarter 2: WMD = 0.1833
+Quarter 2 to Quarter 3: WMD = 0.1796
+Quarter 3 to Quarter 4: WMD = 0.1876
+
+Title: The Boarded Window, Bierce.txt
+Quarter 1 to Quarter 2: WMD = 0.1850
+Quarter 2 to Quarter 3: WMD = 0.1870
+Quarter 3 to Quarter 4: WMD = 0.2236
+
+Title: as_close_as_we_dare.txt
+Quarter 1 to Quarter 2: WMD = 0.2904
+Quarter 2 to Quarter 3: WMD = 0.2943
+Quarter 3 to Quarter 4: WMD = 0.2658
+
+Title: the_meat_bee.txt
+Quarter 1 to Quarter 2: WMD = 0.2033
+Quarter 2 to Quarter 3: WMD = 0.1629
+Quarter 3 to Quarter 4: WMD = 0.3276
+
+Title: triple_goddess.txt
+Quarter 1 to Quarter 2: WMD = 0.2706
+Quarter 2 to Quarter 3: WMD = 0.2825
+Quarter 3 to Quarter 4: WMD = 0.1664
+
+Title: child_psychology.txt
+Quarter 1 to Quarter 2: WMD = 0.4877
+Quarter 2 to Quarter 3: WMD = 0.4466
+Quarter 3 to Quarter 4: WMD = 0.5220
+
+Title: delicately,_I_beg_of_you.txt
+Quarter 1 to Quarter 2: WMD = 0.2197
+Quarter 2 to Quarter 3: WMD = 0.2333
+Quarter 3 to Quarter 4: WMD = 0.3014
+
+Title: Lost in the Funhouse, Barth.txt
+Quarter 1 to Quarter 2: WMD = 0.1740
+Quarter 2 to Quarter 3: WMD = 0.1590
+Quarter 3 to Quarter 4: WMD = 0.1753
+
+Title: daughters_of_the_air.txt
+Quarter 1 to Quarter 2: WMD = 0.2893
+Quarter 2 to Quarter 3: WMD = 0.4135
+Quarter 3 to Quarter 4: WMD = 0.2572
+
+Title: The Romance of a Busy Broker, Henry.txt
+Quarter 1 to Quarter 2: WMD = 0.3338
+Quarter 2 to Quarter 3: WMD = 0.1902
+Quarter 3 to Quarter 4: WMD = 0.4545
+
+Title: The Egg, Weir.txt
+Quarter 1 to Quarter 2: WMD = 0.2365
+Quarter 2 to Quarter 3: WMD = 0.2441
+Quarter 3 to Quarter 4: WMD = 0.3044
+
+Title: the_edifice.txt
+Quarter 1 to Quarter 2: WMD = 0.3592
+Quarter 2 to Quarter 3: WMD = 0.5272
+Quarter 3 to Quarter 4: WMD = 0.3490
+
+Title: The Wolves of Cernogatz, Munro.txt
+Quarter 1 to Quarter 2: WMD = 0.3571
+Quarter 2 to Quarter 3: WMD = 0.1758
+Quarter 3 to Quarter 4: WMD = 0.2995
+
+Title: The Alchemist, Lovecraft.txt
+Quarter 1 to Quarter 2: WMD = 0.1710
+Quarter 2 to Quarter 3: WMD = 0.1856
+Quarter 3 to Quarter 4: WMD = 0.2382
+
+Title: the_couplet.txt
+Quarter 1 to Quarter 2: WMD = 0.3106
+Quarter 2 to Quarter 3: WMD = 0.3903
+Quarter 3 to Quarter 4: WMD = 0.3340
+
+Title: Indian Uprising, Barthelme.txt
+Quarter 1 to Quarter 2: WMD = 0.2100
+Quarter 2 to Quarter 3: WMD = 0.2209
+Quarter 3 to Quarter 4: WMD = 0.2816
+
+Title: The Aged Mother, Basho.txt
+Quarter 1 to Quarter 2: WMD = 0.2565
+Quarter 2 to Quarter 3: WMD = 0.2783
+Quarter 3 to Quarter 4: WMD = 0.2372
+
+Title: A Telephonic Conversation, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.3114
+Quarter 2 to Quarter 3: WMD = 0.2232
+Quarter 3 to Quarter 4: WMD = 0.2415
+
+Title: Rappaccini_s Daughter, Hawthorne.txt
+Quarter 1 to Quarter 2: WMD = 0.1339
+Quarter 2 to Quarter 3: WMD = 0.0951
+Quarter 3 to Quarter 4: WMD = 0.1233
+
+Title: Two Men come to a Village, Smith.txt
+Quarter 1 to Quarter 2: WMD = 0.3512
+Quarter 2 to Quarter 3: WMD = 0.2292
+Quarter 3 to Quarter 4: WMD = 0.2196
+
+Title: The Dead, Joyce.txt
+Quarter 1 to Quarter 2: WMD = 0.0954
+Quarter 2 to Quarter 3: WMD = 0.1512
+Quarter 3 to Quarter 4: WMD = 0.1959
+
+Title: Aloha Oe, London.txt
+Quarter 1 to Quarter 2: WMD = 0.2900
+Quarter 2 to Quarter 3: WMD = 0.1735
+Quarter 3 to Quarter 4: WMD = 0.2245
+
+Title: Yvette, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2597
+Quarter 2 to Quarter 3: WMD = 0.2134
+Quarter 3 to Quarter 4: WMD = 0.1870
+
+Title: moonlight_paddle_in_machac_swamp.txt
+Quarter 1 to Quarter 2: WMD = 0.2236
+Quarter 2 to Quarter 3: WMD = 0.2678
+Quarter 3 to Quarter 4: WMD = 0.3510
+
+Title: Alexandre, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2286
+Quarter 2 to Quarter 3: WMD = 0.2648
+Quarter 3 to Quarter 4: WMD = 0.2097
+
+Title: re_clients.txt
+Quarter 1 to Quarter 2: WMD = 0.4420
+Quarter 2 to Quarter 3: WMD = 0.4352
+Quarter 3 to Quarter 4: WMD = 0.2103
+
+Title: The Door, White.txt
+Quarter 1 to Quarter 2: WMD = 0.2146
+Quarter 2 to Quarter 3: WMD = 0.1739
+Quarter 3 to Quarter 4: WMD = 0.2178
+
+Title: out_of_nowhere.txt
+Quarter 1 to Quarter 2: WMD = 0.6336
+Quarter 2 to Quarter 3: WMD = 0.4546
+Quarter 3 to Quarter 4: WMD = 0.5776
+
+Title: Italian without a Master, Twain.txt
+Quarter 1 to Quarter 2: WMD = 0.2054
+Quarter 2 to Quarter 3: WMD = 0.3040
+Quarter 3 to Quarter 4: WMD = 0.3049
+
+Title: Uncle Wiggily in Connecticut, Salinger.txt
+Quarter 1 to Quarter 2: WMD = 0.2932
+Quarter 2 to Quarter 3: WMD = 0.2293
+Quarter 3 to Quarter 4: WMD = 0.2833
+
+Title: In the Wood, Maupassant.txt
+Quarter 1 to Quarter 2: WMD = 0.2222
+Quarter 2 to Quarter 3: WMD = 0.1799
+Quarter 3 to Quarter 4: WMD = 0.2159
+
+Title: Goodbye to all That, Didion.txt
+Quarter 1 to Quarter 2: WMD = 0.2063
+Quarter 2 to Quarter 3: WMD = 0.1703
+Quarter 3 to Quarter 4: WMD = 0.1599
+
+Title: Victory Lap, Saunders.txt
+Quarter 1 to Quarter 2: WMD = 0.2265
+Quarter 2 to Quarter 3: WMD = 0.2675
+Quarter 3 to Quarter 4: WMD = 0.1463
+
+Title: The Use of Force, Williams.txt
+Quarter 1 to Quarter 2: WMD = 0.3041
+Quarter 2 to Quarter 3: WMD = 0.1975
+Quarter 3 to Quarter 4: WMD = 0.2436
+
+Title: raw_season.txt
+Quarter 1 to Quarter 2: WMD = 0.1121
+Quarter 2 to Quarter 3: WMD = 0.1102
+Quarter 3 to Quarter 4: WMD = 0.1369
+
+Title: take_five_hundred_new_nightmares.txt
+Quarter 1 to Quarter 2: WMD = 0.4408
+Quarter 2 to Quarter 3: WMD = 0.4404
+Quarter 3 to Quarter 4: WMD = 0.4139
+
+Title: hall_of_hantings.txt
+Quarter 1 to Quarter 2: WMD = 0.2595
+Quarter 2 to Quarter 3: WMD = 0.3102
+Quarter 3 to Quarter 4: WMD = 0.2965
+
+Title: Sonny_s Blues, Baldwin.txt
 Quarter 1 to Quarter 2: WMD = 0.0997
 Quarter 2 to Quarter 3: WMD = 0.0884
 Quarter 3 to Quarter 4: WMD = 0.1248
 
-Title: where_are_you_going_where_have_you_been.txt
-Quarter 1 to Quarter 2: WMD = 0.2169
-Quarter 2 to Quarter 3: WMD = 0.0833
-Quarter 3 to Quarter 4: WMD = 0.1259
+Title: A Rose for Emily, Faulkner.txt
+Quarter 1 to Quarter 2: WMD = 0.1157
+Quarter 2 to Quarter 3: WMD = 0.1743
+Quarter 3 to Quarter 4: WMD = 0.1957
+
+Title: A Slander, Chekhov.txt
+Quarter 1 to Quarter 2: WMD = 0.4165
+Quarter 2 to Quarter 3: WMD = 0.2292
+Quarter 3 to Quarter 4: WMD = 0.3345
 
