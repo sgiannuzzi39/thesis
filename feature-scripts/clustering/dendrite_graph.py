@@ -1,72 +1,62 @@
-"""
-SETUP: conda activate py39
-Code co-authored with ChatGPT
-"""
-
 import os
-import glob
-from sklearn.feature_extraction.text import TfidfVectorizer
-from scipy.cluster.hierarchy import dendrogram, linkage
-import matplotlib.pyplot as plt
+import random
 import numpy as np
+import matplotlib.pyplot as plt
+import scipy.cluster.hierarchy as sch
+from sklearn.feature_extraction.text import TfidfVectorizer
+from matplotlib.patches import Patch
 
-def load_texts_from_directory(directory):
-    texts = []
-    titles = []
-    for filepath in glob.glob(os.path.join(directory, "*.txt")):
-        with open(filepath, 'r', encoding='utf-8') as file:
-            content = file.read()
-            texts.append(content)
-            first_line = content.splitlines()[0]
-            if first_line.startswith("Title: "):
-                title = first_line.replace("Title: ", "").strip()
-            else:
-                title = os.path.basename(filepath)  
-            titles.append(title)
-    return texts, titles
+ai_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/generated-stories"
+human_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/human-stories"
 
-ai_dir = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/generated-stories"
-human_dir = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/human-stories"
+def load_random_stories(folder, label, num_samples=50):
+    files = [f for f in os.listdir(folder) if f.endswith(".txt")]
+    selected_files = random.sample(files, min(num_samples, len(files)))
+    stories = []
+    labels = []
+    
+    for file in selected_files:
+        file_path = os.path.join(folder, file)
+        with open(file_path, "r", encoding="utf-8") as f:
+            text = f.read()
+            formatted_name = file.replace(".txt", "").replace("_", " ")
+            formatted_name = formatted_name.split(",")[0]  
+            formatted_name = formatted_name.title() 
+            stories.append(text)
+            labels.append((formatted_name, label))  
+    
+    return stories, labels
 
-ai_texts, ai_titles = load_texts_from_directory(ai_dir)
-human_texts, human_titles = load_texts_from_directory(human_dir)
+ai_stories, ai_labels = load_random_stories(ai_folder, "AI")
+human_stories, human_labels = load_random_stories(human_folder, "Human")
 
-all_texts = ai_texts + human_texts
-all_labels = ["Generated: " + title for title in ai_titles] + ["Human: " + title for title in human_titles]
+all_stories = ai_stories + human_stories
+all_labels = ai_labels + human_labels
 
-vectorizer = TfidfVectorizer(stop_words='english', max_features=1000)
-tfidf_matrix = vectorizer.fit_transform(all_texts)
+vectorizer = TfidfVectorizer(max_features=1000, stop_words="english")
+X = vectorizer.fit_transform(all_stories).toarray()
 
-linkage_matrix = linkage(tfidf_matrix.toarray(), method='ward')
+linkage_matrix = sch.linkage(X, method="ward")
 
-def label_colors(label):
-    if label.startswith("Generated: "):
-        return 'blue'
-    elif label.startswith("Human: "):
-        return 'green'
-    return 'black'
+plt.figure(figsize=(14, 7))
+dendrogram = sch.dendrogram(linkage_matrix, labels=[label[0] for label in all_labels], leaf_rotation=90, leaf_font_size=8)
 
-plt.figure(figsize=(12, 8))
-dendrogram(
-    linkage_matrix,
-    labels=all_labels,
-    leaf_rotation=90,
-    leaf_font_size=10,
-    leaf_label_func=lambda x: f"{all_labels[int(x)]}",
-    color_threshold=0
-)
 ax = plt.gca()
-xlbls = ax.get_xmajorticklabels()
-for lbl in xlbls:
+x_labels = ax.get_xticklabels()
+for lbl in x_labels:
     text = lbl.get_text()
-    lbl.set_color(label_colors(text))
+    for name, label in all_labels:
+        if text == name:
+            lbl.set_color("blue" if label == "AI" else "green")
+            break 
 
-plt.title("Hierarchical Clustering Dendrogram")
-plt.xlabel("Story")
-plt.ylabel("Distance")
+legend_elements = [Patch(facecolor="blue", edgecolor="blue", label="AI-Generated Stories"),
+                   Patch(facecolor="green", edgecolor="green", label="Human-Written Stories")]
+plt.legend(handles=legend_elements, loc="upper right", fontsize=10, frameon=False)
+
+plt.title("Dendrogram of AI-written vs Human-written Short Stories", fontsize=14)
+plt.xlabel("Short Story", fontsize=12)
+plt.ylabel("Distance", fontsize=12)
+plt.xticks(rotation=90)
 plt.tight_layout()
-
-output_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/clustering/results/dendrogram.png"
-os.makedirs(os.path.dirname(output_path), exist_ok=True)
-plt.savefig(output_path)
 plt.show()
