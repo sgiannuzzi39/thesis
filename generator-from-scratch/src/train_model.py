@@ -1,3 +1,4 @@
+import os
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, TrainingArguments, Trainer
 from datasets import Dataset
 
@@ -8,28 +9,50 @@ class CustomTrainer(Trainer):
         loss = outputs.loss
         return (loss, outputs) if return_outputs else loss
 
-def fine_tune_model(corpus):
+def load_corpus_from_folder(folder_path):
+    stories = []
+    for filename in sorted(os.listdir(folder_path)):
+        if filename.endswith(".txt"):
+            with open(os.path.join(folder_path, filename), "r", encoding="utf-8") as f:
+                stories.append(f.read().strip())
+    return " ".join(stories)
+
+def fine_tune_model(corpus_path, output_dir):
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
     tokenizer.pad_token = tokenizer.eos_token
 
     model = GPT2LMHeadModel.from_pretrained("gpt2")
-    
-    def tokenize_function(examples):
-        return tokenizer(examples['text'], padding="max_length", truncation=True, max_length=512)
 
-    dataset = Dataset.from_dict({"text": [corpus]})
+    # Load and preprocess the dataset
+    print(f"Loading corpus from: {corpus_path}")
+    corpus = load_corpus_from_folder(corpus_path)
+    chunk_size = 512
+    corpus_chunks = [corpus[i:i+chunk_size] for i in range(0, len(corpus), chunk_size)]
+    dataset = Dataset.from_dict({"text": corpus_chunks})
+
+    def tokenize_function(examples):
+        return tokenizer(
+            examples['text'], 
+            padding="max_length", 
+            truncation=True, 
+            max_length=512
+        )
+
+    print("Tokenizing dataset...")
     tokenized_dataset = dataset.map(tokenize_function, batched=True)
 
     training_args = TrainingArguments(
-        output_dir="./results",
+        output_dir=output_dir,
         per_device_train_batch_size=1,
-        num_train_epochs=3,  # Reduced the number of epochs to lower memory usage
+        num_train_epochs=3,
         learning_rate=5e-5,
-        logging_dir='./logs',
+        logging_dir=f"{output_dir}/logs",
         logging_steps=10,
-        gradient_accumulation_steps=4,  # Reduced gradient accumulation steps
+        gradient_accumulation_steps=4,
+        save_steps=500,
+        save_total_limit=2,
         fp16=False,
-        dataloader_num_workers=0,  # Disable multiprocessing for data loading
+        dataloader_num_workers=0,
         report_to="none"
     )
 
@@ -39,6 +62,9 @@ def fine_tune_model(corpus):
         train_dataset=tokenized_dataset,
     )
 
+    print("Starting training...")
     trainer.train()
-    model.save_pretrained("./fine_tuned_gpt2")
-    tokenizer.save_pretrained("./fine_tuned_gpt2")
+
+    print(f"Saving fine-tuned model to: {output_dir}")
+    model.save_pretrained(output_dir)
+    tokenizer.save_pretrained(output_dir)
