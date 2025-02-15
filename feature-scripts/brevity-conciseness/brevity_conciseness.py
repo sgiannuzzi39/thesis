@@ -92,7 +92,6 @@ def analyze_folder(folder_path, unnecessary_words, output_file):
             median_chars_list.append(analysis_result["median_characters_per_sentence"])
             total_files += 1
 
-            # **Ensuring median values are included in results.txt**
             results.append(f"Title: {title}\n"
                            f"Unnecessary words: {analysis_result['unnecessary_word_count']}\n"
                            f"Parts of Speech: {analysis_result['pos_counts']}\n"
@@ -118,7 +117,6 @@ def analyze_folder(folder_path, unnecessary_words, output_file):
         for result in results:
             output.write(result)
 
-        # **Ensuring median values are included in the aggregated stats section**
         output.write("### Averages Across All Files ###\n\n")
         output.write(f"Average unnecessary words: {avg_metrics['unnecessary_word_count']:.2f}\n")
         output.write(f"Average parts of speech: {dict(avg_metrics)}\n")

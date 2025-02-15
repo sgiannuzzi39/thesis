@@ -1,3 +1,9 @@
+''' 
+    SETUP: conda activate spacy_env
+    Code co-authored with ChatGPT
+
+'''
+
 import os
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -14,15 +20,6 @@ def calculate_median(values):
     return statistics.median(values) if values else 0
 
 def parse_results(file_path):
-    """
-    Parses results from a text file into structured data.
-    
-    Args:
-        file_path (str): Path to the results file.
-    
-    Returns:
-        dict: A dictionary with lists of extracted numerical data.
-    """
     data = {
         "Total words": [],
         "Total characters": [],
@@ -34,7 +31,7 @@ def parse_results(file_path):
     }
 
     if not os.path.exists(file_path):
-        print(f"❌ File not found: {file_path}")
+        print(f"File not found: {file_path}")
         return data  # Return empty data if file is missing
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -59,15 +56,6 @@ def parse_results(file_path):
     return data
 
 def create_bar_whisker_plot(data_human, data_generated, label, output_filename):
-    """
-    Creates a bar and whisker plot for a specific metric.
-
-    Args:
-        data_human (list): List of values for human-written works.
-        data_generated (list): List of values for generated works.
-        label (str): The label for the metric to visualize.
-        output_filename (str): Filename to save the plot.
-    """
     data = [data_human, data_generated]
     boxprops = dict(facecolor="white", color="black")
     meanprops = dict(marker='D', markerfacecolor='green', markersize=7, linestyle='none', color='green')
@@ -90,13 +78,6 @@ def create_bar_whisker_plot(data_human, data_generated, label, output_filename):
     plt.close()
 
 def create_data_table(human_data, generated_data):
-    """
-    Creates and displays a data table comparing human and generated averages and medians.
-
-    Args:
-        human_data (dict): Extracted human results data.
-        generated_data (dict): Extracted generated results data.
-    """
     metrics = list(human_data.keys())
 
     human_averages = [np.mean(human_data[metric]) if human_data[metric] else 0 for metric in metrics]
@@ -120,7 +101,6 @@ def create_data_table(human_data, generated_data):
 if __name__ == "__main__":
     print("Starting visualization script...")
 
-    # Parse human and generated results
     human_data = parse_results(human_results_path)
     generated_data = parse_results(generated_results_path)
 
@@ -128,18 +108,16 @@ if __name__ == "__main__":
         print("⚠️ No valid data found in one or both results files. Exiting.")
         exit()
 
-    print("✅ Data successfully parsed!")
+    print("Data successfully parsed!")
 
-    # Generate data table
     create_data_table(human_data, generated_data)
 
-    print("✅ Data table created!")
+    print("Data table created!")
 
-    # Generate plots
     print("Generating plots...")
     create_bar_whisker_plot(human_data["Total words"], generated_data["Total words"], "Word Count", "word_count_distribution.png")
     create_bar_whisker_plot(human_data["Total characters"], generated_data["Total characters"], "Character Count", "character_count_distribution.png")
     create_bar_whisker_plot(human_data["Avg words per sentence"], generated_data["Avg words per sentence"], "Words per Sentence", "words_per_sentence_distribution.png")
     create_bar_whisker_plot(human_data["Unnecessary words"], generated_data["Unnecessary words"], "Unnecessary Words", "unnecessary_words_distribution.png")
 
-    print("✅ Visualizations saved in", output_folder)
+    print("Visualizations saved in", output_folder)
