@@ -1,233 +1,3310 @@
 ### Analysis Results for Each File ###
 
-Title: The Heart of the Woods
+Title: The Lighthouse Keeper of Eldrige Rock
 Unnecessary words: 4
-Parts of Speech: {'NOUN': 257, 'PUNCT': 145, 'DET': 139, 'PROPN': 44, 'ADP': 144, 'SPACE': 18, 'ADV': 36, 'SCONJ': 17, 'ADJ': 83, 'VERB': 142, 'PRON': 82, 'CCONJ': 47, 'AUX': 29, 'NUM': 2, 'PART': 30}
-Total words: 1038
-Total characters: 6174
-Sentence count: 55
-Avg words per sentence: 18.87
-Avg characters per sentence: 112.25
-
-Title: The Last Starlight
-Unnecessary words: 1
-Parts of Speech: {'NOUN': 237, 'PUNCT': 162, 'DET': 134, 'ADJ': 84, 'PROPN': 69, 'SPACE': 18, 'ADV': 33, 'SCONJ': 18, 'ADP': 115, 'PART': 43, 'VERB': 155, 'PRON': 94, 'AUX': 33, 'CCONJ': 36, 'NUM': 3}
-Total words: 1031
-Total characters: 6132
-Sentence count: 66
-Avg words per sentence: 15.62
-Avg characters per sentence: 92.91
-
-Title: The Last Symphony
-Unnecessary words: 9
-Parts of Speech: {'NOUN': 293, 'PUNCT': 186, 'DET': 130, 'ADJ': 49, 'PROPN': 30, 'SPACE': 20, 'ADV': 67, 'SCONJ': 19, 'ADP': 140, 'VERB': 173, 'PRON': 128, 'AUX': 44, 'CCONJ': 46, 'PART': 35, 'NUM': 2}
-Total words: 1141
-Total characters: 6759
-Sentence count: 71
-Avg words per sentence: 16.07
-Avg characters per sentence: 95.20
-
-Title: The Lighthouse Keeper's Gift
-Unnecessary words: 4
-Parts of Speech: {'NOUN': 285, 'PUNCT': 198, 'DET': 142, 'PROPN': 40, 'PART': 32, 'SPACE': 24, 'ADV': 44, 'SCONJ': 21, 'ADP': 131, 'ADJ': 89, 'VERB': 160, 'PRON': 105, 'AUX': 42, 'CCONJ': 37, 'NUM': 4}
-Total words: 1112
-Total characters: 6566
-Sentence count: 69
-Avg words per sentence: 16.12
-Avg characters per sentence: 95.16
-
-Title: The Whispering Violin
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 265, 'PUNCT': 160, 'DET': 144, 'PROPN': 88, 'SPACE': 16, 'ADV': 46, 'SCONJ': 23, 'ADP': 143, 'ADJ': 62, 'VERB': 158, 'PRON': 72, 'AUX': 45, 'PART': 33, 'NUM': 1, 'CCONJ': 38}
-Total words: 1107
-Total characters: 6357
-Sentence count: 58
-Avg words per sentence: 19.09
-Avg characters per sentence: 109.60
-
-Title: The Painter and the Mysterious Portrait
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 270, 'PUNCT': 182, 'DET': 149, 'PROPN': 34, 'CCONJ': 50, 'SPACE': 20, 'ADV': 51, 'SCONJ': 24, 'ADP': 137, 'ADJ': 81, 'VERB': 207, 'PRON': 142, 'AUX': 44, 'NUM': 6, 'PART': 33}
-Total words: 1221
-Total characters: 7193
-Sentence count: 75
-Avg words per sentence: 16.28
-Avg characters per sentence: 95.91
-
-Title: The Clockmaker's Secret
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 297, 'PUNCT': 172, 'DET': 147, 'PROPN': 42, 'PART': 30, 'SPACE': 16, 'ADP': 125, 'ADJ': 77, 'VERB': 146, 'CCONJ': 41, 'PRON': 107, 'NUM': 7, 'AUX': 55, 'ADV': 49, 'SCONJ': 11}
-Total words: 1119
-Total characters: 6579
-Sentence count: 64
-Avg words per sentence: 17.48
-Avg characters per sentence: 102.80
-
-Title: The Forgotten Melody
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 243, 'PUNCT': 174, 'DET': 126, 'PROPN': 52, 'SPACE': 19, 'ADP': 119, 'ADJ': 62, 'PRON': 92, 'VERB': 173, 'CCONJ': 41, 'AUX': 33, 'SCONJ': 10, 'NUM': 5, 'ADV': 39, 'PART': 35}
-Total words: 1010
-Total characters: 6092
-Sentence count: 66
-Avg words per sentence: 15.30
-Avg characters per sentence: 92.30
-
-Title: The Lighthouse Keeper's Secret
-Unnecessary words: 2
-Parts of Speech: {'NOUN': 261, 'PUNCT': 172, 'DET': 149, 'PROPN': 72, 'PART': 20, 'SPACE': 20, 'ADV': 46, 'SCONJ': 16, 'ADP': 151, 'PRON': 120, 'VERB': 160, 'ADJ': 73, 'AUX': 40, 'NUM': 4, 'CCONJ': 42}
-Total words: 1143
-Total characters: 6501
-Sentence count: 64
-Avg words per sentence: 17.86
-Avg characters per sentence: 101.58
-
-Title: The Symphony of Life
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 268, 'PUNCT': 161, 'DET': 135, 'PROPN': 71, 'ADP': 137, 'SPACE': 20, 'ADV': 36, 'SCONJ': 23, 'ADJ': 77, 'PRON': 103, 'VERB': 155, 'AUX': 40, 'CCONJ': 38, 'PART': 35, 'NUM': 2}
-Total words: 1078
-Total characters: 6422
-Sentence count: 62
-Avg words per sentence: 17.39
-Avg characters per sentence: 103.58
-
-Title: The Last Symphony
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 294, 'PUNCT': 179, 'DET': 128, 'ADJ': 73, 'PROPN': 16, 'SPACE': 18, 'ADP': 125, 'PRON': 155, 'ADV': 49, 'VERB': 142, 'AUX': 42, 'SCONJ': 17, 'CCONJ': 36, 'PART': 24, 'NUM': 2}
-Total words: 1092
-Total characters: 6393
-Sentence count: 61
-Avg words per sentence: 17.90
-Avg characters per sentence: 104.80
-
-Title: The Magic of the Forgotten Forest
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 252, 'PUNCT': 187, 'DET': 128, 'PROPN': 62, 'ADP': 143, 'SPACE': 23, 'ADV': 37, 'SCONJ': 18, 'ADJ': 74, 'PRON': 111, 'VERB': 152, 'AUX': 46, 'PART': 37, 'CCONJ': 44, 'NUM': 4}
-Total words: 1092
-Total characters: 6241
-Sentence count: 72
-Avg words per sentence: 15.17
-Avg characters per sentence: 86.68
-
-Title: The Unseen Guardian
-Unnecessary words: 5
-Parts of Speech: {'NOUN': 243, 'PUNCT': 213, 'DET': 130, 'PROPN': 70, 'SPACE': 27, 'ADV': 42, 'SCONJ': 18, 'ADP': 142, 'ADJ': 67, 'PRON': 118, 'VERB': 175, 'AUX': 56, 'NUM': 6, 'CCONJ': 35, 'PART': 43}
-Total words: 1130
-Total characters: 6570
-Sentence count: 78
-Avg words per sentence: 14.49
-Avg characters per sentence: 84.23
-
-Title: The Song of the Wind
-Unnecessary words: 8
-Parts of Speech: {'NOUN': 242, 'PUNCT': 174, 'DET': 158, 'PROPN': 58, 'ADP': 139, 'SPACE': 19, 'ADV': 50, 'SCONJ': 25, 'ADJ': 56, 'VERB': 163, 'CCONJ': 34, 'AUX': 47, 'PART': 47, 'PRON': 121, 'NUM': 3}
-Total words: 1122
-Total characters: 6190
-Sentence count: 62
-Avg words per sentence: 18.10
-Avg characters per sentence: 99.84
-
-Title: The Unseen Melody
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 316, 'PUNCT': 204, 'DET': 152, 'PROPN': 48, 'SPACE': 23, 'ADV': 36, 'SCONJ': 19, 'ADP': 136, 'ADJ': 73, 'PRON': 125, 'VERB': 163, 'CCONJ': 56, 'AUX': 42, 'NUM': 4, 'PART': 25}
-Total words: 1180
-Total characters: 6868
-Sentence count: 69
-Avg words per sentence: 17.10
-Avg characters per sentence: 99.54
-
-Title: The Enchanted Library
-Unnecessary words: 0
-Parts of Speech: {'NOUN': 269, 'PUNCT': 168, 'DET': 143, 'PROPN': 37, 'SPACE': 19, 'ADV': 45, 'SCONJ': 18, 'ADP': 139, 'ADJ': 88, 'PRON': 99, 'VERB': 153, 'AUX': 45, 'PART': 25, 'CCONJ': 40, 'NUM': 4}
-Total words: 1091
-Total characters: 6574
-Sentence count: 66
-Avg words per sentence: 16.53
-Avg characters per sentence: 99.61
-
-Title: The Unseen Masterpiece
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 260, 'PUNCT': 189, 'DET': 114, 'PROPN': 58, 'SPACE': 21, 'ADV': 60, 'SCONJ': 19, 'ADP': 135, 'ADJ': 68, 'VERB': 173, 'PRON': 143, 'AUX': 38, 'CCONJ': 36, 'PART': 34, 'NUM': 4}
-Total words: 1120
-Total characters: 6781
-Sentence count: 72
-Avg words per sentence: 15.56
-Avg characters per sentence: 94.18
-
-Title: The Forgotten Diary
-Unnecessary words: 0
-Parts of Speech: {'NOUN': 279, 'PUNCT': 165, 'DET': 150, 'PROPN': 55, 'SPACE': 18, 'ADP': 158, 'ADJ': 69, 'VERB': 173, 'CCONJ': 45, 'PRON': 138, 'PART': 38, 'AUX': 68, 'NUM': 4, 'ADV': 37, 'SCONJ': 17}
-Total words: 1211
-Total characters: 6853
-Sentence count: 66
-Avg words per sentence: 18.35
-Avg characters per sentence: 103.83
-
-Title: The Lost Melody
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 276, 'PUNCT': 171, 'DET': 125, 'ADJ': 64, 'PROPN': 67, 'SPACE': 17, 'ADP': 133, 'VERB': 142, 'PRON': 118, 'CCONJ': 48, 'AUX': 48, 'PART': 31, 'ADV': 44, 'NUM': 2, 'SCONJ': 11}
-Total words: 1072
-Total characters: 6300
-Sentence count: 59
-Avg words per sentence: 18.17
-Avg characters per sentence: 106.78
-
-Title: The Magic Quill
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 250, 'PUNCT': 191, 'DET': 118, 'PROPN': 41, 'SPACE': 21, 'ADV': 63, 'SCONJ': 18, 'ADP': 129, 'ADJ': 83, 'VERB': 148, 'AUX': 49, 'NUM': 4, 'CCONJ': 37, 'PRON': 149, 'PART': 34, 'INTJ': 1}
-Total words: 1107
-Total characters: 6313
-Sentence count: 68
-Avg words per sentence: 16.28
-Avg characters per sentence: 92.84
-
-Title: The Enchanted Canvas
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 267, 'PUNCT': 166, 'DET': 138, 'ADJ': 73, 'PROPN': 33, 'SPACE': 17, 'ADV': 35, 'SCONJ': 12, 'ADP': 139, 'VERB': 148, 'PRON': 105, 'CCONJ': 44, 'PART': 43, 'AUX': 40, 'NUM': 2, 'X': 1}
-Total words: 1072
-Total characters: 6084
-Sentence count: 59
-Avg words per sentence: 18.17
-Avg characters per sentence: 103.12
-
-Title: The Last Dance of the Fireflies
-Unnecessary words: 4
-Parts of Speech: {'NOUN': 284, 'PUNCT': 177, 'DET': 147, 'ADJ': 81, 'ADP': 139, 'PROPN': 34, 'SPACE': 18, 'VERB': 141, 'CCONJ': 45, 'PRON': 130, 'AUX': 45, 'PART': 36, 'SCONJ': 18, 'NUM': 2, 'ADV': 35}
-Total words: 1123
-Total characters: 6516
-Sentence count: 66
-Avg words per sentence: 17.02
-Avg characters per sentence: 98.73
-
-Title: The Colors of Time
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 349, 'PUNCT': 231, 'DET': 172, 'ADP': 176, 'PROPN': 53, 'SPACE': 21, 'ADV': 54, 'SCONJ': 19, 'PRON': 141, 'VERB': 198, 'ADJ': 83, 'AUX': 39, 'PART': 30, 'CCONJ': 66, 'NUM': 4}
-Total words: 1374
-Total characters: 7896
+Parts of Speech: {'NOUN': 375, 'PUNCT': 216, 'DET': 241, 'PROPN': 71, 'ADP': 215, 'SPACE': 27, 'ADJ': 111, 'VERB': 210, 'PRON': 126, 'CCONJ': 48, 'ADV': 52, 'AUX': 51, 'NUM': 6, 'SCONJ': 28, 'PART': 32}
+Total words: 1553
+Total characters: 8965
 Sentence count: 79
-Avg words per sentence: 17.39
-Avg characters per sentence: 99.95
+Avg words per sentence: 19.66
+Avg characters per sentence: 113.48
+Median words per sentence: 19.00
+Median characters per sentence: 96.00
+
+Title: Untitled
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 401, 'PUNCT': 428, 'PROPN': 82, 'SPACE': 53, 'AUX': 64, 'VERB': 318, 'ADP': 203, 'DET': 195, 'PRON': 280, 'SCONJ': 52, 'ADV': 85, 'PART': 61, 'CCONJ': 77, 'ADJ': 151, 'NUM': 5, 'INTJ': 3}
+Total words: 1934
+Total characters: 11393
+Sentence count: 144
+Avg words per sentence: 13.43
+Avg characters per sentence: 79.12
+Median words per sentence: 12.00
+Median characters per sentence: 61.50
+
+Title: The Echoes of Willoughby Street
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 401, 'PUNCT': 282, 'DET': 226, 'PROPN': 106, 'ADP': 223, 'SPACE': 35, 'ADJ': 156, 'SCONJ': 24, 'VERB': 237, 'PRON': 128, 'PART': 46, 'AUX': 66, 'CCONJ': 61, 'ADV': 66, 'NUM': 7}
+Total words: 1709
+Total characters: 10702
+Sentence count: 87
+Avg words per sentence: 19.64
+Avg characters per sentence: 123.01
+Median words per sentence: 19.00
+Median characters per sentence: 98.00
+
+Title: The Clockmaker of Vermilion Street
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 374, 'PUNCT': 346, 'DET': 209, 'PROPN': 52, 'ADP': 198, 'SPACE': 40, 'SCONJ': 42, 'ADJ': 102, 'VERB': 285, 'PART': 48, 'PRON': 229, 'AUX': 73, 'CCONJ': 40, 'ADV': 81, 'NUM': 3, 'INTJ': 3}
+Total words: 1704
+Total characters: 9860
+Sentence count: 106
+Avg words per sentence: 16.08
+Avg characters per sentence: 93.02
+Median words per sentence: 15.00
+Median characters per sentence: 73.00
+
+Title: The Last Watchmaker of Fillory Street
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 396, 'PUNCT': 348, 'DET': 208, 'ADJ': 146, 'PROPN': 40, 'ADP': 211, 'SPACE': 41, 'VERB': 261, 'PRON': 212, 'CCONJ': 50, 'ADV': 79, 'PART': 33, 'AUX': 73, 'NUM': 5, 'SCONJ': 34, 'INTJ': 4}
+Total words: 1728
+Total characters: 10252
+Sentence count: 121
+Avg words per sentence: 14.28
+Avg characters per sentence: 84.73
+Median words per sentence: 14.00
+Median characters per sentence: 67.00
+
+Title: The Lighthouse Keeper of Merrow’s Point
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 405, 'PUNCT': 388, 'DET': 248, 'PROPN': 63, 'ADP': 223, 'PART': 53, 'SPACE': 43, 'VERB': 272, 'CCONJ': 55, 'ADV': 98, 'ADJ': 104, 'PRON': 212, 'AUX': 48, 'SCONJ': 42, 'INTJ': 2, 'NUM': 3}
+Total words: 1789
+Total characters: 10421
+Sentence count: 114
+Avg words per sentence: 15.69
+Avg characters per sentence: 91.41
+Median words per sentence: 15.00
+Median characters per sentence: 75.00
+
+Title: The Clockmaker's Secret 18
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 365, 'PUNCT': 368, 'DET': 207, 'PROPN': 93, 'PART': 58, 'ADJ': 105, 'NUM': 8, 'SPACE': 38, 'ADP': 199, 'SCONJ': 36, 'VERB': 272, 'PRON': 202, 'AUX': 72, 'ADV': 85, 'CCONJ': 54, 'INTJ': 4}
+Total words: 1715
+Total characters: 10010
+Sentence count: 108
+Avg words per sentence: 15.88
+Avg characters per sentence: 92.69
+Median words per sentence: 14.50
+Median characters per sentence: 67.00
+
+Title: The Clockmaker’s Apprentice 2
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 336, 'PUNCT': 294, 'DET': 189, 'PROPN': 49, 'PART': 38, 'NUM': 6, 'SPACE': 33, 'ADP': 159, 'ADJ': 92, 'VERB': 226, 'SCONJ': 31, 'AUX': 71, 'CCONJ': 41, 'PRON': 146, 'ADV': 72, 'INTJ': 6}
+Total words: 1440
+Total characters: 8243
+Sentence count: 94
+Avg words per sentence: 15.32
+Avg characters per sentence: 87.69
+Median words per sentence: 15.00
+Median characters per sentence: 74.50
+
+Title: The Lighthouse Keeper’s Radiance
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 363, 'PUNCT': 291, 'DET': 200, 'PROPN': 57, 'PART': 34, 'SPACE': 31, 'AUX': 53, 'ADV': 68, 'VERB': 231, 'ADP': 194, 'ADJ': 125, 'SCONJ': 24, 'PRON': 173, 'NUM': 8, 'CCONJ': 41, 'INTJ': 1}
+Total words: 1546
+Total characters: 9093
+Sentence count: 97
+Avg words per sentence: 15.94
+Avg characters per sentence: 93.74
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Clockmaker's Heart 2
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 375, 'PUNCT': 292, 'DET': 199, 'PROPN': 92, 'PART': 48, 'NUM': 6, 'SPACE': 34, 'ADP': 241, 'SCONJ': 27, 'VERB': 235, 'PRON': 205, 'ADJ': 108, 'CCONJ': 53, 'AUX': 56, 'ADV': 57, 'INTJ': 2}
+Total words: 1674
+Total characters: 9658
+Sentence count: 88
+Avg words per sentence: 19.02
+Avg characters per sentence: 109.75
+Median words per sentence: 19.00
+Median characters per sentence: 88.00
+
+Title: Echoes of Time
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 401, 'PUNCT': 278, 'ADP': 207, 'PROPN': 43, 'SPACE': 28, 'PRON': 162, 'VERB': 264, 'ADV': 86, 'DET': 235, 'AUX': 59, 'ADJ': 152, 'SCONJ': 37, 'CCONJ': 50, 'PART': 42}
+Total words: 1725
+Total characters: 10102
+Sentence count: 94
+Avg words per sentence: 18.35
+Avg characters per sentence: 107.47
+Median words per sentence: 18.00
+Median characters per sentence: 84.50
+
+Title: Adrift in the Clouds
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 432, 'PUNCT': 371, 'ADJ': 106, 'ADP': 214, 'DET': 219, 'PROPN': 72, 'SPACE': 56, 'ADV': 76, 'VERB': 281, 'PRON': 190, 'AUX': 71, 'PART': 48, 'SCONJ': 36, 'CCONJ': 42, 'NUM': 2, 'INTJ': 1}
+Total words: 1730
+Total characters: 10361
+Sentence count: 143
+Avg words per sentence: 12.10
+Avg characters per sentence: 72.45
+Median words per sentence: 11.00
+Median characters per sentence: 54.00
+
+Title: Echoes of the Forgotten
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 363, 'PUNCT': 251, 'ADP': 176, 'DET': 177, 'PROPN': 52, 'SPACE': 32, 'ADJ': 141, 'CCONJ': 48, 'VERB': 230, 'ADV': 67, 'AUX': 66, 'PART': 41, 'PRON': 155, 'SCONJ': 28, 'INTJ': 1, 'NUM': 7}
+Total words: 1524
+Total characters: 9216
+Sentence count: 90
+Avg words per sentence: 16.93
+Avg characters per sentence: 102.40
+Median words per sentence: 16.50
+Median characters per sentence: 83.00
+
+Title: The Last Sorrows of Autumn
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 383, 'PUNCT': 317, 'DET': 187, 'ADJ': 100, 'ADP': 206, 'PROPN': 89, 'SPACE': 38, 'PRON': 169, 'AUX': 46, 'VERB': 249, 'PART': 51, 'CCONJ': 52, 'ADV': 75, 'SCONJ': 35, 'NUM': 6, 'INTJ': 1}
+Total words: 1619
+Total characters: 9461
+Sentence count: 103
+Avg words per sentence: 15.72
+Avg characters per sentence: 91.85
+Median words per sentence: 14.00
+Median characters per sentence: 70.00
+
+Title: The Last Bookbinder of Cornish Cove
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 420, 'PUNCT': 339, 'DET': 235, 'ADJ': 154, 'PROPN': 104, 'ADP': 224, 'SPACE': 42, 'VERB': 251, 'PRON': 208, 'AUX': 69, 'CCONJ': 56, 'ADV': 72, 'SCONJ': 34, 'PART': 60, 'INTJ': 3, 'NUM': 2}
+Total words: 1838
+Total characters: 10990
+Sentence count: 110
+Avg words per sentence: 16.71
+Avg characters per sentence: 99.91
+Median words per sentence: 16.50
+Median characters per sentence: 82.50
+
+Title: The Clockmaker’s Apprentice 12
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 369, 'PUNCT': 403, 'DET': 220, 'PROPN': 82, 'PART': 52, 'NUM': 4, 'SPACE': 45, 'ADP': 203, 'ADJ': 104, 'SCONJ': 32, 'VERB': 292, 'PRON': 230, 'ADV': 108, 'AUX': 93, 'CCONJ': 66, 'INTJ': 3}
+Total words: 1806
+Total characters: 10346
+Sentence count: 124
+Avg words per sentence: 14.56
+Avg characters per sentence: 83.44
+Median words per sentence: 13.00
+Median characters per sentence: 62.50
+
+Title: Echoes of the Silent City
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 474, 'PUNCT': 403, 'ADP': 249, 'DET': 265, 'PROPN': 97, 'SPACE': 47, 'VERB': 313, 'ADV': 104, 'ADJ': 125, 'CCONJ': 64, 'SCONJ': 37, 'PRON': 236, 'AUX': 67, 'PART': 60, 'NUM': 3}
+Total words: 2066
+Total characters: 12310
+Sentence count: 133
+Avg words per sentence: 15.53
+Avg characters per sentence: 92.56
+Median words per sentence: 15.00
+Median characters per sentence: 74.00
+
+Title: The Clockmaker’s Apprentice 3
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 351, 'PUNCT': 272, 'DET': 199, 'PROPN': 90, 'PART': 41, 'NUM': 9, 'SPACE': 31, 'ADP': 161, 'VERB': 215, 'CCONJ': 50, 'ADJ': 110, 'PRON': 124, 'AUX': 38, 'ADV': 57, 'SCONJ': 35}
+Total words: 1431
+Total characters: 8661
+Sentence count: 80
+Avg words per sentence: 17.89
+Avg characters per sentence: 108.26
+Median words per sentence: 18.00
+Median characters per sentence: 87.50
+
+Title: The Clockmaker of Via del Corso
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 425, 'PUNCT': 331, 'DET': 218, 'PROPN': 73, 'ADP': 244, 'SPACE': 37, 'ADJ': 146, 'VERB': 291, 'AUX': 65, 'PART': 63, 'ADV': 86, 'PRON': 236, 'SCONJ': 34, 'CCONJ': 51, 'NUM': 5, 'INTJ': 2}
+Total words: 1912
+Total characters: 11056
+Sentence count: 111
+Avg words per sentence: 17.23
+Avg characters per sentence: 99.60
+Median words per sentence: 18.00
+Median characters per sentence: 78.00
+
+Title: Whispers of the Forgotten Library
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 423, 'PUNCT': 324, 'ADP': 234, 'DET': 247, 'PROPN': 47, 'SPACE': 42, 'ADJ': 138, 'SCONJ': 31, 'VERB': 255, 'CCONJ': 56, 'AUX': 72, 'ADV': 87, 'PRON': 166, 'PART': 36, 'INTJ': 3}
+Total words: 1776
+Total characters: 10616
+Sentence count: 108
+Avg words per sentence: 16.44
+Avg characters per sentence: 98.30
+Median words per sentence: 16.00
+Median characters per sentence: 80.50
+
+Title: The Last Lightkeeper of Eldoria
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 408, 'PUNCT': 290, 'DET': 250, 'ADJ': 113, 'PROPN': 54, 'ADP': 203, 'SPACE': 32, 'VERB': 239, 'CCONJ': 39, 'ADV': 79, 'PRON': 151, 'AUX': 56, 'SCONJ': 39, 'PART': 40, 'NUM': 5, 'INTJ': 1}
+Total words: 1652
+Total characters: 9622
+Sentence count: 92
+Avg words per sentence: 17.96
+Avg characters per sentence: 104.59
+Median words per sentence: 18.00
+Median characters per sentence: 88.00
+
+Title: Untitled 5
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 430, 'PUNCT': 311, 'PROPN': 67, 'NUM': 6, 'SPACE': 31, 'ADP': 260, 'DET': 267, 'ADJ': 122, 'VERB': 292, 'CCONJ': 56, 'PRON': 196, 'AUX': 84, 'SCONJ': 45, 'ADV': 55, 'PART': 39, 'INTJ': 1}
+Total words: 1909
+Total characters: 10935
+Sentence count: 109
+Avg words per sentence: 17.51
+Avg characters per sentence: 100.32
+Median words per sentence: 17.00
+Median characters per sentence: 84.00
+
+Title: Echoes of Selene
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 419, 'PUNCT': 332, 'ADP': 239, 'PROPN': 69, 'SPACE': 39, 'DET': 232, 'ADV': 90, 'ADJ': 112, 'VERB': 256, 'CCONJ': 62, 'AUX': 61, 'PART': 49, 'PRON': 199, 'SCONJ': 36, 'NUM': 2, 'INTJ': 1}
+Total words: 1808
+Total characters: 10325
+Sentence count: 93
+Avg words per sentence: 19.44
+Avg characters per sentence: 111.02
+Median words per sentence: 18.00
+Median characters per sentence: 81.00
+
+Title: The Secret of Eldridge Manor
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 389, 'PUNCT': 272, 'DET': 226, 'PROPN': 91, 'ADP': 202, 'SPACE': 31, 'VERB': 271, 'ADJ': 135, 'AUX': 73, 'ADV': 71, 'PRON': 145, 'CCONJ': 44, 'SCONJ': 33, 'PART': 45, 'NUM': 4, 'INTJ': 1}
+Total words: 1704
+Total characters: 10363
+Sentence count: 102
+Avg words per sentence: 16.71
+Avg characters per sentence: 101.60
+Median words per sentence: 16.00
+Median characters per sentence: 82.50
+
+Title: Untitled 7
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 395, 'PUNCT': 366, 'PROPN': 118, 'NUM': 7, 'SPACE': 45, 'ADP': 212, 'DET': 229, 'ADJ': 124, 'PRON': 208, 'VERB': 294, 'ADV': 76, 'CCONJ': 42, 'AUX': 66, 'PART': 43, 'SCONJ': 35, 'INTJ': 2}
+Total words: 1792
+Total characters: 10720
+Sentence count: 113
+Avg words per sentence: 15.86
+Avg characters per sentence: 94.87
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Last Garden 4
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 436, 'PUNCT': 380, 'DET': 222, 'ADJ': 137, 'PROPN': 58, 'NUM': 6, 'SPACE': 39, 'PRON': 206, 'AUX': 64, 'SCONJ': 35, 'VERB': 292, 'PART': 57, 'ADV': 86, 'CCONJ': 63, 'ADP': 239}
+Total words: 1869
+Total characters: 10860
+Sentence count: 122
+Avg words per sentence: 15.32
+Avg characters per sentence: 89.02
+Median words per sentence: 14.00
+Median characters per sentence: 67.50
+
+Title: The Vanishing Act
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 405, 'PUNCT': 316, 'DET': 199, 'PROPN': 61, 'SPACE': 30, 'ADP': 205, 'VERB': 255, 'ADJ': 148, 'CCONJ': 68, 'PRON': 212, 'ADV': 86, 'AUX': 73, 'NUM': 6, 'PART': 37, 'SCONJ': 27, 'INTJ': 1}
+Total words: 1750
+Total characters: 10330
+Sentence count: 104
+Avg words per sentence: 16.83
+Avg characters per sentence: 99.33
+Median words per sentence: 16.00
+Median characters per sentence: 84.50
+
+Title: The Clockmaker's Paradox 8
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 419, 'PUNCT': 324, 'DET': 213, 'PROPN': 44, 'PART': 54, 'NUM': 3, 'SPACE': 40, 'ADP': 207, 'VERB': 255, 'ADJ': 118, 'CCONJ': 62, 'PRON': 209, 'AUX': 72, 'ADV': 94, 'SCONJ': 21}
+Total words: 1751
+Total characters: 10102
+Sentence count: 104
+Avg words per sentence: 16.84
+Avg characters per sentence: 97.13
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Lighthouse Keeper of Eldwen
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 422, 'PUNCT': 435, 'DET': 242, 'PROPN': 79, 'ADP': 218, 'SPACE': 49, 'ADJ': 132, 'PRON': 194, 'VERB': 331, 'ADV': 102, 'AUX': 67, 'SCONJ': 44, 'NUM': 2, 'CCONJ': 63, 'PART': 53, 'INTJ': 2}
+Total words: 1903
+Total characters: 11268
+Sentence count: 135
+Avg words per sentence: 14.10
+Avg characters per sentence: 83.47
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Clockmaker’s Promise
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 411, 'PUNCT': 426, 'DET': 201, 'PROPN': 57, 'PART': 57, 'SPACE': 52, 'ADP': 214, 'VERB': 348, 'CCONJ': 58, 'ADJ': 143, 'PRON': 308, 'ADV': 108, 'AUX': 92, 'SCONJ': 42, 'NUM': 6, 'INTJ': 1}
+Total words: 2007
+Total characters: 11819
+Sentence count: 143
+Avg words per sentence: 14.03
+Avg characters per sentence: 82.65
+Median words per sentence: 13.00
+Median characters per sentence: 63.00
+
+Title: The Last Symphony
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 384, 'PUNCT': 381, 'DET': 171, 'ADJ': 130, 'PROPN': 98, 'SPACE': 48, 'ADP': 210, 'VERB': 285, 'SCONJ': 48, 'CCONJ': 56, 'PRON': 224, 'AUX': 82, 'ADV': 80, 'X': 1, 'NUM': 2, 'PART': 63, 'INTJ': 3}
+Total words: 1786
+Total characters: 10679
+Sentence count: 122
+Avg words per sentence: 14.64
+Avg characters per sentence: 87.53
+Median words per sentence: 14.00
+Median characters per sentence: 65.50
+
+Title: The Clockmaker's Apprentice 10
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 360, 'PUNCT': 257, 'DET': 215, 'PROPN': 68, 'PART': 44, 'NUM': 8, 'SPACE': 31, 'ADP': 189, 'ADJ': 117, 'VERB': 203, 'CCONJ': 65, 'PRON': 116, 'ADV': 67, 'AUX': 54, 'SCONJ': 25, 'INTJ': 1}
+Total words: 1514
+Total characters: 9281
+Sentence count: 80
+Avg words per sentence: 18.93
+Avg characters per sentence: 116.01
+Median words per sentence: 18.00
+Median characters per sentence: 87.00
+
+Title: Untitled 48
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 344, 'PUNCT': 352, 'PROPN': 68, 'NUM': 5, 'SPACE': 43, 'ADV': 76, 'VERB': 269, 'DET': 191, 'ADJ': 122, 'ADP': 183, 'CCONJ': 54, 'PRON': 210, 'AUX': 62, 'SCONJ': 36, 'PART': 48, 'INTJ': 3}
+Total words: 1643
+Total characters: 9497
+Sentence count: 116
+Avg words per sentence: 14.16
+Avg characters per sentence: 81.87
+Median words per sentence: 14.00
+Median characters per sentence: 65.50
+
+Title: The Paradox Clock
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 369, 'PUNCT': 412, 'DET': 182, 'PROPN': 98, 'SPACE': 56, 'ADP': 178, 'ADJ': 134, 'VERB': 309, 'AUX': 94, 'ADV': 93, 'PRON': 241, 'PART': 51, 'CCONJ': 47, 'NUM': 10, 'SCONJ': 39, 'INTJ': 3}
+Total words: 1795
+Total characters: 11102
+Sentence count: 156
+Avg words per sentence: 11.51
+Avg characters per sentence: 71.17
+Median words per sentence: 10.00
+Median characters per sentence: 54.00
+
+Title: The Lighthouse Keeper of Corwyn Point
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 343, 'PUNCT': 222, 'DET': 197, 'PROPN': 76, 'ADP': 187, 'SPACE': 29, 'ADJ': 129, 'VERB': 218, 'PRON': 138, 'AUX': 46, 'ADV': 59, 'CCONJ': 61, 'SCONJ': 25, 'PART': 38, 'NUM': 5}
+Total words: 1494
+Total characters: 9049
+Sentence count: 73
+Avg words per sentence: 20.47
+Avg characters per sentence: 123.96
+Median words per sentence: 20.00
+Median characters per sentence: 102.00
+
+Title: Echoes of Starlight
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 389, 'PUNCT': 381, 'ADP': 232, 'PROPN': 58, 'SPACE': 42, 'PRON': 267, 'AUX': 66, 'DET': 212, 'SCONJ': 36, 'VERB': 301, 'PART': 44, 'ADJ': 119, 'ADV': 107, 'CCONJ': 52, 'NUM': 3}
+Total words: 1848
+Total characters: 10917
+Sentence count: 120
+Avg words per sentence: 15.40
+Avg characters per sentence: 90.97
+Median words per sentence: 13.00
+Median characters per sentence: 64.50
+
+Title: Untitled 49
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 345, 'PUNCT': 255, 'PROPN': 116, 'NUM': 9, 'SPACE': 28, 'ADP': 192, 'DET': 176, 'ADJ': 110, 'AUX': 53, 'VERB': 196, 'CCONJ': 43, 'ADV': 67, 'PRON': 149, 'SCONJ': 26, 'PART': 42, 'INTJ': 1}
+Total words: 1491
+Total characters: 8889
+Sentence count: 82
+Avg words per sentence: 18.18
+Avg characters per sentence: 108.40
+Median words per sentence: 18.00
+Median characters per sentence: 91.00
+
+Title: The Timekeeper’s Paradox
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 373, 'PUNCT': 401, 'DET': 208, 'PART': 59, 'PROPN': 126, 'SPACE': 46, 'ADP': 179, 'ADJ': 139, 'VERB': 286, 'CCONJ': 54, 'PRON': 204, 'SCONJ': 38, 'AUX': 82, 'ADV': 81, 'NUM': 6, 'INTJ': 3}
+Total words: 1785
+Total characters: 10633
+Sentence count: 129
+Avg words per sentence: 13.84
+Avg characters per sentence: 82.43
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Clockmaker’s Apprentice 11
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 409, 'PUNCT': 293, 'DET': 224, 'PROPN': 66, 'PART': 54, 'NUM': 4, 'SPACE': 37, 'ADP': 206, 'ADJ': 119, 'PRON': 165, 'VERB': 247, 'CCONJ': 56, 'ADV': 73, 'AUX': 75, 'SCONJ': 30}
+Total words: 1688
+Total characters: 10138
+Sentence count: 101
+Avg words per sentence: 16.71
+Avg characters per sentence: 100.38
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Clockmaker’s Paradox 9
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 420, 'PUNCT': 363, 'DET': 229, 'PROPN': 105, 'PART': 47, 'NUM': 4, 'SPACE': 40, 'ADP': 239, 'ADJ': 145, 'VERB': 283, 'CCONJ': 67, 'PRON': 218, 'AUX': 88, 'ADV': 95, 'SCONJ': 37, 'INTJ': 1}
+Total words: 1956
+Total characters: 11404
+Sentence count: 113
+Avg words per sentence: 17.31
+Avg characters per sentence: 100.92
+Median words per sentence: 17.00
+Median characters per sentence: 86.00
+
+Title: Untitled 6
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 375, 'PUNCT': 380, 'PROPN': 70, 'NUM': 6, 'SPACE': 41, 'VERB': 302, 'DET': 206, 'ADP': 195, 'PRON': 262, 'ADJ': 113, 'CCONJ': 59, 'SCONJ': 42, 'AUX': 75, 'ADV': 115, 'PART': 57, 'INTJ': 4}
+Total words: 1833
+Total characters: 10407
+Sentence count: 119
+Avg words per sentence: 15.40
+Avg characters per sentence: 87.45
+Median words per sentence: 13.00
+Median characters per sentence: 63.00
+
+Title: The Midnight Hour
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 372, 'PUNCT': 296, 'DET': 206, 'PROPN': 54, 'SPACE': 40, 'VERB': 249, 'NUM': 6, 'SCONJ': 26, 'ADP': 175, 'ADV': 78, 'ADJ': 121, 'PRON': 194, 'CCONJ': 51, 'AUX': 48, 'PART': 43}
+Total words: 1594
+Total characters: 9641
+Sentence count: 113
+Avg words per sentence: 14.11
+Avg characters per sentence: 85.32
+Median words per sentence: 14.00
+Median characters per sentence: 71.00
+
+Title: Untitled 2
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 381, 'PUNCT': 397, 'PROPN': 102, 'NUM': 16, 'SPACE': 52, 'ADP': 214, 'DET': 205, 'ADJ': 128, 'SCONJ': 30, 'VERB': 265, 'AUX': 76, 'PRON': 196, 'CCONJ': 53, 'ADV': 101, 'PART': 42, 'INTJ': 6}
+Total words: 1775
+Total characters: 10573
+Sentence count: 123
+Avg words per sentence: 14.43
+Avg characters per sentence: 85.96
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Smithfield Heirloom
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 409, 'PUNCT': 357, 'DET': 229, 'PROPN': 90, 'SPACE': 42, 'ADP': 228, 'ADJ': 138, 'SCONJ': 25, 'ADV': 94, 'VERB': 297, 'CCONJ': 52, 'PART': 32, 'AUX': 89, 'PRON': 227, 'NUM': 5, 'INTJ': 1}
+Total words: 1889
+Total characters: 11176
+Sentence count: 122
+Avg words per sentence: 15.48
+Avg characters per sentence: 91.61
+Median words per sentence: 13.00
+Median characters per sentence: 63.50
+
+Title: The Shadow Collector
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 423, 'PUNCT': 323, 'DET': 198, 'PROPN': 46, 'SPACE': 33, 'ADP': 212, 'VERB': 276, 'SCONJ': 38, 'ADJ': 128, 'PRON': 203, 'AUX': 61, 'PART': 52, 'ADV': 88, 'CCONJ': 58, 'INTJ': 1, 'NUM': 5}
+Total words: 1766
+Total characters: 10524
+Sentence count: 108
+Avg words per sentence: 16.35
+Avg characters per sentence: 97.44
+Median words per sentence: 16.00
+Median characters per sentence: 81.50
+
+Title: The Clockmaker’s Apprentice
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 455, 'PUNCT': 320, 'DET': 242, 'PROPN': 100, 'PART': 59, 'SPACE': 45, 'ADJ': 115, 'ADP': 231, 'AUX': 63, 'VERB': 236, 'CCONJ': 72, 'PRON': 165, 'ADV': 75, 'NUM': 6, 'SCONJ': 21}
+Total words: 1781
+Total characters: 10589
+Sentence count: 102
+Avg words per sentence: 17.46
+Avg characters per sentence: 103.81
+Median words per sentence: 17.00
+Median characters per sentence: 82.00
+
+Title: The Clockmaker's Heart
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 375, 'PUNCT': 348, 'DET': 188, 'PROPN': 89, 'PART': 62, 'SPACE': 41, 'ADP': 195, 'VERB': 262, 'ADJ': 130, 'CCONJ': 38, 'PRON': 215, 'ADV': 71, 'AUX': 61, 'NUM': 6, 'SCONJ': 22, 'INTJ': 3}
+Total words: 1663
+Total characters: 10064
+Sentence count: 109
+Avg words per sentence: 15.26
+Avg characters per sentence: 92.33
+Median words per sentence: 14.00
+Median characters per sentence: 74.00
+
+Title: The Last Lantern
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 432, 'PUNCT': 352, 'DET': 253, 'ADJ': 144, 'PROPN': 69, 'SPACE': 44, 'AUX': 56, 'VERB': 269, 'ADV': 71, 'ADP': 205, 'PRON': 154, 'CCONJ': 55, 'SCONJ': 28, 'PART': 56, 'INTJ': 1}
+Total words: 1754
+Total characters: 10564
+Sentence count: 108
+Avg words per sentence: 16.24
+Avg characters per sentence: 97.81
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Lighthouse Keeper’s Secret
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 387, 'PUNCT': 386, 'DET': 226, 'PROPN': 95, 'PART': 48, 'SPACE': 49, 'ADP': 224, 'ADJ': 132, 'PRON': 199, 'VERB': 274, 'ADV': 89, 'AUX': 64, 'CCONJ': 55, 'SCONJ': 34, 'INTJ': 1, 'NUM': 5}
+Total words: 1787
+Total characters: 10682
+Sentence count: 134
+Avg words per sentence: 13.34
+Avg characters per sentence: 79.72
+Median words per sentence: 12.00
+Median characters per sentence: 62.00
+
+Title: The Last Garden
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 447, 'PUNCT': 350, 'DET': 227, 'ADJ': 129, 'PROPN': 73, 'SPACE': 43, 'ADP': 220, 'PRON': 172, 'AUX': 65, 'ADV': 61, 'VERB': 261, 'PART': 52, 'CCONJ': 50, 'NUM': 6, 'SCONJ': 33, 'INTJ': 3, 'SYM': 1}
+Total words: 1752
+Total characters: 10183
+Sentence count: 114
+Avg words per sentence: 15.37
+Avg characters per sentence: 89.32
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Fiddler in the Forest
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 407, 'PUNCT': 289, 'DET': 258, 'PROPN': 64, 'ADP': 242, 'SPACE': 32, 'SCONJ': 33, 'VERB': 241, 'ADJ': 103, 'PRON': 170, 'AUX': 42, 'CCONJ': 48, 'ADV': 77, 'PART': 32, 'NUM': 3}
+Total words: 1713
+Total characters: 9775
+Sentence count: 94
+Avg words per sentence: 18.22
+Avg characters per sentence: 103.99
+Median words per sentence: 17.00
+Median characters per sentence: 75.00
+
+Title: The Lighthouse Keeper of Morwen's Cove
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 455, 'PUNCT': 348, 'DET': 255, 'PROPN': 75, 'ADP': 245, 'PART': 43, 'SPACE': 38, 'ADJ': 140, 'PRON': 210, 'CCONJ': 65, 'VERB': 276, 'AUX': 66, 'ADV': 95, 'SCONJ': 44, 'NUM': 3}
+Total words: 1940
+Total characters: 11342
+Sentence count: 91
+Avg words per sentence: 21.32
+Avg characters per sentence: 124.64
+Median words per sentence: 21.00
+Median characters per sentence: 102.00
+
+Title: The Clockmaker's Apprentice 5
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 485, 'PUNCT': 371, 'DET': 262, 'PROPN': 83, 'PART': 54, 'NUM': 12, 'SPACE': 46, 'ADP': 243, 'VERB': 284, 'CCONJ': 51, 'ADJ': 141, 'PRON': 174, 'AUX': 68, 'ADV': 76, 'SCONJ': 42, 'INTJ': 3}
+Total words: 1944
+Total characters: 11789
+Sentence count: 120
+Avg words per sentence: 16.20
+Avg characters per sentence: 98.24
+Median words per sentence: 15.00
+Median characters per sentence: 77.00
+
+Title: Shards of the Old World
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 428, 'PUNCT': 416, 'ADP': 231, 'DET': 233, 'PROPN': 77, 'SPACE': 49, 'PRON': 220, 'AUX': 78, 'ADV': 101, 'ADJ': 144, 'VERB': 297, 'CCONJ': 58, 'SCONJ': 32, 'NUM': 6, 'PART': 47, 'INTJ': 1}
+Total words: 1911
+Total characters: 11382
+Sentence count: 143
+Avg words per sentence: 13.36
+Avg characters per sentence: 79.59
+Median words per sentence: 13.00
+Median characters per sentence: 64.00
+
+Title: A Whisper Down Dellridge Lane
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 355, 'PUNCT': 365, 'DET': 203, 'PROPN': 75, 'SPACE': 45, 'ADP': 189, 'ADJ': 106, 'VERB': 275, 'CCONJ': 44, 'ADV': 99, 'PRON': 177, 'AUX': 63, 'SCONJ': 40, 'NUM': 5, 'PART': 44, 'INTJ': 2}
+Total words: 1653
+Total characters: 9739
+Sentence count: 109
+Avg words per sentence: 15.17
+Avg characters per sentence: 89.35
+Median words per sentence: 13.00
+Median characters per sentence: 67.00
+
+Title: Untitled 3
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 394, 'PUNCT': 384, 'PROPN': 109, 'NUM': 7, 'SPACE': 58, 'DET': 220, 'VERB': 300, 'ADP': 215, 'ADV': 86, 'ADJ': 143, 'PRON': 204, 'AUX': 50, 'CCONJ': 47, 'PART': 42, 'SCONJ': 29, 'INTJ': 5}
+Total words: 1807
+Total characters: 10587
+Sentence count: 130
+Avg words per sentence: 13.90
+Avg characters per sentence: 81.44
+Median words per sentence: 12.00
+Median characters per sentence: 60.00
+
+Title: The Last Garden 2
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 380, 'PUNCT': 307, 'DET': 185, 'ADJ': 124, 'PROPN': 98, 'NUM': 4, 'SPACE': 44, 'ADP': 177, 'VERB': 237, 'CCONJ': 47, 'PRON': 156, 'ADV': 56, 'AUX': 57, 'PART': 34, 'SCONJ': 25, 'INTJ': 3}
+Total words: 1537
+Total characters: 9245
+Sentence count: 104
+Avg words per sentence: 14.78
+Avg characters per sentence: 88.89
+Median words per sentence: 14.00
+Median characters per sentence: 68.00
+
+Title: The Clockmaker’s Apprentice 7
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 442, 'PUNCT': 311, 'DET': 227, 'PROPN': 70, 'PART': 42, 'NUM': 8, 'SPACE': 41, 'ADP': 241, 'ADJ': 138, 'PRON': 229, 'VERB': 254, 'AUX': 71, 'ADV': 67, 'CCONJ': 67, 'SCONJ': 27}
+Total words: 1857
+Total characters: 11024
+Sentence count: 112
+Avg words per sentence: 16.58
+Avg characters per sentence: 98.43
+Median words per sentence: 16.50
+Median characters per sentence: 82.00
+
+Title: The Last Page
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 349, 'PUNCT': 331, 'DET': 208, 'ADJ': 124, 'PROPN': 73, 'SPACE': 35, 'SCONJ': 42, 'VERB': 282, 'ADP': 221, 'PRON': 213, 'AUX': 73, 'ADV': 106, 'CCONJ': 57, 'PART': 55, 'INTJ': 2, 'NUM': 1}
+Total words: 1774
+Total characters: 10280
+Sentence count: 96
+Avg words per sentence: 18.48
+Avg characters per sentence: 107.08
+Median words per sentence: 17.50
+Median characters per sentence: 81.50
+
+Title: The Lighthouse Keeper 2
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 381, 'PUNCT': 334, 'DET': 227, 'PROPN': 68, 'NUM': 4, 'SPACE': 44, 'ADP': 196, 'ADJ': 99, 'SCONJ': 38, 'VERB': 260, 'PRON': 194, 'AUX': 57, 'CCONJ': 53, 'ADV': 64, 'PART': 43, 'INTJ': 1}
+Total words: 1661
+Total characters: 9395
+Sentence count: 101
+Avg words per sentence: 16.45
+Avg characters per sentence: 93.02
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Echoing Green
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 390, 'PUNCT': 326, 'DET': 224, 'VERB': 268, 'PROPN': 59, 'SPACE': 36, 'SCONJ': 33, 'ADP': 205, 'ADJ': 100, 'ADV': 91, 'CCONJ': 55, 'PRON': 188, 'AUX': 57, 'INTJ': 1, 'PART': 44, 'NUM': 3}
+Total words: 1700
+Total characters: 9879
+Sentence count: 103
+Avg words per sentence: 16.50
+Avg characters per sentence: 95.91
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: Echoes of Jupiter
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 500, 'PUNCT': 395, 'ADP': 247, 'PROPN': 110, 'SPACE': 51, 'PRON': 228, 'AUX': 96, 'DET': 246, 'NUM': 5, 'CCONJ': 71, 'ADV': 102, 'ADJ': 139, 'VERB': 301, 'SCONJ': 42, 'PART': 56}
+Total words: 2091
+Total characters: 12649
+Sentence count: 141
+Avg words per sentence: 14.83
+Avg characters per sentence: 89.71
+Median words per sentence: 15.00
+Median characters per sentence: 75.00
+
+Title: The Lighthouse Keeper
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 390, 'PUNCT': 266, 'DET': 227, 'PROPN': 47, 'SPACE': 32, 'VERB': 260, 'ADP': 220, 'SCONJ': 33, 'ADJ': 113, 'PART': 33, 'AUX': 62, 'ADV': 57, 'PRON': 189, 'CCONJ': 40, 'NUM': 7, 'INTJ': 1}
+Total words: 1653
+Total characters: 9634
+Sentence count: 93
+Avg words per sentence: 17.77
+Avg characters per sentence: 103.59
+Median words per sentence: 17.00
+Median characters per sentence: 79.00
+
+Title: Whispers of the Old Willow
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 374, 'PUNCT': 276, 'ADP': 191, 'DET': 227, 'PROPN': 43, 'SPACE': 35, 'ADJ': 107, 'VERB': 224, 'PRON': 155, 'ADV': 68, 'AUX': 56, 'CCONJ': 41, 'SCONJ': 29, 'PART': 52, 'NUM': 4, 'INTJ': 1}
+Total words: 1540
+Total characters: 8934
+Sentence count: 95
+Avg words per sentence: 16.21
+Avg characters per sentence: 94.04
+Median words per sentence: 15.00
+Median characters per sentence: 73.00
+
+Title: Echoes of the Past 2
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 377, 'PUNCT': 271, 'ADP': 202, 'DET': 217, 'ADJ': 134, 'NUM': 5, 'SPACE': 32, 'PROPN': 78, 'SCONJ': 34, 'VERB': 230, 'PART': 42, 'CCONJ': 48, 'ADV': 80, 'PRON': 178, 'AUX': 70, 'INTJ': 1}
+Total words: 1663
+Total characters: 9713
+Sentence count: 86
+Avg words per sentence: 19.34
+Avg characters per sentence: 112.94
+Median words per sentence: 20.00
+Median characters per sentence: 98.50
+
+Title: The Clockmaker's Apprentice 6
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 418, 'PUNCT': 403, 'DET': 214, 'PROPN': 92, 'PART': 54, 'NUM': 7, 'SPACE': 49, 'ADP': 210, 'ADJ': 114, 'SCONJ': 34, 'VERB': 292, 'PRON': 200, 'ADV': 78, 'CCONJ': 43, 'AUX': 64, 'INTJ': 2}
+Total words: 1784
+Total characters: 10500
+Sentence count: 136
+Avg words per sentence: 13.12
+Avg characters per sentence: 77.21
+Median words per sentence: 12.00
+Median characters per sentence: 58.00
+
+Title: The Clockmaker of Mirewood
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 391, 'PUNCT': 310, 'DET': 205, 'PROPN': 44, 'ADP': 204, 'SPACE': 39, 'PRON': 175, 'VERB': 245, 'CCONJ': 62, 'ADJ': 104, 'AUX': 62, 'ADV': 77, 'PART': 37, 'NUM': 7, 'SCONJ': 35, 'INTJ': 3}
+Total words: 1629
+Total characters: 9305
+Sentence count: 90
+Avg words per sentence: 18.10
+Avg characters per sentence: 103.39
+Median words per sentence: 15.50
+Median characters per sentence: 77.00
+
+Title: A Moonlit Sonata
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 394, 'PUNCT': 371, 'DET': 215, 'PROPN': 81, 'SPACE': 46, 'ADJ': 124, 'ADP': 204, 'VERB': 296, 'ADV': 91, 'PRON': 238, 'CCONJ': 43, 'AUX': 73, 'SCONJ': 42, 'PART': 40, 'INTJ': 1, 'NUM': 1}
+Total words: 1816
+Total characters: 10744
+Sentence count: 119
+Avg words per sentence: 15.26
+Avg characters per sentence: 90.29
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Last Garden 3
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 375, 'PUNCT': 294, 'DET': 199, 'ADJ': 118, 'PROPN': 47, 'NUM': 3, 'SPACE': 36, 'ADP': 192, 'VERB': 252, 'SCONJ': 32, 'CCONJ': 46, 'ADV': 55, 'PRON': 169, 'AUX': 61, 'PART': 56}
+Total words: 1576
+Total characters: 9306
+Sentence count: 99
+Avg words per sentence: 15.92
+Avg characters per sentence: 94.00
+Median words per sentence: 15.00
+Median characters per sentence: 74.00
+
+Title: The Weeping Timekeeper
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 386, 'PUNCT': 329, 'DET': 220, 'PROPN': 79, 'SPACE': 35, 'ADP': 197, 'ADJ': 118, 'VERB': 228, 'PRON': 164, 'CCONJ': 43, 'AUX': 69, 'PART': 44, 'ADV': 76, 'SCONJ': 36, 'NUM': 2, 'INTJ': 3}
+Total words: 1641
+Total characters: 9721
+Sentence count: 101
+Avg words per sentence: 16.25
+Avg characters per sentence: 96.25
+Median words per sentence: 16.00
+Median characters per sentence: 75.00
+
+Title: The Ascent
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 425, 'PUNCT': 300, 'DET': 225, 'PROPN': 58, 'SPACE': 39, 'ADP': 219, 'ADV': 92, 'SCONJ': 21, 'ADJ': 130, 'VERB': 272, 'PART': 52, 'PRON': 211, 'CCONJ': 53, 'AUX': 61, 'NUM': 1}
+Total words: 1805
+Total characters: 10444
+Sentence count: 112
+Avg words per sentence: 16.12
+Avg characters per sentence: 93.25
+Median words per sentence: 15.50
+Median characters per sentence: 71.00
+
+Title: The Clockmaker’s Paradox 19
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 358, 'PUNCT': 347, 'DET': 179, 'PROPN': 108, 'PART': 39, 'NUM': 6, 'SPACE': 44, 'ADP': 206, 'VERB': 255, 'CCONJ': 59, 'PRON': 203, 'ADJ': 124, 'AUX': 65, 'ADV': 93, 'SCONJ': 24}
+Total words: 1676
+Total characters: 9871
+Sentence count: 106
+Avg words per sentence: 15.81
+Avg characters per sentence: 93.12
+Median words per sentence: 13.00
+Median characters per sentence: 70.00
+
+Title: The Clockmaker of Tirsol
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 436, 'PUNCT': 316, 'DET': 224, 'PROPN': 62, 'ADP': 221, 'SPACE': 39, 'ADJ': 122, 'AUX': 70, 'VERB': 239, 'CCONJ': 53, 'PRON': 211, 'ADV': 58, 'SCONJ': 35, 'PART': 37, 'NUM': 3}
+Total words: 1737
+Total characters: 9856
+Sentence count: 112
+Avg words per sentence: 15.51
+Avg characters per sentence: 88.00
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: Among the Shadows of Winter
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 299, 'PUNCT': 349, 'ADP': 171, 'DET': 166, 'PROPN': 98, 'SPACE': 48, 'ADJ': 97, 'ADV': 85, 'VERB': 250, 'CCONJ': 50, 'NUM': 4, 'PRON': 196, 'AUX': 65, 'SCONJ': 24, 'PART': 31}
+Total words: 1483
+Total characters: 8902
+Sentence count: 120
+Avg words per sentence: 12.36
+Avg characters per sentence: 74.18
+Median words per sentence: 11.50
+Median characters per sentence: 59.00
+
+Title: The Curious Case of Caelum Mellor
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 359, 'PUNCT': 307, 'DET': 183, 'PROPN': 88, 'ADP': 175, 'SPACE': 36, 'AUX': 99, 'ADJ': 124, 'CCONJ': 52, 'ADV': 69, 'PRON': 207, 'PART': 49, 'VERB': 255, 'SCONJ': 36, 'NUM': 7, 'INTJ': 4}
+Total words: 1674
+Total characters: 10015
+Sentence count: 115
+Avg words per sentence: 14.56
+Avg characters per sentence: 87.09
+Median words per sentence: 13.00
+Median characters per sentence: 68.00
+
+Title: Untitled 14
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 379, 'PUNCT': 213, 'PROPN': 46, 'NUM': 3, 'SPACE': 26, 'ADP': 202, 'DET': 230, 'VERB': 179, 'ADJ': 104, 'PRON': 136, 'PART': 44, 'AUX': 51, 'CCONJ': 61, 'SCONJ': 23, 'ADV': 61}
+Total words: 1488
+Total characters: 8534
+Sentence count: 71
+Avg words per sentence: 20.96
+Avg characters per sentence: 120.20
+Median words per sentence: 21.00
+Median characters per sentence: 96.00
+
+Title: The Curator’s Clock
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 376, 'PUNCT': 400, 'DET': 214, 'PROPN': 104, 'PART': 45, 'SPACE': 56, 'ADP': 219, 'ADJ': 127, 'CCONJ': 56, 'VERB': 286, 'PRON': 229, 'ADV': 94, 'AUX': 80, 'SCONJ': 45, 'NUM': 6, 'X': 1, 'INTJ': 2}
+Total words: 1847
+Total characters: 10882
+Sentence count: 126
+Avg words per sentence: 14.66
+Avg characters per sentence: 86.37
+Median words per sentence: 13.00
+Median characters per sentence: 63.00
+
+Title: Untitled 28
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 414, 'PUNCT': 277, 'PROPN': 88, 'NUM': 6, 'SPACE': 31, 'DET': 244, 'ADP': 252, 'AUX': 60, 'ADJ': 170, 'VERB': 212, 'CCONJ': 49, 'PRON': 176, 'SCONJ': 31, 'ADV': 75, 'PART': 28}
+Total words: 1794
+Total characters: 10560
+Sentence count: 93
+Avg words per sentence: 19.29
+Avg characters per sentence: 113.55
+Median words per sentence: 20.00
+Median characters per sentence: 90.00
+
+Title: Whispers in the Willow
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 327, 'PUNCT': 275, 'ADP': 161, 'DET': 181, 'SPACE': 36, 'VERB': 214, 'PROPN': 65, 'SCONJ': 19, 'CCONJ': 42, 'PRON': 139, 'ADJ': 98, 'ADV': 63, 'AUX': 48, 'PART': 35, 'NUM': 2, 'INTJ': 3}
+Total words: 1370
+Total characters: 8087
+Sentence count: 83
+Avg words per sentence: 16.51
+Avg characters per sentence: 97.43
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Last Garden of Mars
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 388, 'PUNCT': 283, 'DET': 202, 'ADJ': 134, 'PROPN': 67, 'ADP': 197, 'SPACE': 38, 'PART': 47, 'ADV': 84, 'VERB': 233, 'CCONJ': 43, 'AUX': 54, 'PRON': 154, 'NUM': 6, 'SCONJ': 18, 'INTJ': 1}
+Total words: 1594
+Total characters: 9765
+Sentence count: 104
+Avg words per sentence: 15.33
+Avg characters per sentence: 93.89
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Clockmaker of Solitude
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 403, 'PUNCT': 308, 'DET': 200, 'PROPN': 56, 'ADP': 218, 'SPACE': 37, 'ADJ': 119, 'VERB': 266, 'ADV': 98, 'CCONJ': 44, 'PRON': 222, 'SCONJ': 56, 'PART': 40, 'AUX': 72, 'NUM': 5, 'INTJ': 1}
+Total words: 1764
+Total characters: 10133
+Sentence count: 101
+Avg words per sentence: 17.47
+Avg characters per sentence: 100.33
+Median words per sentence: 16.00
+Median characters per sentence: 75.00
+
+Title: Echoes of the Fallen Star
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 378, 'PUNCT': 272, 'ADP': 210, 'DET': 230, 'PROPN': 51, 'SPACE': 33, 'VERB': 240, 'CCONJ': 42, 'ADJ': 118, 'PRON': 154, 'PART': 33, 'ADV': 65, 'AUX': 61, 'SCONJ': 31, 'INTJ': 2, 'NUM': 1}
+Total words: 1592
+Total characters: 9307
+Sentence count: 99
+Avg words per sentence: 16.08
+Avg characters per sentence: 94.01
+Median words per sentence: 16.00
+Median characters per sentence: 75.00
+
+Title: The Unseen Library
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 419, 'PUNCT': 275, 'DET': 240, 'PROPN': 70, 'SPACE': 28, 'AUX': 53, 'ADV': 61, 'VERB': 238, 'ADP': 237, 'ADJ': 137, 'PRON': 136, 'CCONJ': 46, 'SCONJ': 32, 'PART': 36, 'NUM': 2}
+Total words: 1696
+Total characters: 10228
+Sentence count: 97
+Avg words per sentence: 17.48
+Avg characters per sentence: 105.44
+Median words per sentence: 17.00
+Median characters per sentence: 86.00
+
+Title: Untitled 29
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 366, 'PUNCT': 301, 'PROPN': 82, 'NUM': 9, 'SPACE': 36, 'ADP': 195, 'DET': 190, 'AUX': 65, 'ADV': 82, 'VERB': 253, 'PART': 40, 'PRON': 197, 'ADJ': 127, 'CCONJ': 57, 'SCONJ': 28, 'INTJ': 3}
+Total words: 1664
+Total characters: 9930
+Sentence count: 97
+Avg words per sentence: 17.15
+Avg characters per sentence: 102.37
+Median words per sentence: 17.00
+Median characters per sentence: 79.00
+
+Title: Whispers of the Old Lore
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 405, 'PUNCT': 315, 'ADP': 223, 'DET': 250, 'PROPN': 112, 'SPACE': 38, 'VERB': 249, 'CCONJ': 52, 'ADJ': 117, 'AUX': 69, 'PART': 41, 'ADV': 80, 'PRON': 164, 'SCONJ': 37, 'NUM': 4}
+Total words: 1786
+Total characters: 10591
+Sentence count: 109
+Avg words per sentence: 16.39
+Avg characters per sentence: 97.17
+Median words per sentence: 15.00
+Median characters per sentence: 75.00
+
+Title: Untitled 15
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 334, 'PUNCT': 343, 'PROPN': 94, 'NUM': 6, 'SPACE': 31, 'ADP': 195, 'DET': 192, 'ADJ': 118, 'VERB': 264, 'CCONJ': 51, 'PRON': 192, 'ADV': 78, 'AUX': 59, 'PART': 47, 'SCONJ': 30, 'INTJ': 4}
+Total words: 1624
+Total characters: 9631
+Sentence count: 100
+Avg words per sentence: 16.24
+Avg characters per sentence: 96.31
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Echoes of Redstone Manor
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 409, 'PUNCT': 243, 'DET': 224, 'PROPN': 61, 'ADP': 232, 'SPACE': 23, 'ADJ': 143, 'VERB': 259, 'PRON': 139, 'AUX': 53, 'PART': 44, 'CCONJ': 47, 'SCONJ': 26, 'ADV': 54, 'NUM': 2}
+Total words: 1676
+Total characters: 10031
+Sentence count: 85
+Avg words per sentence: 19.72
+Avg characters per sentence: 118.01
+Median words per sentence: 19.00
+Median characters per sentence: 97.00
+
+Title: The Clockmaker’s Paradox 24
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 381, 'PUNCT': 393, 'DET': 220, 'PROPN': 58, 'PART': 54, 'NUM': 8, 'SPACE': 47, 'ADP': 180, 'VERB': 253, 'CCONJ': 56, 'ADJ': 122, 'PRON': 189, 'AUX': 61, 'ADV': 90, 'SCONJ': 25, 'INTJ': 2}
+Total words: 1667
+Total characters: 9690
+Sentence count: 115
+Avg words per sentence: 14.50
+Avg characters per sentence: 84.26
+Median words per sentence: 14.00
+Median characters per sentence: 66.00
+
+Title: The Clockmaker’s Paradox 18
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 358, 'PUNCT': 320, 'DET': 186, 'PROPN': 59, 'PART': 46, 'NUM': 6, 'SPACE': 40, 'ADP': 185, 'SCONJ': 29, 'VERB': 273, 'ADJ': 122, 'CCONJ': 39, 'ADV': 82, 'PRON': 231, 'AUX': 72}
+Total words: 1658
+Total characters: 9570
+Sentence count: 122
+Avg words per sentence: 13.59
+Avg characters per sentence: 78.44
+Median words per sentence: 12.00
+Median characters per sentence: 55.00
+
+Title: The Lighthouse Keeper’s Secret 9
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 411, 'PUNCT': 437, 'DET': 245, 'PROPN': 81, 'PART': 54, 'ADJ': 113, 'NUM': 1, 'SPACE': 47, 'ADP': 215, 'SCONJ': 44, 'VERB': 286, 'PRON': 234, 'CCONJ': 46, 'AUX': 76, 'ADV': 103, 'INTJ': 3}
+Total words: 1877
+Total characters: 10893
+Sentence count: 129
+Avg words per sentence: 14.55
+Avg characters per sentence: 84.44
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: Whispering Pines
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 388, 'PUNCT': 370, 'PROPN': 79, 'SPACE': 45, 'ADP': 207, 'DET': 222, 'ADJ': 117, 'AUX': 62, 'SCONJ': 46, 'PRON': 192, 'VERB': 273, 'PART': 43, 'CCONJ': 49, 'ADV': 82, 'NUM': 2, 'INTJ': 4}
+Total words: 1740
+Total characters: 10484
+Sentence count: 99
+Avg words per sentence: 17.58
+Avg characters per sentence: 105.90
+Median words per sentence: 17.00
+Median characters per sentence: 85.00
+
+Title: The Echoes of Margaret’s Grove
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 400, 'PUNCT': 283, 'DET': 234, 'PROPN': 53, 'ADP': 212, 'PART': 47, 'SPACE': 36, 'AUX': 60, 'ADV': 107, 'VERB': 266, 'ADJ': 130, 'PRON': 169, 'CCONJ': 57, 'NUM': 10, 'SCONJ': 38}
+Total words: 1757
+Total characters: 10464
+Sentence count: 94
+Avg words per sentence: 18.69
+Avg characters per sentence: 111.32
+Median words per sentence: 18.00
+Median characters per sentence: 90.00
+
+Title: Untitled 17
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 375, 'PUNCT': 291, 'PROPN': 50, 'NUM': 6, 'SPACE': 35, 'ADP': 225, 'DET': 230, 'VERB': 227, 'PRON': 189, 'PART': 24, 'ADJ': 120, 'ADV': 79, 'CCONJ': 45, 'AUX': 62, 'SCONJ': 29, 'INTJ': 2}
+Total words: 1646
+Total characters: 9467
+Sentence count: 86
+Avg words per sentence: 19.14
+Avg characters per sentence: 110.08
+Median words per sentence: 19.00
+Median characters per sentence: 88.00
+
+Title: The Clockmaker’s Secret 8
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 374, 'PUNCT': 320, 'DET': 194, 'PROPN': 62, 'PART': 48, 'ADJ': 128, 'NUM': 6, 'SPACE': 36, 'ADP': 199, 'VERB': 245, 'CCONJ': 56, 'PRON': 192, 'AUX': 72, 'ADV': 81, 'SCONJ': 25, 'INTJ': 2}
+Total words: 1654
+Total characters: 9598
+Sentence count: 103
+Avg words per sentence: 16.06
+Avg characters per sentence: 93.18
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Last Light of Arvale
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 406, 'PUNCT': 389, 'DET': 240, 'ADJ': 132, 'ADP': 237, 'PROPN': 77, 'SPACE': 52, 'VERB': 283, 'CCONJ': 65, 'PART': 35, 'PRON': 224, 'NUM': 4, 'ADV': 99, 'SCONJ': 39, 'AUX': 66, 'INTJ': 2}
+Total words: 1882
+Total characters: 10856
+Sentence count: 123
+Avg words per sentence: 15.30
+Avg characters per sentence: 88.26
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: The Echoes of 5th Avenue
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 420, 'PUNCT': 304, 'DET': 236, 'PROPN': 54, 'ADP': 220, 'ADJ': 123, 'SPACE': 37, 'PRON': 185, 'VERB': 260, 'PART': 43, 'ADV': 70, 'CCONJ': 39, 'AUX': 75, 'SCONJ': 31, 'NUM': 5, 'INTJ': 3}
+Total words: 1730
+Total characters: 10315
+Sentence count: 118
+Avg words per sentence: 14.66
+Avg characters per sentence: 87.42
+Median words per sentence: 14.00
+Median characters per sentence: 69.00
+
+Title: The Whispering Winds of Ballymore
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 356, 'PUNCT': 258, 'DET': 196, 'PROPN': 59, 'ADP': 179, 'SPACE': 35, 'ADV': 67, 'SCONJ': 40, 'ADJ': 116, 'VERB': 229, 'CCONJ': 48, 'AUX': 53, 'PART': 40, 'PRON': 127, 'NUM': 2, 'INTJ': 1}
+Total words: 1490
+Total characters: 8812
+Sentence count: 89
+Avg words per sentence: 16.74
+Avg characters per sentence: 99.01
+Median words per sentence: 16.00
+Median characters per sentence: 81.00
+
+Title: Echoes of Juniper Hollow
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 372, 'PUNCT': 259, 'ADP': 189, 'PROPN': 61, 'SPACE': 28, 'DET': 199, 'AUX': 49, 'VERB': 257, 'CCONJ': 46, 'SCONJ': 26, 'PART': 52, 'ADV': 86, 'PRON': 150, 'ADJ': 109, 'NUM': 4}
+Total words: 1580
+Total characters: 9175
+Sentence count: 94
+Avg words per sentence: 16.81
+Avg characters per sentence: 97.61
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Lost Manuscript of Thistle Grove
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 436, 'PUNCT': 382, 'DET': 244, 'ADJ': 156, 'PROPN': 97, 'ADP': 237, 'SPACE': 47, 'VERB': 296, 'ADV': 81, 'PART': 41, 'SCONJ': 26, 'PRON': 217, 'CCONJ': 52, 'AUX': 81, 'NUM': 5, 'INTJ': 1}
+Total words: 1939
+Total characters: 11632
+Sentence count: 135
+Avg words per sentence: 14.36
+Avg characters per sentence: 86.16
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: Shadows on Lavender Walls
+Unnecessary words: 19
+Parts of Speech: {'NOUN': 371, 'PUNCT': 331, 'ADP': 211, 'PROPN': 129, 'SPACE': 41, 'DET': 185, 'VERB': 265, 'CCONJ': 59, 'ADJ': 143, 'AUX': 75, 'SCONJ': 41, 'ADV': 88, 'PART': 38, 'PRON': 183, 'INTJ': 6, 'NUM': 2}
+Total words: 1761
+Total characters: 11005
+Sentence count: 107
+Avg words per sentence: 16.46
+Avg characters per sentence: 102.85
+Median words per sentence: 16.00
+Median characters per sentence: 81.00
+
+Title: Untitled 16
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 465, 'PUNCT': 342, 'ADJ': 151, 'NUM': 7, 'SPACE': 48, 'ADP': 236, 'DET': 266, 'PROPN': 74, 'VERB': 317, 'CCONJ': 49, 'PRON': 204, 'ADV': 87, 'PART': 65, 'SCONJ': 37, 'AUX': 67}
+Total words: 1998
+Total characters: 11718
+Sentence count: 116
+Avg words per sentence: 17.22
+Avg characters per sentence: 101.02
+Median words per sentence: 17.50
+Median characters per sentence: 83.00
+
+Title: The Clockmaker's Secret 9
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 391, 'PUNCT': 321, 'DET': 193, 'PROPN': 60, 'PART': 47, 'ADJ': 96, 'NUM': 2, 'SPACE': 37, 'ADP': 207, 'SCONJ': 36, 'VERB': 239, 'CCONJ': 59, 'ADV': 86, 'PRON': 208, 'AUX': 73, 'INTJ': 2}
+Total words: 1674
+Total characters: 9614
+Sentence count: 107
+Avg words per sentence: 15.64
+Avg characters per sentence: 89.85
+Median words per sentence: 14.00
+Median characters per sentence: 69.00
+
+Title: The Clockmaker’s Secret
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 420, 'PUNCT': 393, 'DET': 241, 'PROPN': 97, 'PART': 49, 'SPACE': 52, 'ADP': 222, 'VERB': 257, 'CCONJ': 51, 'ADJ': 138, 'AUX': 74, 'PRON': 181, 'ADV': 90, 'NUM': 5, 'SCONJ': 30, 'INTJ': 7}
+Total words: 1818
+Total characters: 10955
+Sentence count: 113
+Avg words per sentence: 16.09
+Avg characters per sentence: 96.95
+Median words per sentence: 14.00
+Median characters per sentence: 72.00
+
+Title: The Lighthouse Keeper's Secret 8
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 297, 'PUNCT': 389, 'DET': 166, 'PROPN': 78, 'PART': 66, 'ADJ': 94, 'NUM': 5, 'SPACE': 50, 'AUX': 76, 'ADP': 160, 'VERB': 298, 'ADV': 108, 'PRON': 257, 'CCONJ': 37, 'INTJ': 6, 'SCONJ': 25}
+Total words: 1618
+Total characters: 9194
+Sentence count: 146
+Avg words per sentence: 11.08
+Avg characters per sentence: 62.97
+Median words per sentence: 10.00
+Median characters per sentence: 48.00
+
+Title: The Clockmaker’s Paradox 23
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 387, 'PUNCT': 356, 'DET': 186, 'PROPN': 51, 'PART': 53, 'NUM': 7, 'SPACE': 43, 'ADP': 207, 'ADJ': 121, 'VERB': 270, 'ADV': 90, 'PRON': 245, 'CCONJ': 42, 'AUX': 67, 'SCONJ': 29, 'INTJ': 2}
+Total words: 1728
+Total characters: 10156
+Sentence count: 117
+Avg words per sentence: 14.77
+Avg characters per sentence: 86.80
+Median words per sentence: 13.00
+Median characters per sentence: 66.00
+
+Title: The Last Light of Loria
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 470, 'PUNCT': 349, 'DET': 251, 'ADJ': 112, 'ADP': 224, 'PROPN': 72, 'SPACE': 41, 'AUX': 52, 'VERB': 278, 'PART': 58, 'ADV': 77, 'CCONJ': 50, 'SCONJ': 44, 'PRON': 166, 'NUM': 5, 'INTJ': 3}
+Total words: 1832
+Total characters: 10830
+Sentence count: 99
+Avg words per sentence: 18.51
+Avg characters per sentence: 109.39
+Median words per sentence: 19.00
+Median characters per sentence: 91.00
+
+Title: Echoes of the Forgotten 2
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 478, 'PUNCT': 338, 'ADP': 275, 'DET': 281, 'PROPN': 106, 'NUM': 6, 'SPACE': 42, 'SCONJ': 38, 'VERB': 303, 'ADJ': 127, 'PRON': 182, 'CCONJ': 59, 'ADV': 77, 'AUX': 45, 'PART': 46, 'INTJ': 1}
+Total words: 1993
+Total characters: 11988
+Sentence count: 109
+Avg words per sentence: 18.28
+Avg characters per sentence: 109.98
+Median words per sentence: 17.00
+Median characters per sentence: 87.00
+
+Title: The Clockmaker's Legacy
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 350, 'PUNCT': 320, 'DET': 195, 'PROPN': 81, 'PART': 38, 'SPACE': 41, 'ADP': 194, 'ADJ': 90, 'VERB': 252, 'CCONJ': 38, 'PRON': 194, 'AUX': 56, 'SCONJ': 23, 'ADV': 75, 'INTJ': 4, 'NUM': 1}
+Total words: 1561
+Total characters: 9283
+Sentence count: 105
+Avg words per sentence: 14.87
+Avg characters per sentence: 88.41
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: Untitled 12
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 405, 'PUNCT': 347, 'PROPN': 77, 'NUM': 9, 'SPACE': 38, 'VERB': 293, 'ADP': 209, 'DET': 208, 'PRON': 227, 'ADV': 93, 'AUX': 87, 'ADJ': 110, 'PART': 53, 'CCONJ': 73, 'SCONJ': 41}
+Total words: 1840
+Total characters: 10823
+Sentence count: 122
+Avg words per sentence: 15.08
+Avg characters per sentence: 88.71
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: Untitled 13
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 396, 'PUNCT': 347, 'PROPN': 56, 'NUM': 11, 'SPACE': 43, 'VERB': 250, 'PRON': 202, 'ADJ': 110, 'ADP': 200, 'DET': 209, 'ADV': 94, 'CCONJ': 55, 'AUX': 73, 'PART': 48, 'SCONJ': 40, 'INTJ': 1}
+Total words: 1712
+Total characters: 9901
+Sentence count: 112
+Avg words per sentence: 15.29
+Avg characters per sentence: 88.40
+Median words per sentence: 15.00
+Median characters per sentence: 71.50
+
+Title: The Glassmaker's Paradox
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 393, 'PUNCT': 324, 'DET': 212, 'PROPN': 73, 'PART': 51, 'SPACE': 37, 'ADP': 196, 'VERB': 270, 'CCONJ': 63, 'PRON': 185, 'ADJ': 109, 'AUX': 72, 'SCONJ': 34, 'ADV': 87, 'NUM': 3, 'INTJ': 2}
+Total words: 1724
+Total characters: 9909
+Sentence count: 115
+Avg words per sentence: 14.99
+Avg characters per sentence: 86.17
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: Echoes of the Forgotten 3
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 386, 'PUNCT': 207, 'ADP': 223, 'DET': 231, 'PROPN': 58, 'NUM': 7, 'SPACE': 23, 'SCONJ': 18, 'VERB': 218, 'ADJ': 139, 'PRON': 124, 'AUX': 49, 'CCONJ': 53, 'ADV': 54, 'PART': 51}
+Total words: 1589
+Total characters: 9488
+Sentence count: 73
+Avg words per sentence: 21.77
+Avg characters per sentence: 129.97
+Median words per sentence: 20.00
+Median characters per sentence: 105.00
+
+Title: The Clockmaker’s Paradox 22
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 399, 'PUNCT': 388, 'DET': 190, 'PROPN': 60, 'PART': 30, 'NUM': 3, 'SPACE': 43, 'ADP': 188, 'PRON': 213, 'VERB': 284, 'ADJ': 131, 'CCONJ': 61, 'AUX': 72, 'ADV': 106, 'SCONJ': 40, 'INTJ': 1}
+Total words: 1749
+Total characters: 10606
+Sentence count: 109
+Avg words per sentence: 16.05
+Avg characters per sentence: 97.30
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Clockmaker’s Paradox 20
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 365, 'PUNCT': 411, 'DET': 193, 'PROPN': 85, 'PART': 51, 'NUM': 4, 'SPACE': 53, 'ADP': 179, 'ADJ': 112, 'VERB': 265, 'PRON': 216, 'AUX': 72, 'CCONJ': 48, 'SCONJ': 30, 'ADV': 87, 'INTJ': 4}
+Total words: 1674
+Total characters: 9810
+Sentence count: 125
+Avg words per sentence: 13.39
+Avg characters per sentence: 78.48
+Median words per sentence: 11.00
+Median characters per sentence: 54.00
+
+Title: The Clockmaker's Legacy 8
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 408, 'PUNCT': 318, 'DET': 209, 'PROPN': 58, 'PART': 52, 'NUM': 4, 'SPACE': 37, 'ADP': 218, 'SCONJ': 32, 'VERB': 239, 'CCONJ': 45, 'ADV': 70, 'PRON': 186, 'ADJ': 145, 'AUX': 58, 'INTJ': 2}
+Total words: 1694
+Total characters: 10124
+Sentence count: 95
+Avg words per sentence: 17.83
+Avg characters per sentence: 106.57
+Median words per sentence: 17.00
+Median characters per sentence: 80.00
+
+Title: Untitled 39
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 383, 'PUNCT': 332, 'PROPN': 51, 'NUM': 3, 'SPACE': 40, 'ADP': 203, 'DET': 219, 'PART': 48, 'VERB': 264, 'CCONJ': 52, 'ADJ': 138, 'PRON': 195, 'AUX': 59, 'ADV': 79, 'SCONJ': 38}
+Total words: 1699
+Total characters: 10102
+Sentence count: 104
+Avg words per sentence: 16.34
+Avg characters per sentence: 97.13
+Median words per sentence: 15.00
+Median characters per sentence: 74.50
+
+Title: Untitled 11
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 416, 'PUNCT': 295, 'PROPN': 28, 'NUM': 3, 'SPACE': 38, 'VERB': 241, 'ADP': 207, 'DET': 239, 'ADJ': 122, 'PRON': 165, 'AUX': 57, 'PART': 44, 'SCONJ': 33, 'ADV': 70, 'CCONJ': 43, 'INTJ': 1}
+Total words: 1641
+Total characters: 9381
+Sentence count: 100
+Avg words per sentence: 16.41
+Avg characters per sentence: 93.81
+Median words per sentence: 16.00
+Median characters per sentence: 81.00
+
+Title: The Lighthouse Keeper of Parson’s Cove
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 360, 'PUNCT': 269, 'DET': 220, 'PROPN': 46, 'ADP': 209, 'PART': 43, 'SPACE': 26, 'ADJ': 130, 'PRON': 190, 'VERB': 228, 'AUX': 66, 'CCONJ': 38, 'SCONJ': 34, 'ADV': 82, 'NUM': 8, 'INTJ': 4}
+Total words: 1634
+Total characters: 9193
+Sentence count: 93
+Avg words per sentence: 17.57
+Avg characters per sentence: 98.85
+Median words per sentence: 17.00
+Median characters per sentence: 84.00
+
+Title: Whispers of Eloria
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 407, 'PUNCT': 296, 'PROPN': 70, 'ADP': 236, 'SPACE': 37, 'DET': 249, 'ADJ': 126, 'VERB': 266, 'SCONJ': 35, 'CCONJ': 45, 'PRON': 151, 'AUX': 65, 'ADV': 70, 'PART': 39, 'NUM': 2}
+Total words: 1750
+Total characters: 10083
+Sentence count: 94
+Avg words per sentence: 18.62
+Avg characters per sentence: 107.27
+Median words per sentence: 18.00
+Median characters per sentence: 86.00
+
+Title: Untitled 10
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 311, 'PUNCT': 351, 'PROPN': 53, 'NUM': 2, 'SPACE': 42, 'ADP': 157, 'DET': 171, 'VERB': 274, 'ADJ': 99, 'PRON': 245, 'ADV': 82, 'AUX': 69, 'CCONJ': 48, 'PART': 33, 'SCONJ': 34, 'INTJ': 1}
+Total words: 1550
+Total characters: 8949
+Sentence count: 111
+Avg words per sentence: 13.96
+Avg characters per sentence: 80.62
+Median words per sentence: 13.00
+Median characters per sentence: 61.00
+
+Title: The Last Symphony of Mr. Clements
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 356, 'PUNCT': 321, 'DET': 179, 'ADJ': 134, 'PROPN': 109, 'ADP': 199, 'SPACE': 37, 'VERB': 269, 'CCONJ': 42, 'PRON': 206, 'AUX': 70, 'ADV': 82, 'SCONJ': 38, 'NUM': 4, 'PART': 40, 'INTJ': 3}
+Total words: 1674
+Total characters: 9960
+Sentence count: 110
+Avg words per sentence: 15.22
+Avg characters per sentence: 90.55
+Median words per sentence: 14.50
+Median characters per sentence: 73.00
+
+Title: Untitled 38
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 374, 'PUNCT': 309, 'PROPN': 36, 'NUM': 2, 'SPACE': 40, 'VERB': 240, 'ADP': 206, 'DET': 219, 'PRON': 197, 'ADV': 90, 'PART': 35, 'ADJ': 112, 'CCONJ': 55, 'AUX': 61, 'SCONJ': 31, 'INTJ': 3}
+Total words: 1641
+Total characters: 9640
+Sentence count: 108
+Avg words per sentence: 15.19
+Avg characters per sentence: 89.26
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: The Clockmaker of Via Marcello
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 342, 'PUNCT': 365, 'DET': 174, 'PROPN': 97, 'ADP': 186, 'SPACE': 47, 'ADJ': 116, 'VERB': 276, 'CCONJ': 39, 'PRON': 239, 'ADV': 73, 'AUX': 59, 'PART': 53, 'NUM': 3, 'SCONJ': 32, 'INTJ': 6}
+Total words: 1639
+Total characters: 9698
+Sentence count: 115
+Avg words per sentence: 14.25
+Avg characters per sentence: 84.33
+Median words per sentence: 12.00
+Median characters per sentence: 60.00
+
+Title: The Hourglass Symphony
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 360, 'PUNCT': 290, 'DET': 238, 'PROPN': 58, 'SPACE': 39, 'ADP': 209, 'ADJ': 135, 'VERB': 231, 'PRON': 194, 'AUX': 86, 'SCONJ': 28, 'CCONJ': 56, 'PART': 32, 'ADV': 81, 'NUM': 4}
+Total words: 1688
+Total characters: 9590
+Sentence count: 110
+Avg words per sentence: 15.35
+Avg characters per sentence: 87.18
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: Elysium's Mist
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 398, 'PUNCT': 300, 'PROPN': 60, 'PART': 42, 'SPACE': 33, 'VERB': 263, 'ADP': 214, 'DET': 213, 'PRON': 193, 'ADV': 78, 'ADJ': 97, 'SCONJ': 22, 'AUX': 68, 'CCONJ': 59, 'NUM': 7}
+Total words: 1689
+Total characters: 9839
+Sentence count: 97
+Avg words per sentence: 17.41
+Avg characters per sentence: 101.43
+Median words per sentence: 17.00
+Median characters per sentence: 88.00
+
+Title: The Clockmaker’s Paradox 21
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 350, 'PUNCT': 434, 'DET': 174, 'PROPN': 66, 'PART': 37, 'NUM': 3, 'SPACE': 53, 'ADP': 184, 'ADJ': 122, 'VERB': 263, 'CCONJ': 47, 'PRON': 255, 'AUX': 89, 'ADV': 86, 'SCONJ': 37, 'INTJ': 7}
+Total words: 1681
+Total characters: 10010
+Sentence count: 141
+Avg words per sentence: 11.92
+Avg characters per sentence: 70.99
+Median words per sentence: 10.00
+Median characters per sentence: 47.00
+
+Title: The Lighthouse Keeper's Secret 3
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 441, 'PUNCT': 326, 'DET': 262, 'PROPN': 60, 'PART': 44, 'ADJ': 132, 'NUM': 8, 'SPACE': 38, 'ADP': 221, 'VERB': 245, 'ADV': 95, 'PRON': 162, 'AUX': 56, 'CCONJ': 49, 'SCONJ': 32, 'INTJ': 2}
+Total words: 1781
+Total characters: 10340
+Sentence count: 105
+Avg words per sentence: 16.96
+Avg characters per sentence: 98.48
+Median words per sentence: 16.00
+Median characters per sentence: 78.00
+
+Title: The Lighthouse Keeper’s Diary 3
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 398, 'PUNCT': 296, 'DET': 237, 'PROPN': 103, 'PART': 43, 'NUM': 21, 'SPACE': 29, 'ADJ': 149, 'VERB': 239, 'ADP': 194, 'PRON': 132, 'SCONJ': 25, 'ADV': 61, 'CCONJ': 54, 'AUX': 60, 'INTJ': 1}
+Total words: 1671
+Total characters: 10029
+Sentence count: 118
+Avg words per sentence: 14.16
+Avg characters per sentence: 84.99
+Median words per sentence: 14.00
+Median characters per sentence: 69.50
+
+Title: The Shadow on Sundial Court
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 352, 'PUNCT': 396, 'DET': 175, 'PROPN': 99, 'ADP': 211, 'SPACE': 49, 'AUX': 88, 'NUM': 11, 'ADJ': 147, 'SCONJ': 44, 'VERB': 283, 'PART': 48, 'PRON': 275, 'CCONJ': 45, 'ADV': 98, 'INTJ': 1}
+Total words: 1845
+Total characters: 10871
+Sentence count: 129
+Avg words per sentence: 14.30
+Avg characters per sentence: 84.27
+Median words per sentence: 13.00
+Median characters per sentence: 60.00
+
+Title: The Clockmaker's Paradox 10
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 401, 'PUNCT': 413, 'DET': 229, 'PROPN': 75, 'PART': 42, 'NUM': 7, 'SPACE': 52, 'ADP': 217, 'ADJ': 131, 'VERB': 312, 'CCONJ': 47, 'PRON': 234, 'ADV': 103, 'AUX': 69, 'SCONJ': 38, 'INTJ': 6}
+Total words: 1870
+Total characters: 11126
+Sentence count: 128
+Avg words per sentence: 14.61
+Avg characters per sentence: 86.92
+Median words per sentence: 13.00
+Median characters per sentence: 67.00
+
+Title: The Whispering Wood 2
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 448, 'PUNCT': 326, 'DET': 262, 'PROPN': 65, 'NUM': 4, 'SPACE': 43, 'ADP': 255, 'PRON': 207, 'VERB': 290, 'ADJ': 124, 'CCONJ': 51, 'ADV': 99, 'PART': 52, 'AUX': 59, 'SCONJ': 51, 'INTJ': 1}
+Total words: 1939
+Total characters: 11296
+Sentence count: 112
+Avg words per sentence: 17.31
+Avg characters per sentence: 100.86
+Median words per sentence: 16.00
+Median characters per sentence: 77.50
+
+Title: The Clockmaker’s Apprentice
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 334, 'PUNCT': 348, 'DET': 179, 'PROPN': 105, 'PART': 51, 'SPACE': 42, 'ADP': 182, 'ADV': 65, 'VERB': 249, 'ADJ': 96, 'PRON': 177, 'CCONJ': 39, 'AUX': 54, 'SCONJ': 30, 'NUM': 3, 'INTJ': 2}
+Total words: 1504
+Total characters: 8970
+Sentence count: 100
+Avg words per sentence: 15.04
+Avg characters per sentence: 89.70
+Median words per sentence: 14.00
+Median characters per sentence: 66.50
+
+Title: The Clockmaker’s Legacy 4
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 389, 'PUNCT': 355, 'DET': 204, 'PROPN': 73, 'PART': 53, 'NUM': 5, 'SPACE': 53, 'ADP': 183, 'VERB': 271, 'CCONJ': 52, 'ADV': 83, 'ADJ': 142, 'AUX': 72, 'PRON': 204, 'SCONJ': 30, 'INTJ': 1}
+Total words: 1720
+Total characters: 10349
+Sentence count: 120
+Avg words per sentence: 14.33
+Avg characters per sentence: 86.24
+Median words per sentence: 14.00
+Median characters per sentence: 66.00
+
+Title: Untitled 21
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 364, 'PUNCT': 303, 'PROPN': 106, 'NUM': 7, 'SPACE': 39, 'ADP': 217, 'DET': 227, 'VERB': 246, 'CCONJ': 44, 'ADV': 76, 'ADJ': 117, 'PRON': 167, 'AUX': 75, 'SCONJ': 30, 'PART': 39, 'INTJ': 2}
+Total words: 1699
+Total characters: 10006
+Sentence count: 100
+Avg words per sentence: 16.99
+Avg characters per sentence: 100.06
+Median words per sentence: 17.50
+Median characters per sentence: 80.50
+
+Title: Untitled 35
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 398, 'PUNCT': 305, 'PROPN': 124, 'NUM': 5, 'SPACE': 34, 'DET': 219, 'AUX': 72, 'ADJ': 157, 'ADP': 220, 'VERB': 273, 'CCONJ': 63, 'PRON': 175, 'SCONJ': 32, 'PART': 48, 'ADV': 67, 'INTJ': 1}
+Total words: 1811
+Total characters: 10927
+Sentence count: 99
+Avg words per sentence: 18.29
+Avg characters per sentence: 110.37
+Median words per sentence: 17.00
+Median characters per sentence: 88.00
+
+Title: The Clockmaker's Secret 2
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 367, 'PUNCT': 357, 'DET': 202, 'PROPN': 78, 'PART': 57, 'ADJ': 151, 'NUM': 5, 'SPACE': 41, 'ADP': 198, 'VERB': 274, 'PRON': 247, 'ADV': 104, 'CCONJ': 52, 'AUX': 99, 'SCONJ': 33, 'INTJ': 2}
+Total words: 1840
+Total characters: 10365
+Sentence count: 127
+Avg words per sentence: 14.49
+Avg characters per sentence: 81.61
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
+
+Title: Echoes of Jupiter 2
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 403, 'PUNCT': 347, 'ADP': 212, 'PROPN': 80, 'NUM': 8, 'SPACE': 52, 'DET': 227, 'AUX': 84, 'ADJ': 140, 'SCONJ': 31, 'PRON': 193, 'PART': 50, 'ADV': 77, 'VERB': 264, 'CCONJ': 54, 'INTJ': 3}
+Total words: 1776
+Total characters: 11087
+Sentence count: 130
+Avg words per sentence: 13.66
+Avg characters per sentence: 85.28
+Median words per sentence: 12.50
+Median characters per sentence: 66.50
+
+Title: Echoes of Jupiter 3
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 436, 'PUNCT': 314, 'ADP': 221, 'PROPN': 82, 'NUM': 7, 'SPACE': 35, 'DET': 216, 'ADJ': 149, 'VERB': 266, 'CCONJ': 53, 'PRON': 181, 'PART': 52, 'ADV': 84, 'SCONJ': 31, 'AUX': 64, 'INTJ': 2}
+Total words: 1806
+Total characters: 11217
+Sentence count: 107
+Avg words per sentence: 16.88
+Avg characters per sentence: 104.83
+Median words per sentence: 16.00
+Median characters per sentence: 89.00
+
+Title: The Clockmaker's Secret 3
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 355, 'PUNCT': 313, 'DET': 198, 'PROPN': 57, 'PART': 27, 'ADJ': 112, 'NUM': 4, 'SPACE': 38, 'ADP': 189, 'VERB': 234, 'CCONJ': 42, 'PRON': 184, 'ADV': 83, 'AUX': 71, 'SCONJ': 26, 'INTJ': 7}
+Total words: 1571
+Total characters: 9361
+Sentence count: 103
+Avg words per sentence: 15.25
+Avg characters per sentence: 90.88
+Median words per sentence: 13.00
+Median characters per sentence: 69.00
+
+Title: Untitled 34
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 415, 'PUNCT': 300, 'PROPN': 56, 'NUM': 6, 'SPACE': 33, 'ADP': 211, 'DET': 213, 'VERB': 254, 'CCONJ': 49, 'ADJ': 131, 'PART': 41, 'PRON': 193, 'ADV': 84, 'AUX': 57, 'SCONJ': 35, 'INTJ': 3}
+Total words: 1734
+Total characters: 10272
+Sentence count: 101
+Avg words per sentence: 17.17
+Avg characters per sentence: 101.70
+Median words per sentence: 18.00
+Median characters per sentence: 81.00
+
+Title: Untitled 20
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 356, 'PUNCT': 422, 'PROPN': 84, 'NUM': 8, 'SPACE': 52, 'VERB': 279, 'PRON': 255, 'ADJ': 119, 'ADV': 85, 'ADP': 183, 'SCONJ': 34, 'DET': 184, 'AUX': 58, 'PART': 43, 'CCONJ': 38, 'INTJ': 2}
+Total words: 1699
+Total characters: 9841
+Sentence count: 136
+Avg words per sentence: 12.49
+Avg characters per sentence: 72.36
+Median words per sentence: 11.00
+Median characters per sentence: 52.00
+
+Title: The Clockmaker's Legacy
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 418, 'PUNCT': 391, 'DET': 221, 'PROPN': 115, 'PART': 61, 'SPACE': 42, 'ADJ': 133, 'ADP': 216, 'AUX': 77, 'VERB': 304, 'CCONJ': 57, 'PRON': 213, 'NUM': 8, 'ADV': 108, 'SCONJ': 33, 'INTJ': 5}
+Total words: 1898
+Total characters: 11116
+Sentence count: 125
+Avg words per sentence: 15.18
+Avg characters per sentence: 88.93
+Median words per sentence: 15.00
+Median characters per sentence: 66.00
+
+Title: The Echoes of Jasmine
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 464, 'PUNCT': 303, 'DET': 274, 'PROPN': 48, 'ADP': 245, 'SPACE': 33, 'ADJ': 152, 'VERB': 258, 'PRON': 176, 'AUX': 76, 'PART': 41, 'ADV': 67, 'CCONJ': 69, 'SCONJ': 47, 'NUM': 7, 'INTJ': 1}
+Total words: 1910
+Total characters: 10932
+Sentence count: 94
+Avg words per sentence: 20.32
+Avg characters per sentence: 116.30
+Median words per sentence: 20.00
+Median characters per sentence: 98.50
+
+Title: The Lighthouse Keeper’s Secret 12
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 341, 'PUNCT': 316, 'DET': 185, 'PROPN': 107, 'PART': 44, 'ADJ': 109, 'NUM': 11, 'SPACE': 44, 'ADP': 184, 'SCONJ': 28, 'VERB': 253, 'PRON': 212, 'AUX': 71, 'ADV': 98, 'CCONJ': 61, 'INTJ': 4}
+Total words: 1664
+Total characters: 9679
+Sentence count: 105
+Avg words per sentence: 15.85
+Avg characters per sentence: 92.18
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: The Clockmaker’s Paradox 11
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 394, 'PUNCT': 447, 'DET': 219, 'PROPN': 73, 'PART': 68, 'NUM': 3, 'SPACE': 50, 'ADP': 216, 'ADJ': 133, 'VERB': 326, 'CCONJ': 59, 'PRON': 268, 'SCONJ': 39, 'AUX': 70, 'ADV': 101, 'INTJ': 5}
+Total words: 1935
+Total characters: 11348
+Sentence count: 133
+Avg words per sentence: 14.55
+Avg characters per sentence: 85.32
+Median words per sentence: 14.00
+Median characters per sentence: 68.00
+
+Title: Untitled
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 371, 'PUNCT': 301, 'VERB': 269, 'SPACE': 40, 'ADP': 211, 'DET': 178, 'ADJ': 128, 'PROPN': 73, 'CCONJ': 43, 'PRON': 232, 'AUX': 77, 'ADV': 78, 'SCONJ': 35, 'PART': 36, 'NUM': 3, 'INTJ': 4}
+Total words: 1700
+Total characters: 10168
+Sentence count: 107
+Avg words per sentence: 15.89
+Avg characters per sentence: 95.03
+Median words per sentence: 14.00
+Median characters per sentence: 71.00
+
+Title: The Lighthouse Keeper’s Diary 2
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 464, 'PUNCT': 289, 'DET': 261, 'PROPN': 80, 'PART': 39, 'NUM': 5, 'SPACE': 36, 'ADP': 216, 'ADJ': 161, 'VERB': 261, 'AUX': 62, 'PRON': 164, 'CCONJ': 73, 'ADV': 69, 'SCONJ': 41, 'INTJ': 1}
+Total words: 1860
+Total characters: 11576
+Sentence count: 106
+Avg words per sentence: 17.55
+Avg characters per sentence: 109.21
+Median words per sentence: 18.00
+Median characters per sentence: 88.50
+
+Title: The Lighthouse Keeper’s Secret 2
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 395, 'PUNCT': 365, 'DET': 249, 'PROPN': 86, 'PART': 54, 'ADJ': 127, 'NUM': 4, 'SPACE': 40, 'SCONJ': 35, 'VERB': 294, 'ADP': 223, 'PRON': 222, 'CCONJ': 55, 'ADV': 94, 'AUX': 87, 'INTJ': 5, 'X': 1}
+Total words: 1889
+Total characters: 11276
+Sentence count: 116
+Avg words per sentence: 16.28
+Avg characters per sentence: 97.21
+Median words per sentence: 15.00
+Median characters per sentence: 76.00
+
+Title: The Echoes of Elkwood
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 410, 'PUNCT': 350, 'DET': 225, 'PROPN': 88, 'ADP': 221, 'SPACE': 50, 'AUX': 56, 'VERB': 271, 'CCONJ': 45, 'SCONJ': 37, 'ADJ': 116, 'PRON': 180, 'NUM': 2, 'PART': 41, 'ADV': 67, 'INTJ': 1}
+Total words: 1733
+Total characters: 10053
+Sentence count: 112
+Avg words per sentence: 15.47
+Avg characters per sentence: 89.76
+Median words per sentence: 15.00
+Median characters per sentence: 72.50
+
+Title: The Clockmaker's Paradox 13
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 345, 'PUNCT': 391, 'DET': 174, 'PROPN': 80, 'PART': 33, 'NUM': 5, 'SPACE': 45, 'ADP': 169, 'ADJ': 129, 'SCONJ': 43, 'VERB': 263, 'ADV': 88, 'PRON': 220, 'AUX': 77, 'CCONJ': 51, 'INTJ': 3}
+Total words: 1651
+Total characters: 9951
+Sentence count: 121
+Avg words per sentence: 13.64
+Avg characters per sentence: 82.24
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Lighthouse Keeper's Secret 10
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 444, 'PUNCT': 308, 'DET': 278, 'PROPN': 54, 'PART': 43, 'ADJ': 132, 'NUM': 3, 'SPACE': 39, 'ADP': 240, 'VERB': 267, 'PRON': 189, 'AUX': 53, 'CCONJ': 50, 'ADV': 114, 'SCONJ': 41, 'INTJ': 1}
+Total words: 1893
+Total characters: 10862
+Sentence count: 107
+Avg words per sentence: 17.69
+Avg characters per sentence: 101.51
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Lighthouse Keeper
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 435, 'PUNCT': 406, 'DET': 274, 'PROPN': 62, 'SPACE': 54, 'VERB': 315, 'SCONJ': 34, 'ADP': 221, 'ADJ': 124, 'PRON': 197, 'ADV': 103, 'CCONJ': 56, 'PART': 51, 'AUX': 59, 'NUM': 3, 'INTJ': 1}
+Total words: 1897
+Total characters: 11234
+Sentence count: 126
+Avg words per sentence: 15.06
+Avg characters per sentence: 89.16
+Median words per sentence: 15.00
+Median characters per sentence: 73.50
+
+Title: The Man with the Silver Clarinet
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 389, 'PUNCT': 417, 'DET': 230, 'ADP': 211, 'PROPN': 66, 'SPACE': 54, 'ADJ': 106, 'VERB': 306, 'PRON': 254, 'NUM': 7, 'AUX': 79, 'CCONJ': 46, 'ADV': 93, 'PART': 42, 'SCONJ': 35, 'INTJ': 1}
+Total words: 1822
+Total characters: 10645
+Sentence count: 129
+Avg words per sentence: 14.12
+Avg characters per sentence: 82.52
+Median words per sentence: 13.00
+Median characters per sentence: 62.00
+
+Title: The Map of Lost Echoes
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 418, 'PUNCT': 362, 'DET': 220, 'PROPN': 88, 'ADP': 218, 'SPACE': 44, 'VERB': 282, 'PRON': 169, 'ADJ': 146, 'CCONJ': 52, 'AUX': 60, 'PART': 44, 'ADV': 87, 'NUM': 4, 'SCONJ': 34, 'INTJ': 4}
+Total words: 1782
+Total characters: 10814
+Sentence count: 115
+Avg words per sentence: 15.50
+Avg characters per sentence: 94.03
+Median words per sentence: 14.00
+Median characters per sentence: 73.00
+
+Title: The Clockmaker's Legacy 7
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 354, 'PUNCT': 321, 'DET': 186, 'PROPN': 94, 'PART': 41, 'NUM': 10, 'SPACE': 33, 'ADP': 198, 'VERB': 236, 'ADJ': 134, 'CCONJ': 61, 'PRON': 192, 'AUX': 66, 'ADV': 78, 'SCONJ': 30, 'INTJ': 2}
+Total words: 1652
+Total characters: 9646
+Sentence count: 96
+Avg words per sentence: 17.21
+Avg characters per sentence: 100.48
+Median words per sentence: 15.00
+Median characters per sentence: 76.50
+
+Title: Untitled 36
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 389, 'PUNCT': 403, 'PROPN': 81, 'NUM': 6, 'SPACE': 53, 'DET': 210, 'VERB': 302, 'ADP': 206, 'SCONJ': 38, 'PRON': 248, 'ADV': 112, 'PART': 71, 'AUX': 96, 'ADJ': 113, 'CCONJ': 43, 'INTJ': 2}
+Total words: 1850
+Total characters: 10703
+Sentence count: 154
+Avg words per sentence: 12.01
+Avg characters per sentence: 69.50
+Median words per sentence: 10.00
+Median characters per sentence: 51.00
+
+Title: Untitled 22
+Unnecessary words: 19
+Parts of Speech: {'NOUN': 378, 'PUNCT': 309, 'PROPN': 65, 'NUM': 8, 'SPACE': 32, 'DET': 197, 'AUX': 59, 'ADJ': 108, 'SCONJ': 31, 'VERB': 248, 'ADV': 114, 'ADP': 223, 'PRON': 198, 'PART': 47, 'CCONJ': 56, 'INTJ': 4}
+Total words: 1697
+Total characters: 9598
+Sentence count: 106
+Avg words per sentence: 16.01
+Avg characters per sentence: 90.55
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: The Whispering Gallery
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 419, 'PUNCT': 386, 'DET': 254, 'PROPN': 95, 'SPACE': 52, 'ADP': 227, 'VERB': 260, 'CCONJ': 55, 'ADJ': 131, 'PRON': 177, 'AUX': 69, 'PART': 23, 'SCONJ': 38, 'NUM': 5, 'ADV': 91, 'INTJ': 4}
+Total words: 1825
+Total characters: 10774
+Sentence count: 130
+Avg words per sentence: 14.04
+Avg characters per sentence: 82.88
+Median words per sentence: 14.50
+Median characters per sentence: 69.50
+
+Title: Broken Wings
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 369, 'PUNCT': 282, 'PROPN': 86, 'SPACE': 32, 'DET': 213, 'AUX': 82, 'ADJ': 113, 'VERB': 264, 'ADP': 201, 'PRON': 204, 'CCONJ': 52, 'PART': 40, 'NUM': 8, 'SCONJ': 36, 'ADV': 87, 'INTJ': 1}
+Total words: 1736
+Total characters: 10130
+Sentence count: 105
+Avg words per sentence: 16.53
+Avg characters per sentence: 96.48
+Median words per sentence: 17.00
+Median characters per sentence: 83.00
+
+Title: Untitled 23
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 429, 'PUNCT': 299, 'PROPN': 60, 'NUM': 9, 'SPACE': 38, 'ADP': 231, 'DET': 247, 'ADJ': 119, 'VERB': 262, 'PRON': 194, 'CCONJ': 59, 'AUX': 61, 'ADV': 84, 'SCONJ': 28, 'PART': 49}
+Total words: 1808
+Total characters: 10424
+Sentence count: 99
+Avg words per sentence: 18.26
+Avg characters per sentence: 105.29
+Median words per sentence: 17.00
+Median characters per sentence: 84.00
+
+Title: Untitled 37
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 367, 'PUNCT': 360, 'PROPN': 67, 'NUM': 8, 'SPACE': 41, 'ADP': 203, 'DET': 188, 'ADJ': 121, 'VERB': 283, 'CCONJ': 58, 'AUX': 64, 'PRON': 245, 'ADV': 98, 'PART': 43, 'SCONJ': 25, 'INTJ': 8}
+Total words: 1743
+Total characters: 10148
+Sentence count: 115
+Avg words per sentence: 15.16
+Avg characters per sentence: 88.24
+Median words per sentence: 12.00
+Median characters per sentence: 64.00
+
+Title: The Clockmaker's Legacy 6
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 381, 'PUNCT': 399, 'DET': 171, 'PROPN': 106, 'PART': 62, 'NUM': 5, 'SPACE': 47, 'ADP': 184, 'VERB': 281, 'CCONJ': 63, 'ADJ': 119, 'SCONJ': 39, 'ADV': 96, 'PRON': 214, 'AUX': 78, 'INTJ': 3}
+Total words: 1766
+Total characters: 10663
+Sentence count: 123
+Avg words per sentence: 14.36
+Avg characters per sentence: 86.69
+Median words per sentence: 12.00
+Median characters per sentence: 64.00
+
+Title: The Sound of Silver
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 397, 'PUNCT': 270, 'DET': 186, 'ADP': 222, 'PROPN': 46, 'SPACE': 29, 'ADV': 68, 'SCONJ': 32, 'PRON': 164, 'AUX': 59, 'VERB': 226, 'ADJ': 131, 'PART': 33, 'CCONJ': 54, 'NUM': 6, 'INTJ': 1}
+Total words: 1608
+Total characters: 9576
+Sentence count: 92
+Avg words per sentence: 17.48
+Avg characters per sentence: 104.09
+Median words per sentence: 17.00
+Median characters per sentence: 82.00
+
+Title: The Silvered Hourglass
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 388, 'PUNCT': 401, 'DET': 208, 'PROPN': 80, 'SPACE': 50, 'ADP': 217, 'VERB': 303, 'CCONJ': 67, 'ADJ': 121, 'PRON': 217, 'AUX': 72, 'SCONJ': 51, 'PART': 45, 'ADV': 96, 'NUM': 5, 'INTJ': 2}
+Total words: 1841
+Total characters: 10737
+Sentence count: 126
+Avg words per sentence: 14.61
+Avg characters per sentence: 85.21
+Median words per sentence: 12.00
+Median characters per sentence: 62.50
+
+Title: The Lighthouse Keeper’s Secret 11
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 394, 'PUNCT': 336, 'DET': 244, 'PROPN': 52, 'PART': 36, 'ADJ': 133, 'NUM': 3, 'SPACE': 44, 'VERB': 261, 'PRON': 212, 'ADP': 234, 'AUX': 46, 'CCONJ': 55, 'ADV': 86, 'INTJ': 2, 'SCONJ': 25}
+Total words: 1760
+Total characters: 10197
+Sentence count: 109
+Avg words per sentence: 16.15
+Avg characters per sentence: 93.55
+Median words per sentence: 15.00
+Median characters per sentence: 76.00
+
+Title: The Clockmaker's Paradox 12
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 414, 'PUNCT': 314, 'DET': 223, 'PROPN': 99, 'PART': 52, 'NUM': 6, 'SPACE': 35, 'ADP': 234, 'VERB': 251, 'CCONJ': 47, 'ADJ': 109, 'ADV': 85, 'PRON': 185, 'AUX': 64, 'SCONJ': 30}
+Total words: 1741
+Total characters: 10318
+Sentence count: 99
+Avg words per sentence: 17.59
+Avg characters per sentence: 104.22
+Median words per sentence: 17.00
+Median characters per sentence: 85.00
+
+Title: Echoes of Winter
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 385, 'PUNCT': 377, 'ADP': 197, 'PROPN': 50, 'SPACE': 46, 'DET': 209, 'ADJ': 133, 'PART': 31, 'AUX': 60, 'VERB': 273, 'ADV': 98, 'PRON': 227, 'SCONJ': 35, 'CCONJ': 33, 'INTJ': 8, 'NUM': 1}
+Total words: 1718
+Total characters: 9968
+Sentence count: 126
+Avg words per sentence: 13.63
+Avg characters per sentence: 79.11
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Lighthouse Keeper’s Secret 5
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 366, 'PUNCT': 380, 'DET': 213, 'PROPN': 86, 'PART': 43, 'ADJ': 96, 'NUM': 8, 'SPACE': 52, 'AUX': 71, 'VERB': 283, 'ADP': 199, 'PRON': 213, 'CCONJ': 35, 'ADV': 84, 'SCONJ': 40, 'INTJ': 6}
+Total words: 1701
+Total characters: 9861
+Sentence count: 135
+Avg words per sentence: 12.60
+Avg characters per sentence: 73.04
+Median words per sentence: 11.00
+Median characters per sentence: 55.00
+
+Title: The Lighthouse Keeper of Calloway Rock
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 384, 'PUNCT': 392, 'DET': 239, 'PROPN': 70, 'ADP': 208, 'SPACE': 48, 'AUX': 83, 'ADV': 122, 'NUM': 2, 'VERB': 288, 'ADJ': 129, 'CCONJ': 47, 'PRON': 221, 'SCONJ': 29, 'PART': 51, 'INTJ': 2}
+Total words: 1828
+Total characters: 10823
+Sentence count: 144
+Avg words per sentence: 12.69
+Avg characters per sentence: 75.16
+Median words per sentence: 12.00
+Median characters per sentence: 55.50
+
+Title: The Clockmaker’s Paradox 16
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 481, 'PUNCT': 424, 'DET': 273, 'PROPN': 116, 'PART': 40, 'NUM': 7, 'SPACE': 50, 'ADP': 254, 'SCONJ': 35, 'VERB': 300, 'ADJ': 161, 'CCONJ': 63, 'PRON': 212, 'AUX': 85, 'ADV': 102, 'INTJ': 2}
+Total words: 2107
+Total characters: 12519
+Sentence count: 132
+Avg words per sentence: 15.96
+Avg characters per sentence: 94.84
+Median words per sentence: 15.50
+Median characters per sentence: 76.50
+
+Title: The Clockmaker of Sivelin
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 457, 'PUNCT': 345, 'DET': 253, 'PROPN': 53, 'ADP': 225, 'SPACE': 46, 'SCONJ': 35, 'VERB': 254, 'ADJ': 157, 'CCONJ': 69, 'PRON': 211, 'NUM': 3, 'AUX': 61, 'PART': 41, 'ADV': 95}
+Total words: 1894
+Total characters: 11057
+Sentence count: 110
+Avg words per sentence: 17.22
+Avg characters per sentence: 100.52
+Median words per sentence: 17.00
+Median characters per sentence: 84.00
+
+Title: The Clockmaker’s Legacy 2
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 383, 'PUNCT': 303, 'DET': 209, 'PROPN': 62, 'PART': 33, 'NUM': 7, 'SPACE': 32, 'ADP': 203, 'ADJ': 125, 'PRON': 164, 'VERB': 225, 'CCONJ': 55, 'ADV': 86, 'AUX': 60, 'SCONJ': 29, 'INTJ': 2}
+Total words: 1618
+Total characters: 9708
+Sentence count: 94
+Avg words per sentence: 17.21
+Avg characters per sentence: 103.28
+Median words per sentence: 15.00
+Median characters per sentence: 81.00
+
+Title: The Clockmaker’s Secret 4
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 411, 'PUNCT': 333, 'DET': 215, 'PROPN': 55, 'PART': 38, 'ADJ': 133, 'NUM': 10, 'SPACE': 38, 'ADP': 203, 'SCONJ': 35, 'VERB': 257, 'CCONJ': 49, 'PRON': 181, 'AUX': 67, 'ADV': 71, 'INTJ': 2}
+Total words: 1715
+Total characters: 10129
+Sentence count: 107
+Avg words per sentence: 16.03
+Avg characters per sentence: 94.66
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Last Page 2
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 415, 'PUNCT': 287, 'DET': 243, 'ADJ': 129, 'PROPN': 63, 'NUM': 6, 'SPACE': 33, 'ADP': 238, 'VERB': 228, 'CCONJ': 53, 'PRON': 156, 'AUX': 52, 'ADV': 70, 'SCONJ': 37, 'PART': 46}
+Total words: 1718
+Total characters: 9962
+Sentence count: 78
+Avg words per sentence: 22.03
+Avg characters per sentence: 127.72
+Median words per sentence: 20.00
+Median characters per sentence: 98.00
+
+Title: Untitled 33
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 371, 'PUNCT': 302, 'PROPN': 75, 'NUM': 3, 'SPACE': 32, 'ADP': 177, 'DET': 219, 'SCONJ': 30, 'VERB': 244, 'ADJ': 106, 'CCONJ': 54, 'PRON': 165, 'PART': 37, 'AUX': 71, 'ADV': 87, 'INTJ': 1}
+Total words: 1617
+Total characters: 9530
+Sentence count: 104
+Avg words per sentence: 15.55
+Avg characters per sentence: 91.63
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Lighthouse Keeper's Diary
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 402, 'PUNCT': 267, 'DET': 231, 'PROPN': 95, 'PART': 51, 'SPACE': 29, 'AUX': 53, 'ADP': 207, 'CCONJ': 50, 'VERB': 218, 'ADJ': 106, 'NUM': 14, 'ADV': 68, 'PRON': 111, 'SCONJ': 34}
+Total words: 1574
+Total characters: 9308
+Sentence count: 91
+Avg words per sentence: 17.30
+Avg characters per sentence: 102.29
+Median words per sentence: 16.00
+Median characters per sentence: 80.00
+
+Title: Untitled 27
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 431, 'PUNCT': 337, 'PROPN': 61, 'NUM': 4, 'SPACE': 40, 'ADP': 246, 'DET': 248, 'ADJ': 145, 'VERB': 275, 'AUX': 78, 'ADV': 123, 'CCONJ': 51, 'PRON': 196, 'PART': 50, 'SCONJ': 28, 'INTJ': 2}
+Total words: 1905
+Total characters: 11007
+Sentence count: 124
+Avg words per sentence: 15.36
+Avg characters per sentence: 88.77
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: Whispers of the Past 3
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 428, 'PUNCT': 356, 'ADP': 236, 'DET': 246, 'PROPN': 80, 'NUM': 3, 'SPACE': 46, 'VERB': 267, 'ADJ': 144, 'PRON': 168, 'CCONJ': 45, 'AUX': 74, 'PART': 33, 'ADV': 76, 'SCONJ': 39, 'INTJ': 4}
+Total words: 1815
+Total characters: 10531
+Sentence count: 102
+Avg words per sentence: 17.79
+Avg characters per sentence: 103.25
+Median words per sentence: 17.00
+Median characters per sentence: 84.50
+
+Title: The Midnight Librarian
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 441, 'PUNCT': 375, 'DET': 268, 'PROPN': 55, 'SPACE': 40, 'ADP': 213, 'ADJ': 154, 'VERB': 282, 'CCONJ': 59, 'PRON': 198, 'ADV': 100, 'AUX': 73, 'PART': 64, 'SCONJ': 60, 'NUM': 4, 'INTJ': 2}
+Total words: 1948
+Total characters: 11119
+Sentence count: 110
+Avg words per sentence: 17.71
+Avg characters per sentence: 101.08
+Median words per sentence: 17.00
+Median characters per sentence: 83.50
+
+Title: Whispers of the Past 2
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 457, 'PUNCT': 290, 'ADP': 219, 'DET': 263, 'NUM': 4, 'SPACE': 31, 'PROPN': 49, 'VERB': 301, 'CCONJ': 55, 'ADJ': 144, 'PRON': 167, 'SCONJ': 46, 'AUX': 46, 'PART': 53, 'ADV': 100}
+Total words: 1887
+Total characters: 11188
+Sentence count: 103
+Avg words per sentence: 18.32
+Avg characters per sentence: 108.62
+Median words per sentence: 18.00
+Median characters per sentence: 85.00
+
+Title: Untitled 26
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 446, 'PUNCT': 327, 'PROPN': 65, 'NUM': 5, 'SPACE': 40, 'DET': 277, 'ADP': 248, 'VERB': 279, 'ADV': 71, 'ADJ': 149, 'SCONJ': 43, 'CCONJ': 56, 'PRON': 190, 'PART': 41, 'AUX': 80, 'INTJ': 5}
+Total words: 1934
+Total characters: 11378
+Sentence count: 101
+Avg words per sentence: 19.15
+Avg characters per sentence: 112.65
+Median words per sentence: 18.00
+Median characters per sentence: 87.00
+
+Title: Untitled 32
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 402, 'PUNCT': 321, 'PROPN': 58, 'NUM': 9, 'SPACE': 44, 'DET': 221, 'AUX': 72, 'ADV': 105, 'ADJ': 136, 'ADP': 236, 'PRON': 231, 'VERB': 270, 'CCONJ': 52, 'SCONJ': 34, 'PART': 35, 'INTJ': 2}
+Total words: 1831
+Total characters: 10560
+Sentence count: 116
+Avg words per sentence: 15.78
+Avg characters per sentence: 91.03
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Clockmaker’s Secret 5
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 368, 'PUNCT': 337, 'DET': 211, 'PROPN': 79, 'PART': 42, 'ADJ': 128, 'NUM': 5, 'SPACE': 39, 'ADP': 197, 'VERB': 260, 'PRON': 186, 'CCONJ': 56, 'ADV': 87, 'AUX': 45, 'SCONJ': 26, 'INTJ': 5}
+Total words: 1658
+Total characters: 9806
+Sentence count: 105
+Avg words per sentence: 15.79
+Avg characters per sentence: 93.39
+Median words per sentence: 14.00
+Median characters per sentence: 70.00
+
+Title: The Clockmaker's Legacy 3
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 396, 'PUNCT': 379, 'DET': 204, 'PROPN': 68, 'PART': 33, 'NUM': 4, 'SPACE': 45, 'ADP': 192, 'VERB': 271, 'ADJ': 115, 'CCONJ': 41, 'PRON': 216, 'AUX': 62, 'SCONJ': 42, 'ADV': 79, 'INTJ': 5}
+Total words: 1696
+Total characters: 9971
+Sentence count: 114
+Avg words per sentence: 14.88
+Avg characters per sentence: 87.46
+Median words per sentence: 14.00
+Median characters per sentence: 67.50
+
+Title: The Lighthouse Keeper of Eldritch Shores
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 373, 'PUNCT': 306, 'DET': 233, 'PROPN': 65, 'ADP': 223, 'SPACE': 40, 'AUX': 73, 'PART': 31, 'ADV': 73, 'PRON': 180, 'VERB': 229, 'CCONJ': 49, 'ADJ': 112, 'SCONJ': 32, 'NUM': 4, 'INTJ': 2}
+Total words: 1665
+Total characters: 9575
+Sentence count: 106
+Avg words per sentence: 15.71
+Avg characters per sentence: 90.33
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: The Clockmaker's Paradox 17
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 412, 'PUNCT': 348, 'DET': 224, 'PROPN': 76, 'PART': 48, 'NUM': 5, 'SPACE': 42, 'ADP': 210, 'AUX': 91, 'ADJ': 121, 'PRON': 191, 'VERB': 271, 'ADV': 100, 'CCONJ': 49, 'SCONJ': 39, 'INTJ': 2}
+Total words: 1804
+Total characters: 10811
+Sentence count: 118
+Avg words per sentence: 15.29
+Avg characters per sentence: 91.62
+Median words per sentence: 14.00
+Median characters per sentence: 74.00
+
+Title: The Lighthouse Keeper's Secret 3
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 403, 'PUNCT': 405, 'DET': 215, 'PROPN': 89, 'PART': 59, 'ADJ': 134, 'NUM': 4, 'SPACE': 49, 'ADP': 206, 'VERB': 291, 'CCONJ': 39, 'PRON': 247, 'ADV': 79, 'AUX': 89, 'SCONJ': 37, 'INTJ': 2}
+Total words: 1854
+Total characters: 10941
+Sentence count: 130
+Avg words per sentence: 14.26
+Avg characters per sentence: 84.16
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Lighthouse Keeper’s Diary 4
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 392, 'PUNCT': 364, 'DET': 235, 'PROPN': 82, 'PART': 25, 'NUM': 9, 'SPACE': 41, 'ADP': 211, 'ADJ': 123, 'SCONJ': 34, 'VERB': 258, 'PRON': 202, 'AUX': 68, 'ADV': 100, 'CCONJ': 46, 'INTJ': 3}
+Total words: 1759
+Total characters: 10447
+Sentence count: 127
+Avg words per sentence: 13.85
+Avg characters per sentence: 82.26
+Median words per sentence: 13.00
+Median characters per sentence: 63.00
+
+Title: The Last Bookstore 2
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 440, 'PUNCT': 383, 'DET': 231, 'ADJ': 122, 'PROPN': 80, 'NUM': 5, 'SPACE': 42, 'AUX': 76, 'ADP': 224, 'PRON': 203, 'VERB': 289, 'ADV': 85, 'CCONJ': 48, 'SCONJ': 30, 'PART': 52, 'INTJ': 2}
+Total words: 1860
+Total characters: 11165
+Sentence count: 121
+Avg words per sentence: 15.37
+Avg characters per sentence: 92.27
+Median words per sentence: 14.00
+Median characters per sentence: 70.00
+
+Title: The Lighthouse Keeper's Secret 6
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 448, 'PUNCT': 384, 'DET': 234, 'PROPN': 92, 'PART': 42, 'ADJ': 142, 'NUM': 15, 'SPACE': 46, 'VERB': 261, 'ADP': 227, 'AUX': 74, 'ADV': 94, 'CCONJ': 59, 'PRON': 201, 'SCONJ': 43, 'INTJ': 2}
+Total words: 1880
+Total characters: 11018
+Sentence count: 130
+Avg words per sentence: 14.46
+Avg characters per sentence: 84.75
+Median words per sentence: 13.00
+Median characters per sentence: 65.50
+
+Title: The Last Pages of Summer
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 355, 'PUNCT': 329, 'DET': 207, 'ADJ': 141, 'PROPN': 63, 'ADP': 187, 'SPACE': 45, 'AUX': 94, 'ADV': 105, 'VERB': 278, 'PRON': 244, 'PART': 47, 'CCONJ': 41, 'SCONJ': 49, 'NUM': 3}
+Total words: 1790
+Total characters: 10151
+Sentence count: 113
+Avg words per sentence: 15.84
+Avg characters per sentence: 89.83
+Median words per sentence: 14.00
+Median characters per sentence: 66.00
+
+Title: The Clockmaker’s Paradox 15
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 363, 'PUNCT': 368, 'DET': 197, 'PROPN': 58, 'PART': 47, 'NUM': 3, 'SPACE': 43, 'ADP': 188, 'ADJ': 127, 'VERB': 272, 'CCONJ': 58, 'ADV': 91, 'PRON': 194, 'AUX': 76, 'SCONJ': 32, 'INTJ': 3}
+Total words: 1679
+Total characters: 10007
+Sentence count: 110
+Avg words per sentence: 15.26
+Avg characters per sentence: 90.97
+Median words per sentence: 13.00
+Median characters per sentence: 69.50
+
+Title: The Ledger of Lemuel Pike
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 360, 'PUNCT': 240, 'DET': 183, 'PROPN': 88, 'ADP': 211, 'SPACE': 27, 'AUX': 64, 'VERB': 240, 'ADJ': 112, 'ADV': 79, 'PRON': 185, 'SCONJ': 26, 'PART': 41, 'CCONJ': 66, 'NUM': 3, 'INTJ': 1}
+Total words: 1638
+Total characters: 9861
+Sentence count: 78
+Avg words per sentence: 21.00
+Avg characters per sentence: 126.42
+Median words per sentence: 19.50
+Median characters per sentence: 99.00
+
+Title: Whispers of the Old Willow 3
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 382, 'PUNCT': 284, 'ADP': 213, 'DET': 221, 'PROPN': 81, 'NUM': 3, 'SPACE': 33, 'SCONJ': 39, 'VERB': 233, 'ADJ': 111, 'CCONJ': 52, 'PRON': 142, 'PART': 48, 'ADV': 72, 'AUX': 51}
+Total words: 1618
+Total characters: 9429
+Sentence count: 90
+Avg words per sentence: 17.98
+Avg characters per sentence: 104.77
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: A Whisper of Wind
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 384, 'PUNCT': 270, 'DET': 224, 'PROPN': 61, 'ADP': 219, 'SPACE': 31, 'ADJ': 96, 'VERB': 233, 'CCONJ': 50, 'ADV': 71, 'PRON': 156, 'AUX': 47, 'PART': 36, 'SCONJ': 27, 'NUM': 5}
+Total words: 1595
+Total characters: 9280
+Sentence count: 92
+Avg words per sentence: 17.34
+Avg characters per sentence: 100.87
+Median words per sentence: 18.00
+Median characters per sentence: 84.00
+
+Title: The Clockmaker’s Secret 7
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 356, 'PUNCT': 300, 'DET': 201, 'PROPN': 77, 'PART': 32, 'NUM': 10, 'SPACE': 36, 'ADP': 188, 'SCONJ': 44, 'ADJ': 115, 'VERB': 259, 'ADV': 77, 'PRON': 187, 'AUX': 59, 'CCONJ': 61, 'INTJ': 5}
+Total words: 1643
+Total characters: 9993
+Sentence count: 85
+Avg words per sentence: 19.33
+Avg characters per sentence: 117.56
+Median words per sentence: 18.00
+Median characters per sentence: 94.00
+
+Title: Untitled 18
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 425, 'PUNCT': 256, 'PROPN': 54, 'NUM': 3, 'SPACE': 29, 'VERB': 240, 'DET': 233, 'ADV': 74, 'PRON': 184, 'ADJ': 114, 'ADP': 234, 'SCONJ': 29, 'AUX': 54, 'PART': 56, 'CCONJ': 60}
+Total words: 1735
+Total characters: 9905
+Sentence count: 93
+Avg words per sentence: 18.66
+Avg characters per sentence: 106.51
+Median words per sentence: 17.00
+Median characters per sentence: 91.00
+
+Title: Untitled 24
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 404, 'PUNCT': 290, 'PROPN': 67, 'NUM': 10, 'SPACE': 36, 'VERB': 253, 'SCONJ': 27, 'DET': 217, 'ADP': 231, 'PRON': 197, 'ADJ': 142, 'AUX': 63, 'CCONJ': 50, 'ADV': 88, 'PART': 36, 'INTJ': 2}
+Total words: 1758
+Total characters: 10345
+Sentence count: 99
+Avg words per sentence: 17.76
+Avg characters per sentence: 104.49
+Median words per sentence: 17.00
+Median characters per sentence: 85.00
+
+Title: Untitled 30
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 408, 'PUNCT': 300, 'PROPN': 68, 'NUM': 7, 'SPACE': 39, 'ADP': 214, 'DET': 205, 'ADJ': 120, 'VERB': 280, 'CCONJ': 47, 'AUX': 49, 'PRON': 182, 'ADV': 67, 'SCONJ': 29, 'PART': 49, 'INTJ': 1}
+Total words: 1701
+Total characters: 9987
+Sentence count: 101
+Avg words per sentence: 16.84
+Avg characters per sentence: 98.88
+Median words per sentence: 16.00
+Median characters per sentence: 81.00
+
+Title: The Mask of Camille
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 432, 'PUNCT': 334, 'DET': 215, 'PROPN': 80, 'ADP': 185, 'SPACE': 40, 'SCONJ': 36, 'VERB': 274, 'ADJ': 112, 'CCONJ': 54, 'PRON': 212, 'AUX': 56, 'ADV': 73, 'PART': 41, 'NUM': 2, 'INTJ': 3}
+Total words: 1736
+Total characters: 10249
+Sentence count: 116
+Avg words per sentence: 14.97
+Avg characters per sentence: 88.35
+Median words per sentence: 14.50
+Median characters per sentence: 69.00
+
+Title: Untitled 31
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 376, 'PUNCT': 399, 'PROPN': 84, 'NUM': 2, 'SPACE': 54, 'ADP': 192, 'DET': 222, 'ADJ': 145, 'VERB': 268, 'PART': 53, 'PRON': 200, 'CCONJ': 38, 'ADV': 77, 'SCONJ': 30, 'AUX': 77, 'INTJ': 4}
+Total words: 1719
+Total characters: 10201
+Sentence count: 122
+Avg words per sentence: 14.09
+Avg characters per sentence: 83.61
+Median words per sentence: 13.00
+Median characters per sentence: 60.50
+
+Title: The Echoes of Yesterday
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 399, 'PUNCT': 299, 'DET': 209, 'PROPN': 49, 'ADP': 210, 'SPACE': 30, 'VERB': 265, 'CCONJ': 40, 'ADJ': 128, 'PRON': 198, 'AUX': 72, 'SCONJ': 30, 'PART': 39, 'NUM': 4, 'ADV': 75, 'INTJ': 1}
+Total words: 1691
+Total characters: 10035
+Sentence count: 111
+Avg words per sentence: 15.23
+Avg characters per sentence: 90.41
+Median words per sentence: 14.00
+Median characters per sentence: 73.00
+
+Title: Untitled 25
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 387, 'PUNCT': 466, 'PROPN': 88, 'NUM': 6, 'SPACE': 63, 'DET': 206, 'AUX': 83, 'VERB': 328, 'ADP': 191, 'ADJ': 157, 'PART': 46, 'CCONJ': 68, 'PRON': 240, 'ADV': 111, 'SCONJ': 36, 'INTJ': 7}
+Total words: 1924
+Total characters: 11430
+Sentence count: 159
+Avg words per sentence: 12.10
+Avg characters per sentence: 71.89
+Median words per sentence: 11.00
+Median characters per sentence: 52.00
+
+Title: The Clockmaker’s Secret 6
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 436, 'PUNCT': 361, 'DET': 237, 'PROPN': 81, 'PART': 41, 'ADJ': 138, 'NUM': 8, 'SPACE': 43, 'ADP': 233, 'VERB': 283, 'PRON': 202, 'CCONJ': 67, 'ADV': 86, 'AUX': 65, 'SCONJ': 40, 'INTJ': 2}
+Total words: 1882
+Total characters: 11266
+Sentence count: 118
+Avg words per sentence: 15.95
+Avg characters per sentence: 95.47
+Median words per sentence: 14.00
+Median characters per sentence: 68.50
+
+Title: Untitled 19
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 406, 'PUNCT': 232, 'PROPN': 33, 'NUM': 2, 'SPACE': 29, 'VERB': 246, 'ADP': 203, 'DET': 244, 'ADJ': 100, 'PRON': 174, 'ADV': 92, 'PART': 45, 'SCONJ': 35, 'AUX': 54, 'CCONJ': 39}
+Total words: 1658
+Total characters: 9426
+Sentence count: 86
+Avg words per sentence: 19.28
+Avg characters per sentence: 109.60
+Median words per sentence: 19.00
+Median characters per sentence: 86.50
+
+Title: The Clockmaker’s Paradox
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 390, 'PUNCT': 376, 'DET': 198, 'PROPN': 95, 'PART': 46, 'SPACE': 41, 'ADP': 220, 'VERB': 294, 'CCONJ': 56, 'ADJ': 133, 'PRON': 224, 'ADV': 84, 'SCONJ': 23, 'AUX': 67, 'NUM': 7, 'INTJ': 1}
+Total words: 1812
+Total characters: 10630
+Sentence count: 120
+Avg words per sentence: 15.10
+Avg characters per sentence: 88.58
+Median words per sentence: 14.00
+Median characters per sentence: 72.50
+
+Title: The Last Light of Dusk
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 413, 'PUNCT': 295, 'DET': 224, 'ADJ': 160, 'ADP': 226, 'PROPN': 56, 'SPACE': 30, 'SCONJ': 32, 'VERB': 254, 'CCONJ': 59, 'PRON': 191, 'PART': 55, 'AUX': 73, 'ADV': 86, 'NUM': 10, 'INTJ': 1}
+Total words: 1813
+Total characters: 10778
+Sentence count: 101
+Avg words per sentence: 17.95
+Avg characters per sentence: 106.71
+Median words per sentence: 18.00
+Median characters per sentence: 88.00
+
+Title: Whispers of the Old Willow 2
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 384, 'PUNCT': 280, 'ADP': 204, 'DET': 226, 'PROPN': 54, 'NUM': 7, 'SPACE': 34, 'VERB': 251, 'ADJ': 100, 'PRON': 172, 'PART': 53, 'ADV': 71, 'CCONJ': 45, 'SCONJ': 38, 'AUX': 64, 'INTJ': 1}
+Total words: 1654
+Total characters: 9361
+Sentence count: 83
+Avg words per sentence: 19.93
+Avg characters per sentence: 112.78
+Median words per sentence: 19.00
+Median characters per sentence: 90.00
+
+Title: The Last Light of Fidelis
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 440, 'PUNCT': 334, 'DET': 249, 'ADJ': 111, 'ADP': 239, 'PROPN': 62, 'SPACE': 40, 'AUX': 68, 'VERB': 269, 'ADV': 67, 'PRON': 184, 'PART': 51, 'CCONJ': 59, 'SCONJ': 37, 'NUM': 8}
+Total words: 1824
+Total characters: 10440
+Sentence count: 105
+Avg words per sentence: 17.37
+Avg characters per sentence: 99.43
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
+
+Title: The Symphony of Mr. Bartholomew
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 420, 'PUNCT': 352, 'DET': 227, 'PROPN': 112, 'ADP': 226, 'SPACE': 36, 'SCONJ': 33, 'AUX': 58, 'ADV': 91, 'VERB': 223, 'CCONJ': 52, 'ADJ': 144, 'PRON': 190, 'PART': 51, 'NUM': 2, 'INTJ': 2}
+Total words: 1775
+Total characters: 10788
+Sentence count: 106
+Avg words per sentence: 16.75
+Avg characters per sentence: 101.77
+Median words per sentence: 16.00
+Median characters per sentence: 83.50
+
+Title: The Clockmaker’s Paradox 14
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 389, 'PUNCT': 411, 'DET': 212, 'PROPN': 73, 'PART': 76, 'NUM': 4, 'SPACE': 43, 'ADP': 199, 'SCONJ': 37, 'VERB': 285, 'ADJ': 126, 'CCONJ': 55, 'PRON': 209, 'ADV': 109, 'AUX': 94, 'INTJ': 5}
+Total words: 1833
+Total characters: 10664
+Sentence count: 136
+Avg words per sentence: 13.48
+Avg characters per sentence: 78.41
+Median words per sentence: 12.00
+Median characters per sentence: 58.00
+
+Title: The Lighthouse Keeper’s Secret 7
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 384, 'PUNCT': 350, 'DET': 219, 'PROPN': 70, 'PART': 49, 'ADJ': 125, 'NUM': 9, 'SPACE': 44, 'ADP': 215, 'VERB': 286, 'PRON': 203, 'CCONJ': 63, 'AUX': 76, 'ADV': 77, 'SCONJ': 32, 'INTJ': 1}
+Total words: 1770
+Total characters: 10593
+Sentence count: 104
+Avg words per sentence: 17.02
+Avg characters per sentence: 101.86
+Median words per sentence: 15.00
+Median characters per sentence: 78.00
+
+Title: The Echoes of Amissville
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 459, 'PUNCT': 313, 'DET': 260, 'PROPN': 76, 'ADP': 262, 'SPACE': 37, 'SCONJ': 35, 'VERB': 272, 'PRON': 172, 'ADJ': 133, 'AUX': 72, 'PART': 48, 'ADV': 78, 'CCONJ': 75, 'NUM': 5, 'INTJ': 2}
+Total words: 1932
+Total characters: 11077
+Sentence count: 84
+Avg words per sentence: 23.00
+Avg characters per sentence: 131.87
+Median words per sentence: 22.50
+Median characters per sentence: 110.50
+
+Title: The Last Lightkeeper 6
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 418, 'PUNCT': 310, 'DET': 238, 'ADJ': 141, 'PROPN': 76, 'NUM': 7, 'SPACE': 38, 'ADP': 212, 'SCONJ': 28, 'VERB': 234, 'ADV': 67, 'CCONJ': 46, 'PRON': 158, 'AUX': 48, 'PART': 49, 'INTJ': 1}
+Total words: 1676
+Total characters: 10241
+Sentence count: 113
+Avg words per sentence: 14.83
+Avg characters per sentence: 90.63
+Median words per sentence: 14.00
+Median characters per sentence: 75.00
+
+Title: Whispers of the Past
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 465, 'PUNCT': 312, 'ADP': 229, 'DET': 251, 'SPACE': 32, 'SCONJ': 38, 'PROPN': 56, 'VERB': 267, 'ADJ': 145, 'PRON': 170, 'ADV': 66, 'PART': 42, 'AUX': 67, 'CCONJ': 54, 'NUM': 8}
+Total words: 1832
+Total characters: 11004
+Sentence count: 95
+Avg words per sentence: 19.28
+Avg characters per sentence: 115.83
+Median words per sentence: 19.00
+Median characters per sentence: 98.00
+
+Title: The Forgotten Melody 2
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 401, 'PUNCT': 406, 'DET': 228, 'PROPN': 75, 'NUM': 4, 'SPACE': 41, 'ADP': 220, 'ADJ': 165, 'SCONJ': 35, 'VERB': 306, 'CCONJ': 44, 'PRON': 201, 'ADV': 104, 'AUX': 68, 'PART': 37, 'INTJ': 5}
+Total words: 1860
+Total characters: 11069
+Sentence count: 113
+Avg words per sentence: 16.46
+Avg characters per sentence: 97.96
+Median words per sentence: 16.00
+Median characters per sentence: 81.00
+
+Title: The Clockmaker of Vernazza
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 350, 'PUNCT': 279, 'DET': 188, 'PROPN': 78, 'ADP': 192, 'SPACE': 30, 'ADJ': 111, 'SCONJ': 28, 'VERB': 233, 'PRON': 200, 'AUX': 74, 'CCONJ': 67, 'PART': 31, 'ADV': 68, 'NUM': 2, 'X': 2, 'INTJ': 1}
+Total words: 1605
+Total characters: 9246
+Sentence count: 92
+Avg words per sentence: 17.45
+Avg characters per sentence: 100.50
+Median words per sentence: 16.50
+Median characters per sentence: 77.50
+
+Title: The Clockmaker’s Paradox 2
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 432, 'PUNCT': 372, 'DET': 255, 'PROPN': 78, 'PART': 42, 'NUM': 3, 'SPACE': 46, 'ADP': 209, 'VERB': 264, 'ADV': 86, 'ADJ': 145, 'PRON': 188, 'AUX': 88, 'CCONJ': 50, 'SCONJ': 19}
+Total words: 1827
+Total characters: 10843
+Sentence count: 121
+Avg words per sentence: 15.10
+Avg characters per sentence: 89.61
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Clockmaker’s Secret 11
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 353, 'PUNCT': 298, 'DET': 203, 'PROPN': 69, 'PART': 47, 'ADJ': 106, 'NUM': 4, 'SPACE': 47, 'ADP': 185, 'VERB': 250, 'PRON': 181, 'AUX': 70, 'CCONJ': 35, 'ADV': 77, 'SCONJ': 29, 'INTJ': 2}
+Total words: 1575
+Total characters: 9475
+Sentence count: 110
+Avg words per sentence: 14.32
+Avg characters per sentence: 86.14
+Median words per sentence: 14.00
+Median characters per sentence: 67.50
+
+Title: The Midnight Library
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 368, 'PUNCT': 289, 'DET': 199, 'PROPN': 70, 'SPACE': 37, 'ADP': 202, 'ADJ': 111, 'SCONJ': 49, 'AUX': 92, 'VERB': 292, 'PRON': 228, 'CCONJ': 52, 'PART': 53, 'ADV': 69, 'NUM': 3}
+Total words: 1754
+Total characters: 10259
+Sentence count: 102
+Avg words per sentence: 17.20
+Avg characters per sentence: 100.58
+Median words per sentence: 16.00
+Median characters per sentence: 76.50
+
+Title: The Echoes of Jupiter
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 425, 'PUNCT': 442, 'DET': 247, 'PROPN': 110, 'ADP': 214, 'SPACE': 68, 'ADJ': 134, 'VERB': 305, 'PRON': 169, 'PART': 50, 'ADV': 102, 'NUM': 12, 'AUX': 80, 'CCONJ': 49, 'INTJ': 2, 'SCONJ': 37}
+Total words: 1871
+Total characters: 11832
+Sentence count: 157
+Avg words per sentence: 11.92
+Avg characters per sentence: 75.36
+Median words per sentence: 10.00
+Median characters per sentence: 52.00
+
+Title: Untitled 42
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 433, 'PUNCT': 358, 'PROPN': 81, 'NUM': 9, 'SPACE': 46, 'DET': 270, 'AUX': 68, 'ADJ': 135, 'PRON': 167, 'ADV': 87, 'VERB': 294, 'ADP': 234, 'CCONJ': 53, 'PART': 51, 'SCONJ': 49, 'INTJ': 1}
+Total words: 1906
+Total characters: 11269
+Sentence count: 104
+Avg words per sentence: 18.33
+Avg characters per sentence: 108.36
+Median words per sentence: 17.00
+Median characters per sentence: 82.50
+
+Title: Untitled 56
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 376, 'PUNCT': 363, 'PROPN': 91, 'NUM': 10, 'SPACE': 50, 'ADP': 195, 'DET': 188, 'VERB': 269, 'ADV': 91, 'PRON': 220, 'ADJ': 112, 'CCONJ': 56, 'AUX': 65, 'SCONJ': 32, 'PART': 38, 'INTJ': 3}
+Total words: 1706
+Total characters: 9969
+Sentence count: 130
+Avg words per sentence: 13.12
+Avg characters per sentence: 76.68
+Median words per sentence: 11.00
+Median characters per sentence: 51.50
+
+Title: The Clockmaker’s Promise 3
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 406, 'PUNCT': 406, 'DET': 218, 'PROPN': 106, 'PART': 43, 'NUM': 5, 'SPACE': 54, 'ADP': 197, 'ADJ': 145, 'SCONJ': 35, 'VERB': 278, 'PRON': 207, 'AUX': 56, 'CCONJ': 47, 'ADV': 74, 'INTJ': 7}
+Total words: 1775
+Total characters: 10621
+Sentence count: 126
+Avg words per sentence: 14.09
+Avg characters per sentence: 84.29
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Clockmaker’s Gift
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 340, 'PUNCT': 332, 'DET': 183, 'PROPN': 69, 'PART': 40, 'SPACE': 36, 'ADP': 178, 'SCONJ': 31, 'VERB': 234, 'PRON': 202, 'AUX': 82, 'ADJ': 120, 'CCONJ': 57, 'ADV': 77, 'NUM': 6, 'INTJ': 1}
+Total words: 1589
+Total characters: 9359
+Sentence count: 105
+Avg words per sentence: 15.13
+Avg characters per sentence: 89.13
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: The Lighthouse Keeper of Eldritch Cove
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 388, 'PUNCT': 317, 'DET': 238, 'PROPN': 61, 'ADP': 219, 'SPACE': 32, 'AUX': 63, 'VERB': 280, 'ADJ': 119, 'PRON': 203, 'SCONJ': 43, 'CCONJ': 47, 'ADV': 69, 'PART': 46, 'NUM': 4, 'INTJ': 1}
+Total words: 1767
+Total characters: 10130
+Sentence count: 101
+Avg words per sentence: 17.50
+Avg characters per sentence: 100.30
+Median words per sentence: 17.00
+Median characters per sentence: 81.00
+
+Title: The Clockmaker’s Promise 2
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 434, 'PUNCT': 294, 'DET': 225, 'PROPN': 70, 'PART': 43, 'NUM': 4, 'SPACE': 37, 'ADP': 222, 'ADJ': 139, 'PRON': 168, 'CCONJ': 63, 'VERB': 249, 'ADV': 77, 'AUX': 53, 'SCONJ': 31}
+Total words: 1748
+Total characters: 10265
+Sentence count: 90
+Avg words per sentence: 19.42
+Avg characters per sentence: 114.06
+Median words per sentence: 18.00
+Median characters per sentence: 89.50
+
+Title: Untitled 43
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 408, 'PUNCT': 335, 'PROPN': 99, 'NUM': 6, 'SPACE': 42, 'DET': 226, 'AUX': 101, 'ADV': 74, 'ADJ': 120, 'ADP': 205, 'VERB': 264, 'CCONJ': 42, 'PART': 40, 'PRON': 176, 'SCONJ': 32, 'INTJ': 2}
+Total words: 1762
+Total characters: 10562
+Sentence count: 111
+Avg words per sentence: 15.87
+Avg characters per sentence: 95.15
+Median words per sentence: 14.00
+Median characters per sentence: 73.00
+
+Title: The Clockmaker's Secret 10
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 312, 'PUNCT': 302, 'DET': 157, 'PROPN': 86, 'PART': 51, 'ADJ': 91, 'NUM': 5, 'SPACE': 35, 'ADP': 182, 'SCONJ': 28, 'VERB': 245, 'CCONJ': 40, 'PRON': 226, 'AUX': 54, 'ADV': 62, 'INTJ': 1}
+Total words: 1512
+Total characters: 8718
+Sentence count: 91
+Avg words per sentence: 16.62
+Avg characters per sentence: 95.80
+Median words per sentence: 16.00
+Median characters per sentence: 78.00
+
+Title: The Clockmaker's Paradox
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 429, 'PUNCT': 484, 'DET': 234, 'PROPN': 79, 'PART': 52, 'SPACE': 57, 'ADP': 214, 'VERB': 332, 'ADJ': 147, 'CCONJ': 58, 'PRON': 258, 'NUM': 10, 'ADV': 110, 'AUX': 79, 'SCONJ': 34, 'INTJ': 3}
+Total words: 2002
+Total characters: 11882
+Sentence count: 152
+Avg words per sentence: 13.17
+Avg characters per sentence: 78.17
+Median words per sentence: 12.00
+Median characters per sentence: 60.50
+
+Title: The Forgotten Melody 4
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 362, 'PUNCT': 336, 'DET': 210, 'PROPN': 109, 'NUM': 6, 'SPACE': 41, 'ADP': 236, 'SCONJ': 29, 'VERB': 268, 'ADJ': 117, 'PRON': 180, 'CCONJ': 47, 'ADV': 70, 'AUX': 66, 'PART': 45, 'INTJ': 1}
+Total words: 1694
+Total characters: 10209
+Sentence count: 98
+Avg words per sentence: 17.29
+Avg characters per sentence: 104.17
+Median words per sentence: 17.00
+Median characters per sentence: 79.00
+
+Title: The Last Lightkeeper 5
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 489, 'PUNCT': 408, 'DET': 281, 'ADJ': 126, 'PROPN': 65, 'NUM': 4, 'SPACE': 51, 'ADP': 243, 'SCONJ': 47, 'VERB': 342, 'ADV': 98, 'PART': 53, 'PRON': 240, 'CCONJ': 71, 'AUX': 65, 'INTJ': 2}
+Total words: 2082
+Total characters: 12252
+Sentence count: 133
+Avg words per sentence: 15.65
+Avg characters per sentence: 92.12
+Median words per sentence: 16.00
+Median characters per sentence: 77.00
+
+Title: The Vanishing Point
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 448, 'PUNCT': 282, 'DET': 258, 'PROPN': 64, 'SPACE': 31, 'ADP': 221, 'ADJ': 152, 'VERB': 284, 'CCONJ': 49, 'PRON': 171, 'PART': 43, 'AUX': 69, 'ADV': 95, 'SCONJ': 40, 'NUM': 3}
+Total words: 1876
+Total characters: 11180
+Sentence count: 107
+Avg words per sentence: 17.53
+Avg characters per sentence: 104.49
+Median words per sentence: 18.00
+Median characters per sentence: 86.00
+
+Title: The Lockbox
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 428, 'PUNCT': 254, 'DET': 222, 'PROPN': 73, 'SPACE': 29, 'ADP': 222, 'VERB': 233, 'CCONJ': 57, 'ADJ': 114, 'PRON': 155, 'SCONJ': 30, 'PART': 49, 'AUX': 51, 'ADV': 59, 'NUM': 2}
+Total words: 1668
+Total characters: 9898
+Sentence count: 79
+Avg words per sentence: 21.11
+Avg characters per sentence: 125.29
+Median words per sentence: 20.00
+Median characters per sentence: 102.00
+
+Title: The Clockmaker's Apprentice 8
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 367, 'PUNCT': 360, 'DET': 191, 'PROPN': 83, 'PART': 48, 'NUM': 9, 'SPACE': 41, 'ADP': 193, 'ADJ': 140, 'PRON': 192, 'CCONJ': 46, 'VERB': 253, 'AUX': 66, 'ADV': 84, 'SCONJ': 33, 'INTJ': 4}
+Total words: 1668
+Total characters: 9886
+Sentence count: 120
+Avg words per sentence: 13.90
+Avg characters per sentence: 82.38
+Median words per sentence: 13.00
+Median characters per sentence: 62.00
+
+Title: The Clockmaker’s Secret 12
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 307, 'PUNCT': 269, 'DET': 171, 'PROPN': 71, 'PART': 25, 'ADJ': 119, 'NUM': 6, 'SPACE': 38, 'ADP': 164, 'SCONJ': 31, 'VERB': 204, 'PRON': 168, 'ADV': 61, 'AUX': 53, 'CCONJ': 40, 'INTJ': 4}
+Total words: 1408
+Total characters: 8514
+Sentence count: 88
+Avg words per sentence: 16.00
+Avg characters per sentence: 96.75
+Median words per sentence: 14.50
+Median characters per sentence: 75.00
+
+Title: Untitled
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 381, 'PUNCT': 285, 'VERB': 255, 'SPACE': 37, 'ADP': 205, 'DET': 223, 'PROPN': 103, 'AUX': 66, 'ADJ': 122, 'CCONJ': 47, 'ADV': 75, 'NUM': 14, 'PRON': 161, 'PART': 50, 'SCONJ': 27, 'INTJ': 1}
+Total words: 1690
+Total characters: 10083
+Sentence count: 105
+Avg words per sentence: 16.10
+Avg characters per sentence: 96.03
+Median words per sentence: 15.00
+Median characters per sentence: 73.00
+
+Title: Untitled 41
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 424, 'PUNCT': 317, 'PROPN': 71, 'NUM': 5, 'SPACE': 33, 'ADP': 229, 'DET': 216, 'ADJ': 139, 'VERB': 277, 'CCONJ': 47, 'AUX': 55, 'ADV': 81, 'PRON': 179, 'PART': 42, 'SCONJ': 42, 'INTJ': 2}
+Total words: 1787
+Total characters: 10389
+Sentence count: 105
+Avg words per sentence: 17.02
+Avg characters per sentence: 98.94
+Median words per sentence: 16.00
+Median characters per sentence: 81.00
+
+Title: Whispers at Dusk
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 425, 'PUNCT': 304, 'ADP': 232, 'PROPN': 47, 'SPACE': 33, 'PRON': 178, 'AUX': 68, 'DET': 228, 'SCONJ': 37, 'ADJ': 182, 'VERB': 288, 'CCONJ': 55, 'ADV': 96, 'PART': 59, 'NUM': 1, 'INTJ': 1}
+Total words: 1877
+Total characters: 11349
+Sentence count: 104
+Avg words per sentence: 18.05
+Avg characters per sentence: 109.12
+Median words per sentence: 17.00
+Median characters per sentence: 84.00
+
+Title: The Echo of Driftwood
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 454, 'PUNCT': 275, 'DET': 255, 'PROPN': 47, 'ADP': 265, 'SPACE': 33, 'PRON': 193, 'AUX': 64, 'VERB': 265, 'PART': 33, 'ADJ': 116, 'ADV': 61, 'NUM': 3, 'CCONJ': 58, 'SCONJ': 27}
+Total words: 1830
+Total characters: 10483
+Sentence count: 85
+Avg words per sentence: 21.53
+Avg characters per sentence: 123.33
+Median words per sentence: 21.00
+Median characters per sentence: 103.00
+
+Title: The Whispering Gallery 2
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 428, 'PUNCT': 384, 'DET': 233, 'PROPN': 96, 'NUM': 8, 'SPACE': 44, 'ADP': 240, 'ADJ': 135, 'VERB': 264, 'CCONJ': 59, 'PRON': 220, 'ADV': 91, 'AUX': 84, 'SCONJ': 36, 'PART': 45, 'INTJ': 5}
+Total words: 1919
+Total characters: 11184
+Sentence count: 132
+Avg words per sentence: 14.54
+Avg characters per sentence: 84.73
+Median words per sentence: 13.00
+Median characters per sentence: 66.00
+
+Title: Echoes of the Creek
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 374, 'PUNCT': 328, 'ADP': 211, 'DET': 213, 'PROPN': 102, 'SPACE': 44, 'ADJ': 137, 'SCONJ': 37, 'VERB': 274, 'ADV': 74, 'PRON': 195, 'NUM': 10, 'AUX': 67, 'CCONJ': 54, 'PART': 43, 'INTJ': 4}
+Total words: 1758
+Total characters: 10353
+Sentence count: 117
+Avg words per sentence: 15.03
+Avg characters per sentence: 88.49
+Median words per sentence: 14.00
+Median characters per sentence: 68.00
+
+Title: The Whispering Woods
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 392, 'PUNCT': 298, 'DET': 236, 'PROPN': 55, 'SPACE': 34, 'AUX': 60, 'ADV': 87, 'VERB': 274, 'ADP': 214, 'SCONJ': 30, 'PRON': 192, 'ADJ': 124, 'PART': 54, 'CCONJ': 59, 'NUM': 4}
+Total words: 1760
+Total characters: 10281
+Sentence count: 108
+Avg words per sentence: 16.30
+Avg characters per sentence: 95.19
+Median words per sentence: 16.00
+Median characters per sentence: 77.00
+
+Title: The Echoes of Larkspur Lane
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 401, 'PUNCT': 356, 'DET': 220, 'PROPN': 81, 'ADP': 219, 'SPACE': 43, 'VERB': 261, 'CCONJ': 44, 'PRON': 196, 'ADJ': 130, 'PART': 41, 'NUM': 3, 'ADV': 89, 'AUX': 62, 'SCONJ': 48, 'INTJ': 2}
+Total words: 1778
+Total characters: 10365
+Sentence count: 119
+Avg words per sentence: 14.94
+Avg characters per sentence: 87.10
+Median words per sentence: 15.00
+Median characters per sentence: 69.00
+
+Title: The Whispering Gallery 3
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 410, 'PUNCT': 341, 'DET': 253, 'PROPN': 111, 'NUM': 3, 'SPACE': 42, 'ADP': 244, 'VERB': 289, 'CCONJ': 56, 'ADJ': 138, 'PRON': 193, 'AUX': 80, 'PART': 53, 'ADV': 67, 'SCONJ': 33, 'INTJ': 1, 'X': 1}
+Total words: 1911
+Total characters: 11130
+Sentence count: 117
+Avg words per sentence: 16.33
+Avg characters per sentence: 95.13
+Median words per sentence: 16.00
+Median characters per sentence: 73.00
+
+Title: The Mapmaker’s Paradox
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 421, 'PUNCT': 297, 'DET': 252, 'PROPN': 83, 'PART': 45, 'SPACE': 35, 'ADP': 235, 'VERB': 289, 'ADV': 85, 'ADJ': 125, 'CCONJ': 56, 'PRON': 168, 'AUX': 76, 'SCONJ': 40, 'INTJ': 1}
+Total words: 1864
+Total characters: 10669
+Sentence count: 107
+Avg words per sentence: 17.42
+Avg characters per sentence: 99.71
+Median words per sentence: 18.00
+Median characters per sentence: 79.00
+
+Title: Whispers in Willowmere
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 368, 'PUNCT': 377, 'ADP': 189, 'PROPN': 78, 'SPACE': 49, 'DET': 201, 'VERB': 259, 'CCONJ': 62, 'ADJ': 110, 'PRON': 238, 'AUX': 98, 'PART': 54, 'ADV': 68, 'SCONJ': 35}
+Total words: 1731
+Total characters: 10130
+Sentence count: 135
+Avg words per sentence: 12.82
+Avg characters per sentence: 75.04
+Median words per sentence: 12.00
+Median characters per sentence: 53.00
+
+Title: Untitled 40
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 378, 'PUNCT': 312, 'PROPN': 87, 'NUM': 6, 'SPACE': 38, 'ADP': 220, 'DET': 207, 'ADJ': 133, 'VERB': 283, 'CCONJ': 65, 'PRON': 212, 'PART': 52, 'AUX': 93, 'ADV': 64, 'SCONJ': 35, 'INTJ': 1}
+Total words: 1799
+Total characters: 10569
+Sentence count: 122
+Avg words per sentence: 14.75
+Avg characters per sentence: 86.63
+Median words per sentence: 13.00
+Median characters per sentence: 63.50
+
+Title: Untitled 54
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 392, 'PUNCT': 318, 'PROPN': 83, 'NUM': 8, 'SPACE': 39, 'ADP': 225, 'DET': 200, 'ADJ': 113, 'VERB': 267, 'CCONJ': 49, 'PRON': 226, 'AUX': 80, 'ADV': 82, 'SCONJ': 30, 'PART': 51}
+Total words: 1770
+Total characters: 10413
+Sentence count: 107
+Avg words per sentence: 16.54
+Avg characters per sentence: 97.32
+Median words per sentence: 17.00
+Median characters per sentence: 70.00
+
+Title: The Clockmaker’s Secret 13
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 368, 'PUNCT': 359, 'DET': 204, 'PROPN': 89, 'PART': 41, 'ADJ': 117, 'NUM': 5, 'SPACE': 42, 'ADP': 195, 'VERB': 268, 'PRON': 186, 'CCONJ': 50, 'AUX': 61, 'ADV': 83, 'SCONJ': 29}
+Total words: 1664
+Total characters: 9763
+Sentence count: 108
+Avg words per sentence: 15.41
+Avg characters per sentence: 90.40
+Median words per sentence: 16.00
+Median characters per sentence: 73.00
+
+Title: The Clockmaker’s Apprentice 9
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 385, 'PUNCT': 396, 'DET': 192, 'PROPN': 100, 'PART': 61, 'NUM': 6, 'SPACE': 52, 'ADP': 200, 'PRON': 180, 'VERB': 275, 'ADJ': 129, 'AUX': 83, 'ADV': 81, 'CCONJ': 70, 'SCONJ': 31, 'INTJ': 4}
+Total words: 1736
+Total characters: 10370
+Sentence count: 116
+Avg words per sentence: 14.97
+Avg characters per sentence: 89.40
+Median words per sentence: 13.00
+Median characters per sentence: 62.00
+
+Title: The Lightkeeper's Secret
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 382, 'PUNCT': 264, 'DET': 230, 'PROPN': 65, 'PART': 46, 'SPACE': 35, 'ADP': 209, 'ADJ': 142, 'SCONJ': 25, 'VERB': 234, 'ADV': 80, 'PRON': 155, 'AUX': 66, 'CCONJ': 50, 'NUM': 7, 'INTJ': 1}
+Total words: 1666
+Total characters: 9859
+Sentence count: 89
+Avg words per sentence: 18.72
+Avg characters per sentence: 110.78
+Median words per sentence: 19.00
+Median characters per sentence: 91.00
+
+Title: The Echo of the Lighthouse
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 417, 'PUNCT': 281, 'DET': 249, 'PROPN': 44, 'ADP': 228, 'SPACE': 31, 'ADJ': 123, 'VERB': 266, 'ADV': 97, 'PART': 40, 'PRON': 161, 'AUX': 48, 'CCONJ': 67, 'SCONJ': 24, 'NUM': 3}
+Total words: 1747
+Total characters: 10028
+Sentence count: 96
+Avg words per sentence: 18.20
+Avg characters per sentence: 104.46
+Median words per sentence: 18.00
+Median characters per sentence: 87.00
+
+Title: The Last Lightkeeper 4
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 427, 'PUNCT': 266, 'DET': 275, 'ADJ': 138, 'PROPN': 29, 'NUM': 3, 'SPACE': 32, 'VERB': 244, 'ADP': 255, 'PRON': 150, 'ADV': 88, 'CCONJ': 52, 'PART': 35, 'AUX': 47, 'SCONJ': 32}
+Total words: 1761
+Total characters: 10224
+Sentence count: 88
+Avg words per sentence: 20.01
+Avg characters per sentence: 116.18
+Median words per sentence: 19.00
+Median characters per sentence: 96.00
+
+Title: A Thread in Time
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 361, 'PUNCT': 419, 'DET': 199, 'PROPN': 86, 'ADP': 200, 'SPACE': 57, 'ADJ': 136, 'SCONJ': 25, 'VERB': 263, 'CCONJ': 54, 'ADV': 93, 'PRON': 210, 'PART': 41, 'AUX': 59, 'INTJ': 2, 'NUM': 5}
+Total words: 1694
+Total characters: 9954
+Sentence count: 140
+Avg words per sentence: 12.10
+Avg characters per sentence: 71.10
+Median words per sentence: 11.00
+Median characters per sentence: 58.00
+
+Title: The Mysterious Island of Dr. Floros
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 465, 'PUNCT': 376, 'DET': 228, 'PROPN': 90, 'ADP': 229, 'SPACE': 48, 'ADJ': 143, 'CCONJ': 63, 'VERB': 262, 'PRON': 187, 'AUX': 73, 'ADV': 63, 'PART': 48, 'SCONJ': 30, 'NUM': 4, 'INTJ': 3}
+Total words: 1853
+Total characters: 11439
+Sentence count: 118
+Avg words per sentence: 15.70
+Avg characters per sentence: 96.94
+Median words per sentence: 14.00
+Median characters per sentence: 77.00
+
+Title: The Forgotten Melody 3
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 383, 'PUNCT': 313, 'DET': 210, 'PROPN': 49, 'NUM': 7, 'SPACE': 31, 'ADP': 209, 'ADJ': 143, 'SCONJ': 37, 'CCONJ': 59, 'ADV': 105, 'VERB': 259, 'PRON': 187, 'AUX': 66, 'PART': 37}
+Total words: 1736
+Total characters: 10022
+Sentence count: 101
+Avg words per sentence: 17.19
+Avg characters per sentence: 99.23
+Median words per sentence: 17.00
+Median characters per sentence: 83.00
+
+Title: The Clockmaker’s Secret 17
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 452, 'PUNCT': 398, 'DET': 233, 'PROPN': 85, 'PART': 54, 'ADJ': 152, 'NUM': 8, 'SPACE': 52, 'ADP': 238, 'VERB': 279, 'CCONJ': 64, 'PRON': 245, 'ADV': 103, 'SCONJ': 36, 'AUX': 85, 'INTJ': 3}
+Total words: 1996
+Total characters: 11744
+Sentence count: 143
+Avg words per sentence: 13.96
+Avg characters per sentence: 82.13
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Clockmaker’s Paradox 4
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 446, 'PUNCT': 344, 'DET': 237, 'PROPN': 85, 'PART': 69, 'NUM': 3, 'SPACE': 43, 'ADP': 234, 'SCONJ': 35, 'VERB': 285, 'ADJ': 127, 'CCONJ': 51, 'PRON': 237, 'AUX': 88, 'ADV': 84, 'INTJ': 1}
+Total words: 1948
+Total characters: 11424
+Sentence count: 116
+Avg words per sentence: 16.79
+Avg characters per sentence: 98.48
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Lighthouse Keeper of Grimsby Point
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 415, 'PUNCT': 275, 'DET': 245, 'PROPN': 80, 'ADP': 226, 'SPACE': 27, 'ADJ': 117, 'SCONJ': 24, 'VERB': 242, 'PRON': 145, 'CCONJ': 58, 'ADV': 63, 'AUX': 51, 'PART': 43, 'NUM': 15, 'INTJ': 1}
+Total words: 1688
+Total characters: 9896
+Sentence count: 90
+Avg words per sentence: 18.76
+Avg characters per sentence: 109.96
+Median words per sentence: 18.00
+Median characters per sentence: 89.00
+
+Title: Untitled 50
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 421, 'PUNCT': 376, 'PROPN': 60, 'NUM': 6, 'SPACE': 46, 'ADP': 225, 'DET': 234, 'VERB': 285, 'SCONJ': 38, 'CCONJ': 43, 'ADJ': 116, 'PRON': 237, 'PART': 36, 'AUX': 85, 'ADV': 76, 'INTJ': 3}
+Total words: 1840
+Total characters: 10681
+Sentence count: 126
+Avg words per sentence: 14.60
+Avg characters per sentence: 84.77
+Median words per sentence: 13.00
+Median characters per sentence: 60.00
+
+Title: Untitled 44
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 436, 'PUNCT': 395, 'PROPN': 63, 'NUM': 10, 'SPACE': 47, 'SCONJ': 48, 'DET': 238, 'VERB': 293, 'ADP': 218, 'PART': 56, 'ADJ': 141, 'PRON': 217, 'AUX': 79, 'CCONJ': 61, 'ADV': 95, 'INTJ': 1}
+Total words: 1917
+Total characters: 11228
+Sentence count: 133
+Avg words per sentence: 14.41
+Avg characters per sentence: 84.42
+Median words per sentence: 14.00
+Median characters per sentence: 62.00
+
+Title: The Clockmaker of Middlesbrooke
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 448, 'PUNCT': 399, 'DET': 220, 'PROPN': 90, 'ADP': 212, 'SPACE': 42, 'VERB': 278, 'CCONJ': 73, 'ADJ': 151, 'PRON': 195, 'AUX': 74, 'ADV': 87, 'PART': 47, 'NUM': 14, 'SCONJ': 37, 'INTJ': 2}
+Total words: 1892
+Total characters: 11445
+Sentence count: 124
+Avg words per sentence: 15.26
+Avg characters per sentence: 92.30
+Median words per sentence: 14.50
+Median characters per sentence: 74.00
+
+Title: Echoes of the Past
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 404, 'PUNCT': 242, 'ADP': 211, 'DET': 227, 'PROPN': 59, 'SPACE': 25, 'VERB': 203, 'ADJ': 112, 'PRON': 120, 'PART': 32, 'SCONJ': 24, 'ADV': 59, 'CCONJ': 53, 'AUX': 55, 'NUM': 5}
+Total words: 1547
+Total characters: 9058
+Sentence count: 76
+Avg words per sentence: 20.36
+Avg characters per sentence: 119.18
+Median words per sentence: 20.00
+Median characters per sentence: 90.50
+
+Title: Untitled 45
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 457, 'PUNCT': 389, 'PROPN': 63, 'NUM': 7, 'SPACE': 55, 'ADP': 240, 'DET': 246, 'VERB': 315, 'SCONJ': 35, 'PRON': 246, 'CCONJ': 59, 'ADJ': 159, 'PART': 56, 'AUX': 70, 'ADV': 95, 'INTJ': 3}
+Total words: 2011
+Total characters: 11836
+Sentence count: 123
+Avg words per sentence: 16.35
+Avg characters per sentence: 96.23
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: Untitled 51
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 366, 'PUNCT': 311, 'PROPN': 98, 'NUM': 3, 'SPACE': 36, 'ADP': 198, 'DET': 172, 'PART': 57, 'ADJ': 121, 'VERB': 252, 'PRON': 193, 'CCONJ': 62, 'AUX': 69, 'SCONJ': 43, 'ADV': 76, 'INTJ': 2}
+Total words: 1670
+Total characters: 9829
+Sentence count: 99
+Avg words per sentence: 16.87
+Avg characters per sentence: 99.28
+Median words per sentence: 16.00
+Median characters per sentence: 80.00
+
+Title: The Lighthouse Keeper of Evershore
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 385, 'PUNCT': 338, 'DET': 237, 'PROPN': 92, 'ADP': 211, 'SPACE': 35, 'SCONJ': 31, 'VERB': 238, 'ADJ': 107, 'CCONJ': 42, 'PRON': 176, 'PART': 30, 'ADV': 63, 'AUX': 58, 'NUM': 5, 'INTJ': 1}
+Total words: 1645
+Total characters: 9425
+Sentence count: 114
+Avg words per sentence: 14.43
+Avg characters per sentence: 82.68
+Median words per sentence: 12.50
+Median characters per sentence: 60.00
+
+Title: Echoes of the Lost Star
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 427, 'PUNCT': 247, 'ADP': 223, 'DET': 251, 'PROPN': 64, 'SPACE': 25, 'VERB': 204, 'CCONJ': 50, 'ADJ': 140, 'AUX': 39, 'ADV': 77, 'PART': 40, 'PRON': 109, 'SCONJ': 21, 'NUM': 7}
+Total words: 1624
+Total characters: 9896
+Sentence count: 79
+Avg words per sentence: 20.56
+Avg characters per sentence: 125.27
+Median words per sentence: 20.00
+Median characters per sentence: 103.00
+
+Title: The Forgotten Map
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 405, 'PUNCT': 402, 'DET': 220, 'PROPN': 66, 'SPACE': 53, 'ADP': 188, 'VERB': 301, 'CCONJ': 57, 'ADJ': 149, 'AUX': 89, 'PRON': 246, 'ADV': 103, 'PART': 61, 'SCONJ': 51, 'NUM': 2, 'INTJ': 5}
+Total words: 1900
+Total characters: 11157
+Sentence count: 140
+Avg words per sentence: 13.57
+Avg characters per sentence: 79.69
+Median words per sentence: 12.00
+Median characters per sentence: 60.00
+
+Title: The Clockmaker’s Paradox 5
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 345, 'PUNCT': 305, 'DET': 188, 'PROPN': 70, 'PART': 37, 'NUM': 7, 'SPACE': 36, 'ADP': 176, 'VERB': 230, 'CCONJ': 42, 'PRON': 149, 'ADJ': 109, 'AUX': 49, 'SCONJ': 23, 'ADV': 65}
+Total words: 1460
+Total characters: 8892
+Sentence count: 93
+Avg words per sentence: 15.70
+Avg characters per sentence: 95.61
+Median words per sentence: 14.00
+Median characters per sentence: 75.00
+
+Title: The Clockmaker's Secret 16
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 382, 'PUNCT': 343, 'DET': 209, 'PROPN': 102, 'PART': 53, 'ADJ': 103, 'NUM': 3, 'SPACE': 47, 'ADP': 195, 'VERB': 237, 'CCONJ': 72, 'PRON': 185, 'ADV': 66, 'AUX': 60, 'SCONJ': 27, 'INTJ': 1}
+Total words: 1644
+Total characters: 9626
+Sentence count: 104
+Avg words per sentence: 15.81
+Avg characters per sentence: 92.56
+Median words per sentence: 15.00
+Median characters per sentence: 76.50
+
+Title: The Ivory Tower
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 437, 'PUNCT': 321, 'DET': 273, 'PROPN': 108, 'SPACE': 40, 'ADP': 241, 'ADJ': 121, 'VERB': 310, 'PRON': 177, 'ADV': 87, 'AUX': 70, 'CCONJ': 54, 'PART': 54, 'SCONJ': 33}
+Total words: 1934
+Total characters: 11559
+Sentence count: 117
+Avg words per sentence: 16.53
+Avg characters per sentence: 98.79
+Median words per sentence: 16.00
+Median characters per sentence: 80.00
+
+Title: Whispers of the Forgotten Orchard
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 409, 'PUNCT': 361, 'ADP': 226, 'DET': 232, 'PROPN': 62, 'SPACE': 38, 'ADV': 78, 'VERB': 272, 'ADJ': 113, 'PRON': 186, 'AUX': 53, 'PART': 52, 'CCONJ': 59, 'NUM': 5, 'SCONJ': 36, 'INTJ': 1}
+Total words: 1759
+Total characters: 10182
+Sentence count: 116
+Avg words per sentence: 15.16
+Avg characters per sentence: 87.78
+Median words per sentence: 14.50
+Median characters per sentence: 71.00
+
+Title: Untitled 8
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 384, 'PUNCT': 386, 'ADJ': 122, 'NUM': 6, 'SPACE': 50, 'ADP': 211, 'DET': 234, 'VERB': 299, 'PRON': 209, 'ADV': 90, 'SCONJ': 32, 'CCONJ': 53, 'PROPN': 47, 'AUX': 75, 'PART': 50, 'INTJ': 2}
+Total words: 1783
+Total characters: 10403
+Sentence count: 131
+Avg words per sentence: 13.61
+Avg characters per sentence: 79.41
+Median words per sentence: 14.00
+Median characters per sentence: 68.00
+
+Title: The Watcher of Westbrook Avenue
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 358, 'PUNCT': 353, 'DET': 197, 'PROPN': 135, 'ADP': 209, 'SPACE': 38, 'SCONJ': 33, 'VERB': 267, 'ADJ': 121, 'CCONJ': 39, 'ADV': 91, 'PART': 52, 'PRON': 216, 'AUX': 61, 'NUM': 10, 'INTJ': 5}
+Total words: 1726
+Total characters: 10315
+Sentence count: 119
+Avg words per sentence: 14.50
+Avg characters per sentence: 86.68
+Median words per sentence: 13.00
+Median characters per sentence: 68.00
+
+Title: Whispering Winds
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 380, 'PUNCT': 284, 'PROPN': 79, 'SPACE': 36, 'ADP': 199, 'DET': 203, 'ADJ': 122, 'SCONJ': 35, 'VERB': 245, 'PRON': 163, 'AUX': 61, 'CCONJ': 55, 'ADV': 89, 'NUM': 2, 'PART': 41, 'INTJ': 1}
+Total words: 1652
+Total characters: 9721
+Sentence count: 104
+Avg words per sentence: 15.88
+Avg characters per sentence: 93.47
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Last Lightkeeper 3
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 417, 'PUNCT': 333, 'DET': 256, 'ADJ': 106, 'PROPN': 101, 'NUM': 4, 'SPACE': 42, 'ADP': 238, 'VERB': 265, 'ADV': 85, 'PRON': 206, 'PART': 51, 'AUX': 77, 'SCONJ': 41, 'CCONJ': 56, 'INTJ': 2}
+Total words: 1863
+Total characters: 10723
+Sentence count: 116
+Avg words per sentence: 16.06
+Avg characters per sentence: 92.44
+Median words per sentence: 15.00
+Median characters per sentence: 69.50
+
+Title: The Clockmaker’s Secret 14
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 333, 'PUNCT': 312, 'DET': 197, 'PROPN': 107, 'PART': 40, 'ADJ': 130, 'NUM': 6, 'SPACE': 40, 'ADP': 167, 'VERB': 210, 'CCONJ': 41, 'PRON': 172, 'AUX': 77, 'ADV': 72, 'SCONJ': 33, 'INTJ': 2}
+Total words: 1551
+Total characters: 9268
+Sentence count: 99
+Avg words per sentence: 15.67
+Avg characters per sentence: 93.62
+Median words per sentence: 15.00
+Median characters per sentence: 71.00
+
+Title: The Clockmaker’s Paradox 7
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 361, 'PUNCT': 297, 'DET': 193, 'PROPN': 79, 'PART': 54, 'NUM': 6, 'SPACE': 36, 'ADP': 185, 'ADJ': 113, 'PRON': 176, 'VERB': 250, 'SCONJ': 36, 'CCONJ': 55, 'AUX': 55, 'ADV': 74}
+Total words: 1612
+Total characters: 9644
+Sentence count: 104
+Avg words per sentence: 15.50
+Avg characters per sentence: 92.73
+Median words per sentence: 15.00
+Median characters per sentence: 73.50
+
+Title: The Lighthouse Keeper of Morwen Bay
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 420, 'PUNCT': 342, 'DET': 251, 'PROPN': 55, 'ADP': 208, 'SPACE': 39, 'VERB': 299, 'ADJ': 118, 'PRON': 204, 'CCONJ': 41, 'AUX': 52, 'SCONJ': 33, 'PART': 47, 'ADV': 76, 'NUM': 6}
+Total words: 1786
+Total characters: 10194
+Sentence count: 123
+Avg words per sentence: 14.52
+Avg characters per sentence: 82.88
+Median words per sentence: 14.00
+Median characters per sentence: 67.00
+
+Title: The Lighthouse Keeper of Eventide
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 410, 'PUNCT': 315, 'DET': 255, 'PROPN': 78, 'ADP': 227, 'SPACE': 36, 'AUX': 65, 'ADJ': 141, 'ADV': 89, 'SCONJ': 35, 'CCONJ': 63, 'VERB': 260, 'PRON': 155, 'NUM': 4, 'PART': 39, 'INTJ': 1}
+Total words: 1793
+Total characters: 10484
+Sentence count: 97
+Avg words per sentence: 18.48
+Avg characters per sentence: 108.08
+Median words per sentence: 19.00
+Median characters per sentence: 89.00
+
+Title: Untitled 47
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 415, 'PUNCT': 356, 'PROPN': 80, 'NUM': 4, 'SPACE': 36, 'ADP': 187, 'DET': 245, 'ADJ': 141, 'VERB': 250, 'ADV': 91, 'CCONJ': 51, 'SCONJ': 27, 'AUX': 62, 'PRON': 162, 'PART': 54, 'INTJ': 1}
+Total words: 1741
+Total characters: 10627
+Sentence count: 116
+Avg words per sentence: 15.01
+Avg characters per sentence: 91.61
+Median words per sentence: 13.50
+Median characters per sentence: 72.00
+
+Title: Untitled 53
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 356, 'PUNCT': 323, 'PROPN': 74, 'NUM': 4, 'SPACE': 46, 'ADP': 194, 'DET': 195, 'ADJ': 121, 'PRON': 213, 'VERB': 254, 'ADV': 81, 'AUX': 73, 'CCONJ': 56, 'PART': 38, 'SCONJ': 31}
+Total words: 1650
+Total characters: 9657
+Sentence count: 115
+Avg words per sentence: 14.35
+Avg characters per sentence: 83.97
+Median words per sentence: 13.00
+Median characters per sentence: 66.00
+
+Title: The Last Lightkeeper
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 445, 'PUNCT': 381, 'DET': 275, 'ADJ': 129, 'SPACE': 52, 'SCONJ': 33, 'VERB': 263, 'ADP': 226, 'PROPN': 73, 'PRON': 186, 'AUX': 95, 'ADV': 89, 'NUM': 6, 'CCONJ': 40, 'PART': 47, 'INTJ': 1}
+Total words: 1870
+Total characters: 11374
+Sentence count: 139
+Avg words per sentence: 13.45
+Avg characters per sentence: 81.83
+Median words per sentence: 13.00
+Median characters per sentence: 65.00
+
+Title: The Whispering Wood
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 440, 'PUNCT': 355, 'DET': 246, 'PROPN': 53, 'SPACE': 45, 'ADP': 208, 'AUX': 68, 'ADV': 108, 'ADJ': 138, 'VERB': 288, 'SCONJ': 36, 'PRON': 215, 'CCONJ': 48, 'PART': 58, 'INTJ': 1, 'NUM': 6}
+Total words: 1894
+Total characters: 11096
+Sentence count: 113
+Avg words per sentence: 16.76
+Avg characters per sentence: 98.19
+Median words per sentence: 17.00
+Median characters per sentence: 79.00
+
+Title: Untitled 52
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 380, 'PUNCT': 318, 'PROPN': 45, 'NUM': 11, 'SPACE': 36, 'AUX': 47, 'ADV': 83, 'VERB': 233, 'ADP': 195, 'DET': 177, 'PRON': 199, 'SCONJ': 39, 'ADJ': 112, 'CCONJ': 56, 'PART': 32}
+Total words: 1596
+Total characters: 9287
+Sentence count: 96
+Avg words per sentence: 16.62
+Avg characters per sentence: 96.74
+Median words per sentence: 16.00
+Median characters per sentence: 77.50
+
+Title: Untitled 46
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 410, 'PUNCT': 403, 'PROPN': 89, 'NUM': 5, 'SPACE': 49, 'ADP': 242, 'DET': 215, 'ADJ': 120, 'SCONJ': 37, 'VERB': 308, 'CCONJ': 54, 'PRON': 232, 'ADV': 81, 'PART': 29, 'AUX': 58, 'INTJ': 2}
+Total words: 1856
+Total characters: 10930
+Sentence count: 124
+Avg words per sentence: 14.97
+Avg characters per sentence: 88.15
+Median words per sentence: 13.00
+Median characters per sentence: 68.00
+
+Title: Whispering Shadows
+Unnecessary words: 19
+Parts of Speech: {'NOUN': 414, 'PUNCT': 353, 'PROPN': 72, 'SPACE': 49, 'VERB': 302, 'ADP': 228, 'DET': 227, 'ADJ': 124, 'AUX': 86, 'CCONJ': 50, 'PRON': 221, 'ADV': 122, 'SCONJ': 36, 'PART': 64, 'NUM': 4, 'INTJ': 1}
+Total words: 1920
+Total characters: 11271
+Sentence count: 116
+Avg words per sentence: 16.55
+Avg characters per sentence: 97.16
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Clockmaker's Paradox 6
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 414, 'PUNCT': 385, 'DET': 218, 'PROPN': 63, 'PART': 59, 'NUM': 5, 'SPACE': 46, 'ADJ': 125, 'ADP': 206, 'VERB': 296, 'CCONJ': 47, 'PRON': 193, 'AUX': 58, 'SCONJ': 26, 'ADV': 90, 'INTJ': 5}
+Total words: 1758
+Total characters: 10371
+Sentence count: 128
+Avg words per sentence: 13.73
+Avg characters per sentence: 81.02
+Median words per sentence: 12.00
+Median characters per sentence: 60.00
+
+Title: The Clockmaker’s Secret 15
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 429, 'PUNCT': 349, 'DET': 221, 'PROPN': 54, 'PART': 55, 'ADJ': 133, 'NUM': 11, 'SPACE': 37, 'ADP': 220, 'PRON': 193, 'VERB': 276, 'CCONJ': 50, 'AUX': 72, 'ADV': 115, 'SCONJ': 36, 'INTJ': 1}
+Total words: 1835
+Total characters: 10948
+Sentence count: 106
+Avg words per sentence: 17.31
+Avg characters per sentence: 103.28
+Median words per sentence: 17.00
+Median characters per sentence: 81.50
+
+Title: The Last Bookstore
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 386, 'PUNCT': 361, 'DET': 219, 'PROPN': 67, 'SPACE': 40, 'ADP': 193, 'VERB': 231, 'CCONJ': 37, 'PRON': 187, 'ADJ': 118, 'AUX': 63, 'ADV': 83, 'SCONJ': 20, 'PART': 36, 'INTJ': 3, 'NUM': 4}
+Total words: 1622
+Total characters: 9730
+Sentence count: 115
+Avg words per sentence: 14.10
+Avg characters per sentence: 84.61
+Median words per sentence: 13.00
+Median characters per sentence: 67.00
+
+Title: A Murmuration of Memories
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 412, 'PUNCT': 403, 'DET': 219, 'ADP': 226, 'PROPN': 106, 'SPACE': 51, 'ADJ': 129, 'VERB': 313, 'PRON': 224, 'ADV': 86, 'CCONJ': 56, 'AUX': 70, 'NUM': 6, 'PART': 55, 'SCONJ': 30}
+Total words: 1878
+Total characters: 11055
+Sentence count: 145
+Avg words per sentence: 12.95
+Avg characters per sentence: 76.24
+Median words per sentence: 11.00
+Median characters per sentence: 51.00
+
+Title: The Lighthouse Keeper of Merrow Down
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 383, 'PUNCT': 309, 'DET': 223, 'PROPN': 91, 'ADP': 214, 'SPACE': 40, 'ADJ': 127, 'VERB': 252, 'PRON': 194, 'AUX': 78, 'ADV': 92, 'SCONJ': 38, 'CCONJ': 48, 'PART': 35, 'NUM': 2, 'INTJ': 2}
+Total words: 1746
+Total characters: 10119
+Sentence count: 103
+Avg words per sentence: 16.95
+Avg characters per sentence: 98.24
+Median words per sentence: 17.00
+Median characters per sentence: 83.00
+
+Title: Echoes of the Lighthouse
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 421, 'PUNCT': 246, 'ADP': 218, 'DET': 267, 'PROPN': 28, 'SPACE': 27, 'AUX': 46, 'ADJ': 140, 'VERB': 232, 'PRON': 139, 'ADV': 88, 'CCONJ': 33, 'SCONJ': 30, 'PART': 37, 'NUM': 6}
+Total words: 1669
+Total characters: 9777
+Sentence count: 86
+Avg words per sentence: 19.41
+Avg characters per sentence: 113.69
+Median words per sentence: 17.50
+Median characters per sentence: 87.00
+
+Title: The Last Light of Eridanus
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 462, 'PUNCT': 343, 'DET': 256, 'ADJ': 138, 'ADP': 233, 'PROPN': 36, 'SPACE': 34, 'VERB': 274, 'AUX': 68, 'ADV': 60, 'PRON': 200, 'CCONJ': 67, 'PART': 42, 'SCONJ': 36, 'NUM': 2}
+Total words: 1860
+Total characters: 10651
+Sentence count: 114
+Avg words per sentence: 16.32
+Avg characters per sentence: 93.43
+Median words per sentence: 16.00
+Median characters per sentence: 76.50
+
+Title: The Last Lightkeeper 2
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 462, 'PUNCT': 310, 'DET': 267, 'ADJ': 140, 'PROPN': 66, 'NUM': 9, 'SPACE': 38, 'SCONJ': 36, 'VERB': 247, 'ADP': 236, 'PRON': 159, 'AUX': 62, 'ADV': 69, 'CCONJ': 51, 'PART': 50}
+Total words: 1812
+Total characters: 10720
+Sentence count: 95
+Avg words per sentence: 19.07
+Avg characters per sentence: 112.84
+Median words per sentence: 20.00
+Median characters per sentence: 98.00
 
 Title: The Forgotten Melody
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 263, 'PUNCT': 217, 'DET': 125, 'PROPN': 75, 'SPACE': 21, 'ADV': 38, 'SCONJ': 27, 'ADP': 122, 'ADJ': 69, 'VERB': 157, 'PRON': 144, 'CCONJ': 38, 'AUX': 49, 'NUM': 4, 'PART': 39}
-Total words: 1122
-Total characters: 6723
-Sentence count: 74
-Avg words per sentence: 15.16
-Avg characters per sentence: 90.85
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 364, 'PUNCT': 377, 'DET': 179, 'PROPN': 89, 'SPACE': 49, 'ADP': 193, 'VERB': 306, 'CCONJ': 50, 'ADJ': 135, 'PRON': 221, 'ADV': 89, 'AUX': 69, 'PART': 58, 'SCONJ': 36, 'NUM': 2, 'INTJ': 3}
+Total words: 1757
+Total characters: 10611
+Sentence count: 118
+Avg words per sentence: 14.89
+Avg characters per sentence: 89.92
+Median words per sentence: 14.50
+Median characters per sentence: 75.00
 
-Title: The Time Capsule
+Title: Untitled 9
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 378, 'PUNCT': 377, 'ADJ': 127, 'NUM': 7, 'SPACE': 51, 'PROPN': 92, 'AUX': 70, 'DET': 204, 'VERB': 301, 'ADV': 96, 'ADP': 199, 'PRON': 229, 'SCONJ': 40, 'PART': 42, 'CCONJ': 57, 'INTJ': 7}
+Total words: 1822
+Total characters: 10592
+Sentence count: 121
+Avg words per sentence: 15.06
+Avg characters per sentence: 87.54
+Median words per sentence: 15.00
+Median characters per sentence: 69.00
+
+Title: The Glassmaker's Apprentice
 Unnecessary words: 2
-Parts of Speech: {'NOUN': 298, 'PUNCT': 191, 'DET': 169, 'PROPN': 53, 'SPACE': 19, 'ADV': 34, 'SCONJ': 21, 'ADP': 164, 'ADJ': 75, 'VERB': 175, 'PRON': 114, 'AUX': 34, 'CCONJ': 48, 'NUM': 3, 'PART': 26}
-Total words: 1204
-Total characters: 6952
-Sentence count: 64
-Avg words per sentence: 18.81
-Avg characters per sentence: 108.62
+Parts of Speech: {'NOUN': 434, 'PUNCT': 298, 'DET': 215, 'PROPN': 81, 'PART': 56, 'SPACE': 38, 'ADP': 215, 'VERB': 244, 'ADJ': 105, 'PRON': 167, 'AUX': 65, 'SCONJ': 26, 'CCONJ': 55, 'ADV': 77, 'INTJ': 3, 'NUM': 3}
+Total words: 1718
+Total characters: 10208
+Sentence count: 98
+Avg words per sentence: 17.53
+Avg characters per sentence: 104.16
+Median words per sentence: 16.00
+Median characters per sentence: 81.50
+
+Title: The Echoes of Willowbrook
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 446, 'PUNCT': 354, 'DET': 252, 'PROPN': 102, 'ADP': 256, 'SPACE': 40, 'ADV': 91, 'SCONJ': 36, 'ADJ': 122, 'VERB': 268, 'CCONJ': 52, 'PART': 48, 'PRON': 185, 'AUX': 54, 'NUM': 1, 'INTJ': 1}
+Total words: 1881
+Total characters: 11164
+Sentence count: 116
+Avg words per sentence: 16.22
+Avg characters per sentence: 96.24
+Median words per sentence: 16.00
+Median characters per sentence: 76.00
 
 ### Averages Across All Files ###
 
-Average unnecessary words: 3.96
-Average parts of speech: {'NOUN': 272.72, 'PUNCT': 181.4, 'DET': 139.68, 'PROPN': 52.08, 'ADP': 138.44, 'SPACE': 19.72, 'ADV': 44.24, 'SCONJ': 18.36, 'ADJ': 73.32, 'VERB': 161.28, 'PRON': 118.24, 'CCONJ': 42.72, 'AUX': 43.72, 'NUM': 3.52, 'PART': 33.52, 'unnecessary_word_count': 3.96, 'total_words': 1124.48, 'total_characters': 6561.16, 'sentence_count': 66.6, 'avg_words_per_sentence': 16.970762155577294, 'avg_characters_per_sentence': 98.99552224945214, 'INTJ': 0.04, 'X': 0.04}
-Average words per sentence: 16.97
-Average characters per sentence: 99.00
+Average unnecessary words: 9.58
+Average parts of speech: {'NOUN': 398.0366666666667, 'PUNCT': 335.47, 'DET': 220.55, 'PROPN': 75.12, 'ADP': 211.78666666666666, 'SPACE': 40.46333333333333, 'ADJ': 126.44666666666667, 'VERB': 265.24666666666667, 'PRON': 194.08, 'CCONJ': 52.513333333333335, 'ADV': 83.21666666666667, 'AUX': 67.26666666666667, 'NUM': 5.3533333333333335, 'SCONJ': 33.843333333333334, 'PART': 45.77333333333333, 'unnecessary_word_count': 9.58, 'total_words': 1749.0066666666667, 'total_characters': 10306.76, 'sentence_count': 110.2, 'avg_words_per_sentence': 16.13548257449279, 'avg_characters_per_sentence': 95.05928811024775, 'INTJ': 1.87, 'X': 0.02, 'SYM': 0.0033333333333333335}
+Average words per sentence: 16.14
+Average characters per sentence: 95.06
+Median words per sentence: 15.00
+Median characters per sentence: 74.00

@@ -1,211 +1,3271 @@
 ### Analysis Results for Each File ###
 
-Title: Goodbye, My Brother
-Unnecessary words: 16
-Parts of Speech: {'NOUN': 1675, 'PUNCT': 1509, 'PROPN': 396, 'PRON': 1412, 'SPACE': 85, 'AUX': 679, 'DET': 984, 'ADV': 393, 'ADJ': 489, 'ADP': 1039, 'CCONJ': 547, 'SCONJ': 336, 'VERB': 1397, 'PART': 297, 'NUM': 74, 'INTJ': 7}
-Total words: 9578
-Total characters: 50851
-Sentence count: 532
-Avg words per sentence: 18.00
-Avg characters per sentence: 95.58
-
-Title: The Tell-Tale Heart
-Unnecessary words: 17
-Parts of Speech: {'NOUN': 349, 'PUNCT': 389, 'DET': 225, 'PROPN': 26, 'SPACE': 21, 'ADV': 183, 'ADJ': 139, 'PRON': 349, 'AUX': 137, 'CCONJ': 95, 'VERB': 299, 'SCONJ': 84, 'PART': 47, 'ADP': 191, 'INTJ': 12, 'NUM': 6}
-Total words: 2116
-Total characters: 11268
-Sentence count: 158
-Avg words per sentence: 13.39
-Avg characters per sentence: 71.32
-
-Title: Mother
-Unnecessary words: 8
-Parts of Speech: {'NOUN': 582, 'PUNCT': 422, 'PROPN': 108, 'SPACE': 19, 'DET': 361, 'ADP': 443, 'AUX': 208, 'ADJ': 183, 'CCONJ': 145, 'PRON': 472, 'VERB': 484, 'SCONJ': 68, 'NUM': 10, 'ADV': 147, 'PART': 78, 'INTJ': 4}
-Total words: 3257
-Total characters: 17422
-Sentence count: 201
-Avg words per sentence: 16.20
-Avg characters per sentence: 86.68
-
-Title: Uncle Wiggily in Connecticut
-Unnecessary words: 50
-Parts of Speech: {'NOUN': 641, 'PUNCT': 1711, 'PROPN': 511, 'ADP': 471, 'SPACE': 437, 'PRON': 900, 'AUX': 330, 'ADV': 360, 'NUM': 43, 'SCONJ': 87, 'VERB': 903, 'PART': 173, 'DET': 323, 'ADJ': 235, 'CCONJ': 156, 'INTJ': 78}
-Total words: 4973
-Total characters: 27617
-Sentence count: 582
-Avg words per sentence: 8.54
-Avg characters per sentence: 47.45
-
-Title: The Aleph
-Unnecessary words: 18
-Parts of Speech: {'NOUN': 959, 'PUNCT': 958, 'DET': 585, 'PROPN': 355, 'SPACE': 400, 'INTJ': 8, 'PRON': 609, 'AUX': 258, 'VERB': 632, 'ADP': 664, 'CCONJ': 171, 'ADJ': 410, 'NUM': 70, 'SCONJ': 121, 'ADV': 274, 'PART': 128, 'X': 7}
-Total words: 5178
-Total characters: 29313
-Sentence count: 224
-Avg words per sentence: 23.12
-Avg characters per sentence: 130.86
-
-Title: Why Don’t You Dance?
-Unnecessary words: 3
-Parts of Speech: {'NOUN': 344, 'PUNCT': 470, 'SCONJ': 31, 'AUX': 90, 'PART': 31, 'PRON': 254, 'PROPN': 10, 'SPACE': 149, 'ADP': 163, 'DET': 247, 'VERB': 301, 'CCONJ': 75, 'NUM': 12, 'ADV': 61, 'ADJ': 52, 'INTJ': 2}
-Total words: 1625
-Total characters: 8474
-Sentence count: 193
-Avg words per sentence: 8.42
-Avg characters per sentence: 43.91
-
-Title: The Gardener
-Unnecessary words: 21
-Parts of Speech: {'NOUN': 594, 'PUNCT': 784, 'DET': 304, 'PROPN': 195, 'SPACE': 75, 'ADP': 434, 'VERB': 521, 'SCONJ': 105, 'PRON': 579, 'CCONJ': 174, 'ADV': 222, 'ADJ': 244, 'PART': 126, 'AUX': 285, 'NUM': 41, 'INTJ': 21, 'X': 1}
-Total words: 3722
-Total characters: 20756
-Sentence count: 216
-Avg words per sentence: 17.23
-Avg characters per sentence: 96.09
-
-Title: How to Tell a True War Story
-Unnecessary words: 49
-Parts of Speech: {'NOUN': 975, 'PUNCT': 1002, 'SCONJ': 104, 'PART': 151, 'VERB': 795, 'DET': 531, 'PROPN': 168, 'SPACE': 354, 'PRON': 711, 'AUX': 269, 'ADJ': 391, 'ADP': 463, 'CCONJ': 283, 'ADV': 369, 'NUM': 32, 'INTJ': 10}
-Total words: 5093
-Total characters: 27561
-Sentence count: 424
-Avg words per sentence: 12.01
-Avg characters per sentence: 65.00
-
-Title: Big Two-Hearted River
+Title: Timbuctoo
 Unnecessary words: 23
-Parts of Speech: {'NOUN': 1743, 'PUNCT': 1033, 'PROPN': 185, 'NUM': 42, 'SPACE': 680, 'DET': 1180, 'VERB': 1097, 'ADP': 1163, 'CCONJ': 256, 'AUX': 362, 'PRON': 857, 'SCONJ': 131, 'PART': 142, 'ADV': 373, 'ADJ': 532, 'INTJ': 4}
-Total words: 8047
-Total characters: 42090
-Sentence count: 627
-Avg words per sentence: 12.83
-Avg characters per sentence: 67.13
+Parts of Speech: {'NOUN': 1124, 'PUNCT': 1175, 'PROPN': 172, 'SPACE': 77, 'X': 18, 'DET': 602, 'ADP': 707, 'AUX': 369, 'ADJ': 402, 'VERB': 1015, 'CCONJ': 226, 'PART': 153, 'PRON': 1030, 'NUM': 97, 'SCONJ': 157, 'ADV': 299, 'INTJ': 12}
+Total words: 6246
+Total characters: 35545
+Sentence count: 452
+Avg words per sentence: 13.82
+Avg characters per sentence: 78.64
+Median words per sentence: 12.00
+Median characters per sentence: 51.00
 
-Title: The Indian Uprising
-Unnecessary words: 6
-Parts of Speech: {'NOUN': 519, 'PUNCT': 496, 'DET': 232, 'PROPN': 143, 'SPACE': 37, 'PRON': 285, 'VERB': 315, 'ADV': 80, 'AUX': 120, 'ADP': 270, 'ADJ': 209, 'CCONJ': 118, 'PART': 38, 'INTJ': 2, 'NUM': 24, 'SCONJ': 45, 'SYM': 3}
-Total words: 2371
-Total characters: 13489
-Sentence count: 150
-Avg words per sentence: 15.81
-Avg characters per sentence: 89.93
+Title: The Thousand-And-Second Tale of Scheherazade
+Unnecessary words: 29
+Parts of Speech: {'NOUN': 1132, 'PUNCT': 1070, 'DET': 682, 'NUM': 65, 'CCONJ': 245, 'PROPN': 103, 'ADP': 797, 'SPACE': 77, 'AUX': 280, 'ADJ': 422, 'VERB': 639, 'ADV': 354, 'PART': 110, 'PRON': 647, 'SCONJ': 193, 'INTJ': 8, 'X': 4}
+Total words: 5661
+Total characters: 31783
+Sentence count: 140
+Avg words per sentence: 40.44
+Avg characters per sentence: 227.02
+Median words per sentence: 36.00
+Median characters per sentence: 171.50
 
-Title: The Midnight Zone
-Unnecessary words: 17
-Parts of Speech: {'NOUN': 873, 'PUNCT': 580, 'DET': 448, 'PROPN': 41, 'SPACE': 67, 'PRON': 639, 'AUX': 255, 'ADJ': 302, 'VERB': 589, 'ADP': 484, 'NUM': 41, 'ADV': 220, 'CCONJ': 202, 'SCONJ': 117, 'PART': 109, 'INTJ': 2}
-Total words: 4268
-Total characters: 22541
-Sentence count: 212
-Avg words per sentence: 20.13
-Avg characters per sentence: 106.33
-
-Title: Lost in the Funhouse
-Unnecessary words: 46
-Parts of Speech: {'NOUN': 2012, 'PUNCT': 1550, 'VERB': 1278, 'ADP': 1138, 'DET': 963, 'PROPN': 492, 'SPACE': 764, 'PRON': 1018, 'AUX': 618, 'ADV': 568, 'CCONJ': 374, 'ADJ': 660, 'PART': 333, 'SCONJ': 249, 'NUM': 93, 'X': 2, 'INTJ': 4}
-Total words: 9518
-Total characters: 54914
-Sentence count: 492
-Avg words per sentence: 19.35
-Avg characters per sentence: 111.61
-
-Title: The Dead
-Unnecessary words: 92
-Parts of Speech: {'NOUN': 2625, 'PUNCT': 3104, 'DET': 1399, 'PROPN': 1255, 'SPACE': 1021, 'PART': 416, 'AUX': 1002, 'ADV': 938, 'VERB': 2171, 'ADP': 1841, 'PRON': 2162, 'NUM': 83, 'ADJ': 951, 'CCONJ': 683, 'SCONJ': 387, 'INTJ': 67}
-Total words: 15583
-Total characters: 85439
-Sentence count: 932
-Avg words per sentence: 16.72
-Avg characters per sentence: 91.67
-
-Title: Two Men Arrive in a Village
-Unnecessary words: 16
-Parts of Speech: {'NOUN': 443, 'PUNCT': 343, 'NUM': 30, 'PROPN': 20, 'ADP': 239, 'PRON': 246, 'SPACE': 10, 'ADV': 145, 'DET': 255, 'CCONJ': 134, 'AUX': 137, 'VERB': 264, 'ADJ': 177, 'SCONJ': 72, 'PART': 54, 'INTJ': 2}
-Total words: 2194
-Total characters: 11747
-Sentence count: 67
-Avg words per sentence: 32.75
-Avg characters per sentence: 175.33
-
-Title: Brokeback Mountain
-Unnecessary words: 10
-Parts of Speech: {'NOUN': 2100, 'PUNCT': 1834, 'PROPN': 623, 'SPACE': 801, 'PRON': 1322, 'AUX': 456, 'VERB': 1648, 'ADP': 1166, 'ADJ': 673, 'DET': 1149, 'ADV': 471, 'CCONJ': 432, 'SCONJ': 186, 'NUM': 111, 'PART': 287, 'INTJ': 29, 'X': 1}
-Total words: 10351
-Total characters: 55147
-Sentence count: 605
-Avg words per sentence: 17.11
-Avg characters per sentence: 91.15
+Title: The Soldier's Peaches
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 794, 'PUNCT': 1182, 'DET': 441, 'PROPN': 262, 'PART': 140, 'SPACE': 120, 'PRON': 908, 'VERB': 811, 'ADP': 468, 'ADV': 230, 'CCONJ': 165, 'ADJ': 265, 'AUX': 436, 'NUM': 35, 'SCONJ': 102, 'INTJ': 11}
+Total words: 4928
+Total characters: 26788
+Sentence count: 566
+Avg words per sentence: 8.71
+Avg characters per sentence: 47.33
+Median words per sentence: 7.00
+Median characters per sentence: 32.00
 
 Title: Ghoul
 Unnecessary words: 87
-Parts of Speech: {'NOUN': 1148, 'PUNCT': 2276, 'PROPN': 719, 'SPACE': 348, 'ADP': 933, 'DET': 572, 'PRON': 1341, 'AUX': 558, 'PART': 257, 'ADJ': 564, 'VERB': 1401, 'SCONJ': 240, 'ADV': 686, 'NUM': 70, 'CCONJ': 272, 'INTJ': 52, 'X': 6, 'SYM': 2}
-Total words: 8660
-Total characters: 47277
+Parts of Speech: {'NOUN': 1149, 'PUNCT': 2277, 'PROPN': 721, 'SPACE': 349, 'ADP': 933, 'DET': 572, 'PRON': 1341, 'AUX': 558, 'PART': 257, 'ADJ': 564, 'VERB': 1401, 'SCONJ': 240, 'ADV': 686, 'NUM': 70, 'CCONJ': 272, 'INTJ': 52, 'X': 6, 'SYM': 2}
+Total words: 8663
+Total characters: 47301
 Sentence count: 632
-Avg words per sentence: 13.70
-Avg characters per sentence: 74.81
+Avg words per sentence: 13.71
+Avg characters per sentence: 74.84
+Median words per sentence: 9.00
+Median characters per sentence: 40.00
+
+Title: A Very Old Man with Enormous Wings
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 598, 'PUNCT': 225, 'DET': 359, 'ADV': 122, 'PROPN': 52, 'ADP': 384, 'SPACE': 14, 'ADJ': 205, 'PRON': 318, 'AUX': 161, 'VERB': 364, 'PART': 95, 'CCONJ': 114, 'SCONJ': 96, 'NUM': 13}
+Total words: 2853
+Total characters: 15448
+Sentence count: 97
+Avg words per sentence: 29.41
+Avg characters per sentence: 159.26
+Median words per sentence: 29.00
+Median characters per sentence: 131.00
+
+Title: The Stranger
+Unnecessary words: 35
+Parts of Speech: {'NOUN': 669, 'PUNCT': 1293, 'DET': 385, 'PROPN': 218, 'SPACE': 138, 'PRON': 800, 'VERB': 735, 'ADP': 429, 'ADJ': 278, 'AUX': 335, 'ADV': 364, 'PART': 161, 'CCONJ': 172, 'SCONJ': 80, 'INTJ': 54, 'NUM': 20}
+Total words: 4511
+Total characters: 24702
+Sentence count: 471
+Avg words per sentence: 9.58
+Avg characters per sentence: 52.45
+Median words per sentence: 7.00
+Median characters per sentence: 34.00
+
+Title: The Sisters
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 483, 'PUNCT': 523, 'DET': 259, 'PROPN': 113, 'SPACE': 79, 'PRON': 573, 'VERB': 488, 'ADP': 346, 'AUX': 175, 'ADJ': 195, 'CCONJ': 146, 'ADV': 180, 'SCONJ': 97, 'NUM': 14, 'PART': 85, 'INTJ': 13}
+Total words: 3105
+Total characters: 16456
+Sentence count: 185
+Avg words per sentence: 16.78
+Avg characters per sentence: 88.95
+Median words per sentence: 15.00
+Median characters per sentence: 61.00
+
+Title: Lady with the Dog
+Unnecessary words: 47
+Parts of Speech: {'NOUN': 1148, 'PUNCT': 1332, 'PROPN': 196, 'ADP': 818, 'DET': 617, 'SPACE': 580, 'PRON': 1045, 'AUX': 429, 'VERB': 951, 'NUM': 47, 'SCONJ': 188, 'ADJ': 468, 'CCONJ': 328, 'ADV': 391, 'PART': 153, 'INTJ': 11, 'X': 3}
+Total words: 6684
+Total characters: 37220
+Sentence count: 346
+Avg words per sentence: 19.32
+Avg characters per sentence: 107.57
+Median words per sentence: 16.00
+Median characters per sentence: 72.00
+
+Title: A Few Normal Things That Happen A Lot
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 549, 'PUNCT': 383, 'DET': 309, 'ADJ': 174, 'PROPN': 26, 'PRON': 379, 'VERB': 405, 'SPACE': 62, 'ADP': 268, 'CCONJ': 111, 'PART': 75, 'SCONJ': 68, 'ADV': 107, 'NUM': 85, 'AUX': 142, 'INTJ': 1, 'X': 2}
+Total words: 2580
+Total characters: 13861
+Sentence count: 171
+Avg words per sentence: 15.09
+Avg characters per sentence: 81.06
+Median words per sentence: 14.00
+Median characters per sentence: 60.00
+
+Title: Turkeys Turning The Tables
+Unnecessary words: 33
+Parts of Speech: {'NOUN': 418, 'PUNCT': 830, 'PROPN': 101, 'VERB': 490, 'DET': 260, 'SPACE': 108, 'INTJ': 42, 'PRON': 482, 'ADP': 193, 'SCONJ': 92, 'ADJ': 204, 'AUX': 259, 'ADV': 209, 'CCONJ': 204, 'PART': 136, 'NUM': 19}
+Total words: 3005
+Total characters: 16444
+Sentence count: 159
+Avg words per sentence: 18.90
+Avg characters per sentence: 103.42
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
 
 Title: Who Will Greet You at Home
 Unnecessary words: 14
-Parts of Speech: {'NOUN': 1082, 'PUNCT': 898, 'PRON': 750, 'AUX': 345, 'VERB': 906, 'ADP': 558, 'SPACE': 142, 'DET': 605, 'ADJ': 356, 'CCONJ': 236, 'SCONJ': 161, 'PROPN': 206, 'PART': 207, 'ADV': 273, 'NUM': 30, 'INTJ': 5}
-Total words: 5623
-Total characters: 30539
+Parts of Speech: {'NOUN': 1083, 'PUNCT': 899, 'PRON': 750, 'AUX': 345, 'VERB': 906, 'ADP': 558, 'SPACE': 143, 'PROPN': 209, 'DET': 605, 'ADJ': 356, 'CCONJ': 236, 'SCONJ': 161, 'PART': 207, 'ADV': 273, 'NUM': 30, 'INTJ': 5}
+Total words: 5627
+Total characters: 30567
 Sentence count: 366
-Avg words per sentence: 15.36
-Avg characters per sentence: 83.44
+Avg words per sentence: 15.37
+Avg characters per sentence: 83.52
+Median words per sentence: 14.00
+Median characters per sentence: 62.00
 
-Title: The Yellow Wallpaper
-Unnecessary words: 69
-Parts of Speech: {'NOUN': 862, 'PUNCT': 940, 'DET': 524, 'PROPN': 85, 'SPACE': 267, 'PRON': 998, 'AUX': 453, 'ADV': 545, 'SCONJ': 189, 'ADJ': 469, 'ADP': 564, 'CCONJ': 375, 'VERB': 911, 'PART': 220, 'NUM': 40, 'X': 1, 'INTJ': 2}
-Total words: 6142
-Total characters: 31473
-Sentence count: 389
-Avg words per sentence: 15.79
-Avg characters per sentence: 80.91
+Title: Beyond the Wall
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 623, 'PUNCT': 545, 'ADP': 375, 'DET': 317, 'PROPN': 50, 'SPACE': 168, 'ADJ': 257, 'ADV': 174, 'PRON': 484, 'VERB': 417, 'AUX': 224, 'SCONJ': 73, 'CCONJ': 132, 'PART': 89, 'NUM': 26, 'X': 1, 'INTJ': 4}
+Total words: 3231
+Total characters: 18435
+Sentence count: 167
+Avg words per sentence: 19.35
+Avg characters per sentence: 110.39
+Median words per sentence: 18.00
+Median characters per sentence: 88.00
 
-Title: Gooseberries
-Unnecessary words: 17
-Parts of Speech: {'NOUN': 768, 'PUNCT': 749, 'SPACE': 298, 'ADP': 455, 'ADJ': 256, 'DET': 404, 'AUX': 222, 'ADV': 200, 'CCONJ': 292, 'SCONJ': 85, 'VERB': 567, 'PRON': 479, 'PROPN': 111, 'PART': 104, 'NUM': 36, 'INTJ': 8, 'X': 2}
-Total words: 3921
-Total characters: 21366
-Sentence count: 213
-Avg words per sentence: 18.41
-Avg characters per sentence: 100.31
+Title: Split Cherry Tree
+Unnecessary words: 25
+Parts of Speech: {'NOUN': 958, 'PUNCT': 1088, 'PROPN': 356, 'SPACE': 459, 'VERB': 922, 'ADP': 515, 'PRON': 941, 'CCONJ': 167, 'AUX': 445, 'ADV': 217, 'DET': 387, 'NUM': 60, 'ADJ': 268, 'PART': 284, 'SCONJ': 104, 'INTJ': 12, 'X': 2}
+Total words: 5285
+Total characters: 27199
+Sentence count: 537
+Avg words per sentence: 9.84
+Avg characters per sentence: 50.65
+Median words per sentence: 8.00
+Median characters per sentence: 35.00
 
-Title: All Summer in a Day
-Unnecessary words: 7
-Parts of Speech: {'NOUN': 366, 'PUNCT': 450, 'DET': 222, 'PROPN': 22, 'ADP': 218, 'SPACE': 166, 'ADJ': 92, 'ADV': 112, 'AUX': 119, 'VERB': 305, 'PRON': 285, 'NUM': 19, 'SCONJ': 39, 'CCONJ': 130, 'PART': 28, 'INTJ': 17}
-Total words: 1943
-Total characters: 10617
-Sentence count: 143
-Avg words per sentence: 13.59
-Avg characters per sentence: 74.24
+Title: The Consul
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 1330, 'PUNCT': 1640, 'DET': 780, 'PROPN': 458, 'SPACE': 164, 'ADP': 849, 'NUM': 58, 'CCONJ': 204, 'PRON': 1019, 'ADJ': 450, 'AUX': 557, 'VERB': 986, 'ADV': 350, 'SCONJ': 188, 'PART': 209, 'INTJ': 1}
+Total words: 7252
+Total characters: 41289
+Sentence count: 508
+Avg words per sentence: 14.28
+Avg characters per sentence: 81.28
+Median words per sentence: 11.00
+Median characters per sentence: 51.00
+
+Title: What Christmas Is As We Grow Older
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 311, 'PUNCT': 320, 'PRON': 239, 'PROPN': 57, 'AUX': 122, 'SCONJ': 70, 'VERB': 231, 'ADJ': 147, 'SPACE': 23, 'ADP': 208, 'DET': 159, 'PART': 37, 'CCONJ': 100, 'ADV': 115, 'NUM': 7, 'INTJ': 9}
+Total words: 1806
+Total characters: 10007
+Sentence count: 67
+Avg words per sentence: 26.96
+Avg characters per sentence: 149.36
+Median words per sentence: 23.00
+Median characters per sentence: 107.00
+
+Title: The Boarding House
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 542, 'PUNCT': 333, 'DET': 255, 'PROPN': 107, 'SPACE': 227, 'AUX': 202, 'PART': 109, 'PRON': 398, 'ADV': 140, 'ADJ': 171, 'VERB': 387, 'ADP': 320, 'CCONJ': 124, 'SCONJ': 68, 'NUM': 22, 'INTJ': 5}
+Total words: 2796
+Total characters: 15008
+Sentence count: 163
+Avg words per sentence: 17.15
+Avg characters per sentence: 92.07
+Median words per sentence: 16.00
+Median characters per sentence: 71.00
+
+Title: Some Things About Typewriters
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 62, 'PUNCT': 48, 'DET': 30, 'ADP': 24, 'PROPN': 11, 'SPACE': 9, 'SCONJ': 11, 'PRON': 19, 'VERB': 37, 'ADV': 15, 'ADJ': 17, 'PART': 10, 'INTJ': 1, 'CCONJ': 4, 'AUX': 14, 'NUM': 3}
+Total words: 254
+Total characters: 1452
+Sentence count: 21
+Avg words per sentence: 12.10
+Avg characters per sentence: 69.14
+Median words per sentence: 12.00
+Median characters per sentence: 59.00
+
+Title: The Colonel's Ideas
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 339, 'PUNCT': 435, 'DET': 219, 'PROPN': 52, 'PART': 60, 'SPACE': 177, 'X': 1, 'SCONJ': 54, 'PRON': 298, 'VERB': 294, 'AUX': 136, 'ADJ': 138, 'CCONJ': 100, 'ADV': 129, 'ADP': 245, 'NUM': 32}
+Total words: 2084
+Total characters: 11069
+Sentence count: 88
+Avg words per sentence: 23.68
+Avg characters per sentence: 125.78
+Median words per sentence: 19.00
+Median characters per sentence: 83.00
+
+Title: Conditions for Growing
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 142, 'PUNCT': 148, 'ADP': 78, 'VERB': 125, 'SPACE': 18, 'PROPN': 29, 'DET': 65, 'PART': 35, 'PRON': 130, 'CCONJ': 19, 'SCONJ': 17, 'AUX': 56, 'ADJ': 43, 'ADV': 52, 'NUM': 5, 'SYM': 1, 'INTJ': 2}
+Total words: 774
+Total characters: 4209
+Sentence count: 68
+Avg words per sentence: 11.38
+Avg characters per sentence: 61.90
+Median words per sentence: 9.00
+Median characters per sentence: 40.00
+
+Title: Waiter, a Bock!
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 394, 'PUNCT': 563, 'PROPN': 36, 'DET': 208, 'SPACE': 89, 'X': 4, 'SCONJ': 65, 'AUX': 158, 'PRON': 434, 'VERB': 338, 'ADP': 252, 'ADJ': 144, 'PART': 75, 'CCONJ': 66, 'ADV': 118, 'NUM': 26, 'INTJ': 13}
+Total words: 2322
+Total characters: 12106
+Sentence count: 172
+Avg words per sentence: 13.50
+Avg characters per sentence: 70.38
+Median words per sentence: 11.00
+Median characters per sentence: 46.50
+
+Title: There Is No World
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 245, 'PUNCT': 158, 'PRON': 97, 'VERB': 136, 'DET': 120, 'PROPN': 66, 'SPACE': 8, 'ADV': 59, 'CCONJ': 28, 'AUX': 51, 'PART': 28, 'ADP': 116, 'ADJ': 74, 'SCONJ': 20, 'NUM': 17, 'INTJ': 1}
+Total words: 1025
+Total characters: 5993
+Sentence count: 42
+Avg words per sentence: 24.40
+Avg characters per sentence: 142.69
+Median words per sentence: 15.00
+Median characters per sentence: 77.50
+
+Title: I'm Exaggerating
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 161, 'PUNCT': 139, 'PRON': 85, 'AUX': 23, 'VERB': 87, 'SPACE': 15, 'PROPN': 29, 'DET': 79, 'ADJ': 39, 'NUM': 6, 'ADP': 83, 'CCONJ': 13, 'SCONJ': 8, 'PART': 14, 'ADV': 18, 'INTJ': 2}
+Total words: 631
+Total characters: 3505
+Sentence count: 58
+Avg words per sentence: 10.88
+Avg characters per sentence: 60.43
+Median words per sentence: 10.00
+Median characters per sentence: 44.50
+
+Title: The Cats of Ulthar
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 282, 'PUNCT': 152, 'DET': 182, 'PROPN': 63, 'ADP': 176, 'SPACE': 104, 'PRON': 98, 'AUX': 69, 'VERB': 155, 'SCONJ': 47, 'CCONJ': 83, 'ADV': 61, 'ADJ': 121, 'PART': 27, 'NUM': 14}
+Total words: 1373
+Total characters: 7501
+Sentence count: 51
+Avg words per sentence: 26.92
+Avg characters per sentence: 147.08
+Median words per sentence: 25.00
+Median characters per sentence: 110.00
+
+Title: Bellflower
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 293, 'PUNCT': 279, 'PROPN': 45, 'SPACE': 36, 'X': 1, 'SCONJ': 51, 'ADJ': 131, 'AUX': 109, 'DET': 174, 'PRON': 269, 'VERB': 256, 'ADP': 205, 'PART': 48, 'ADV': 112, 'CCONJ': 81, 'NUM': 17, 'INTJ': 4}
+Total words: 1786
+Total characters: 9616
+Sentence count: 74
+Avg words per sentence: 24.14
+Avg characters per sentence: 129.95
+Median words per sentence: 21.50
+Median characters per sentence: 93.00
+
+Title: Rikki-Tikki-Tavi
+Unnecessary words: 40
+Parts of Speech: {'NOUN': 1012, 'PUNCT': 1257, 'PROPN': 428, 'SPACE': 351, 'VERB': 874, 'DET': 553, 'SCONJ': 169, 'PRON': 753, 'ADP': 677, 'ADJ': 315, 'CCONJ': 331, 'AUX': 373, 'NUM': 31, 'ADV': 330, 'PART': 193, 'INTJ': 15}
+Total words: 5925
+Total characters: 31071
+Sentence count: 357
+Avg words per sentence: 16.60
+Avg characters per sentence: 87.03
+Median words per sentence: 13.00
+Median characters per sentence: 54.00
+
+Title: The Fourth Trimester
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 197, 'PUNCT': 167, 'DET': 95, 'PROPN': 23, 'SPACE': 17, 'PRON': 142, 'AUX': 57, 'VERB': 118, 'ADP': 88, 'CCONJ': 36, 'PART': 22, 'ADJ': 62, 'SCONJ': 17, 'ADV': 40, 'NUM': 7}
+Total words: 889
+Total characters: 4740
+Sentence count: 66
+Avg words per sentence: 13.47
+Avg characters per sentence: 71.82
+Median words per sentence: 9.50
+Median characters per sentence: 42.00
+
+Title: The End of the Party
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 651, 'PUNCT': 693, 'DET': 343, 'ADP': 399, 'PROPN': 183, 'SPACE': 79, 'VERB': 481, 'PART': 140, 'ADJ': 212, 'PRON': 460, 'AUX': 269, 'ADV': 160, 'CCONJ': 129, 'SCONJ': 81, 'NUM': 13, 'INTJ': 9}
+Total words: 3432
+Total characters: 18928
+Sentence count: 235
+Avg words per sentence: 14.60
+Avg characters per sentence: 80.54
+Median words per sentence: 11.00
+Median characters per sentence: 50.00
+
+Title: My Dear You
+Unnecessary words: 26
+Parts of Speech: {'NOUN': 632, 'PUNCT': 845, 'PRON': 778, 'SPACE': 80, 'PROPN': 86, 'VERB': 609, 'NUM': 45, 'ADP': 342, 'DET': 274, 'AUX': 279, 'ADV': 235, 'CCONJ': 157, 'ADJ': 235, 'SCONJ': 99, 'PART': 120, 'INTJ': 14}
+Total words: 3796
+Total characters: 20348
+Sentence count: 312
+Avg words per sentence: 12.17
+Avg characters per sentence: 65.22
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: Possum
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 281, 'PUNCT': 210, 'PROPN': 24, 'SPACE': 41, 'SCONJ': 42, 'PRON': 275, 'VERB': 266, 'DET': 160, 'ADJ': 78, 'ADP': 150, 'CCONJ': 60, 'AUX': 95, 'ADV': 73, 'PART': 59, 'NUM': 7, 'INTJ': 1}
+Total words: 1544
+Total characters: 8026
+Sentence count: 109
+Avg words per sentence: 14.17
+Avg characters per sentence: 73.63
+Median words per sentence: 12.00
+Median characters per sentence: 54.00
+
+Title: Outside the Raft
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 829, 'PUNCT': 706, 'ADP': 472, 'DET': 317, 'PROPN': 119, 'SPACE': 66, 'PRON': 707, 'AUX': 189, 'NUM': 34, 'CCONJ': 170, 'VERB': 674, 'SCONJ': 103, 'ADJ': 244, 'ADV': 174, 'PART': 128, 'INTJ': 2, 'X': 1}
+Total words: 4076
+Total characters: 22114
+Sentence count: 248
+Avg words per sentence: 16.44
+Avg characters per sentence: 89.17
+Median words per sentence: 16.00
+Median characters per sentence: 68.00
 
 Title: Bela
 Unnecessary words: 58
-Parts of Speech: {'NOUN': 2223, 'PUNCT': 2829, 'PROPN': 437, 'SPACE': 1352, 'PRON': 2380, 'AUX': 937, 'VERB': 2220, 'ADP': 1598, 'DET': 1318, 'ADJ': 777, 'NUM': 87, 'ADV': 841, 'SCONJ': 387, 'CCONJ': 599, 'PART': 425, 'INTJ': 55, 'X': 2}
-Total words: 14088
-Total characters: 75507
+Parts of Speech: {'NOUN': 2223, 'PUNCT': 2830, 'PROPN': 440, 'SPACE': 1353, 'PRON': 2380, 'AUX': 937, 'VERB': 2220, 'ADP': 1598, 'DET': 1318, 'ADJ': 777, 'NUM': 87, 'ADV': 841, 'SCONJ': 387, 'CCONJ': 599, 'PART': 425, 'INTJ': 55, 'X': 2}
+Total words: 14091
+Total characters: 75533
 Sentence count: 851
+Avg words per sentence: 16.56
+Avg characters per sentence: 88.76
+Median words per sentence: 13.00
+Median characters per sentence: 60.00
+
+Title: The Veteran
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 389, 'PUNCT': 374, 'DET': 237, 'PROPN': 54, 'SPACE': 39, 'ADP': 230, 'ADJ': 147, 'AUX': 109, 'VERB': 257, 'NUM': 18, 'ADV': 102, 'PRON': 218, 'CCONJ': 51, 'SCONJ': 44, 'PART': 35, 'INTJ': 6, 'X': 1}
+Total words: 1867
+Total characters: 10330
+Sentence count: 127
+Avg words per sentence: 14.70
+Avg characters per sentence: 81.34
+Median words per sentence: 13.00
+Median characters per sentence: 61.00
+
+Title: The Tomb
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 902, 'PUNCT': 429, 'DET': 523, 'PROPN': 71, 'SPACE': 52, 'ADP': 561, 'VERB': 536, 'PRON': 446, 'AUX': 218, 'ADJ': 346, 'SCONJ': 111, 'ADV': 209, 'PART': 74, 'CCONJ': 169, 'INTJ': 1, 'NUM': 25}
+Total words: 4168
+Total characters: 23246
+Sentence count: 152
+Avg words per sentence: 27.42
+Avg characters per sentence: 152.93
+Median words per sentence: 26.00
+Median characters per sentence: 122.50
+
+Title: In the Red Room
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 617, 'PUNCT': 541, 'ADP': 435, 'DET': 376, 'PROPN': 143, 'SPACE': 348, 'SCONJ': 74, 'PRON': 503, 'VERB': 551, 'NUM': 24, 'PART': 104, 'ADV': 215, 'AUX': 212, 'ADJ': 211, 'CCONJ': 111, 'INTJ': 17}
+Total words: 3524
+Total characters: 19121
+Sentence count: 307
+Avg words per sentence: 11.48
+Avg characters per sentence: 62.28
+Median words per sentence: 9.00
+Median characters per sentence: 39.00
+
+Title: The Terrible Old Man
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 215, 'PUNCT': 128, 'DET': 127, 'PROPN': 127, 'SPACE': 10, 'PRON': 87, 'AUX': 48, 'ADP': 138, 'CCONJ': 66, 'PART': 28, 'VERB': 125, 'ADJ': 138, 'ADV': 81, 'SCONJ': 27, 'NUM': 8}
+Total words: 1197
+Total characters: 6841
+Sentence count: 40
+Avg words per sentence: 29.93
+Avg characters per sentence: 171.03
+Median words per sentence: 26.00
+Median characters per sentence: 126.00
+
+Title: Preservation
+Unnecessary words: 29
+Parts of Speech: {'NOUN': 1169, 'PUNCT': 976, 'PROPN': 269, 'SPACE': 94, 'ADP': 722, 'DET': 588, 'ADJ': 390, 'AUX': 250, 'VERB': 825, 'ADV': 310, 'PRON': 680, 'PART': 149, 'CCONJ': 166, 'NUM': 43, 'SCONJ': 109, 'INTJ': 14}
+Total words: 5558
+Total characters: 32102
+Sentence count: 378
+Avg words per sentence: 14.70
+Avg characters per sentence: 84.93
+Median words per sentence: 12.50
+Median characters per sentence: 59.00
+
+Title: The Dowry
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 292, 'PUNCT': 485, 'DET': 168, 'PROPN': 67, 'SPACE': 120, 'X': 2, 'ADP': 209, 'AUX': 136, 'VERB': 278, 'ADV': 100, 'PRON': 299, 'PART': 56, 'CCONJ': 55, 'NUM': 20, 'ADJ': 115, 'SCONJ': 40, 'INTJ': 15}
+Total words: 1823
+Total characters: 10005
+Sentence count: 152
+Avg words per sentence: 11.99
+Avg characters per sentence: 65.82
+Median words per sentence: 8.00
+Median characters per sentence: 39.00
+
+Title: Predator Satiation
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 170, 'PUNCT': 219, 'PROPN': 21, 'SPACE': 46, 'AUX': 77, 'VERB': 172, 'ADP': 84, 'PRON': 165, 'NUM': 37, 'CCONJ': 51, 'PART': 27, 'ADV': 59, 'ADJ': 55, 'DET': 71, 'SCONJ': 21, 'INTJ': 8}
+Total words: 989
+Total characters: 5459
+Sentence count: 94
+Avg words per sentence: 10.52
+Avg characters per sentence: 58.07
+Median words per sentence: 7.00
+Median characters per sentence: 35.50
+
+Title: The Snows of Kilimanjaro
+Unnecessary words: 55
+Parts of Speech: {'NOUN': 1317, 'PUNCT': 1656, 'DET': 936, 'PROPN': 231, 'ADP': 864, 'SPACE': 704, 'AUX': 697, 'VERB': 1493, 'NUM': 56, 'ADJ': 498, 'CCONJ': 463, 'PART': 305, 'PRON': 1631, 'ADV': 651, 'SCONJ': 288, 'INTJ': 39, 'X': 4}
+Total words: 9259
+Total characters: 47987
+Sentence count: 619
+Avg words per sentence: 14.96
+Avg characters per sentence: 77.52
+Median words per sentence: 10.00
+Median characters per sentence: 41.00
+
+Title: An Alpine Divorce
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 328, 'PUNCT': 307, 'DET': 222, 'PROPN': 66, 'SPACE': 45, 'ADP': 222, 'PRON': 279, 'VERB': 252, 'ADJ': 119, 'SCONJ': 62, 'AUX': 135, 'ADV': 118, 'NUM': 29, 'CCONJ': 81, 'PART': 42, 'INTJ': 4}
+Total words: 1945
+Total characters: 10518
+Sentence count: 102
+Avg words per sentence: 19.07
+Avg characters per sentence: 103.12
+Median words per sentence: 17.00
+Median characters per sentence: 76.50
+
+Title: Indiscretion
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 220, 'PUNCT': 396, 'PROPN': 21, 'SPACE': 78, 'X': 1, 'PRON': 212, 'AUX': 95, 'VERB': 194, 'DET': 118, 'ADJ': 145, 'ADP': 142, 'CCONJ': 49, 'ADV': 74, 'SCONJ': 43, 'PART': 41, 'NUM': 27, 'INTJ': 21}
+Total words: 1374
+Total characters: 7721
+Sentence count: 94
+Avg words per sentence: 14.62
+Avg characters per sentence: 82.14
+Median words per sentence: 12.00
+Median characters per sentence: 55.50
+
+Title: Lamb to the Slaughter
+Unnecessary words: 38
+Parts of Speech: {'NOUN': 512, 'PUNCT': 802, 'PROPN': 97, 'ADP': 378, 'DET': 344, 'SPACE': 133, 'AUX': 233, 'ADJ': 197, 'CCONJ': 148, 'VERB': 552, 'NUM': 32, 'PRON': 623, 'SCONJ': 85, 'PART': 106, 'ADV': 281, 'INTJ': 24}
+Total words: 3496
+Total characters: 18733
+Sentence count: 271
+Avg words per sentence: 12.90
+Avg characters per sentence: 69.13
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: According to Their Lights
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 430, 'PUNCT': 485, 'VERB': 325, 'ADP': 271, 'PRON': 303, 'PROPN': 132, 'SPACE': 63, 'DET': 245, 'ADJ': 138, 'SCONJ': 40, 'AUX': 152, 'ADV': 83, 'CCONJ': 75, 'NUM': 27, 'PART': 39, 'INTJ': 8, 'X': 2}
+Total words: 2211
+Total characters: 12480
+Sentence count: 163
+Avg words per sentence: 13.56
+Avg characters per sentence: 76.56
+Median words per sentence: 10.00
+Median characters per sentence: 45.00
+
+Title: The Celebrated Jumping Frog of Calaveras County
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 403, 'PUNCT': 459, 'DET': 244, 'PROPN': 131, 'ADP': 263, 'SPACE': 214, 'PRON': 413, 'VERB': 391, 'ADV': 171, 'ADJ': 125, 'CCONJ': 199, 'PART': 72, 'SCONJ': 92, 'AUX': 181, 'NUM': 35, 'INTJ': 13, 'X': 1}
+Total words: 2601
+Total characters: 13706
+Sentence count: 73
+Avg words per sentence: 35.63
+Avg characters per sentence: 187.75
+Median words per sentence: 31.00
+Median characters per sentence: 126.00
+
+Title: The Cop and the Anthem
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 517, 'PUNCT': 341, 'DET': 281, 'PROPN': 135, 'CCONJ': 106, 'SPACE': 55, 'ADP': 289, 'PRON': 217, 'VERB': 300, 'ADV': 96, 'SCONJ': 51, 'ADJ': 162, 'AUX': 114, 'PART': 56, 'NUM': 22, 'INTJ': 5}
+Total words: 2310
+Total characters: 13269
+Sentence count: 149
+Avg words per sentence: 15.50
+Avg characters per sentence: 89.05
+Median words per sentence: 13.00
+Median characters per sentence: 60.00
+
+Title: Marjorie Daw
+Unnecessary words: 39
+Parts of Speech: {'NOUN': 1308, 'PUNCT': 1171, 'PROPN': 435, 'SPACE': 104, 'VERB': 856, 'ADP': 897, 'DET': 731, 'NUM': 93, 'PRON': 1152, 'AUX': 563, 'ADJ': 504, 'PART': 218, 'SCONJ': 200, 'CCONJ': 252, 'ADV': 331, 'INTJ': 10, 'X': 7}
+Total words: 7395
+Total characters: 40082
+Sentence count: 502
+Avg words per sentence: 14.73
+Avg characters per sentence: 79.84
+Median words per sentence: 12.00
+Median characters per sentence: 52.50
+
+Title: Von Kempelen and His Discovery
+Unnecessary words: 23
+Parts of Speech: {'NOUN': 513, 'PUNCT': 533, 'PROPN': 129, 'CCONJ': 99, 'PRON': 256, 'SPACE': 18, 'ADP': 408, 'DET': 301, 'ADJ': 217, 'PART': 83, 'VERB': 294, 'ADV': 186, 'AUX': 214, 'SCONJ': 94, 'NUM': 26, 'INTJ': 1}
+Total words: 2791
+Total characters: 15979
+Sentence count: 84
+Avg words per sentence: 33.23
+Avg characters per sentence: 190.23
+Median words per sentence: 31.00
+Median characters per sentence: 137.50
+
+Title: Biblical Proportions
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 89, 'PUNCT': 50, 'PROPN': 18, 'SPACE': 7, 'PRON': 64, 'VERB': 64, 'ADP': 45, 'ADJ': 21, 'AUX': 31, 'PART': 17, 'DET': 38, 'ADV': 24, 'CCONJ': 14, 'SCONJ': 13, 'NUM': 8}
+Total words: 428
+Total characters: 2321
+Sentence count: 24
+Avg words per sentence: 17.83
+Avg characters per sentence: 96.71
+Median words per sentence: 11.00
+Median characters per sentence: 51.00
+
+Title: Sisters
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 1324, 'PUNCT': 1163, 'SPACE': 149, 'PROPN': 285, 'DET': 580, 'PRON': 1366, 'VERB': 1328, 'ADP': 764, 'CCONJ': 332, 'ADV': 347, 'ADJ': 465, 'PART': 290, 'SCONJ': 237, 'AUX': 453, 'NUM': 64, 'INTJ': 8}
+Total words: 7608
+Total characters: 40965
+Sentence count: 643
+Avg words per sentence: 11.83
+Avg characters per sentence: 63.71
+Median words per sentence: 10.00
+Median characters per sentence: 43.00
+
+Title: In the Exclusion Zone
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 376, 'PUNCT': 255, 'ADP': 154, 'DET': 154, 'PROPN': 18, 'SPACE': 21, 'VERB': 256, 'ADJ': 94, 'SCONJ': 33, 'CCONJ': 65, 'PRON': 266, 'AUX': 76, 'ADV': 64, 'PART': 49, 'NUM': 15, 'INTJ': 1}
+Total words: 1582
+Total characters: 8645
+Sentence count: 123
+Avg words per sentence: 12.86
+Avg characters per sentence: 70.28
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: The Sphinx Without a Secret
+Unnecessary words: 19
+Parts of Speech: {'NOUN': 279, 'PUNCT': 513, 'DET': 180, 'PROPN': 93, 'ADP': 232, 'SPACE': 35, 'NUM': 26, 'ADJ': 117, 'VERB': 353, 'CCONJ': 89, 'SCONJ': 45, 'PRON': 411, 'AUX': 141, 'ADV': 137, 'X': 2, 'PART': 63, 'INTJ': 10}
+Total words: 2161
+Total characters: 11310
+Sentence count: 146
+Avg words per sentence: 14.80
+Avg characters per sentence: 77.47
+Median words per sentence: 13.00
+Median characters per sentence: 53.50
+
+Title: Leiningen Versus the Ants
+Unnecessary words: 34
+Parts of Speech: {'NOUN': 1950, 'PUNCT': 1228, 'PROPN': 129, 'DET': 1149, 'SPACE': 567, 'SCONJ': 210, 'PRON': 809, 'VERB': 1174, 'CCONJ': 327, 'AUX': 453, 'ADP': 1126, 'NUM': 68, 'ADJ': 548, 'ADV': 600, 'PART': 220, 'INTJ': 17, 'X': 1}
+Total words: 8688
+Total characters: 49869
+Sentence count: 455
+Avg words per sentence: 19.09
+Avg characters per sentence: 109.60
+Median words per sentence: 17.00
+Median characters per sentence: 81.00
+
+Title: The Doll's House
+Unnecessary words: 20
+Parts of Speech: {'NOUN': 462, 'PUNCT': 593, 'DET': 276, 'PROPN': 175, 'PART': 128, 'SPACE': 68, 'SCONJ': 69, 'ADJ': 194, 'VERB': 424, 'ADV': 175, 'ADP': 305, 'PRON': 354, 'AUX': 164, 'CCONJ': 111, 'NUM': 23, 'INTJ': 15}
+Total words: 2790
+Total characters: 15466
+Sentence count: 240
+Avg words per sentence: 11.62
+Avg characters per sentence: 64.44
+Median words per sentence: 9.00
+Median characters per sentence: 39.50
+
+Title: Why Don’t You Dance?
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 345, 'PUNCT': 471, 'SCONJ': 31, 'AUX': 90, 'PART': 31, 'PRON': 254, 'PROPN': 12, 'SPACE': 150, 'ADP': 163, 'DET': 247, 'VERB': 301, 'CCONJ': 75, 'NUM': 12, 'ADV': 61, 'ADJ': 52, 'INTJ': 2}
+Total words: 1628
+Total characters: 8497
+Sentence count: 192
+Avg words per sentence: 8.48
+Avg characters per sentence: 44.26
+Median words per sentence: 7.00
+Median characters per sentence: 30.00
+
+Title: Ron
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 930, 'PUNCT': 1117, 'PROPN': 185, 'SPACE': 111, 'PRON': 830, 'VERB': 755, 'ADP': 559, 'DET': 446, 'ADJ': 349, 'PART': 111, 'CCONJ': 166, 'ADV': 217, 'AUX': 247, 'SCONJ': 138, 'NUM': 46, 'INTJ': 12}
+Total words: 4869
+Total characters: 27218
+Sentence count: 338
+Avg words per sentence: 14.41
+Avg characters per sentence: 80.53
+Median words per sentence: 11.00
+Median characters per sentence: 53.00
+
+Title: Witches' Loaves
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 269, 'PUNCT': 238, 'PROPN': 69, 'PART': 37, 'SPACE': 47, 'VERB': 170, 'DET': 123, 'ADJ': 96, 'ADP': 127, 'SCONJ': 23, 'PRON': 157, 'ADV': 63, 'NUM': 23, 'CCONJ': 48, 'AUX': 76, 'INTJ': 8}
+Total words: 1270
+Total characters: 6959
+Sentence count: 105
+Avg words per sentence: 12.10
+Avg characters per sentence: 66.28
+Median words per sentence: 10.00
+Median characters per sentence: 46.00
+
+Title: Sea Change
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 175, 'PUNCT': 148, 'PROPN': 23, 'SPACE': 18, 'DET': 92, 'ADV': 44, 'ADJ': 52, 'ADP': 108, 'CCONJ': 19, 'VERB': 131, 'PRON': 105, 'AUX': 29, 'PART': 28, 'SCONJ': 13, 'NUM': 2}
+Total words: 795
+Total characters: 4374
+Sentence count: 58
+Avg words per sentence: 13.71
+Avg characters per sentence: 75.41
+Median words per sentence: 11.50
+Median characters per sentence: 50.50
+
+Title: Pity and Shame
+Unnecessary words: 53
+Parts of Speech: {'NOUN': 1683, 'PUNCT': 2133, 'PROPN': 554, 'CCONJ': 513, 'SPACE': 300, 'ADJ': 669, 'X': 2, 'ADP': 1275, 'DET': 949, 'NUM': 109, 'VERB': 1859, 'PRON': 1980, 'AUX': 817, 'SCONJ': 279, 'PART': 402, 'ADV': 622, 'INTJ': 28}
+Total words: 11294
+Total characters: 59971
+Sentence count: 895
+Avg words per sentence: 12.62
+Avg characters per sentence: 67.01
+Median words per sentence: 10.00
+Median characters per sentence: 43.00
+
+Title: The Bet
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 620, 'PUNCT': 449, 'DET': 331, 'PROPN': 28, 'SPACE': 43, 'PRON': 344, 'AUX': 187, 'ADJ': 194, 'VERB': 368, 'ADP': 339, 'CCONJ': 154, 'SCONJ': 48, 'NUM': 57, 'ADV': 123, 'PART': 72, 'INTJ': 4}
+Total words: 2840
+Total characters: 15535
+Sentence count: 158
+Avg words per sentence: 17.97
+Avg characters per sentence: 98.32
+Median words per sentence: 16.00
+Median characters per sentence: 77.00
+
+Title: Italian with Grammar
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 468, 'PUNCT': 577, 'ADJ': 204, 'ADP': 267, 'PROPN': 115, 'SPACE': 81, 'SCONJ': 52, 'DET': 294, 'AUX': 185, 'VERB': 325, 'CCONJ': 160, 'PRON': 316, 'ADV': 112, 'PART': 83, 'NUM': 39, 'INTJ': 4, 'X': 2}
+Total words: 2589
+Total characters: 14353
+Sentence count: 128
+Avg words per sentence: 20.23
+Avg characters per sentence: 112.13
+Median words per sentence: 11.50
+Median characters per sentence: 54.50
+
+Title: The Yellow Wallpaper
+Unnecessary words: 69
+Parts of Speech: {'NOUN': 862, 'PUNCT': 941, 'DET': 524, 'PROPN': 88, 'SPACE': 268, 'VERB': 912, 'PRON': 998, 'AUX': 453, 'ADV': 545, 'SCONJ': 189, 'ADJ': 469, 'ADP': 564, 'CCONJ': 375, 'PART': 220, 'NUM': 40, 'X': 1, 'INTJ': 2}
+Total words: 6146
+Total characters: 31506
+Sentence count: 389
+Avg words per sentence: 15.80
+Avg characters per sentence: 80.99
+Median words per sentence: 14.00
+Median characters per sentence: 56.00
+
+Title: The Affair at Coulter's Notch
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 736, 'PUNCT': 604, 'DET': 460, 'PROPN': 91, 'ADP': 426, 'PART': 100, 'SPACE': 61, 'AUX': 201, 'PRON': 316, 'VERB': 407, 'SCONJ': 54, 'ADJ': 233, 'NUM': 31, 'ADV': 170, 'CCONJ': 106, 'INTJ': 8}
+Total words: 3293
+Total characters: 18863
+Sentence count: 177
+Avg words per sentence: 18.60
+Avg characters per sentence: 106.57
+Median words per sentence: 15.00
+Median characters per sentence: 73.00
+
+Title: The Yarkand Manner
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 378, 'PUNCT': 271, 'DET': 237, 'PROPN': 106, 'SPACE': 21, 'AUX': 95, 'VERB': 185, 'ADJ': 178, 'ADP': 231, 'PART': 37, 'PRON': 110, 'ADV': 86, 'CCONJ': 79, 'NUM': 18, 'SCONJ': 21, 'INTJ': 2}
+Total words: 1742
+Total characters: 10548
+Sentence count: 66
+Avg words per sentence: 26.39
+Avg characters per sentence: 159.82
+Median words per sentence: 22.50
+Median characters per sentence: 119.00
+
+Title: What You Want
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 406, 'PUNCT': 358, 'PRON': 274, 'VERB': 286, 'SPACE': 171, 'PROPN': 123, 'AUX': 109, 'ADP': 222, 'DET': 175, 'ADJ': 139, 'CCONJ': 102, 'PART': 59, 'ADV': 68, 'NUM': 44, 'SCONJ': 47, 'SYM': 8, 'INTJ': 3}
+Total words: 1986
+Total characters: 11009
+Sentence count: 112
+Avg words per sentence: 17.73
+Avg characters per sentence: 98.29
+Median words per sentence: 16.00
+Median characters per sentence: 72.00
+
+Title: The Black Cat
+Unnecessary words: 22
+Parts of Speech: {'NOUN': 754, 'PUNCT': 650, 'DET': 428, 'PROPN': 50, 'SPACE': 31, 'ADP': 516, 'ADV': 238, 'ADJ': 277, 'CCONJ': 158, 'PRON': 521, 'AUX': 215, 'PART': 97, 'VERB': 465, 'SCONJ': 100, 'NUM': 24, 'INTJ': 4, 'X': 2}
+Total words: 3837
+Total characters: 21694
+Sentence count: 190
+Avg words per sentence: 20.19
+Avg characters per sentence: 114.18
+Median words per sentence: 16.00
+Median characters per sentence: 77.50
+
+Title: Hunters in the Snow
+Unnecessary words: 46
+Parts of Speech: {'NOUN': 853, 'PUNCT': 1516, 'ADP': 582, 'DET': 530, 'PROPN': 346, 'SPACE': 588, 'AUX': 355, 'VERB': 993, 'PRON': 856, 'PART': 165, 'ADJ': 219, 'CCONJ': 209, 'SCONJ': 93, 'NUM': 33, 'ADV': 355, 'INTJ': 26}
+Total words: 5412
+Total characters: 29012
+Sentence count: 630
+Avg words per sentence: 8.59
+Avg characters per sentence: 46.05
+Median words per sentence: 7.00
+Median characters per sentence: 32.00
+
+Title: All Summer in a Day
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 366, 'PUNCT': 451, 'DET': 222, 'PROPN': 25, 'ADP': 218, 'SPACE': 167, 'ADJ': 92, 'ADV': 112, 'AUX': 119, 'VERB': 305, 'PRON': 285, 'NUM': 19, 'SCONJ': 39, 'CCONJ': 130, 'PART': 28, 'INTJ': 17}
+Total words: 1946
+Total characters: 10638
+Sentence count: 143
+Avg words per sentence: 13.61
+Avg characters per sentence: 74.39
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: Glass People
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 108, 'PUNCT': 114, 'PROPN': 18, 'SPACE': 23, 'VERB': 103, 'DET': 44, 'ADP': 38, 'PRON': 94, 'PART': 16, 'ADJ': 26, 'ADV': 20, 'AUX': 29, 'CCONJ': 13, 'SCONJ': 15, 'INTJ': 1, 'NUM': 1}
+Total words: 502
+Total characters: 2833
+Sentence count: 50
+Avg words per sentence: 10.04
+Avg characters per sentence: 56.66
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: Pigs Is Pigs
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 690, 'PUNCT': 760, 'PROPN': 304, 'AUX': 220, 'SPACE': 84, 'DET': 345, 'ADP': 361, 'VERB': 486, 'ADJ': 189, 'CCONJ': 115, 'PRON': 367, 'ADV': 146, 'NUM': 105, 'SCONJ': 71, 'PART': 89, 'INTJ': 8, 'X': 4}
+Total words: 3401
+Total characters: 19349
+Sentence count: 261
+Avg words per sentence: 13.03
+Avg characters per sentence: 74.13
+Median words per sentence: 10.00
+Median characters per sentence: 49.00
+
+Title: The Wedding-Knell
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 708, 'PUNCT': 551, 'DET': 413, 'PROPN': 47, 'SPACE': 32, 'PRON': 340, 'VERB': 366, 'ADJ': 296, 'ADP': 431, 'AUX': 174, 'ADV': 136, 'PART': 75, 'CCONJ': 132, 'SCONJ': 88, 'NUM': 14, 'INTJ': 3}
+Total words: 3201
+Total characters: 18220
+Sentence count: 128
+Avg words per sentence: 25.01
+Avg characters per sentence: 142.34
+Median words per sentence: 22.00
+Median characters per sentence: 99.00
+
+Title: Unknown Title
+Unnecessary words: 23
+Parts of Speech: {'DET': 1180, 'NOUN': 1742, 'VERB': 1097, 'ADP': 1163, 'PUNCT': 1031, 'NUM': 41, 'SPACE': 679, 'PROPN': 182, 'CCONJ': 256, 'AUX': 362, 'PRON': 857, 'SCONJ': 131, 'PART': 142, 'ADV': 373, 'ADJ': 532, 'INTJ': 4}
+Total words: 8042
+Total characters: 42060
+Sentence count: 627
+Avg words per sentence: 12.83
+Avg characters per sentence: 67.08
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: Hands
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 491, 'PUNCT': 270, 'PROPN': 123, 'SPACE': 26, 'SCONJ': 41, 'DET': 285, 'VERB': 329, 'ADP': 353, 'ADJ': 130, 'PRON': 251, 'ADV': 94, 'CCONJ': 94, 'AUX': 110, 'PART': 55, 'NUM': 21, 'INTJ': 1, 'X': 1}
+Total words: 2364
+Total characters: 12908
+Sentence count: 130
+Avg words per sentence: 18.18
+Avg characters per sentence: 99.29
+Median words per sentence: 14.50
+Median characters per sentence: 67.00
+
+Title: The Monk Dilemma
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 172, 'PUNCT': 154, 'DET': 80, 'PROPN': 41, 'SPACE': 24, 'PRON': 145, 'VERB': 159, 'ADV': 46, 'ADJ': 49, 'AUX': 47, 'CCONJ': 33, 'SCONJ': 24, 'PART': 24, 'ADP': 81, 'NUM': 5, 'INTJ': 2}
+Total words: 877
+Total characters: 4741
+Sentence count: 71
+Avg words per sentence: 12.35
+Avg characters per sentence: 66.77
+Median words per sentence: 11.00
+Median characters per sentence: 48.00
+
+Title: Haircut
+Unnecessary words: 28
+Parts of Speech: {'NOUN': 671, 'PUNCT': 613, 'PROPN': 368, 'SPACE': 84, 'VERB': 654, 'DET': 364, 'PRON': 810, 'ADP': 471, 'CCONJ': 280, 'AUX': 427, 'ADV': 320, 'SCONJ': 142, 'PART': 229, 'ADJ': 234, 'NUM': 29, 'INTJ': 34, 'X': 1}
+Total words: 4769
+Total characters: 24151
+Sentence count: 278
+Avg words per sentence: 17.15
+Avg characters per sentence: 86.87
+Median words per sentence: 15.00
+Median characters per sentence: 62.50
+
+Title: Transients in Arcadia
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 408, 'PUNCT': 300, 'ADP': 277, 'PROPN': 154, 'SPACE': 37, 'PRON': 223, 'VERB': 243, 'DET': 247, 'AUX': 113, 'ADJ': 156, 'CCONJ': 83, 'ADV': 73, 'PART': 41, 'NUM': 27, 'SCONJ': 47, 'INTJ': 2, 'SYM': 2}
+Total words: 2042
+Total characters: 11576
+Sentence count: 113
+Avg words per sentence: 18.07
+Avg characters per sentence: 102.44
+Median words per sentence: 16.00
+Median characters per sentence: 75.00
+
+Title: The Diary of a Madman
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 348, 'PUNCT': 381, 'DET': 186, 'PROPN': 47, 'ADP': 174, 'SPACE': 47, 'X': 1, 'PRON': 273, 'AUX': 139, 'ADJ': 116, 'VERB': 260, 'NUM': 13, 'ADV': 74, 'CCONJ': 49, 'SCONJ': 33, 'PART': 53, 'INTJ': 26}
+Total words: 1758
+Total characters: 9550
+Sentence count: 184
+Avg words per sentence: 9.55
+Avg characters per sentence: 51.90
+Median words per sentence: 7.00
+Median characters per sentence: 31.50
+
+Title: Hearts And Hands
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 148, 'PUNCT': 216, 'PROPN': 44, 'CCONJ': 27, 'SPACE': 25, 'ADP': 91, 'PRON': 119, 'VERB': 137, 'DET': 98, 'NUM': 12, 'ADV': 57, 'ADJ': 72, 'AUX': 58, 'SCONJ': 14, 'PART': 32, 'INTJ': 6}
+Total words: 872
+Total characters: 4954
+Sentence count: 68
+Avg words per sentence: 12.82
+Avg characters per sentence: 72.85
+Median words per sentence: 11.00
+Median characters per sentence: 46.50
+
+Title: It’s Only Been Me, All This Time
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 148, 'PUNCT': 199, 'PRON': 194, 'AUX': 73, 'ADV': 77, 'DET': 78, 'PROPN': 29, 'SPACE': 26, 'VERB': 148, 'ADJ': 33, 'ADP': 112, 'NUM': 11, 'SCONJ': 15, 'PART': 30, 'CCONJ': 44, 'INTJ': 6, 'SYM': 1}
+Total words: 966
+Total characters: 4952
+Sentence count: 95
+Avg words per sentence: 10.17
+Avg characters per sentence: 52.13
+Median words per sentence: 8.00
+Median characters per sentence: 38.00
+
+Title: Theodule Sabot's Confession
+Unnecessary words: 19
+Parts of Speech: {'NOUN': 425, 'PUNCT': 695, 'PROPN': 133, 'PART': 113, 'SPACE': 130, 'X': 3, 'SCONJ': 73, 'VERB': 406, 'DET': 264, 'ADP': 277, 'PRON': 403, 'AUX': 212, 'INTJ': 40, 'ADJ': 149, 'CCONJ': 83, 'ADV': 157, 'NUM': 39}
+Total words: 2754
+Total characters: 14798
+Sentence count: 210
+Avg words per sentence: 13.11
+Avg characters per sentence: 70.47
+Median words per sentence: 11.00
+Median characters per sentence: 49.00
+
+Title: Regarding Lichen
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 180, 'PUNCT': 118, 'VERB': 99, 'PROPN': 13, 'SPACE': 18, 'PRON': 39, 'AUX': 42, 'DET': 83, 'ADP': 105, 'ADJ': 57, 'CCONJ': 16, 'ADV': 22, 'NUM': 9, 'SCONJ': 14, 'PART': 12}
+Total words: 690
+Total characters: 4210
+Sentence count: 39
+Avg words per sentence: 17.69
+Avg characters per sentence: 107.95
+Median words per sentence: 16.00
+Median characters per sentence: 79.00
+
+Title: The Coming of the King
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 114, 'PUNCT': 157, 'DET': 78, 'ADP': 71, 'PROPN': 27, 'SPACE': 27, 'AUX': 31, 'PRON': 87, 'NUM': 10, 'SCONJ': 14, 'VERB': 99, 'CCONJ': 47, 'ADV': 24, 'ADJ': 46, 'PART': 11, 'INTJ': 2}
+Total words: 655
+Total characters: 3446
+Sentence count: 42
+Avg words per sentence: 15.60
+Avg characters per sentence: 82.05
+Median words per sentence: 9.50
+Median characters per sentence: 44.50
+
+Title: The Wreck
+Unnecessary words: 27
+Parts of Speech: {'NOUN': 704, 'PUNCT': 780, 'DET': 464, 'PROPN': 111, 'SPACE': 107, 'X': 2, 'PRON': 570, 'AUX': 234, 'ADP': 482, 'ADV': 228, 'VERB': 557, 'ADJ': 315, 'SCONJ': 85, 'CCONJ': 148, 'PART': 94, 'NUM': 52, 'INTJ': 20}
+Total words: 4041
+Total characters: 21933
+Sentence count: 244
+Avg words per sentence: 16.56
+Avg characters per sentence: 89.89
+Median words per sentence: 13.00
+Median characters per sentence: 56.00
+
+Title: Swamps
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 287, 'PUNCT': 200, 'PROPN': 22, 'SPACE': 40, 'PRON': 162, 'ADP': 165, 'DET': 163, 'ADJ': 78, 'VERB': 168, 'NUM': 8, 'PART': 23, 'SCONJ': 26, 'AUX': 50, 'ADV': 43, 'CCONJ': 47, 'INTJ': 2}
+Total words: 1215
+Total characters: 6761
+Sentence count: 68
+Avg words per sentence: 17.87
+Avg characters per sentence: 99.43
+Median words per sentence: 17.00
+Median characters per sentence: 70.50
+
+Title: The Bug Man
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 52, 'PUNCT': 67, 'DET': 20, 'PROPN': 22, 'SPACE': 14, 'ADV': 13, 'VERB': 51, 'SCONJ': 11, 'PRON': 47, 'AUX': 12, 'ADJ': 21, 'ADP': 35, 'CCONJ': 4, 'NUM': 2, 'PART': 5}
+Total words: 292
+Total characters: 1633
+Sentence count: 26
+Avg words per sentence: 11.23
+Avg characters per sentence: 62.81
+Median words per sentence: 10.00
+Median characters per sentence: 48.00
+
+Title: Shooting an Elephant
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 557, 'PUNCT': 390, 'VERB': 467, 'DET': 361, 'PROPN': 39, 'SPACE': 16, 'ADP': 345, 'PRON': 440, 'AUX': 243, 'ADJ': 241, 'ADV': 198, 'SCONJ': 99, 'PART': 114, 'CCONJ': 128, 'NUM': 29, 'INTJ': 3}
+Total words: 3245
+Total characters: 17218
+Sentence count: 165
+Avg words per sentence: 19.67
+Avg characters per sentence: 104.35
+Median words per sentence: 19.00
+Median characters per sentence: 82.00
+
+Title: The Baron of Grogzwig
+Unnecessary words: 29
+Parts of Speech: {'NOUN': 679, 'PUNCT': 803, 'DET': 429, 'PROPN': 121, 'ADP': 384, 'SPACE': 155, 'AUX': 177, 'ADV': 207, 'ADJ': 253, 'SCONJ': 114, 'PRON': 390, 'VERB': 479, 'PART': 79, 'CCONJ': 186, 'NUM': 52, 'INTJ': 10}
+Total words: 3508
+Total characters: 19949
+Sentence count: 154
+Avg words per sentence: 22.78
+Avg characters per sentence: 129.54
+Median words per sentence: 14.00
+Median characters per sentence: 69.00
+
+Title: Princess Mary
+Unnecessary words: 204
+Parts of Speech: {'NOUN': 4639, 'PUNCT': 5787, 'PROPN': 723, 'SPACE': 2883, 'NUM': 186, 'PRON': 4853, 'VERB': 4138, 'ADP': 3000, 'CCONJ': 1049, 'DET': 2546, 'AUX': 2028, 'ADJ': 1818, 'ADV': 1670, 'SCONJ': 726, 'PART': 864, 'INTJ': 82, 'X': 4}
+Total words: 28050
+Total characters: 154874
+Sentence count: 1890
+Avg words per sentence: 14.84
+Avg characters per sentence: 81.94
+Median words per sentence: 12.00
+Median characters per sentence: 54.00
+
+Title: The Spoils
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 222, 'PUNCT': 328, 'DET': 105, 'PROPN': 51, 'SPACE': 55, 'ADV': 36, 'VERB': 165, 'PRON': 165, 'ADP': 90, 'ADJ': 57, 'AUX': 56, 'PART': 29, 'INTJ': 7, 'CCONJ': 17, 'SCONJ': 13, 'NUM': 3}
+Total words: 984
+Total characters: 5698
+Sentence count: 124
+Avg words per sentence: 7.94
+Avg characters per sentence: 45.95
+Median words per sentence: 7.00
+Median characters per sentence: 35.50
+
+Title: Young Goodman Brown
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 1073, 'PUNCT': 991, 'PROPN': 232, 'SPACE': 480, 'VERB': 645, 'ADV': 312, 'ADP': 646, 'DET': 590, 'CCONJ': 268, 'PRON': 551, 'PART': 95, 'ADJ': 412, 'SCONJ': 151, 'AUX': 279, 'NUM': 25, 'INTJ': 16, 'X': 1}
+Total words: 5264
+Total characters: 29270
+Sentence count: 231
+Avg words per sentence: 22.79
+Avg characters per sentence: 126.71
+Median words per sentence: 20.00
+Median characters per sentence: 90.00
+
+Title: The Superstition of Albatross
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 532, 'PUNCT': 427, 'DET': 297, 'PROPN': 62, 'ADP': 401, 'SPACE': 92, 'PRON': 602, 'AUX': 188, 'VERB': 576, 'CCONJ': 119, 'ADV': 215, 'SCONJ': 97, 'ADJ': 139, 'PART': 114, 'NUM': 25, 'INTJ': 3}
+Total words: 3244
+Total characters: 17163
+Sentence count: 233
+Avg words per sentence: 13.92
+Avg characters per sentence: 73.66
+Median words per sentence: 10.00
+Median characters per sentence: 43.00
+
+Title: Berenice
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 665, 'PUNCT': 593, 'PROPN': 80, 'SPACE': 25, 'AUX': 144, 'ADJ': 290, 'DET': 377, 'ADP': 465, 'VERB': 315, 'PRON': 343, 'ADV': 190, 'CCONJ': 195, 'SCONJ': 77, 'PART': 60, 'NUM': 7, 'INTJ': 9, 'X': 3}
+Total words: 3213
+Total characters: 18544
+Sentence count: 135
+Avg words per sentence: 23.80
+Avg characters per sentence: 137.36
+Median words per sentence: 18.00
+Median characters per sentence: 77.00
+
+Title: Whatever Remains
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 138, 'PUNCT': 93, 'PRON': 73, 'VERB': 95, 'SPACE': 8, 'PROPN': 18, 'AUX': 21, 'ADV': 27, 'ADP': 70, 'DET': 68, 'ADJ': 41, 'CCONJ': 25, 'NUM': 5, 'SCONJ': 15, 'PART': 9}
+Total words: 599
+Total characters: 3263
+Sentence count: 41
+Avg words per sentence: 14.61
+Avg characters per sentence: 79.59
+Median words per sentence: 13.00
+Median characters per sentence: 56.00
+
+Title: Madame Parisse
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 424, 'PUNCT': 410, 'PROPN': 115, 'SPACE': 80, 'X': 4, 'VERB': 317, 'ADP': 318, 'DET': 289, 'ADJ': 193, 'PRON': 278, 'AUX': 111, 'ADV': 114, 'CCONJ': 92, 'NUM': 37, 'SCONJ': 49, 'PART': 48, 'INTJ': 3}
+Total words: 2374
+Total characters: 13416
+Sentence count: 116
+Avg words per sentence: 20.47
+Avg characters per sentence: 115.66
+Median words per sentence: 18.00
+Median characters per sentence: 84.00
+
+Title: Gooseberries
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 768, 'PUNCT': 750, 'PROPN': 114, 'SPACE': 299, 'ADP': 455, 'ADJ': 256, 'DET': 404, 'AUX': 222, 'ADV': 200, 'CCONJ': 292, 'SCONJ': 85, 'VERB': 567, 'PRON': 479, 'PART': 104, 'NUM': 36, 'INTJ': 8, 'X': 2}
+Total words: 3924
+Total characters: 21388
+Sentence count: 213
+Avg words per sentence: 18.42
+Avg characters per sentence: 100.41
+Median words per sentence: 15.00
+Median characters per sentence: 68.00
+
+Title: A Retrieved Reformation
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 539, 'PUNCT': 593, 'DET': 306, 'PROPN': 242, 'SPACE': 66, 'PRON': 332, 'VERB': 404, 'ADP': 357, 'SCONJ': 45, 'AUX': 156, 'ADV': 128, 'CCONJ': 106, 'ADJ': 187, 'NUM': 45, 'PART': 90, 'INTJ': 9}
+Total words: 2834
+Total characters: 15778
+Sentence count: 213
+Avg words per sentence: 13.31
+Avg characters per sentence: 74.08
+Median words per sentence: 12.00
+Median characters per sentence: 51.00
+
+Title: The Salesman
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 118, 'PUNCT': 72, 'DET': 56, 'PROPN': 4, 'SPACE': 6, 'PRON': 54, 'VERB': 66, 'PART': 13, 'ADJ': 31, 'SCONJ': 15, 'ADV': 34, 'NUM': 2, 'AUX': 22, 'ADP': 57, 'CCONJ': 23, 'INTJ': 1}
+Total words: 489
+Total characters: 2676
+Sentence count: 23
+Avg words per sentence: 21.26
+Avg characters per sentence: 116.35
+Median words per sentence: 22.00
+Median characters per sentence: 96.00
+
+Title: Fantasy
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 175, 'PUNCT': 123, 'PROPN': 39, 'SPACE': 19, 'DET': 81, 'AUX': 43, 'ADJ': 44, 'SCONJ': 14, 'ADP': 79, 'ADV': 19, 'PART': 14, 'VERB': 102, 'PRON': 124, 'CCONJ': 19, 'NUM': 4}
+Total words: 734
+Total characters: 3961
+Sentence count: 79
+Avg words per sentence: 9.29
+Avg characters per sentence: 50.14
+Median words per sentence: 8.00
+Median characters per sentence: 39.00
+
+Title: African Violets
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 23, 'PUNCT': 35, 'ADJ': 13, 'PROPN': 4, 'SPACE': 8, 'PRON': 27, 'AUX': 12, 'VERB': 20, 'DET': 13, 'ADV': 8, 'ADP': 14, 'SCONJ': 2, 'CCONJ': 2, 'PART': 3}
+Total words: 136
+Total characters: 759
+Sentence count: 14
+Avg words per sentence: 9.71
+Avg characters per sentence: 54.21
+Median words per sentence: 8.50
+Median characters per sentence: 40.50
+
+Title: The Door in the Wall
+Unnecessary words: 60
+Parts of Speech: {'NOUN': 1137, 'PUNCT': 1242, 'DET': 628, 'PROPN': 142, 'ADP': 779, 'SPACE': 402, 'NUM': 59, 'ADJ': 517, 'PART': 160, 'ADV': 424, 'VERB': 911, 'PRON': 1134, 'CCONJ': 332, 'SCONJ': 157, 'AUX': 397, 'INTJ': 31, 'X': 5}
+Total words: 6718
+Total characters: 36332
+Sentence count: 407
+Avg words per sentence: 16.51
+Avg characters per sentence: 89.27
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
+
+Title: Araby
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 472, 'PUNCT': 313, 'PROPN': 46, 'SPACE': 160, 'AUX': 114, 'ADJ': 142, 'DET': 271, 'SCONJ': 65, 'ADP': 307, 'PART': 62, 'VERB': 341, 'NUM': 19, 'PRON': 363, 'ADV': 73, 'CCONJ': 84, 'INTJ': 11}
+Total words: 2347
+Total characters: 12305
+Sentence count: 143
+Avg words per sentence: 16.41
+Avg characters per sentence: 86.05
+Median words per sentence: 15.00
+Median characters per sentence: 63.00
+
+Title: A School Story
+Unnecessary words: 34
+Parts of Speech: {'NOUN': 337, 'PUNCT': 512, 'PROPN': 69, 'SPACE': 27, 'NUM': 29, 'ADP': 271, 'DET': 200, 'AUX': 176, 'VERB': 399, 'PRON': 495, 'ADJ': 164, 'PART': 80, 'INTJ': 15, 'ADV': 179, 'SCONJ': 69, 'CCONJ': 131, 'X': 1}
+Total words: 2555
+Total characters: 13228
+Sentence count: 139
+Avg words per sentence: 18.38
+Avg characters per sentence: 95.17
+Median words per sentence: 15.00
+Median characters per sentence: 63.00
+
+Title: Christmas Alligator
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 168, 'PUNCT': 191, 'PROPN': 50, 'SPACE': 20, 'PRON': 167, 'AUX': 94, 'ADP': 109, 'ADJ': 52, 'DET': 82, 'VERB': 169, 'SCONJ': 34, 'ADV': 53, 'CCONJ': 32, 'PART': 38, 'NUM': 5, 'SYM': 1, 'INTJ': 1}
+Total words: 1004
+Total characters: 5601
+Sentence count: 70
+Avg words per sentence: 14.34
+Avg characters per sentence: 80.01
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
+
+Title: Sredni Vashtar
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 362, 'PUNCT': 264, 'PROPN': 91, 'SPACE': 23, 'AUX': 115, 'NUM': 21, 'ADJ': 143, 'CCONJ': 92, 'DET': 206, 'VERB': 216, 'PRON': 191, 'SCONJ': 43, 'PART': 37, 'ADP': 224, 'ADV': 91}
+Total words: 1818
+Total characters: 10288
+Sentence count: 80
+Avg words per sentence: 22.73
+Avg characters per sentence: 128.60
+Median words per sentence: 20.50
+Median characters per sentence: 91.50
+
+Title: Where Are You Going, Where Have You Been?
+Unnecessary words: 37
+Parts of Speech: {'NOUN': 1049, 'PUNCT': 1382, 'SCONJ': 214, 'AUX': 509, 'PRON': 1251, 'VERB': 1083, 'SPACE': 539, 'PROPN': 241, 'NUM': 47, 'CCONJ': 348, 'DET': 539, 'ADJ': 412, 'ADP': 717, 'PART': 265, 'ADV': 454, 'INTJ': 27}
+Total words: 6914
+Total characters: 36706
+Sentence count: 454
+Avg words per sentence: 15.23
+Avg characters per sentence: 80.85
+Median words per sentence: 10.00
+Median characters per sentence: 45.00
+
+Title: The Sniper
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 372, 'PUNCT': 207, 'DET': 249, 'PROPN': 15, 'SPACE': 149, 'ADJ': 73, 'VERB': 241, 'ADP': 208, 'CCONJ': 53, 'PRON': 192, 'NUM': 4, 'ADV': 76, 'AUX': 61, 'SCONJ': 14, 'PART': 25}
+Total words: 1572
+Total characters: 8489
+Sentence count: 138
+Avg words per sentence: 11.39
+Avg characters per sentence: 61.51
+Median words per sentence: 10.00
+Median characters per sentence: 44.50
+
+Title: Springtime a la Carte
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 513, 'PUNCT': 331, 'PROPN': 150, 'SPACE': 56, 'PRON': 207, 'AUX': 121, 'DET': 270, 'ADP': 267, 'ADV': 89, 'VERB': 286, 'SCONJ': 49, 'NUM': 25, 'ADJ': 171, 'CCONJ': 99, 'PART': 67, 'INTJ': 5}
+Total words: 2268
+Total characters: 12808
+Sentence count: 130
+Avg words per sentence: 17.45
+Avg characters per sentence: 98.52
+Median words per sentence: 15.00
+Median characters per sentence: 65.00
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker)
+Unnecessary words: 27
+Parts of Speech: {'NOUN': 1398, 'PUNCT': 1181, 'PROPN': 295, 'DET': 764, 'ADJ': 563, 'ADP': 889, 'SPACE': 68, 'VERB': 815, 'PRON': 789, 'AUX': 363, 'ADV': 334, 'CCONJ': 325, 'PART': 141, 'SCONJ': 149, 'NUM': 36, 'INTJ': 8}
+Total words: 6815
+Total characters: 38046
+Sentence count: 240
+Avg words per sentence: 28.40
+Avg characters per sentence: 158.53
+Median words per sentence: 26.00
+Median characters per sentence: 114.50
+
+Title: Goodbye, My Brother
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 1675, 'PUNCT': 1510, 'PROPN': 399, 'PRON': 1412, 'SPACE': 86, 'AUX': 679, 'DET': 984, 'ADV': 393, 'ADJ': 489, 'ADP': 1039, 'CCONJ': 547, 'SCONJ': 336, 'VERB': 1397, 'PART': 297, 'NUM': 74, 'INTJ': 7}
+Total words: 9581
+Total characters: 50872
+Sentence count: 532
+Avg words per sentence: 18.01
+Avg characters per sentence: 95.62
+Median words per sentence: 14.00
+Median characters per sentence: 62.00
+
+Title: Clouds Eat Blue Sky
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 148, 'PUNCT': 146, 'VERB': 124, 'PROPN': 52, 'SPACE': 14, 'PART': 22, 'ADV': 39, 'ADP': 77, 'NUM': 10, 'DET': 53, 'ADJ': 70, 'PRON': 122, 'AUX': 43, 'SCONJ': 8, 'CCONJ': 19, 'INTJ': 3}
+Total words: 757
+Total characters: 4198
+Sentence count: 61
+Avg words per sentence: 12.41
+Avg characters per sentence: 68.82
+Median words per sentence: 10.00
+Median characters per sentence: 47.00
+
+Title: A True Story, Repeated Word for Word As I Heard It
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 393, 'PUNCT': 726, 'PROPN': 246, 'ADP': 189, 'SCONJ': 47, 'PRON': 388, 'VERB': 279, 'SPACE': 21, 'AUX': 140, 'CCONJ': 37, 'DET': 167, 'ADV': 101, 'ADJ': 117, 'NUM': 23, 'PART': 90, 'X': 33, 'INTJ': 22}
+Total words: 2080
+Total characters: 10655
+Sentence count: 115
+Avg words per sentence: 18.09
+Avg characters per sentence: 92.65
+Median words per sentence: 15.00
+Median characters per sentence: 59.00
+
+Title: I Have Her Memories Now
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 1057, 'PUNCT': 911, 'PRON': 739, 'VERB': 801, 'PROPN': 198, 'ADV': 210, 'SPACE': 95, 'PART': 136, 'ADP': 570, 'DET': 439, 'ADJ': 258, 'AUX': 214, 'NUM': 66, 'CCONJ': 211, 'SCONJ': 114, 'SYM': 1, 'INTJ': 16}
+Total words: 4892
+Total characters: 26812
+Sentence count: 391
+Avg words per sentence: 12.51
+Avg characters per sentence: 68.57
+Median words per sentence: 11.00
+Median characters per sentence: 51.00
+
+Title: The Christening
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 296, 'PUNCT': 329, 'DET': 180, 'PROPN': 29, 'SPACE': 43, 'X': 1, 'INTJ': 7, 'ADJ': 124, 'ADP': 177, 'PART': 48, 'VERB': 253, 'PRON': 238, 'SCONJ': 40, 'ADV': 82, 'CCONJ': 77, 'AUX': 99, 'NUM': 18}
+Total words: 1654
+Total characters: 8868
+Sentence count: 107
+Avg words per sentence: 15.46
+Avg characters per sentence: 82.88
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
+
+Title: How To Breathe Without Thinking About It
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 116, 'PUNCT': 127, 'SCONJ': 36, 'PART': 24, 'VERB': 136, 'ADP': 67, 'PRON': 193, 'SPACE': 10, 'PROPN': 17, 'AUX': 81, 'ADJ': 51, 'DET': 60, 'ADV': 63, 'CCONJ': 38, 'NUM': 2, 'INTJ': 6}
+Total words: 865
+Total characters: 4388
+Sentence count: 67
+Avg words per sentence: 12.91
+Avg characters per sentence: 65.49
+Median words per sentence: 11.00
+Median characters per sentence: 46.00
+
+Title: Gusev
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 945, 'PUNCT': 1283, 'PROPN': 191, 'SPACE': 374, 'PRON': 761, 'AUX': 375, 'VERB': 789, 'ADJ': 332, 'ADV': 273, 'DET': 546, 'ADP': 602, 'CCONJ': 275, 'SCONJ': 105, 'PART': 159, 'NUM': 66, 'INTJ': 26}
+Total words: 5354
+Total characters: 29094
+Sentence count: 346
+Avg words per sentence: 15.47
+Avg characters per sentence: 84.09
+Median words per sentence: 12.00
+Median characters per sentence: 54.00
+
+Title: Was it Heaven? Or Hell?
+Unnecessary words: 21
+Parts of Speech: {'NOUN': 1165, 'PUNCT': 1543, 'AUX': 480, 'PRON': 1123, 'PROPN': 193, 'CCONJ': 392, 'SPACE': 505, 'VERB': 1040, 'ADV': 333, 'DET': 659, 'ADP': 612, 'NUM': 55, 'ADJ': 483, 'PART': 217, 'SCONJ': 177, 'INTJ': 40}
+Total words: 6880
+Total characters: 37882
+Sentence count: 425
+Avg words per sentence: 16.19
+Avg characters per sentence: 89.13
+Median words per sentence: 12.00
+Median characters per sentence: 54.00
+
+Title: A Respectable Woman
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 240, 'PUNCT': 244, 'DET': 120, 'ADJ': 95, 'PROPN': 45, 'SPACE': 38, 'AUX': 97, 'VERB': 210, 'PART': 56, 'SCONJ': 41, 'PRON': 257, 'ADV': 99, 'CCONJ': 60, 'NUM': 5, 'ADP': 150, 'INTJ': 2}
+Total words: 1456
+Total characters: 8099
+Sentence count: 88
 Avg words per sentence: 16.55
-Avg characters per sentence: 88.73
+Avg characters per sentence: 92.03
+Median words per sentence: 15.00
+Median characters per sentence: 67.50
+
+Title: Two Friends
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 451, 'PUNCT': 492, 'NUM': 29, 'SPACE': 125, 'PROPN': 124, 'X': 2, 'AUX': 106, 'ADP': 254, 'DET': 265, 'ADV': 124, 'CCONJ': 87, 'VERB': 329, 'ADJ': 154, 'PRON': 235, 'SCONJ': 30, 'PART': 40, 'INTJ': 1}
+Total words: 2214
+Total characters: 13019
+Sentence count: 153
+Avg words per sentence: 14.47
+Avg characters per sentence: 85.09
+Median words per sentence: 11.00
+Median characters per sentence: 56.00
+
+Title: Babes in the Jungle
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 343, 'PUNCT': 447, 'PROPN': 211, 'ADP': 234, 'DET': 212, 'SPACE': 49, 'ADJ': 109, 'CCONJ': 86, 'VERB': 331, 'PRON': 330, 'ADV': 88, 'SCONJ': 48, 'PART': 83, 'AUX': 140, 'NUM': 32, 'INTJ': 7, 'SYM': 9, 'X': 1}
+Total words: 2126
+Total characters: 11491
+Sentence count: 147
+Avg words per sentence: 14.46
+Avg characters per sentence: 78.17
+Median words per sentence: 12.00
+Median characters per sentence: 51.00
+
+Title: The Girl Who Did Not Know Fear
+Unnecessary words: 43
+Parts of Speech: {'NOUN': 1295, 'PUNCT': 1129, 'DET': 623, 'PRON': 1145, 'AUX': 558, 'PART': 200, 'VERB': 984, 'PROPN': 196, 'SPACE': 89, 'ADJ': 373, 'ADV': 480, 'ADP': 776, 'SCONJ': 206, 'NUM': 58, 'CCONJ': 320, 'INTJ': 17, 'SYM': 1, 'X': 1}
+Total words: 7117
+Total characters: 37300
+Sentence count: 503
+Avg words per sentence: 14.15
+Avg characters per sentence: 74.16
+Median words per sentence: 11.00
+Median characters per sentence: 46.00
+
+Title: Gentlemen: The King!
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 837, 'PUNCT': 829, 'DET': 522, 'PROPN': 223, 'SPACE': 88, 'AUX': 264, 'ADJ': 231, 'CCONJ': 179, 'ADP': 558, 'NUM': 37, 'VERB': 625, 'PRON': 577, 'ADV': 206, 'PART': 122, 'SCONJ': 138}
+Total words: 4488
+Total characters: 25032
+Sentence count: 204
+Avg words per sentence: 22.00
+Avg characters per sentence: 122.71
+Median words per sentence: 17.00
+Median characters per sentence: 79.00
+
+Title: The Drunkard
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 314, 'PUNCT': 337, 'DET': 189, 'PROPN': 47, 'SPACE': 74, 'X': 1, 'AUX': 93, 'VERB': 292, 'ADP': 208, 'ADJ': 97, 'PRON': 211, 'CCONJ': 62, 'ADV': 88, 'SCONJ': 28, 'NUM': 16, 'PART': 47, 'INTJ': 6}
+Total words: 1664
+Total characters: 9170
+Sentence count: 101
+Avg words per sentence: 16.48
+Avg characters per sentence: 90.79
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
+
+Title: The Story of Keesh
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 591, 'PUNCT': 673, 'DET': 314, 'PROPN': 135, 'ADP': 330, 'SPACE': 68, 'VERB': 437, 'ADV': 179, 'ADJ': 214, 'AUX': 189, 'PRON': 411, 'CCONJ': 228, 'SCONJ': 103, 'PART': 57, 'NUM': 20, 'INTJ': 8, 'X': 1}
+Total words: 3207
+Total characters: 16779
+Sentence count: 205
+Avg words per sentence: 15.64
+Avg characters per sentence: 81.85
+Median words per sentence: 13.00
+Median characters per sentence: 55.00
+
+Title: The Vendetta
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 336, 'PUNCT': 287, 'DET': 192, 'PROPN': 42, 'SPACE': 43, 'X': 1, 'ADP': 220, 'VERB': 247, 'ADV': 93, 'PRON': 215, 'ADJ': 102, 'CCONJ': 51, 'AUX': 68, 'NUM': 11, 'SCONJ': 24, 'PART': 33}
+Total words: 1627
+Total characters: 8982
+Sentence count: 106
+Avg words per sentence: 15.35
+Avg characters per sentence: 84.74
+Median words per sentence: 13.00
+Median characters per sentence: 59.00
+
+Title: Molting
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 122, 'PUNCT': 95, 'VERB': 72, 'SPACE': 8, 'PROPN': 11, 'DET': 60, 'ADV': 21, 'ADP': 51, 'PRON': 65, 'AUX': 33, 'ADJ': 43, 'SCONJ': 14, 'CCONJ': 15, 'PART': 16, 'NUM': 1}
+Total words: 520
+Total characters: 3000
+Sentence count: 37
+Avg words per sentence: 14.05
+Avg characters per sentence: 81.08
+Median words per sentence: 13.00
+Median characters per sentence: 54.00
+
+Title: A Vagabond
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 809, 'PUNCT': 827, 'DET': 454, 'PROPN': 50, 'SPACE': 55, 'X': 2, 'PRON': 657, 'AUX': 253, 'ADJ': 250, 'CCONJ': 242, 'NUM': 45, 'SCONJ': 132, 'VERB': 656, 'PART': 105, 'ADP': 545, 'ADV': 253, 'INTJ': 18}
+Total words: 4458
+Total characters: 23502
+Sentence count: 185
+Avg words per sentence: 24.10
+Avg characters per sentence: 127.04
+Median words per sentence: 22.00
+Median characters per sentence: 89.00
+
+Title: The Tell-Tale Heart
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 350, 'PUNCT': 390, 'DET': 225, 'PROPN': 29, 'SPACE': 22, 'ADV': 183, 'ADJ': 139, 'PRON': 349, 'AUX': 137, 'CCONJ': 95, 'VERB': 299, 'SCONJ': 84, 'PART': 47, 'ADP': 191, 'INTJ': 12, 'NUM': 6}
+Total words: 2120
+Total characters: 11292
+Sentence count: 157
+Avg words per sentence: 13.50
+Avg characters per sentence: 71.92
+Median words per sentence: 10.00
+Median characters per sentence: 44.00
+
+Title: Robert Kennedy Saved From Drowning
+Unnecessary words: 43
+Parts of Speech: {'NOUN': 548, 'PUNCT': 572, 'PROPN': 150, 'ADP': 351, 'SPACE': 221, 'CCONJ': 89, 'PRON': 401, 'NUM': 18, 'SYM': 1, 'ADV': 189, 'VERB': 409, 'AUX': 205, 'DET': 324, 'SCONJ': 55, 'ADJ': 224, 'PART': 90, 'INTJ': 9}
+Total words: 2984
+Total characters: 17032
+Sentence count: 198
+Avg words per sentence: 15.07
+Avg characters per sentence: 86.02
+Median words per sentence: 12.00
+Median characters per sentence: 57.00
+
+Title: An Uncomfortable Bed
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 190, 'PUNCT': 162, 'DET': 117, 'PROPN': 7, 'SPACE': 64, 'X': 1, 'NUM': 2, 'PRON': 157, 'VERB': 142, 'PART': 24, 'ADP': 131, 'AUX': 48, 'ADJ': 51, 'SCONJ': 14, 'ADV': 45, 'CCONJ': 33, 'INTJ': 3}
+Total words: 963
+Total characters: 5216
+Sentence count: 73
+Avg words per sentence: 13.19
+Avg characters per sentence: 71.45
+Median words per sentence: 10.00
+Median characters per sentence: 45.00
+
+Title: Man From The South
+Unnecessary words: 42
+Parts of Speech: {'NOUN': 671, 'PUNCT': 1026, 'ADP': 377, 'DET': 410, 'PROPN': 71, 'SPACE': 161, 'PRON': 707, 'AUX': 232, 'VERB': 668, 'NUM': 57, 'ADV': 309, 'CCONJ': 180, 'ADJ': 283, 'SCONJ': 54, 'PART': 104, 'INTJ': 38, 'X': 14}
+Total words: 4090
+Total characters: 21182
+Sentence count: 395
+Avg words per sentence: 10.35
+Avg characters per sentence: 53.63
+Median words per sentence: 8.00
+Median characters per sentence: 32.00
+
+Title: Mademoiselle Fifi
+Unnecessary words: 24
+Parts of Speech: {'NOUN': 869, 'PUNCT': 739, 'PROPN': 172, 'SPACE': 67, 'X': 1, 'DET': 484, 'ADJ': 327, 'AUX': 247, 'VERB': 633, 'PRON': 598, 'SCONJ': 134, 'ADV': 219, 'ADP': 570, 'NUM': 52, 'CCONJ': 233, 'PART': 119, 'INTJ': 4}
+Total words: 4634
+Total characters: 25836
+Sentence count: 151
+Avg words per sentence: 30.69
+Avg characters per sentence: 171.10
+Median words per sentence: 30.00
+Median characters per sentence: 139.00
+
+Title: The Burial of the Guns
+Unnecessary words: 28
+Parts of Speech: {'NOUN': 1834, 'PUNCT': 1373, 'DET': 1253, 'PROPN': 235, 'ADP': 1253, 'SPACE': 43, 'VERB': 1248, 'PRON': 949, 'NUM': 97, 'CCONJ': 484, 'ADV': 573, 'ADJ': 621, 'PART': 268, 'SCONJ': 246, 'AUX': 591, 'INTJ': 4, 'X': 6}
+Total words: 9591
+Total characters: 51997
+Sentence count: 303
+Avg words per sentence: 31.65
+Avg characters per sentence: 171.61
+Median words per sentence: 27.00
+Median characters per sentence: 120.00
+
+Title: Coda
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 162, 'PUNCT': 134, 'PROPN': 9, 'SPACE': 12, 'DET': 100, 'VERB': 134, 'ADP': 106, 'PRON': 130, 'NUM': 8, 'SCONJ': 33, 'PART': 31, 'ADJ': 47, 'AUX': 32, 'ADV': 38, 'CCONJ': 29}
+Total words: 839
+Total characters: 4505
+Sentence count: 54
+Avg words per sentence: 15.54
+Avg characters per sentence: 83.43
+Median words per sentence: 15.00
+Median characters per sentence: 61.00
+
+Title: Jim Baker's Blue-Jay Yarn
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 341, 'PUNCT': 372, 'PROPN': 40, 'PART': 43, 'SPACE': 11, 'VERB': 308, 'ADP': 194, 'DET': 232, 'ADJ': 125, 'PRON': 272, 'AUX': 102, 'CCONJ': 121, 'ADV': 158, 'NUM': 22, 'SCONJ': 38, 'INTJ': 11, 'X': 2}
+Total words: 1953
+Total characters: 10006
+Sentence count: 90
+Avg words per sentence: 21.70
+Avg characters per sentence: 111.18
+Median words per sentence: 18.00
+Median characters per sentence: 77.50
+
+Title: The Unrest-Cure
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 441, 'PUNCT': 462, 'DET': 283, 'PROPN': 150, 'SPACE': 62, 'ADP': 265, 'ADV': 114, 'AUX': 174, 'ADJ': 142, 'VERB': 281, 'SCONJ': 45, 'PRON': 229, 'CCONJ': 69, 'PART': 79, 'NUM': 14, 'INTJ': 4, 'X': 2}
+Total words: 2228
+Total characters: 13011
+Sentence count: 128
+Avg words per sentence: 17.41
+Avg characters per sentence: 101.65
+Median words per sentence: 15.00
+Median characters per sentence: 67.00
+
+Title: Mademoiselle Pearl
+Unnecessary words: 29
+Parts of Speech: {'NOUN': 941, 'PUNCT': 1117, 'PROPN': 187, 'SPACE': 125, 'X': 6, 'PRON': 872, 'DET': 519, 'ADJ': 413, 'AUX': 372, 'SCONJ': 163, 'PART': 133, 'VERB': 814, 'ADP': 643, 'ADV': 342, 'CCONJ': 240, 'NUM': 77, 'INTJ': 24}
+Total words: 5703
+Total characters: 31175
+Sentence count: 311
+Avg words per sentence: 18.34
+Avg characters per sentence: 100.24
+Median words per sentence: 15.00
+Median characters per sentence: 67.00
+
+Title: The Death Of A Government Clerk
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 145, 'PUNCT': 292, 'DET': 74, 'ADP': 108, 'PROPN': 48, 'SPACE': 33, 'VERB': 189, 'ADV': 57, 'ADJ': 46, 'SCONJ': 26, 'CCONJ': 44, 'PART': 46, 'AUX': 77, 'NUM': 3, 'X': 1, 'PRON': 169, 'INTJ': 4}
+Total words: 1015
+Total characters: 5979
+Sentence count: 86
+Avg words per sentence: 11.80
+Avg characters per sentence: 69.52
+Median words per sentence: 10.00
+Median characters per sentence: 45.50
+
+Title: The Selfish Giant
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 251, 'PUNCT': 287, 'DET': 204, 'ADJ': 113, 'PROPN': 81, 'SPACE': 33, 'SCONJ': 43, 'PRON': 219, 'AUX': 114, 'VERB': 244, 'ADP': 165, 'PART': 43, 'CCONJ': 110, 'ADV': 113, 'NUM': 13, 'INTJ': 1}
+Total words: 1701
+Total characters: 8854
+Sentence count: 99
+Avg words per sentence: 17.18
+Avg characters per sentence: 89.43
+Median words per sentence: 16.00
+Median characters per sentence: 74.00
+
+Title: The Child's Story
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 259, 'PUNCT': 368, 'DET': 165, 'PART': 35, 'PROPN': 35, 'SPACE': 26, 'ADV': 142, 'SCONJ': 50, 'ADJ': 120, 'PRON': 238, 'VERB': 240, 'CCONJ': 144, 'ADP': 192, 'AUX': 98, 'NUM': 10, 'INTJ': 2}
+Total words: 1721
+Total characters: 9046
+Sentence count: 79
+Avg words per sentence: 21.78
+Avg characters per sentence: 114.51
+Median words per sentence: 20.00
+Median characters per sentence: 81.00
+
+Title: After the Race
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 467, 'PUNCT': 297, 'ADP': 300, 'DET': 267, 'PROPN': 150, 'SPACE': 189, 'AUX': 147, 'VERB': 250, 'ADV': 116, 'PART': 57, 'CCONJ': 77, 'PRON': 194, 'ADJ': 186, 'SCONJ': 33, 'NUM': 17}
+Total words: 2245
+Total characters: 12594
+Sentence count: 134
+Avg words per sentence: 16.75
+Avg characters per sentence: 93.99
+Median words per sentence: 14.00
+Median characters per sentence: 66.00
+
+Title: An Affair of State
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 688, 'PUNCT': 651, 'DET': 420, 'PROPN': 154, 'ADP': 425, 'SPACE': 86, 'X': 1, 'AUX': 153, 'ADV': 160, 'VERB': 507, 'PRON': 358, 'NUM': 33, 'ADJ': 179, 'CCONJ': 133, 'PART': 74, 'SCONJ': 73, 'INTJ': 2}
+Total words: 3333
+Total characters: 19306
+Sentence count: 222
+Avg words per sentence: 15.01
+Avg characters per sentence: 86.96
+Median words per sentence: 11.00
+Median characters per sentence: 48.00
+
+Title: The Vertical Fields
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 193, 'PUNCT': 95, 'DET': 72, 'PROPN': 61, 'SPACE': 71, 'ADP': 110, 'NUM': 1, 'SCONJ': 8, 'PRON': 73, 'AUX': 7, 'VERB': 102, 'ADJ': 61, 'CCONJ': 57, 'PART': 14, 'ADV': 27}
+Total words: 767
+Total characters: 4371
+Sentence count: 8
+Avg words per sentence: 95.88
+Avg characters per sentence: 546.38
+Median words per sentence: 62.50
+Median characters per sentence: 296.50
+
+Title: The Storyteller (Saki)
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 382, 'PUNCT': 378, 'DET': 254, 'PROPN': 35, 'SPACE': 62, 'PRON': 224, 'AUX': 142, 'ADJ': 167, 'CCONJ': 74, 'ADV': 124, 'ADP': 210, 'VERB': 259, 'NUM': 12, 'PART': 66, 'SCONJ': 53, 'INTJ': 4}
+Total words: 1971
+Total characters: 10946
+Sentence count: 98
+Avg words per sentence: 20.11
+Avg characters per sentence: 111.69
+Median words per sentence: 17.50
+Median characters per sentence: 80.00
+
+Title: The Ambitious Guest
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 656, 'PUNCT': 585, 'DET': 407, 'PROPN': 63, 'SPACE': 44, 'NUM': 17, 'AUX': 210, 'VERB': 410, 'ADV': 161, 'PRON': 372, 'CCONJ': 168, 'ADJ': 237, 'ADP': 362, 'SCONJ': 105, 'PART': 86, 'INTJ': 4}
+Total words: 3227
+Total characters: 18067
+Sentence count: 146
+Avg words per sentence: 22.10
+Avg characters per sentence: 123.75
+Median words per sentence: 18.50
+Median characters per sentence: 83.00
+
+Title: Beautiful Animals
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 274, 'PUNCT': 278, 'ADJ': 92, 'PROPN': 44, 'SPACE': 42, 'PRON': 219, 'AUX': 99, 'ADP': 199, 'DET': 152, 'VERB': 238, 'ADV': 103, 'CCONJ': 67, 'SCONJ': 32, 'PART': 38, 'NUM': 11, 'INTJ': 1}
+Total words: 1540
+Total characters: 8591
+Sentence count: 132
+Avg words per sentence: 11.67
+Avg characters per sentence: 65.08
+Median words per sentence: 9.00
+Median characters per sentence: 43.50
+
+Title: The Street That Got Mislaid
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 378, 'PUNCT': 374, 'DET': 196, 'PROPN': 112, 'PRON': 287, 'SPACE': 200, 'AUX': 117, 'VERB': 274, 'ADP': 221, 'PART': 35, 'ADV': 141, 'SCONJ': 46, 'ADJ': 129, 'CCONJ': 84, 'NUM': 15, 'INTJ': 5}
+Total words: 2013
+Total characters: 11247
+Sentence count: 144
+Avg words per sentence: 13.98
+Avg characters per sentence: 78.10
+Median words per sentence: 13.00
+Median characters per sentence: 59.50
+
+Title: The Shed Chamber
+Unnecessary words: 24
+Parts of Speech: {'NOUN': 494, 'PUNCT': 610, 'DET': 302, 'PROPN': 117, 'SPACE': 45, 'INTJ': 16, 'PRON': 609, 'ADV': 234, 'VERB': 557, 'ADP': 310, 'PART': 107, 'CCONJ': 209, 'AUX': 218, 'ADJ': 215, 'SCONJ': 116, 'NUM': 18}
+Total words: 3459
+Total characters: 17425
+Sentence count: 172
+Avg words per sentence: 20.11
+Avg characters per sentence: 101.31
+Median words per sentence: 17.00
+Median characters per sentence: 68.50
+
+Title: The Unknown
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 258, 'PUNCT': 344, 'DET': 149, 'PROPN': 57, 'SPACE': 38, 'X': 8, 'PRON': 364, 'AUX': 137, 'VERB': 275, 'ADP': 210, 'CCONJ': 70, 'NUM': 24, 'ADJ': 128, 'ADV': 110, 'SCONJ': 54, 'PART': 47, 'INTJ': 7}
+Total words: 1888
+Total characters: 10001
+Sentence count: 134
+Avg words per sentence: 14.09
+Avg characters per sentence: 74.63
+Median words per sentence: 12.00
+Median characters per sentence: 48.00
+
+Title: Hills Like White Elephants
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 205, 'PUNCT': 483, 'PROPN': 25, 'ADP': 143, 'SPACE': 162, 'DET': 153, 'AUX': 149, 'ADJ': 61, 'CCONJ': 61, 'PRON': 296, 'VERB': 251, 'NUM': 14, 'ADV': 85, 'PART': 67, 'INTJ': 22, 'SCONJ': 26}
+Total words: 1468
+Total characters: 7673
+Sentence count: 170
+Avg words per sentence: 8.64
+Avg characters per sentence: 45.14
+Median words per sentence: 7.00
+Median characters per sentence: 32.00
+
+Title: Postwar
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 166, 'PUNCT': 126, 'PROPN': 43, 'SPACE': 18, 'ADP': 107, 'NUM': 16, 'PRON': 154, 'VERB': 150, 'DET': 92, 'ADV': 67, 'SCONJ': 26, 'AUX': 65, 'CCONJ': 51, 'PART': 31, 'ADJ': 34}
+Total words: 966
+Total characters: 5224
+Sentence count: 50
+Avg words per sentence: 19.32
+Avg characters per sentence: 104.48
+Median words per sentence: 19.00
+Median characters per sentence: 82.00
+
+Title: ON AUGUST EIGHTEENTH AT TEN THIRTY PM, ANNIE OTSUKA WATCHED HER FIRST JAPANESE ANIMATED FILM
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 306, 'PUNCT': 265, 'PROPN': 50, 'VERB': 226, 'PRON': 237, 'ADV': 78, 'ADJ': 106, 'SPACE': 31, 'DET': 129, 'AUX': 93, 'ADP': 145, 'PART': 36, 'CCONJ': 46, 'SCONJ': 32, 'NUM': 6, 'INTJ': 4}
+Total words: 1480
+Total characters: 8092
+Sentence count: 178
+Avg words per sentence: 8.31
+Avg characters per sentence: 45.46
+Median words per sentence: 8.00
+Median characters per sentence: 34.00
+
+Title: All the Sea in the Fish
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 127, 'PUNCT': 99, 'DET': 68, 'PROPN': 20, 'ADP': 87, 'SPACE': 7, 'VERB': 120, 'ADV': 42, 'SCONJ': 26, 'PRON': 107, 'AUX': 36, 'ADJ': 44, 'CCONJ': 19, 'PART': 22}
+Total words: 695
+Total characters: 3755
+Sentence count: 29
+Avg words per sentence: 23.97
+Avg characters per sentence: 129.48
+Median words per sentence: 21.00
+Median characters per sentence: 99.00
+
+Title: Souls Belated
+Unnecessary words: 54
+Parts of Speech: {'NOUN': 1546, 'PUNCT': 1858, 'VERB': 1539, 'SPACE': 320, 'PROPN': 375, 'PRON': 1815, 'AUX': 825, 'ADJ': 555, 'SCONJ': 305, 'DET': 874, 'CCONJ': 293, 'ADP': 1187, 'PART': 350, 'ADV': 576, 'NUM': 48, 'INTJ': 30, 'X': 2}
+Total words: 10003
+Total characters: 55345
+Sentence count: 672
+Avg words per sentence: 14.89
+Avg characters per sentence: 82.36
+Median words per sentence: 11.00
+Median characters per sentence: 49.50
 
 Title: A Temporary Matter
 Unnecessary words: 13
-Parts of Speech: {'NOUN': 1174, 'PUNCT': 995, 'DET': 636, 'PROPN': 181, 'SPACE': 98, 'VERB': 936, 'PRON': 942, 'SCONJ': 157, 'AUX': 376, 'ADJ': 306, 'ADP': 749, 'NUM': 65, 'CCONJ': 176, 'PART': 179, 'ADV': 284, 'INTJ': 2}
-Total words: 6030
-Total characters: 32708
+Parts of Speech: {'NOUN': 1174, 'PUNCT': 996, 'DET': 636, 'ADJ': 307, 'PROPN': 183, 'SPACE': 99, 'VERB': 936, 'PRON': 942, 'SCONJ': 157, 'AUX': 376, 'ADP': 749, 'NUM': 65, 'CCONJ': 176, 'PART': 179, 'ADV': 284, 'INTJ': 2}
+Total words: 6033
+Total characters: 32730
 Sentence count: 411
-Avg words per sentence: 14.67
-Avg characters per sentence: 79.58
+Avg words per sentence: 14.68
+Avg characters per sentence: 79.64
+Median words per sentence: 13.00
+Median characters per sentence: 56.00
 
-Title: The Overcoat
-Unnecessary words: 91
-Parts of Speech: {'NOUN': 2251, 'PUNCT': 2100, 'DET': 1277, 'PROPN': 302, 'SPACE': 762, 'ADP': 1523, 'CCONJ': 551, 'PRON': 1546, 'AUX': 754, 'ADJ': 856, 'PART': 363, 'VERB': 1600, 'ADV': 737, 'SCONJ': 448, 'NUM': 104, 'INTJ': 28}
-Total words: 12248
-Total characters: 68205
-Sentence count: 465
-Avg words per sentence: 26.34
-Avg characters per sentence: 146.68
+Title: Vanka
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 335, 'PUNCT': 324, 'PROPN': 73, 'SPACE': 26, 'DET': 176, 'ADP': 205, 'NUM': 10, 'PRON': 211, 'AUX': 92, 'VERB': 239, 'SCONJ': 33, 'CCONJ': 101, 'PART': 53, 'ADJ': 90, 'ADV': 65, 'INTJ': 1}
+Total words: 1650
+Total characters: 8942
+Sentence count: 89
+Avg words per sentence: 18.54
+Avg characters per sentence: 100.47
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: Useless Beauty
+Unnecessary words: 47
+Parts of Speech: {'NOUN': 1062, 'PUNCT': 1170, 'PROPN': 113, 'SPACE': 139, 'X': 14, 'PRON': 1151, 'ADV': 343, 'NUM': 64, 'ADP': 805, 'DET': 572, 'SCONJ': 206, 'AUX': 485, 'VERB': 883, 'ADJ': 451, 'CCONJ': 316, 'PART': 169, 'INTJ': 28}
+Total words: 6649
+Total characters: 35955
+Sentence count: 274
+Avg words per sentence: 24.27
+Avg characters per sentence: 131.22
+Median words per sentence: 21.00
+Median characters per sentence: 86.00
+
+Title: Gretel's Dreams
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 152, 'PUNCT': 115, 'PROPN': 25, 'PART': 18, 'SPACE': 7, 'ADP': 85, 'DET': 53, 'AUX': 32, 'ADJ': 44, 'PRON': 83, 'VERB': 90, 'CCONJ': 21, 'ADV': 32, 'SCONJ': 12, 'NUM': 3}
+Total words: 636
+Total characters: 3577
+Sentence count: 39
+Avg words per sentence: 16.31
+Avg characters per sentence: 91.72
+Median words per sentence: 14.00
+Median characters per sentence: 64.00
+
+Title: The Shoemaker And The Devil
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 490, 'PUNCT': 546, 'DET': 275, 'PROPN': 108, 'CCONJ': 153, 'SPACE': 7, 'PRON': 360, 'AUX': 151, 'ADV': 127, 'VERB': 412, 'ADP': 307, 'ADJ': 167, 'SCONJ': 63, 'PART': 80, 'NUM': 12, 'INTJ': 3}
+Total words: 2683
+Total characters: 14421
+Sentence count: 174
+Avg words per sentence: 15.42
+Avg characters per sentence: 82.88
+Median words per sentence: 13.00
+Median characters per sentence: 54.50
+
+Title: A Guided Tour of the Sistine Chapel Ceiling
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 203, 'PUNCT': 206, 'DET': 95, 'PROPN': 52, 'ADP': 100, 'SPACE': 19, 'AUX': 47, 'ADJ': 51, 'VERB': 177, 'PRON': 164, 'CCONJ': 35, 'NUM': 4, 'SCONJ': 22, 'ADV': 39, 'PART': 21, 'INTJ': 5}
+Total words: 986
+Total characters: 5415
+Sentence count: 105
+Avg words per sentence: 9.39
+Avg characters per sentence: 51.57
+Median words per sentence: 7.00
+Median characters per sentence: 30.00
+
+Title: The Other Side of the Fence
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 159, 'PUNCT': 128, 'DET': 66, 'ADJ': 67, 'PROPN': 33, 'ADP': 69, 'SPACE': 33, 'VERB': 79, 'PRON': 68, 'ADV': 37, 'NUM': 10, 'AUX': 38, 'CCONJ': 16, 'SCONJ': 14, 'PART': 10, 'INTJ': 1, 'X': 7}
+Total words: 653
+Total characters: 3780
+Sentence count: 68
+Avg words per sentence: 9.60
+Avg characters per sentence: 55.59
+Median words per sentence: 7.00
+Median characters per sentence: 37.00
+
+Title: My Coworker’s Obituary Photograph
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 127, 'PUNCT': 99, 'PRON': 120, 'PROPN': 21, 'PART': 22, 'SPACE': 9, 'DET': 68, 'VERB': 101, 'ADP': 71, 'ADJ': 42, 'AUX': 38, 'SCONJ': 15, 'CCONJ': 21, 'ADV': 32, 'NUM': 3}
+Total words: 666
+Total characters: 3457
+Sentence count: 43
+Avg words per sentence: 15.49
+Avg characters per sentence: 80.40
+Median words per sentence: 12.00
+Median characters per sentence: 48.00
+
+Title: How I Edited an Agricultural Paper
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 405, 'PUNCT': 371, 'SCONJ': 67, 'PRON': 369, 'VERB': 328, 'DET': 222, 'PROPN': 24, 'SPACE': 31, 'AUX': 158, 'PART': 57, 'ADJ': 129, 'ADP': 236, 'CCONJ': 117, 'ADV': 106, 'NUM': 19, 'INTJ': 9, 'X': 2}
+Total words: 2230
+Total characters: 11860
+Sentence count: 125
+Avg words per sentence: 17.84
+Avg characters per sentence: 94.88
+Median words per sentence: 14.00
+Median characters per sentence: 57.00
+
+Title: Career Counseling
+Unnecessary words: 19
+Parts of Speech: {'NOUN': 468, 'PUNCT': 465, 'PROPN': 139, 'SPACE': 120, 'PRON': 433, 'AUX': 134, 'PART': 77, 'VERB': 401, 'DET': 220, 'SCONJ': 50, 'ADJ': 169, 'ADP': 270, 'ADV': 129, 'CCONJ': 71, 'INTJ': 6, 'NUM': 16, 'SYM': 3}
+Total words: 2509
+Total characters: 13638
+Sentence count: 210
+Avg words per sentence: 11.95
+Avg characters per sentence: 64.94
+Median words per sentence: 9.00
+Median characters per sentence: 39.00
+
+Title: The Unkindest Blow
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 324, 'PUNCT': 192, 'DET': 199, 'PROPN': 79, 'SPACE': 181, 'ADP': 220, 'VERB': 176, 'PART': 45, 'AUX': 107, 'PRON': 107, 'ADV': 56, 'CCONJ': 62, 'ADJ': 133, 'SCONJ': 29, 'NUM': 15, 'INTJ': 2}
+Total words: 1540
+Total characters: 9241
+Sentence count: 60
+Avg words per sentence: 25.67
+Avg characters per sentence: 154.02
+Median words per sentence: 20.00
+Median characters per sentence: 109.50
+
+Title: She Was Warned
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 937, 'PUNCT': 964, 'PRON': 476, 'AUX': 253, 'VERB': 583, 'SPACE': 165, 'PROPN': 152, 'ADP': 403, 'DET': 393, 'ADJ': 265, 'CCONJ': 122, 'PART': 145, 'SCONJ': 79, 'ADV': 163, 'INTJ': 15, 'NUM': 64, 'SYM': 4, 'X': 2}
+Total words: 3920
+Total characters: 23168
+Sentence count: 328
+Avg words per sentence: 11.95
+Avg characters per sentence: 70.63
+Median words per sentence: 10.00
+Median characters per sentence: 47.00
+
+Title: Politics and the English Language
+Unnecessary words: 32
+Parts of Speech: {'NOUN': 1109, 'PUNCT': 817, 'PROPN': 145, 'CCONJ': 226, 'DET': 537, 'SPACE': 56, 'ADJ': 581, 'PRON': 468, 'VERB': 632, 'ADP': 644, 'ADV': 293, 'AUX': 388, 'SCONJ': 144, 'PART': 182, 'NUM': 47, 'X': 19}
+Total words: 5340
+Total characters: 31793
+Sentence count: 204
+Avg words per sentence: 26.18
+Avg characters per sentence: 155.85
+Median words per sentence: 24.00
+Median characters per sentence: 114.00
+
+Title: Break
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 113, 'PUNCT': 73, 'PROPN': 46, 'SPACE': 3, 'DET': 51, 'AUX': 29, 'ADV': 32, 'VERB': 103, 'PRON': 91, 'CCONJ': 42, 'ADJ': 14, 'ADP': 69, 'PART': 14, 'SCONJ': 12, 'NUM': 9, 'INTJ': 6}
+Total words: 610
+Total characters: 3067
+Sentence count: 35
+Avg words per sentence: 17.43
+Avg characters per sentence: 87.63
+Median words per sentence: 11.00
+Median characters per sentence: 49.00
+
+Title: How the Widow Won the Deacon
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 450, 'PUNCT': 470, 'SCONJ': 97, 'DET': 303, 'PROPN': 105, 'VERB': 388, 'SPACE': 52, 'ADV': 160, 'PART': 108, 'CCONJ': 100, 'ADJ': 129, 'ADP': 279, 'AUX': 199, 'PRON': 354, 'NUM': 25, 'INTJ': 16, 'X': 1}
+Total words: 2655
+Total characters: 14378
+Sentence count: 136
+Avg words per sentence: 19.52
+Avg characters per sentence: 105.72
+Median words per sentence: 18.00
+Median characters per sentence: 77.00
+
+Title: The Devil
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 456, 'PUNCT': 520, 'DET': 256, 'PROPN': 73, 'SPACE': 44, 'X': 1, 'CCONJ': 132, 'VERB': 400, 'ADP': 313, 'ADJ': 166, 'PRON': 402, 'AUX': 164, 'ADV': 147, 'SCONJ': 96, 'PART': 62, 'NUM': 39, 'INTJ': 8}
+Total words: 2703
+Total characters: 14454
+Sentence count: 114
+Avg words per sentence: 23.71
+Avg characters per sentence: 126.79
+Median words per sentence: 19.00
+Median characters per sentence: 82.00
+
+Title: Two Little Soldiers
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 369, 'PUNCT': 384, 'NUM': 15, 'ADJ': 120, 'PROPN': 77, 'SPACE': 77, 'X': 1, 'DET': 186, 'ADV': 136, 'SCONJ': 48, 'PRON': 305, 'AUX': 100, 'VERB': 324, 'ADP': 247, 'CCONJ': 76, 'PART': 52, 'INTJ': 8}
+Total words: 2042
+Total characters: 11429
+Sentence count: 127
+Avg words per sentence: 16.08
+Avg characters per sentence: 89.99
+Median words per sentence: 14.00
+Median characters per sentence: 65.00
+
+Title: Skeleton Lake: An Episode in Camp
+Unnecessary words: 17
+Parts of Speech: {'NOUN': 710, 'PUNCT': 561, 'PROPN': 124, 'DET': 390, 'ADP': 461, 'SPACE': 315, 'ADJ': 241, 'PRON': 447, 'AUX': 190, 'VERB': 475, 'NUM': 34, 'CCONJ': 210, 'ADV': 245, 'SCONJ': 73, 'PART': 66, 'INTJ': 3}
+Total words: 3629
+Total characters: 19896
+Sentence count: 145
+Avg words per sentence: 25.03
+Avg characters per sentence: 137.21
+Median words per sentence: 21.00
+Median characters per sentence: 93.00
+
+Title: Go Limp
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 117, 'PUNCT': 124, 'VERB': 101, 'PROPN': 24, 'SPACE': 12, 'AUX': 35, 'SCONJ': 16, 'PRON': 78, 'ADP': 62, 'DET': 61, 'ADJ': 39, 'PART': 13, 'ADV': 40, 'CCONJ': 34, 'INTJ': 5, 'NUM': 4}
+Total words: 611
+Total characters: 3477
+Sentence count: 51
+Avg words per sentence: 11.98
+Avg characters per sentence: 68.18
+Median words per sentence: 9.00
+Median characters per sentence: 41.00
+
+Title: I Don’t Think of You (until I do)
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 268, 'PUNCT': 124, 'PRON': 240, 'AUX': 74, 'PART': 41, 'VERB': 186, 'ADP': 168, 'SCONJ': 50, 'SPACE': 53, 'PROPN': 15, 'NUM': 15, 'ADJ': 66, 'DET': 114, 'CCONJ': 55, 'ADV': 61, 'X': 2, 'INTJ': 1}
+Total words: 1320
+Total characters: 7154
+Sentence count: 66
+Avg words per sentence: 20.00
+Avg characters per sentence: 108.39
+Median words per sentence: 16.00
+Median characters per sentence: 70.00
+
+Title: Julie Romain
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 497, 'PUNCT': 550, 'PROPN': 50, 'SPACE': 88, 'X': 2, 'NUM': 42, 'ADV': 146, 'DET': 291, 'PRON': 393, 'AUX': 140, 'VERB': 358, 'ADP': 331, 'ADJ': 246, 'SCONJ': 74, 'PART': 62, 'CCONJ': 116, 'INTJ': 15}
+Total words: 2754
+Total characters: 14910
+Sentence count: 165
+Avg words per sentence: 16.69
+Avg characters per sentence: 90.36
+Median words per sentence: 15.00
+Median characters per sentence: 62.00
+
+Title: Analysis
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 55, 'PUNCT': 67, 'PROPN': 4, 'SPACE': 9, 'VERB': 44, 'PRON': 42, 'PART': 2, 'DET': 26, 'AUX': 7, 'SCONJ': 5, 'CCONJ': 6, 'ADP': 24, 'ADJ': 17, 'ADV': 12, 'NUM': 5, 'INTJ': 1}
+Total words: 246
+Total characters: 1447
+Sentence count: 32
+Avg words per sentence: 7.69
+Avg characters per sentence: 45.22
+Median words per sentence: 6.00
+Median characters per sentence: 32.00
+
+Title: An Encounter
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 529, 'PUNCT': 382, 'DET': 320, 'PROPN': 138, 'SPACE': 262, 'PRON': 526, 'AUX': 172, 'VERB': 493, 'ADP': 379, 'ADJ': 192, 'CCONJ': 141, 'SCONJ': 121, 'PART': 79, 'ADV': 165, 'INTJ': 2, 'NUM': 24}
+Total words: 3250
+Total characters: 17129
+Sentence count: 183
+Avg words per sentence: 17.76
+Avg characters per sentence: 93.60
+Median words per sentence: 17.00
+Median characters per sentence: 69.00
+
+Title: The Time Machine
+Unnecessary words: 197
+Parts of Speech: {'NOUN': 5846, 'PUNCT': 5169, 'DET': 3719, 'PROPN': 842, 'SPACE': 3048, 'PRON': 4230, 'ADP': 4019, 'SCONJ': 847, 'AUX': 1863, 'ADJ': 2551, 'PART': 598, 'VERB': 4267, 'CCONJ': 1556, 'ADV': 2113, 'NUM': 230, 'INTJ': 21, 'X': 3}
+Total words: 32557
+Total characters: 178197
+Sentence count: 1888
+Avg words per sentence: 17.24
+Avg characters per sentence: 94.38
+Median words per sentence: 15.00
+Median characters per sentence: 68.00
+
+Title: Beware of the Dog
+Unnecessary words: 33
+Parts of Speech: {'NOUN': 702, 'PUNCT': 833, 'ADP': 480, 'DET': 485, 'PROPN': 78, 'SPACE': 108, 'ADV': 337, 'AUX': 355, 'ADJ': 266, 'PRON': 896, 'VERB': 764, 'CCONJ': 258, 'SCONJ': 147, 'PART': 121, 'NUM': 46, 'INTJ': 14, 'X': 1}
+Total words: 4851
+Total characters: 24863
+Sentence count: 380
+Avg words per sentence: 12.77
+Avg characters per sentence: 65.43
+Median words per sentence: 11.00
+Median characters per sentence: 44.00
+
+Title: The Big Lemon
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 129, 'PUNCT': 82, 'DET': 82, 'PROPN': 24, 'SPACE': 9, 'ADP': 58, 'PRON': 85, 'VERB': 87, 'PART': 13, 'AUX': 52, 'ADV': 36, 'ADJ': 63, 'INTJ': 1, 'CCONJ': 30, 'SCONJ': 18, 'NUM': 1}
+Total words: 676
+Total characters: 3882
+Sentence count: 36
+Avg words per sentence: 18.78
+Avg characters per sentence: 107.83
+Median words per sentence: 18.50
+Median characters per sentence: 83.00
+
+Title: Toine
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 556, 'PUNCT': 623, 'PROPN': 110, 'SPACE': 109, 'X': 1, 'PRON': 448, 'AUX': 194, 'VERB': 456, 'ADP': 362, 'NUM': 39, 'ADJ': 237, 'DET': 299, 'PART': 84, 'CCONJ': 110, 'ADV': 143, 'SCONJ': 70, 'INTJ': 6}
+Total words: 3047
+Total characters: 16802
+Sentence count: 172
+Avg words per sentence: 17.72
+Avg characters per sentence: 97.69
+Median words per sentence: 15.00
+Median characters per sentence: 64.50
+
+Title: Irreversible
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 248, 'PUNCT': 184, 'PROPN': 28, 'SPACE': 24, 'VERB': 161, 'ADJ': 58, 'ADP': 104, 'DET': 116, 'PRON': 121, 'ADV': 42, 'PART': 22, 'AUX': 47, 'CCONJ': 36, 'SCONJ': 20, 'NUM': 7, 'INTJ': 2}
+Total words: 995
+Total characters: 5863
+Sentence count: 74
+Avg words per sentence: 13.45
+Avg characters per sentence: 79.23
+Median words per sentence: 13.50
+Median characters per sentence: 63.50
+
+Title: Mendelssohn
+Unnecessary words: 26
+Parts of Speech: {'NOUN': 1874, 'PUNCT': 993, 'PROPN': 415, 'SPACE': 138, 'NUM': 81, 'SCONJ': 258, 'PRON': 1096, 'AUX': 451, 'DET': 881, 'VERB': 1264, 'ADP': 1164, 'ADJ': 563, 'ADV': 394, 'CCONJ': 303, 'PART': 276, 'INTJ': 6, 'SYM': 2, 'X': 3}
+Total words: 8835
+Total characters: 49321
+Sentence count: 385
+Avg words per sentence: 22.95
+Avg characters per sentence: 128.11
+Median words per sentence: 22.00
+Median characters per sentence: 97.00
+
+Title: Jerry
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 139, 'PUNCT': 146, 'PROPN': 37, 'SPACE': 14, 'ADJ': 30, 'ADV': 51, 'ADP': 82, 'VERB': 126, 'DET': 71, 'SCONJ': 7, 'PRON': 96, 'AUX': 22, 'CCONJ': 60, 'PART': 15, 'NUM': 4, 'INTJ': 8}
+Total words: 731
+Total characters: 4090
+Sentence count: 36
+Avg words per sentence: 20.31
+Avg characters per sentence: 113.61
+Median words per sentence: 15.00
+Median characters per sentence: 72.00
+
+Title: The Disappearance of Crispina Umberleigh
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 344, 'PUNCT': 247, 'DET': 203, 'PROPN': 60, 'ADP': 233, 'SPACE': 26, 'ADJ': 118, 'VERB': 223, 'NUM': 18, 'PRON': 200, 'AUX': 143, 'ADV': 116, 'SCONJ': 48, 'CCONJ': 60, 'PART': 49, 'INTJ': 2}
+Total words: 1802
+Total characters: 10497
+Sentence count: 73
+Avg words per sentence: 24.68
+Avg characters per sentence: 143.79
+Median words per sentence: 22.00
+Median characters per sentence: 107.00
+
+Title: The School
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 193, 'PUNCT': 202, 'DET': 130, 'PROPN': 30, 'SPACE': 26, 'INTJ': 10, 'PRON': 229, 'VERB': 204, 'ADP': 96, 'SCONJ': 37, 'AUX': 92, 'PART': 43, 'CCONJ': 54, 'ADV': 75, 'ADJ': 55, 'NUM': 12}
+Total words: 1217
+Total characters: 6564
+Sentence count: 88
+Avg words per sentence: 13.83
+Avg characters per sentence: 74.59
+Median words per sentence: 11.00
+Median characters per sentence: 43.00
+
+Title: How the Leopard Got His Spots
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 255, 'PUNCT': 493, 'SCONJ': 52, 'DET': 217, 'PROPN': 190, 'VERB': 278, 'PRON': 282, 'SPACE': 54, 'ADP': 186, 'ADJ': 132, 'AUX': 136, 'PART': 59, 'CCONJ': 146, 'ADV': 139, 'NUM': 16, 'INTJ': 7}
+Total words: 2037
+Total characters: 11133
+Sentence count: 118
+Avg words per sentence: 17.26
+Avg characters per sentence: 94.35
+Median words per sentence: 12.00
+Median characters per sentence: 54.50
+
+Title: He Was Trying to Say Something and He Couldn’t Get It Out
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 126, 'PUNCT': 119, 'PRON': 190, 'AUX': 53, 'VERB': 155, 'PART': 22, 'CCONJ': 35, 'ADP': 79, 'SPACE': 13, 'PROPN': 8, 'SCONJ': 23, 'ADV': 53, 'DET': 57, 'ADJ': 30, 'INTJ': 2, 'NUM': 3}
+Total words: 795
+Total characters: 3989
+Sentence count: 60
+Avg words per sentence: 13.25
+Avg characters per sentence: 66.48
+Median words per sentence: 13.00
+Median characters per sentence: 48.50
+
+Title: His Wife's Deceased Sister
+Unnecessary words: 42
+Parts of Speech: {'NOUN': 726, 'PUNCT': 760, 'PRON': 755, 'PROPN': 112, 'PART': 148, 'SPACE': 65, 'AUX': 311, 'ADV': 249, 'NUM': 19, 'SCONJ': 143, 'DET': 411, 'VERB': 583, 'CCONJ': 189, 'ADP': 481, 'ADJ': 329, 'INTJ': 3, 'X': 1}
+Total words: 4421
+Total characters: 23698
+Sentence count: 198
+Avg words per sentence: 22.33
+Avg characters per sentence: 119.69
+Median words per sentence: 19.00
+Median characters per sentence: 82.50
+
+Title: The Fully-Conducted Tour
+Unnecessary words: 62
+Parts of Speech: {'NOUN': 351, 'PUNCT': 401, 'DET': 227, 'ADV': 275, 'PROPN': 45, 'SPACE': 43, 'SCONJ': 82, 'PRON': 329, 'AUX': 187, 'VERB': 305, 'ADP': 267, 'ADJ': 233, 'CCONJ': 115, 'NUM': 20, 'PART': 87, 'INTJ': 2}
+Total words: 2488
+Total characters: 13701
+Sentence count: 128
+Avg words per sentence: 19.44
+Avg characters per sentence: 107.04
+Median words per sentence: 17.00
+Median characters per sentence: 79.50
+
+Title: The Boathouse
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 598, 'PUNCT': 335, 'DET': 330, 'SPACE': 41, 'PROPN': 101, 'AUX': 124, 'ADV': 143, 'ADP': 383, 'PART': 85, 'PRON': 315, 'VERB': 393, 'SCONJ': 55, 'ADJ': 146, 'CCONJ': 159, 'NUM': 32, 'SYM': 1}
+Total words: 2816
+Total characters: 14939
+Sentence count: 133
+Avg words per sentence: 21.17
+Avg characters per sentence: 112.32
+Median words per sentence: 20.00
+Median characters per sentence: 82.00
+
+Title: The Velveteen Rabbit
+Unnecessary words: 47
+Parts of Speech: {'NOUN': 544, 'PUNCT': 618, 'DET': 381, 'PROPN': 120, 'SPACE': 83, 'PRON': 511, 'VERB': 531, 'ADV': 254, 'ADJ': 304, 'CCONJ': 239, 'ADP': 358, 'AUX': 248, 'SCONJ': 117, 'PART': 109, 'NUM': 18, 'INTJ': 2}
+Total words: 3679
+Total characters: 19336
+Sentence count: 211
+Avg words per sentence: 17.44
+Avg characters per sentence: 91.64
+Median words per sentence: 15.00
+Median characters per sentence: 66.00
+
+Title: Network
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 89, 'PUNCT': 48, 'PROPN': 5, 'SPACE': 7, 'DET': 48, 'AUX': 19, 'ADP': 49, 'PRON': 26, 'VERB': 56, 'PART': 7, 'ADJ': 14, 'ADV': 14, 'CCONJ': 13, 'NUM': 1, 'SCONJ': 4}
+Total words: 344
+Total characters: 1914
+Sentence count: 40
+Avg words per sentence: 8.60
+Avg characters per sentence: 47.85
+Median words per sentence: 8.00
+Median characters per sentence: 37.50
+
+Title: Bad Luck Meditation
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 69, 'PUNCT': 46, 'PROPN': 30, 'SPACE': 13, 'PRON': 70, 'AUX': 22, 'VERB': 77, 'ADP': 32, 'ADJ': 33, 'CCONJ': 16, 'PART': 14, 'NUM': 6, 'DET': 21, 'ADV': 15, 'SCONJ': 12}
+Total words: 394
+Total characters: 2130
+Sentence count: 24
+Avg words per sentence: 16.42
+Avg characters per sentence: 88.75
+Median words per sentence: 11.00
+Median characters per sentence: 45.50
+
+Title: Sink Monkey
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 121, 'PUNCT': 131, 'PROPN': 29, 'SPACE': 11, 'ADP': 80, 'DET': 59, 'VERB': 128, 'PART': 22, 'PRON': 124, 'AUX': 28, 'ADV': 34, 'SCONJ': 23, 'CCONJ': 14, 'ADJ': 33, 'NUM': 6, 'INTJ': 1}
+Total words: 683
+Total characters: 3590
+Sentence count: 67
+Avg words per sentence: 10.19
+Avg characters per sentence: 53.58
+Median words per sentence: 10.00
+Median characters per sentence: 42.00
+
+Title: The Huntress
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 93, 'PUNCT': 59, 'DET': 56, 'PROPN': 7, 'SPACE': 9, 'ADP': 46, 'VERB': 49, 'ADV': 12, 'PRON': 48, 'ADJ': 15, 'SCONJ': 10, 'AUX': 27, 'PART': 10, 'CCONJ': 12, 'NUM': 2, 'INTJ': 1}
+Total words: 381
+Total characters: 2054
+Sentence count: 40
+Avg words per sentence: 9.53
+Avg characters per sentence: 51.35
+Median words per sentence: 9.00
+Median characters per sentence: 40.00
+
+Title: The Whirligig of Life
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 495, 'PUNCT': 521, 'DET': 271, 'PROPN': 150, 'ADP': 253, 'SPACE': 57, 'VERB': 314, 'PRON': 249, 'ADJ': 141, 'ADV': 84, 'CCONJ': 98, 'PART': 100, 'NUM': 18, 'AUX': 93, 'SCONJ': 38, 'INTJ': 3}
+Total words: 2177
+Total characters: 12134
+Sentence count: 147
+Avg words per sentence: 14.81
+Avg characters per sentence: 82.54
+Median words per sentence: 12.00
+Median characters per sentence: 57.00
+
+Title: New Fruit
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 917, 'PUNCT': 660, 'PROPN': 153, 'SPACE': 69, 'PRON': 615, 'AUX': 264, 'DET': 489, 'ADJ': 325, 'CCONJ': 161, 'VERB': 701, 'ADV': 246, 'ADP': 544, 'NUM': 33, 'SCONJ': 90, 'PART': 103, 'INTJ': 5}
+Total words: 4574
+Total characters: 25285
+Sentence count: 235
+Avg words per sentence: 19.46
+Avg characters per sentence: 107.60
+Median words per sentence: 17.00
+Median characters per sentence: 76.00
+
+Title: The Aleph
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 959, 'PUNCT': 959, 'DET': 585, 'PROPN': 359, 'SPACE': 401, 'INTJ': 8, 'PRON': 609, 'AUX': 258, 'VERB': 632, 'ADP': 664, 'CCONJ': 171, 'ADJ': 410, 'NUM': 70, 'SCONJ': 121, 'ADV': 274, 'PART': 128, 'X': 7}
+Total words: 5182
+Total characters: 29339
+Sentence count: 224
+Avg words per sentence: 23.13
+Avg characters per sentence: 130.98
+Median words per sentence: 17.00
+Median characters per sentence: 80.50
+
+Title: The School of English
+Unnecessary words: 36
+Parts of Speech: {'NOUN': 1524, 'PUNCT': 1951, 'DET': 722, 'PROPN': 282, 'ADP': 827, 'SPACE': 166, 'VERB': 1301, 'CCONJ': 273, 'PART': 287, 'PRON': 1438, 'ADV': 362, 'ADJ': 430, 'SCONJ': 239, 'AUX': 709, 'NUM': 47, 'INTJ': 10}
+Total words: 8372
+Total characters: 45185
+Sentence count: 700
+Avg words per sentence: 11.96
+Avg characters per sentence: 64.55
+Median words per sentence: 9.00
+Median characters per sentence: 38.00
+
+Title: A Vine on a House
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 244, 'PUNCT': 155, 'DET': 145, 'PROPN': 43, 'ADP': 139, 'SPACE': 19, 'ADV': 66, 'NUM': 18, 'ADJ': 97, 'VERB': 149, 'PRON': 108, 'AUX': 70, 'SCONJ': 20, 'CCONJ': 59, 'PART': 23}
+Total words: 1171
+Total characters: 6856
+Sentence count: 52
+Avg words per sentence: 22.52
+Avg characters per sentence: 131.85
+Median words per sentence: 21.00
+Median characters per sentence: 101.00
+
+Title: The Strangers That Came to Town
+Unnecessary words: 31
+Parts of Speech: {'NOUN': 1206, 'PUNCT': 932, 'DET': 617, 'PRON': 735, 'VERB': 871, 'ADP': 758, 'PROPN': 351, 'SPACE': 121, 'ADJ': 429, 'CCONJ': 275, 'PART': 161, 'ADV': 312, 'SCONJ': 146, 'NUM': 74, 'AUX': 302, 'INTJ': 3, 'X': 1}
+Total words: 6132
+Total characters: 34477
+Sentence count: 322
+Avg words per sentence: 19.04
+Avg characters per sentence: 107.07
+Median words per sentence: 18.00
+Median characters per sentence: 84.00
+
+Title: Tacky Goblin
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 127, 'PUNCT': 276, 'PROPN': 23, 'SPACE': 47, 'VERB': 151, 'PRON': 157, 'DET': 57, 'ADJ': 27, 'ADV': 39, 'NUM': 20, 'ADP': 67, 'AUX': 53, 'PART': 30, 'CCONJ': 11, 'SCONJ': 4, 'INTJ': 13}
+Total words: 734
+Total characters: 4034
+Sentence count: 96
+Avg words per sentence: 7.65
+Avg characters per sentence: 42.02
+Median words per sentence: 6.00
+Median characters per sentence: 29.00
+
+Title: Inauguration
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 127, 'PUNCT': 121, 'PROPN': 5, 'SPACE': 8, 'DET': 78, 'VERB': 99, 'CCONJ': 33, 'AUX': 41, 'ADJ': 47, 'PRON': 62, 'PART': 22, 'SCONJ': 22, 'ADP': 48, 'ADV': 24, 'NUM': 2}
+Total words: 595
+Total characters: 3134
+Sentence count: 42
+Avg words per sentence: 14.17
+Avg characters per sentence: 74.62
+Median words per sentence: 12.50
+Median characters per sentence: 56.50
+
+Title: How to Tell a True War Story
+Unnecessary words: 49
+Parts of Speech: {'NOUN': 975, 'PUNCT': 1003, 'SCONJ': 104, 'PART': 151, 'VERB': 795, 'DET': 531, 'PROPN': 171, 'SPACE': 355, 'PRON': 711, 'AUX': 269, 'ADJ': 391, 'ADP': 463, 'CCONJ': 283, 'ADV': 369, 'NUM': 32, 'INTJ': 10}
+Total words: 5095
+Total characters: 27581
+Sentence count: 424
+Avg words per sentence: 12.02
+Avg characters per sentence: 65.05
+Median words per sentence: 8.00
+Median characters per sentence: 36.50
+
+Title: The Schartz-Metterklume Method
+Unnecessary words: 26
+Parts of Speech: {'NOUN': 350, 'PUNCT': 349, 'DET': 192, 'PROPN': 102, 'SPACE': 44, 'VERB': 243, 'ADP': 219, 'ADJ': 138, 'CCONJ': 55, 'NUM': 12, 'PRON': 200, 'PART': 56, 'SCONJ': 37, 'AUX': 121, 'ADV': 108, 'INTJ': 8}
+Total words: 1803
+Total characters: 10584
+Sentence count: 83
+Avg words per sentence: 21.72
+Avg characters per sentence: 127.52
+Median words per sentence: 17.00
+Median characters per sentence: 89.00
+
+Title: The Donkey
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 531, 'PUNCT': 596, 'DET': 313, 'PROPN': 106, 'SPACE': 92, 'X': 1, 'PRON': 362, 'VERB': 472, 'PART': 91, 'ADP': 314, 'ADJ': 152, 'AUX': 195, 'CCONJ': 109, 'ADV': 163, 'NUM': 40, 'SCONJ': 58, 'INTJ': 7}
+Total words: 2848
+Total characters: 15710
+Sentence count: 194
+Avg words per sentence: 14.68
+Avg characters per sentence: 80.98
+Median words per sentence: 12.00
+Median characters per sentence: 59.00
+
+Title: A Telephone Call
+Unnecessary words: 26
+Parts of Speech: {'NOUN': 139, 'PUNCT': 563, 'PRON': 658, 'PROPN': 58, 'SPACE': 25, 'VERB': 426, 'ADV': 198, 'ADJ': 142, 'AUX': 350, 'PART': 162, 'ADP': 142, 'DET': 69, 'INTJ': 53, 'SCONJ': 81, 'NUM': 56, 'CCONJ': 47}
+Total words: 2385
+Total characters: 12102
+Sentence count: 279
+Avg words per sentence: 8.55
+Avg characters per sentence: 43.38
+Median words per sentence: 7.00
+Median characters per sentence: 29.00
+
+Title: Hungarian Sprats
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 558, 'PUNCT': 342, 'ADJ': 151, 'SPACE': 15, 'PROPN': 85, 'ADP': 205, 'PRON': 92, 'AUX': 47, 'VERB': 159, 'CCONJ': 42, 'PART': 33, 'DET': 222, 'ADV': 47, 'SCONJ': 12, 'NUM': 26, 'X': 3}
+Total words: 1669
+Total characters: 9666
+Sentence count: 42
+Avg words per sentence: 39.74
+Avg characters per sentence: 230.14
+Median words per sentence: 21.50
+Median characters per sentence: 105.00
+
+Title: A Syrian Winter
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 231, 'PUNCT': 245, 'DET': 104, 'ADJ': 79, 'PROPN': 42, 'SPACE': 39, 'ADP': 114, 'VERB': 161, 'PRON': 153, 'CCONJ': 31, 'ADV': 37, 'NUM': 14, 'AUX': 37, 'PART': 35, 'SCONJ': 11, 'SYM': 2}
+Total words: 1013
+Total characters: 5466
+Sentence count: 108
+Avg words per sentence: 9.38
+Avg characters per sentence: 50.61
+Median words per sentence: 7.00
+Median characters per sentence: 35.00
+
+Title: A Sound of Thunder
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 864, 'PUNCT': 1159, 'DET': 486, 'ADP': 451, 'PROPN': 259, 'SPACE': 342, 'VERB': 685, 'ADJ': 268, 'PRON': 562, 'CCONJ': 134, 'PART': 125, 'SCONJ': 64, 'ADV': 238, 'NUM': 81, 'AUX': 243, 'INTJ': 15, 'X': 1}
+Total words: 4312
+Total characters: 24684
+Sentence count: 484
+Avg words per sentence: 8.91
+Avg characters per sentence: 51.00
+Median words per sentence: 7.00
+Median characters per sentence: 31.00
+
+Title: The Egg
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 960, 'PUNCT': 466, 'DET': 483, 'PROPN': 136, 'SPACE': 31, 'PRON': 568, 'AUX': 274, 'ADJ': 252, 'VERB': 671, 'ADP': 669, 'PART': 147, 'SCONJ': 93, 'NUM': 49, 'ADV': 182, 'CCONJ': 195, 'X': 1, 'INTJ': 3}
+Total words: 4635
+Total characters: 24352
+Sentence count: 270
+Avg words per sentence: 17.17
+Avg characters per sentence: 90.19
+Median words per sentence: 14.00
+Median characters per sentence: 62.50
+
+Title: Picnic
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 237, 'PUNCT': 170, 'PROPN': 67, 'SPACE': 33, 'PRON': 92, 'VERB': 148, 'AUX': 37, 'ADP': 128, 'DET': 120, 'SYM': 2, 'ADJ': 52, 'CCONJ': 27, 'NUM': 11, 'PART': 39, 'ADV': 39, 'SCONJ': 15, 'INTJ': 1}
+Total words: 978
+Total characters: 5491
+Sentence count: 67
+Avg words per sentence: 14.60
+Avg characters per sentence: 81.96
+Median words per sentence: 14.00
+Median characters per sentence: 62.00
+
+Title: Abyssal Gigantism
+Unnecessary words: 45
+Parts of Speech: {'NOUN': 1529, 'PUNCT': 1602, 'PROPN': 330, 'SPACE': 204, 'DET': 812, 'PART': 282, 'VERB': 1357, 'AUX': 576, 'ADP': 838, 'CCONJ': 245, 'NUM': 65, 'PRON': 1068, 'ADJ': 464, 'SCONJ': 224, 'ADV': 463, 'INTJ': 28, 'X': 1}
+Total words: 8051
+Total characters: 45633
+Sentence count: 558
+Avg words per sentence: 14.43
+Avg characters per sentence: 81.78
+Median words per sentence: 10.00
+Median characters per sentence: 49.50
+
+Title: The Elephant's Child
+Unnecessary words: 26
+Parts of Speech: {'NOUN': 362, 'PUNCT': 656, 'DET': 240, 'PROPN': 255, 'PART': 101, 'SPACE': 101, 'ADP': 226, 'ADV': 151, 'ADJ': 185, 'CCONJ': 144, 'INTJ': 12, 'VERB': 354, 'PRON': 363, 'SCONJ': 61, 'AUX': 118, 'NUM': 22}
+Total words: 2525
+Total characters: 13881
+Sentence count: 95
+Avg words per sentence: 26.58
+Avg characters per sentence: 146.12
+Median words per sentence: 22.00
+Median characters per sentence: 102.00
+
+Title: The Coming-Out of Maggie
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 480, 'PUNCT': 464, 'DET': 265, 'PROPN': 236, 'ADP': 323, 'SPACE': 57, 'VERB': 338, 'CCONJ': 102, 'PART': 61, 'NUM': 29, 'PRON': 272, 'AUX': 109, 'SCONJ': 42, 'ADJ': 156, 'ADV': 113, 'INTJ': 10}
+Total words: 2438
+Total characters: 14160
+Sentence count: 180
+Avg words per sentence: 13.54
+Avg characters per sentence: 78.67
+Median words per sentence: 12.00
+Median characters per sentence: 53.00
+
+Title: Origami
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 194, 'PUNCT': 136, 'PROPN': 8, 'SPACE': 12, 'SCONJ': 38, 'PRON': 191, 'AUX': 58, 'NUM': 14, 'VERB': 171, 'CCONJ': 41, 'ADP': 110, 'DET': 85, 'PART': 30, 'ADJ': 66, 'ADV': 41, 'INTJ': 5}
+Total words: 1041
+Total characters: 5389
+Sentence count: 70
+Avg words per sentence: 14.87
+Avg characters per sentence: 76.99
+Median words per sentence: 13.00
+Median characters per sentence: 53.50
+
+Title: The Cask of Amontillado
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 406, 'PUNCT': 596, 'DET': 269, 'PROPN': 114, 'ADP': 265, 'SPACE': 93, 'PRON': 396, 'NUM': 18, 'AUX': 141, 'VERB': 354, 'SCONJ': 48, 'ADJ': 143, 'CCONJ': 86, 'ADV': 105, 'PART': 55, 'INTJ': 12}
+Total words: 2375
+Total characters: 13239
+Sentence count: 210
+Avg words per sentence: 11.31
+Avg characters per sentence: 63.04
+Median words per sentence: 10.00
+Median characters per sentence: 42.50
+
+Title: Game
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 353, 'PUNCT': 277, 'PROPN': 67, 'SPACE': 99, 'VERB': 258, 'DET': 172, 'CCONJ': 76, 'ADP': 186, 'PRON': 271, 'AUX': 153, 'PART': 87, 'ADV': 93, 'ADJ': 114, 'SCONJ': 59, 'NUM': 52}
+Total words: 1917
+Total characters: 10520
+Sentence count: 137
+Avg words per sentence: 13.99
+Avg characters per sentence: 76.79
+Median words per sentence: 12.00
+Median characters per sentence: 48.00
+
+Title: Afterward
+Unnecessary words: 57
+Parts of Speech: {'NOUN': 2024, 'PUNCT': 2178, 'PROPN': 403, 'SPACE': 267, 'PRON': 1654, 'INTJ': 43, 'VERB': 1546, 'NUM': 57, 'ADP': 1501, 'CCONJ': 392, 'AUX': 738, 'ADV': 689, 'DET': 1140, 'ADJ': 745, 'SCONJ': 370, 'PART': 333}
+Total words: 11403
+Total characters: 65283
+Sentence count: 579
+Avg words per sentence: 19.69
+Avg characters per sentence: 112.75
+Median words per sentence: 15.00
+Median characters per sentence: 70.00
+
+Title: Keeping Watch
+Unnecessary words: 21
+Parts of Speech: {'NOUN': 595, 'PUNCT': 1154, 'PROPN': 107, 'SPACE': 123, 'VERB': 655, 'DET': 293, 'ADV': 214, 'ADP': 344, 'ADJ': 183, 'PART': 134, 'PRON': 659, 'CCONJ': 183, 'AUX': 266, 'SCONJ': 82, 'INTJ': 43, 'NUM': 30, 'X': 5}
+Total words: 3558
+Total characters: 18116
+Sentence count: 256
+Avg words per sentence: 13.90
+Avg characters per sentence: 70.77
+Median words per sentence: 12.00
+Median characters per sentence: 50.00
+
+Title: That Pig of a Morin
+Unnecessary words: 33
+Parts of Speech: {'NOUN': 584, 'PUNCT': 838, 'SCONJ': 123, 'PROPN': 130, 'ADP': 434, 'DET': 324, 'SPACE': 57, 'X': 1, 'PRON': 810, 'ADV': 242, 'VERB': 680, 'AUX': 248, 'NUM': 30, 'PART': 158, 'ADJ': 230, 'CCONJ': 249, 'INTJ': 20}
+Total words: 4219
+Total characters: 22262
+Sentence count: 186
+Avg words per sentence: 22.68
+Avg characters per sentence: 119.69
+Median words per sentence: 19.00
+Median characters per sentence: 77.00
+
+Title: The Game
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 145, 'PUNCT': 94, 'DET': 68, 'PROPN': 10, 'SPACE': 18, 'ADP': 72, 'ADJ': 28, 'PRON': 109, 'VERB': 97, 'PART': 25, 'SCONJ': 13, 'ADV': 51, 'CCONJ': 28, 'AUX': 33, 'NUM': 9, 'INTJ': 2}
+Total words: 681
+Total characters: 3468
+Sentence count: 49
+Avg words per sentence: 13.90
+Avg characters per sentence: 70.78
+Median words per sentence: 13.00
+Median characters per sentence: 53.00
+
+Title: Girl
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 359, 'PUNCT': 487, 'PROPN': 89, 'SPACE': 68, 'ADP': 204, 'ADJ': 132, 'DET': 177, 'NUM': 21, 'AUX': 115, 'CCONJ': 76, 'VERB': 279, 'PRON': 283, 'PART': 34, 'ADV': 109, 'INTJ': 6, 'SCONJ': 43, 'SYM': 1}
+Total words: 1897
+Total characters: 10689
+Sentence count: 148
+Avg words per sentence: 12.82
+Avg characters per sentence: 72.22
+Median words per sentence: 10.50
+Median characters per sentence: 49.00
+
+Title: Scan
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 146, 'PUNCT': 102, 'PROPN': 30, 'SPACE': 8, 'PRON': 101, 'VERB': 117, 'ADP': 81, 'DET': 64, 'ADJ': 47, 'AUX': 64, 'ADV': 20, 'CCONJ': 24, 'PART': 26, 'SCONJ': 11, 'NUM': 8}
+Total words: 728
+Total characters: 3873
+Sentence count: 69
+Avg words per sentence: 10.55
+Avg characters per sentence: 56.13
+Median words per sentence: 10.00
+Median characters per sentence: 39.00
+
+Title: The Dreamer
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 301, 'PUNCT': 255, 'DET': 161, 'PROPN': 68, 'SPACE': 47, 'PRON': 186, 'AUX': 108, 'ADP': 190, 'CCONJ': 45, 'VERB': 203, 'ADJ': 83, 'ADV': 78, 'PART': 49, 'SCONJ': 33, 'NUM': 22}
+Total words: 1490
+Total characters: 8551
+Sentence count: 72
+Avg words per sentence: 20.69
+Avg characters per sentence: 118.76
+Median words per sentence: 19.00
+Median characters per sentence: 89.50
+
+Title: How Santa Claus Came to Simpson's Bar
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 1062, 'PUNCT': 1182, 'SCONJ': 87, 'PROPN': 386, 'VERB': 734, 'ADP': 695, 'PART': 142, 'SPACE': 94, 'PRON': 580, 'AUX': 299, 'DET': 646, 'CCONJ': 294, 'ADJ': 458, 'ADV': 295, 'NUM': 22, 'INTJ': 19, 'X': 5}
+Total words: 5547
+Total characters: 31540
+Sentence count: 349
+Avg words per sentence: 15.89
+Avg characters per sentence: 90.37
+Median words per sentence: 13.00
+Median characters per sentence: 60.00
+
+Title: Jimmy Scarecrow's Christmas
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 342, 'PUNCT': 495, 'PROPN': 226, 'PART': 65, 'SPACE': 72, 'VERB': 304, 'DET': 195, 'ADJ': 147, 'ADP': 225, 'AUX': 144, 'PRON': 298, 'CCONJ': 127, 'ADV': 105, 'SCONJ': 45, 'NUM': 8, 'INTJ': 6, 'X': 1}
+Total words: 2187
+Total characters: 11907
+Sentence count: 145
+Avg words per sentence: 15.08
+Avg characters per sentence: 82.12
+Median words per sentence: 13.00
+Median characters per sentence: 56.00
+
+Title: The Enchanted Bluff
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 681, 'PUNCT': 571, 'DET': 394, 'PROPN': 204, 'SPACE': 68, 'PRON': 474, 'VERB': 524, 'ADP': 467, 'CCONJ': 187, 'SCONJ': 115, 'AUX': 210, 'ADJ': 275, 'PART': 98, 'NUM': 31, 'ADV': 256, 'X': 1, 'INTJ': 5}
+Total words: 3868
+Total characters: 20776
+Sentence count: 208
+Avg words per sentence: 18.60
+Avg characters per sentence: 99.88
+Median words per sentence: 16.00
+Median characters per sentence: 70.50
+
+Title: The Darling
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 938, 'PUNCT': 962, 'DET': 440, 'PROPN': 165, 'SPACE': 287, 'ADP': 588, 'VERB': 682, 'ADJ': 323, 'AUX': 323, 'PRON': 702, 'CCONJ': 321, 'PART': 126, 'SCONJ': 119, 'ADV': 246, 'NUM': 36, 'INTJ': 15, 'X': 2}
+Total words: 4963
+Total characters: 27164
+Sentence count: 289
+Avg words per sentence: 17.17
+Avg characters per sentence: 93.99
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
+
+Title: Rescue
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 739, 'PUNCT': 619, 'PROPN': 177, 'SPACE': 52, 'ADJ': 225, 'ADP': 420, 'NUM': 48, 'DET': 378, 'VERB': 662, 'SCONJ': 120, 'AUX': 430, 'PRON': 705, 'PART': 158, 'CCONJ': 186, 'ADV': 196, 'INTJ': 6}
+Total words: 4318
+Total characters: 23365
+Sentence count: 269
+Avg words per sentence: 16.05
+Avg characters per sentence: 86.86
+Median words per sentence: 13.00
+Median characters per sentence: 56.00
+
+Title: Jean Wants
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 183, 'PUNCT': 183, 'PROPN': 25, 'VERB': 150, 'SPACE': 41, 'ADP': 87, 'DET': 85, 'ADV': 44, 'PRON': 134, 'CCONJ': 34, 'ADJ': 36, 'PART': 12, 'AUX': 18, 'NUM': 12, 'SCONJ': 13, 'SYM': 1, 'INTJ': 1}
+Total words: 804
+Total characters: 4585
+Sentence count: 80
+Avg words per sentence: 10.05
+Avg characters per sentence: 57.31
+Median words per sentence: 7.00
+Median characters per sentence: 34.50
+
+Title: Alien Hunters
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 224, 'PUNCT': 215, 'PROPN': 36, 'SPACE': 32, 'PRON': 135, 'VERB': 159, 'DET': 113, 'ADJ': 55, 'CCONJ': 36, 'ADP': 111, 'ADV': 62, 'AUX': 54, 'SCONJ': 18, 'NUM': 6, 'PART': 28}
+Total words: 1005
+Total characters: 5449
+Sentence count: 84
+Avg words per sentence: 11.96
+Avg characters per sentence: 64.87
+Median words per sentence: 11.00
+Median characters per sentence: 48.00
+
+Title: In The Ravine
+Unnecessary words: 53
+Parts of Speech: {'NOUN': 2172, 'PUNCT': 2494, 'ADP': 1448, 'DET': 1197, 'PROPN': 452, 'SPACE': 835, 'PRON': 1628, 'VERB': 1759, 'SCONJ': 284, 'ADV': 652, 'CCONJ': 661, 'AUX': 819, 'ADJ': 729, 'NUM': 93, 'PART': 268, 'INTJ': 51}
+Total words: 12099
+Total characters: 65131
+Sentence count: 668
+Avg words per sentence: 18.11
+Avg characters per sentence: 97.50
+Median words per sentence: 14.00
+Median characters per sentence: 61.00
+
+Title: An Occurrence at Owl Creek Bridge
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 866, 'PUNCT': 575, 'DET': 527, 'ADP': 475, 'PROPN': 50, 'SPACE': 343, 'PRON': 450, 'VERB': 477, 'SCONJ': 73, 'ADJ': 261, 'NUM': 26, 'ADV': 183, 'PART': 63, 'AUX': 207, 'CCONJ': 129, 'INTJ': 3}
+Total words: 3775
+Total characters: 21152
+Sentence count: 204
+Avg words per sentence: 18.50
+Avg characters per sentence: 103.69
+Median words per sentence: 17.00
+Median characters per sentence: 77.00
+
+Title: Dance Dance Revolution
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 279, 'PUNCT': 317, 'PROPN': 49, 'SPACE': 48, 'DET': 137, 'ADP': 139, 'VERB': 230, 'SCONJ': 19, 'ADJ': 57, 'PRON': 189, 'PART': 57, 'AUX': 67, 'ADV': 41, 'CCONJ': 37, 'NUM': 9, 'INTJ': 3}
+Total words: 1268
+Total characters: 7068
+Sentence count: 97
+Avg words per sentence: 13.07
+Avg characters per sentence: 72.87
+Median words per sentence: 11.00
+Median characters per sentence: 51.00
+
+Title: What Occurred at Franklin
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 561, 'PUNCT': 340, 'PRON': 246, 'VERB': 275, 'ADP': 378, 'PROPN': 103, 'SPACE': 20, 'ADJ': 196, 'CCONJ': 94, 'PART': 71, 'AUX': 155, 'ADV': 117, 'NUM': 35, 'DET': 266, 'SCONJ': 44}
+Total words: 2508
+Total characters: 14301
+Sentence count: 105
+Avg words per sentence: 23.89
+Avg characters per sentence: 136.20
+Median words per sentence: 23.00
+Median characters per sentence: 111.00
+
+Title: Uncle Ray Intercedes for Us
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 47, 'PUNCT': 27, 'PROPN': 15, 'ADP': 26, 'SPACE': 2, 'DET': 18, 'AUX': 6, 'ADV': 13, 'ADJ': 21, 'SCONJ': 3, 'VERB': 25, 'PART': 3, 'PRON': 12, 'NUM': 2, 'CCONJ': 11}
+Total words: 200
+Total characters: 1157
+Sentence count: 6
+Avg words per sentence: 33.33
+Avg characters per sentence: 192.83
+Median words per sentence: 32.00
+Median characters per sentence: 150.50
+
+Title: To Build a Fire
+Unnecessary words: 25
+Parts of Speech: {'NOUN': 1427, 'PUNCT': 959, 'PART': 165, 'VERB': 988, 'DET': 822, 'PROPN': 59, 'SPACE': 44, 'AUX': 408, 'ADJ': 429, 'CCONJ': 396, 'ADV': 397, 'SCONJ': 183, 'ADP': 863, 'PRON': 977, 'NUM': 73, 'INTJ': 3}
+Total words: 7167
+Total characters: 37747
+Sentence count: 420
+Avg words per sentence: 17.06
+Avg characters per sentence: 89.87
+Median words per sentence: 15.00
+Median characters per sentence: 65.00
+
+Title: Postcards
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 119, 'PUNCT': 140, 'PROPN': 55, 'SPACE': 28, 'VERB': 116, 'AUX': 51, 'PART': 27, 'PRON': 114, 'ADJ': 50, 'ADV': 49, 'SCONJ': 13, 'CCONJ': 29, 'DET': 68, 'ADP': 67, 'NUM': 21, 'INTJ': 2}
+Total words: 720
+Total characters: 4033
+Sentence count: 73
+Avg words per sentence: 9.86
+Avg characters per sentence: 55.25
+Median words per sentence: 10.00
+Median characters per sentence: 42.00
+
+Title: The Wind's Tale
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 829, 'PUNCT': 746, 'DET': 489, 'PART': 100, 'PROPN': 199, 'SPACE': 47, 'ADP': 471, 'CCONJ': 214, 'PRON': 573, 'SCONJ': 93, 'VERB': 592, 'ADJ': 280, 'AUX': 222, 'ADV': 209, 'NUM': 24, 'INTJ': 18}
+Total words: 4265
+Total characters: 22604
+Sentence count: 274
+Avg words per sentence: 15.57
+Avg characters per sentence: 82.50
+Median words per sentence: 14.00
+Median characters per sentence: 59.00
+
+Title: Hermann The Irascible
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 220, 'PUNCT': 185, 'PROPN': 84, 'DET': 123, 'SPACE': 16, 'ADP': 135, 'PRON': 75, 'AUX': 58, 'ADJ': 69, 'SCONJ': 19, 'VERB': 124, 'ADV': 38, 'CCONJ': 40, 'PART': 30, 'NUM': 14}
+Total words: 1018
+Total characters: 6123
+Sentence count: 38
+Avg words per sentence: 26.79
+Avg characters per sentence: 161.13
+Median words per sentence: 25.00
+Median characters per sentence: 112.50
+
+Title: L'Heure Bleue
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 136, 'PUNCT': 87, 'PROPN': 46, 'SPACE': 17, 'VERB': 63, 'DET': 75, 'ADJ': 52, 'ADP': 80, 'ADV': 42, 'CCONJ': 25, 'PRON': 47, 'AUX': 25, 'SCONJ': 6, 'PART': 13}
+Total words: 599
+Total characters: 3403
+Sentence count: 34
+Avg words per sentence: 17.62
+Avg characters per sentence: 100.09
+Median words per sentence: 16.00
+Median characters per sentence: 73.50
+
+Title: Saturday Night Special
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 794, 'PUNCT': 584, 'PROPN': 517, 'SPACE': 72, 'VERB': 626, 'ADV': 175, 'ADP': 447, 'DET': 376, 'ADJ': 324, 'CCONJ': 218, 'PRON': 505, 'AUX': 270, 'PART': 194, 'NUM': 49, 'SCONJ': 143, 'INTJ': 8, 'SYM': 4}
+Total words: 4528
+Total characters: 25122
+Sentence count: 215
+Avg words per sentence: 21.06
+Avg characters per sentence: 116.85
+Median words per sentence: 17.00
+Median characters per sentence: 78.00
+
+Title: Honest. Open. Willing.
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 178, 'PUNCT': 205, 'PROPN': 32, 'ADJ': 53, 'SPACE': 26, 'PRON': 188, 'AUX': 73, 'PART': 39, 'VERB': 156, 'ADP': 89, 'DET': 85, 'CCONJ': 29, 'NUM': 11, 'SCONJ': 30, 'ADV': 44, 'INTJ': 1}
+Total words: 966
+Total characters: 5227
+Sentence count: 80
+Avg words per sentence: 12.07
+Avg characters per sentence: 65.34
+Median words per sentence: 10.50
+Median characters per sentence: 46.00
+
+Title: The Thorny Road of Honor
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 388, 'PUNCT': 279, 'DET': 236, 'PROPN': 63, 'ADP': 236, 'SPACE': 31, 'ADJ': 101, 'ADV': 56, 'VERB': 179, 'PRON': 144, 'PART': 24, 'CCONJ': 85, 'AUX': 67, 'SCONJ': 24, 'NUM': 13, 'INTJ': 3}
+Total words: 1616
+Total characters: 8928
+Sentence count: 73
+Avg words per sentence: 22.14
+Avg characters per sentence: 122.30
+Median words per sentence: 18.00
+Median characters per sentence: 83.00
+
+Title: Humiliation
+Unnecessary words: 9
+Parts of Speech: {'NOUN': 336, 'PUNCT': 452, 'PROPN': 53, 'SPACE': 213, 'X': 1, 'DET': 199, 'NUM': 28, 'ADJ': 138, 'VERB': 286, 'ADP': 234, 'AUX': 132, 'PRON': 298, 'SCONJ': 53, 'CCONJ': 64, 'ADV': 102, 'PART': 47, 'INTJ': 11}
+Total words: 1974
+Total characters: 10979
+Sentence count: 126
+Avg words per sentence: 15.67
+Avg characters per sentence: 87.13
+Median words per sentence: 11.00
+Median characters per sentence: 50.50
+
+Title: The Way to the Dairy
+Unnecessary words: 26
+Parts of Speech: {'NOUN': 447, 'PUNCT': 442, 'DET': 266, 'ADP': 291, 'PROPN': 132, 'SPACE': 207, 'CCONJ': 88, 'VERB': 336, 'ADV': 156, 'ADJ': 178, 'PRON': 289, 'AUX': 186, 'PART': 75, 'SCONJ': 58, 'INTJ': 4, 'NUM': 46, 'X': 1}
+Total words: 2508
+Total characters: 14430
+Sentence count: 103
+Avg words per sentence: 24.35
+Avg characters per sentence: 140.10
+Median words per sentence: 23.00
+Median characters per sentence: 113.00
+
+Title: Perspective
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 193, 'PUNCT': 175, 'PROPN': 15, 'SPACE': 18, 'PRON': 137, 'VERB': 153, 'PART': 23, 'ADJ': 63, 'SCONJ': 20, 'DET': 84, 'ADP': 113, 'AUX': 43, 'ADV': 45, 'CCONJ': 29, 'NUM': 7, 'INTJ': 5}
+Total words: 910
+Total characters: 5032
+Sentence count: 69
+Avg words per sentence: 13.19
+Avg characters per sentence: 72.93
+Median words per sentence: 9.00
+Median characters per sentence: 38.00
+
+Title: Escape Plans
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 148, 'PUNCT': 92, 'SPACE': 13, 'PROPN': 4, 'ADJ': 40, 'CCONJ': 13, 'PRON': 79, 'VERB': 76, 'NUM': 11, 'ADP': 71, 'DET': 75, 'SCONJ': 9, 'AUX': 23, 'PART': 7, 'ADV': 24}
+Total words: 577
+Total characters: 3091
+Sentence count: 52
+Avg words per sentence: 11.10
+Avg characters per sentence: 59.44
+Median words per sentence: 10.00
+Median characters per sentence: 42.50
+
+Title: Natural Order
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 182, 'PUNCT': 126, 'ADJ': 77, 'SPACE': 13, 'PROPN': 22, 'DET': 101, 'VERB': 108, 'ADP': 100, 'AUX': 33, 'ADV': 38, 'CCONJ': 36, 'PRON': 70, 'NUM': 10, 'SCONJ': 12, 'PART': 21, 'X': 1}
+Total words: 800
+Total characters: 4626
+Sentence count: 55
+Avg words per sentence: 14.55
+Avg characters per sentence: 84.11
+Median words per sentence: 12.00
+Median characters per sentence: 63.00
+
+Title: With Gun
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 71, 'PUNCT': 61, 'ADP': 39, 'PROPN': 6, 'SPACE': 7, 'PRON': 87, 'VERB': 71, 'DET': 36, 'ADJ': 15, 'SCONJ': 12, 'AUX': 26, 'ADV': 21, 'PART': 15, 'CCONJ': 7}
+Total words: 391
+Total characters: 2083
+Sentence count: 37
+Avg words per sentence: 10.57
+Avg characters per sentence: 56.30
+Median words per sentence: 10.00
+Median characters per sentence: 35.00
+
+Title: The Righting Reflex
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 98, 'PUNCT': 74, 'DET': 54, 'PROPN': 26, 'SPACE': 7, 'PRON': 43, 'VERB': 55, 'ADJ': 23, 'ADP': 52, 'SCONJ': 13, 'CCONJ': 19, 'AUX': 21, 'ADV': 26, 'PART': 7, 'NUM': 2}
+Total words: 435
+Total characters: 2435
+Sentence count: 32
+Avg words per sentence: 13.59
+Avg characters per sentence: 76.09
+Median words per sentence: 13.00
+Median characters per sentence: 59.50
+
+Title: Brokeback Mountain
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 2100, 'PUNCT': 1835, 'PROPN': 626, 'SPACE': 802, 'PRON': 1322, 'AUX': 456, 'VERB': 1648, 'ADP': 1166, 'ADJ': 673, 'DET': 1149, 'ADV': 471, 'CCONJ': 432, 'SCONJ': 186, 'NUM': 111, 'PART': 287, 'INTJ': 29, 'X': 1}
+Total words: 10354
+Total characters: 55168
+Sentence count: 605
+Avg words per sentence: 17.11
+Avg characters per sentence: 91.19
+Median words per sentence: 12.00
+Median characters per sentence: 53.00
+
+Title: Unknown Title
+Unnecessary words: 54
+Parts of Speech: {'NOUN': 658, 'PUNCT': 1407, 'ADV': 267, 'ADP': 431, 'DET': 310, 'PROPN': 278, 'SPACE': 462, 'NUM': 35, 'ADJ': 211, 'AUX': 279, 'VERB': 702, 'PART': 154, 'CCONJ': 119, 'PRON': 786, 'SCONJ': 90, 'INTJ': 38}
+Total words: 4164
+Total characters: 23757
+Sentence count: 469
+Avg words per sentence: 8.88
+Avg characters per sentence: 50.65
+Median words per sentence: 7.00
+Median characters per sentence: 32.00
+
+Title: Gentle Hand
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 411, 'PUNCT': 415, 'PROPN': 44, 'SPACE': 196, 'PRON': 266, 'AUX': 118, 'PART': 67, 'VERB': 270, 'DET': 259, 'CCONJ': 88, 'ADP': 237, 'ADV': 134, 'SCONJ': 72, 'ADJ': 172, 'NUM': 15, 'INTJ': 2}
+Total words: 2107
+Total characters: 11375
+Sentence count: 118
+Avg words per sentence: 17.86
+Avg characters per sentence: 96.40
+Median words per sentence: 17.00
+Median characters per sentence: 73.50
+
+Title: The Boy And The Filberts
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 15, 'PUNCT': 16, 'DET': 11, 'CCONJ': 5, 'PROPN': 3, 'SPACE': 5, 'PRON': 15, 'AUX': 7, 'VERB': 17, 'PART': 7, 'ADP': 8, 'ADJ': 8, 'SCONJ': 1, 'ADV': 10}
+Total words: 107
+Total characters: 560
+Sentence count: 8
+Avg words per sentence: 13.38
+Avg characters per sentence: 70.00
+Median words per sentence: 13.50
+Median characters per sentence: 55.50
+
+Title: Two Gallants
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 720, 'PUNCT': 652, 'NUM': 45, 'SPACE': 371, 'PROPN': 204, 'DET': 395, 'ADJ': 239, 'ADP': 503, 'AUX': 193, 'VERB': 598, 'SCONJ': 72, 'CCONJ': 151, 'ADV': 200, 'PRON': 595, 'PART': 104, 'INTJ': 10, 'SYM': 1}
+Total words: 3961
+Total characters: 21330
+Sentence count: 288
+Avg words per sentence: 13.75
+Avg characters per sentence: 74.06
+Median words per sentence: 12.00
+Median characters per sentence: 53.00
+
+Title: Bertie's Christmas Eve
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 436, 'PUNCT': 341, 'PROPN': 156, 'PART': 55, 'SPACE': 191, 'PRON': 166, 'AUX': 136, 'CCONJ': 67, 'DET': 263, 'ADP': 296, 'ADJ': 158, 'VERB': 247, 'ADV': 86, 'NUM': 21, 'SCONJ': 29, 'INTJ': 3}
+Total words: 2065
+Total characters: 12002
+Sentence count: 89
+Avg words per sentence: 23.20
+Avg characters per sentence: 134.85
+Median words per sentence: 23.00
+Median characters per sentence: 100.00
+
+Title: The Star
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 1017, 'PUNCT': 657, 'PROPN': 134, 'SPACE': 42, 'PRON': 316, 'AUX': 216, 'ADP': 587, 'DET': 619, 'ADJ': 401, 'SCONJ': 91, 'VERB': 499, 'ADV': 233, 'NUM': 50, 'PART': 47, 'CCONJ': 280}
+Total words: 4475
+Total characters: 25352
+Sentence count: 187
+Avg words per sentence: 23.93
+Avg characters per sentence: 135.57
+Median words per sentence: 22.00
+Median characters per sentence: 99.00
+
+Title: Hyacinth
+Unnecessary words: 13
+Parts of Speech: {'NOUN': 436, 'PUNCT': 387, 'PROPN': 99, 'SPACE': 47, 'DET': 282, 'ADJ': 144, 'ADP': 281, 'VERB': 294, 'PART': 73, 'AUX': 196, 'ADV': 117, 'NUM': 27, 'PRON': 256, 'CCONJ': 81, 'SCONJ': 52, 'INTJ': 1}
+Total words: 2269
+Total characters: 12906
+Sentence count: 113
+Avg words per sentence: 20.08
+Avg characters per sentence: 114.21
+Median words per sentence: 18.00
+Median characters per sentence: 86.00
+
+Title: The Miss April Houses
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 462, 'PUNCT': 346, 'DET': 245, 'PROPN': 152, 'SPACE': 40, 'ADP': 277, 'CCONJ': 78, 'VERB': 287, 'ADJ': 136, 'AUX': 122, 'PRON': 209, 'ADV': 114, 'SCONJ': 38, 'PART': 65, 'NUM': 40, 'SYM': 7, 'INTJ': 3}
+Total words: 2162
+Total characters: 12985
+Sentence count: 115
+Avg words per sentence: 18.80
+Avg characters per sentence: 112.91
+Median words per sentence: 14.00
+Median characters per sentence: 75.00
+
+Title: Tennessee's Partner
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 650, 'PUNCT': 663, 'PROPN': 198, 'PART': 126, 'SPACE': 30, 'VERB': 448, 'SCONJ': 92, 'PRON': 412, 'ADV': 196, 'ADJ': 265, 'ADP': 438, 'DET': 390, 'NUM': 16, 'CCONJ': 165, 'AUX': 205, 'INTJ': 5}
+Total words: 3512
+Total characters: 20748
+Sentence count: 154
+Avg words per sentence: 22.81
+Avg characters per sentence: 134.73
+Median words per sentence: 19.00
+Median characters per sentence: 95.00
+
+Title: The Boarded Window
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 381, 'PUNCT': 236, 'DET': 209, 'PROPN': 26, 'SPACE': 16, 'ADP': 236, 'NUM': 9, 'ADV': 113, 'ADJ': 134, 'PRON': 223, 'AUX': 121, 'VERB': 242, 'CCONJ': 72, 'SCONJ': 47, 'PART': 49}
+Total words: 1852
+Total characters: 10258
+Sentence count: 79
+Avg words per sentence: 23.44
+Avg characters per sentence: 129.85
+Median words per sentence: 22.00
+Median characters per sentence: 97.00
+
+Title: As Close as We Dare
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 202, 'PUNCT': 169, 'ADV': 46, 'SCONJ': 34, 'PRON': 153, 'VERB': 165, 'SPACE': 22, 'PROPN': 10, 'ADP': 105, 'DET': 89, 'CCONJ': 50, 'ADJ': 52, 'PART': 32, 'AUX': 65, 'NUM': 8, 'INTJ': 1, 'X': 1}
+Total words: 999
+Total characters: 5375
+Sentence count: 57
+Avg words per sentence: 17.53
+Avg characters per sentence: 94.30
+Median words per sentence: 13.00
+Median characters per sentence: 61.00
+
+Title: The Meat Bee
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 801, 'PUNCT': 715, 'DET': 280, 'PROPN': 115, 'SPACE': 58, 'PRON': 581, 'VERB': 526, 'AUX': 180, 'CCONJ': 145, 'ADV': 150, 'ADP': 326, 'ADJ': 276, 'SCONJ': 39, 'NUM': 30, 'PART': 69, 'INTJ': 34}
+Total words: 3476
+Total characters: 19310
+Sentence count: 227
+Avg words per sentence: 15.31
+Avg characters per sentence: 85.07
+Median words per sentence: 7.00
+Median characters per sentence: 31.00
+
+Title: Triple Goddess
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 192, 'PUNCT': 128, 'PROPN': 8, 'SPACE': 20, 'ADP': 124, 'DET': 104, 'ADJ': 58, 'VERB': 130, 'CCONJ': 37, 'ADV': 55, 'PRON': 138, 'AUX': 65, 'NUM': 5, 'PART': 16, 'SCONJ': 31}
+Total words: 953
+Total characters: 5076
+Sentence count: 88
+Avg words per sentence: 10.83
+Avg characters per sentence: 57.68
+Median words per sentence: 10.00
+Median characters per sentence: 42.00
+
+Title: Child Psychology
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 119, 'PUNCT': 121, 'PROPN': 12, 'SPACE': 20, 'PRON': 99, 'VERB': 88, 'PART': 22, 'ADP': 58, 'DET': 60, 'ADJ': 24, 'ADV': 13, 'NUM': 3, 'AUX': 25, 'SCONJ': 11, 'INTJ': 1, 'CCONJ': 7}
+Total words: 533
+Total characters: 2876
+Sentence count: 60
+Avg words per sentence: 8.88
+Avg characters per sentence: 47.93
+Median words per sentence: 7.00
+Median characters per sentence: 31.50
+
+Title: Delicately, I Beg of You
+Unnecessary words: 15
+Parts of Speech: {'NOUN': 126, 'PUNCT': 168, 'ADV': 81, 'PRON': 186, 'PROPN': 5, 'ADP': 79, 'SPACE': 18, 'SCONJ': 38, 'VERB': 156, 'DET': 63, 'AUX': 75, 'ADJ': 56, 'CCONJ': 41, 'PART': 44, 'NUM': 9, 'INTJ': 2}
+Total words: 932
+Total characters: 5016
+Sentence count: 77
+Avg words per sentence: 12.10
+Avg characters per sentence: 65.14
+Median words per sentence: 10.00
+Median characters per sentence: 39.00
+
+Title: Lost in the Funhouse
+Unnecessary words: 46
+Parts of Speech: {'NOUN': 2012, 'PUNCT': 1551, 'VERB': 1278, 'ADP': 1138, 'DET': 963, 'PROPN': 495, 'SPACE': 765, 'PRON': 1018, 'AUX': 618, 'ADV': 568, 'CCONJ': 374, 'ADJ': 660, 'PART': 333, 'SCONJ': 249, 'NUM': 93, 'X': 2, 'INTJ': 4}
+Total words: 9521
+Total characters: 54933
+Sentence count: 492
+Avg words per sentence: 19.35
+Avg characters per sentence: 111.65
+Median words per sentence: 16.00
+Median characters per sentence: 73.50
+
+Title: Daughters of the Air
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 307, 'PUNCT': 362, 'ADP': 196, 'DET': 150, 'PROPN': 65, 'SPACE': 38, 'NUM': 12, 'ADJ': 110, 'VERB': 267, 'SCONJ': 33, 'PRON': 230, 'ADV': 95, 'CCONJ': 53, 'AUX': 76, 'PART': 40, 'INTJ': 7}
+Total words: 1602
+Total characters: 9049
+Sentence count: 142
+Avg words per sentence: 11.28
+Avg characters per sentence: 63.73
+Median words per sentence: 8.00
+Median characters per sentence: 38.00
+
+Title: The Romance of a Busy Broker
+Unnecessary words: 3
+Parts of Speech: {'NOUN': 303, 'PUNCT': 263, 'DET': 161, 'ADP': 178, 'PROPN': 79, 'SPACE': 139, 'ADJ': 109, 'VERB': 181, 'CCONJ': 65, 'PART': 41, 'PRON': 153, 'SCONJ': 17, 'ADV': 78, 'NUM': 10, 'AUX': 65, 'INTJ': 3}
+Total words: 1410
+Total characters: 8114
+Sentence count: 95
+Avg words per sentence: 14.84
+Avg characters per sentence: 85.41
+Median words per sentence: 13.00
+Median characters per sentence: 61.00
+
+Title: The Egg
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 127, 'PUNCT': 398, 'DET': 82, 'PROPN': 17, 'SPACE': 92, 'PRON': 244, 'AUX': 104, 'ADP': 84, 'ADV': 74, 'SCONJ': 25, 'VERB': 156, 'ADJ': 68, 'CCONJ': 38, 'NUM': 4, 'PART': 23, 'INTJ': 13}
+Total words: 1000
+Total characters: 5588
+Sentence count: 145
+Avg words per sentence: 6.90
+Avg characters per sentence: 38.54
+Median words per sentence: 6.00
+Median characters per sentence: 26.00
+
+Title: The Edifice
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 219, 'PUNCT': 162, 'DET': 122, 'PROPN': 19, 'SPACE': 26, 'PRON': 130, 'VERB': 139, 'ADP': 137, 'ADV': 53, 'CCONJ': 29, 'ADJ': 72, 'AUX': 55, 'PART': 33, 'SCONJ': 21, 'NUM': 6, 'INTJ': 1}
+Total words: 1011
+Total characters: 5891
+Sentence count: 61
+Avg words per sentence: 16.57
+Avg characters per sentence: 96.57
+Median words per sentence: 11.00
+Median characters per sentence: 53.00
+
+Title: The Wolves of Cernogatz
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 309, 'PUNCT': 324, 'DET': 216, 'PROPN': 71, 'ADP': 188, 'SPACE': 155, 'AUX': 119, 'PRON': 219, 'ADJ': 118, 'VERB': 246, 'CCONJ': 71, 'ADV': 87, 'PART': 42, 'SCONJ': 37, 'NUM': 10, 'INTJ': 2}
+Total words: 1725
+Total characters: 9449
+Sentence count: 89
+Avg words per sentence: 19.38
+Avg characters per sentence: 106.17
+Median words per sentence: 17.00
+Median characters per sentence: 78.00
+
+Title: The Alchemist
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 749, 'PUNCT': 403, 'DET': 438, 'PROPN': 130, 'SPACE': 279, 'ADP': 528, 'VERB': 450, 'ADJ': 355, 'AUX': 172, 'PRON': 411, 'ADV': 178, 'SCONJ': 97, 'CCONJ': 138, 'NUM': 41, 'PART': 55, 'X': 2}
+Total words: 3724
+Total characters: 20820
+Sentence count: 126
+Avg words per sentence: 29.56
+Avg characters per sentence: 165.24
+Median words per sentence: 27.00
+Median characters per sentence: 124.00
+
+Title: The Couplet
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 137, 'PUNCT': 102, 'DET': 50, 'PROPN': 11, 'SPACE': 20, 'PRON': 106, 'VERB': 95, 'ADV': 28, 'ADP': 74, 'PART': 14, 'ADJ': 38, 'SCONJ': 19, 'AUX': 22, 'CCONJ': 12, 'NUM': 9, 'SYM': 1}
+Total words: 600
+Total characters: 3365
+Sentence count: 53
+Avg words per sentence: 11.32
+Avg characters per sentence: 63.49
+Median words per sentence: 9.00
+Median characters per sentence: 45.00
+
+Title: The Indian Uprising
+Unnecessary words: 6
+Parts of Speech: {'NOUN': 519, 'PUNCT': 497, 'DET': 232, 'PROPN': 146, 'SPACE': 38, 'PRON': 285, 'VERB': 315, 'ADV': 80, 'AUX': 120, 'ADP': 270, 'ADJ': 209, 'CCONJ': 118, 'PART': 38, 'INTJ': 2, 'NUM': 24, 'SCONJ': 45, 'SYM': 3}
+Total words: 2374
+Total characters: 13514
+Sentence count: 150
+Avg words per sentence: 15.83
+Avg characters per sentence: 90.09
+Median words per sentence: 11.00
+Median characters per sentence: 50.50
+
+Title: The Aged Mother
+Unnecessary words: 2
+Parts of Speech: {'NOUN': 198, 'PUNCT': 146, 'DET': 102, 'ADJ': 86, 'SPACE': 12, 'PROPN': 15, 'ADV': 53, 'PRON': 109, 'VERB': 146, 'ADP': 106, 'CCONJ': 46, 'AUX': 46, 'SCONJ': 20, 'PART': 18, 'NUM': 6, 'INTJ': 5}
+Total words: 951
+Total characters: 5290
+Sentence count: 57
+Avg words per sentence: 16.68
+Avg characters per sentence: 92.81
+Median words per sentence: 16.00
+Median characters per sentence: 74.00
+
+Title: A Telephonic Conversation
+Unnecessary words: 10
+Parts of Speech: {'NOUN': 134, 'PUNCT': 234, 'DET': 61, 'PROPN': 60, 'SPACE': 79, 'VERB': 115, 'SCONJ': 22, 'ADP': 68, 'PRON': 131, 'AUX': 57, 'ADV': 62, 'CCONJ': 26, 'PART': 27, 'NUM': 9, 'ADJ': 47, 'INTJ': 27}
+Total words: 806
+Total characters: 4423
+Sentence count: 101
+Avg words per sentence: 7.98
+Avg characters per sentence: 43.79
+Median words per sentence: 6.00
+Median characters per sentence: 24.00
+
+Title: Rappaccini's Daughter
+Unnecessary words: 33
+Parts of Speech: {'NOUN': 2293, 'PUNCT': 1993, 'PROPN': 480, 'PART': 325, 'SPACE': 139, 'PRON': 1489, 'AUX': 719, 'VERB': 1394, 'DET': 1196, 'ADP': 1556, 'ADJ': 1055, 'SCONJ': 325, 'ADV': 655, 'NUM': 59, 'CCONJ': 510, 'X': 4, 'INTJ': 29}
+Total words: 11935
+Total characters: 69118
+Sentence count: 516
+Avg words per sentence: 23.13
+Avg characters per sentence: 133.95
+Median words per sentence: 19.00
+Median characters per sentence: 94.00
+
+Title: Two Men Come to a Village
+Unnecessary words: 16
+Parts of Speech: {'NOUN': 444, 'PUNCT': 344, 'NUM': 30, 'VERB': 265, 'ADP': 239, 'DET': 256, 'PROPN': 21, 'SPACE': 11, 'ADV': 145, 'CCONJ': 134, 'AUX': 137, 'ADJ': 177, 'SCONJ': 72, 'PRON': 245, 'PART': 54, 'INTJ': 2}
+Total words: 2197
+Total characters: 11765
+Sentence count: 67
+Avg words per sentence: 32.79
+Avg characters per sentence: 175.60
+Median words per sentence: 28.00
+Median characters per sentence: 112.00
+
+Title: The Dead
+Unnecessary words: 92
+Parts of Speech: {'NOUN': 2625, 'PUNCT': 3105, 'DET': 1399, 'PROPN': 1258, 'SPACE': 1022, 'PART': 416, 'AUX': 1002, 'ADV': 938, 'VERB': 2171, 'ADP': 1841, 'PRON': 2162, 'NUM': 83, 'ADJ': 951, 'CCONJ': 683, 'SCONJ': 387, 'INTJ': 67}
+Total words: 15586
+Total characters: 85459
+Sentence count: 932
+Avg words per sentence: 16.72
+Avg characters per sentence: 91.69
+Median words per sentence: 14.00
+Median characters per sentence: 62.00
+
+Title: Aloha Oe
+Unnecessary words: 5
+Parts of Speech: {'NOUN': 519, 'PUNCT': 399, 'PROPN': 164, 'SPACE': 33, 'ADV': 110, 'AUX': 182, 'PRON': 349, 'ADJ': 166, 'ADP': 336, 'DET': 274, 'VERB': 320, 'PART': 53, 'NUM': 17, 'CCONJ': 134, 'SCONJ': 66, 'INTJ': 13, 'X': 1}
+Total words: 2671
+Total characters: 14859
+Sentence count: 144
+Avg words per sentence: 18.55
+Avg characters per sentence: 103.19
+Median words per sentence: 14.00
+Median characters per sentence: 65.50
+
+Title: Yvette
+Unnecessary words: 14
+Parts of Speech: {'NOUN': 275, 'PUNCT': 343, 'PROPN': 44, 'SPACE': 47, 'X': 1, 'DET': 157, 'ADP': 153, 'ADV': 85, 'NUM': 9, 'PRON': 248, 'AUX': 101, 'VERB': 208, 'PART': 46, 'SCONJ': 41, 'INTJ': 6, 'ADJ': 111, 'CCONJ': 53}
+Total words: 1516
+Total characters: 8453
+Sentence count: 102
+Avg words per sentence: 14.86
+Avg characters per sentence: 82.87
+Median words per sentence: 13.00
+Median characters per sentence: 57.50
+
+Title: Moonlight Paddle in Manchac Swamp
+Unnecessary words: 4
+Parts of Speech: {'NOUN': 185, 'PUNCT': 153, 'PROPN': 31, 'ADP': 111, 'SPACE': 34, 'PRON': 160, 'VERB': 163, 'SCONJ': 22, 'DET': 106, 'AUX': 42, 'NUM': 2, 'CCONJ': 40, 'ADJ': 53, 'ADV': 46, 'PART': 19}
+Total words: 961
+Total characters: 5411
+Sentence count: 64
+Avg words per sentence: 15.02
+Avg characters per sentence: 84.55
+Median words per sentence: 14.00
+Median characters per sentence: 67.00
+
+Title: Alexandre
+Unnecessary words: 7
+Parts of Speech: {'NOUN': 268, 'PUNCT': 316, 'PROPN': 48, 'SPACE': 47, 'X': 1, 'ADP': 204, 'NUM': 12, 'DET': 151, 'SCONJ': 46, 'ADJ': 114, 'VERB': 213, 'ADV': 78, 'PART': 36, 'PRON': 248, 'AUX': 102, 'CCONJ': 49, 'INTJ': 8}
+Total words: 1556
+Total characters: 8711
+Sentence count: 82
+Avg words per sentence: 18.98
+Avg characters per sentence: 106.23
+Median words per sentence: 15.00
+Median characters per sentence: 73.50
+
+Title: Re: Clients
+Unnecessary words: 0
+Parts of Speech: {'NOUN': 108, 'PUNCT': 39, 'ADP': 71, 'SPACE': 4, 'PROPN': 10, 'DET': 57, 'AUX': 30, 'PART': 10, 'VERB': 68, 'NUM': 18, 'PRON': 62, 'ADV': 31, 'SCONJ': 19, 'CCONJ': 29, 'ADJ': 28}
+Total words: 532
+Total characters: 2859
+Sentence count: 11
+Avg words per sentence: 48.36
+Avg characters per sentence: 259.91
+Median words per sentence: 43.00
+Median characters per sentence: 205.00
+
+Title: The Door
+Unnecessary words: 8
+Parts of Speech: {'NOUN': 351, 'PUNCT': 282, 'DET': 264, 'PROPN': 20, 'SPACE': 18, 'PRON': 307, 'VERB': 252, 'AUX': 191, 'PART': 78, 'CCONJ': 124, 'ADV': 126, 'ADP': 193, 'SCONJ': 57, 'ADJ': 109, 'NUM': 15}
+Total words: 2061
+Total characters: 10725
+Sentence count: 70
+Avg words per sentence: 29.44
+Avg characters per sentence: 153.21
+Median words per sentence: 18.00
+Median characters per sentence: 82.00
+
+Title: Out of Nowhere
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 46, 'PUNCT': 45, 'ADP': 34, 'PROPN': 9, 'SPACE': 8, 'CCONJ': 11, 'AUX': 8, 'VERB': 45, 'PRON': 37, 'ADJ': 7, 'ADV': 7, 'NUM': 3, 'PART': 5, 'DET': 9, 'SCONJ': 5}
+Total words: 222
+Total characters: 1303
+Sentence count: 31
+Avg words per sentence: 7.16
+Avg characters per sentence: 42.03
+Median words per sentence: 6.00
+Median characters per sentence: 30.00
+
+Title: Italian without a Master
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 420, 'PUNCT': 381, 'ADJ': 163, 'ADP': 243, 'DET': 234, 'PROPN': 252, 'SPACE': 41, 'PRON': 281, 'AUX': 128, 'ADV': 94, 'SCONJ': 61, 'VERB': 261, 'CCONJ': 104, 'NUM': 58, 'PART': 61, 'X': 7, 'INTJ': 6}
+Total words: 2315
+Total characters: 13150
+Sentence count: 132
+Avg words per sentence: 17.54
+Avg characters per sentence: 99.62
+Median words per sentence: 14.50
+Median characters per sentence: 64.50
+
+Title: Uncle Wiggily in Connecticut
+Unnecessary words: 50
+Parts of Speech: {'NOUN': 641, 'PUNCT': 1712, 'PROPN': 514, 'ADP': 471, 'SPACE': 438, 'PRON': 900, 'AUX': 330, 'ADV': 360, 'NUM': 43, 'SCONJ': 87, 'VERB': 903, 'PART': 173, 'DET': 323, 'ADJ': 235, 'CCONJ': 156, 'INTJ': 78}
+Total words: 4975
+Total characters: 27639
+Sentence count: 582
+Avg words per sentence: 8.55
+Avg characters per sentence: 47.49
+Median words per sentence: 7.00
+Median characters per sentence: 32.00
+
+Title: In the Wood
+Unnecessary words: 20
+Parts of Speech: {'NOUN': 261, 'PUNCT': 363, 'ADP': 201, 'DET': 146, 'PROPN': 68, 'SPACE': 41, 'X': 5, 'SCONJ': 63, 'AUX': 129, 'ADJ': 107, 'PART': 63, 'VERB': 261, 'PRON': 328, 'NUM': 17, 'ADV': 106, 'CCONJ': 88, 'INTJ': 8}
+Total words: 1842
+Total characters: 9655
+Sentence count: 95
+Avg words per sentence: 19.39
+Avg characters per sentence: 101.63
+Median words per sentence: 18.00
+Median characters per sentence: 75.00
+
+Title: Goodbye to All That
+Unnecessary words: 36
+Parts of Speech: {'NOUN': 628, 'PUNCT': 453, 'PROPN': 276, 'ADP': 455, 'DET': 379, 'SPACE': 31, 'SCONJ': 135, 'ADJ': 235, 'NUM': 67, 'CCONJ': 242, 'AUX': 275, 'PRON': 513, 'VERB': 507, 'ADV': 269, 'INTJ': 2, 'PART': 101, 'SYM': 3, 'X': 1}
+Total words: 4055
+Total characters: 21577
+Sentence count: 121
+Avg words per sentence: 33.51
+Avg characters per sentence: 178.32
+Median words per sentence: 24.00
+Median characters per sentence: 102.00
+
+Title: Victory Lap
+Unnecessary words: 58
+Parts of Speech: {'NOUN': 1081, 'PUNCT': 1234, 'PROPN': 403, 'SPACE': 763, 'NUM': 44, 'ADJ': 371, 'ADP': 575, 'PRON': 795, 'VERB': 898, 'DET': 506, 'AUX': 466, 'CCONJ': 118, 'SCONJ': 136, 'ADV': 387, 'PART': 163, 'INTJ': 50, 'X': 6, 'SYM': 4}
+Total words: 5789
+Total characters: 31796
+Sentence count: 613
+Avg words per sentence: 9.44
+Avg characters per sentence: 51.87
+Median words per sentence: 6.00
+Median characters per sentence: 26.00
+
+Title: The Use of Force
+Unnecessary words: 12
+Parts of Speech: {'NOUN': 236, 'PUNCT': 211, 'DET': 114, 'PROPN': 12, 'ADP': 157, 'SPACE': 35, 'PRON': 291, 'AUX': 114, 'ADJ': 78, 'VERB': 251, 'INTJ': 7, 'ADV': 109, 'SCONJ': 38, 'CCONJ': 73, 'PART': 59, 'NUM': 7}
+Total words: 1504
+Total characters: 7869
+Sentence count: 117
+Avg words per sentence: 12.85
+Avg characters per sentence: 67.26
+Median words per sentence: 11.00
+Median characters per sentence: 46.00
+
+Title: Raw Season
+Unnecessary words: 18
+Parts of Speech: {'NOUN': 1339, 'PUNCT': 1476, 'PROPN': 501, 'SPACE': 221, 'DET': 712, 'ADJ': 436, 'VERB': 1371, 'PRON': 1203, 'ADV': 312, 'CCONJ': 247, 'PART': 262, 'AUX': 365, 'ADP': 880, 'SCONJ': 148, 'NUM': 35, 'INTJ': 19, 'X': 4}
+Total words: 7660
+Total characters: 41171
+Sentence count: 817
+Avg words per sentence: 9.38
+Avg characters per sentence: 50.39
+Median words per sentence: 8.00
+Median characters per sentence: 34.00
+
+Title: Take Five Hundred New Nightmares
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 58, 'PUNCT': 49, 'VERB': 56, 'NUM': 4, 'PROPN': 20, 'SPACE': 5, 'PRON': 67, 'AUX': 23, 'SCONJ': 10, 'PART': 11, 'DET': 28, 'ADP': 30, 'ADJ': 17, 'CCONJ': 13, 'ADV': 13, 'INTJ': 2}
+Total words: 338
+Total characters: 1752
+Sentence count: 29
+Avg words per sentence: 11.66
+Avg characters per sentence: 60.41
+Median words per sentence: 11.00
+Median characters per sentence: 52.00
+
+Title: Hall of Hauntings
+Unnecessary words: 1
+Parts of Speech: {'NOUN': 209, 'PUNCT': 268, 'PROPN': 21, 'ADP': 121, 'SPACE': 37, 'DET': 117, 'PRON': 235, 'VERB': 190, 'CCONJ': 47, 'NUM': 9, 'AUX': 98, 'ADJ': 81, 'PART': 37, 'ADV': 59, 'INTJ': 7, 'SCONJ': 31}
+Total words: 1236
+Total characters: 6847
+Sentence count: 130
+Avg words per sentence: 9.51
+Avg characters per sentence: 52.67
+Median words per sentence: 8.00
+Median characters per sentence: 39.50
 
 Title: Sonny's Blues
 Unnecessary words: 118
@@ -215,19 +3275,36 @@ Total characters: 70650
 Sentence count: 989
 Avg words per sentence: 13.02
 Avg characters per sentence: 71.44
+Median words per sentence: 11.00
+Median characters per sentence: 47.00
 
-Title: Where Are You Going, Where Have You Been?
-Unnecessary words: 37
-Parts of Speech: {'NOUN': 1048, 'PUNCT': 1381, 'SCONJ': 214, 'AUX': 509, 'PRON': 1251, 'VERB': 1083, 'SPACE': 538, 'PROPN': 238, 'NUM': 47, 'CCONJ': 348, 'DET': 539, 'ADJ': 412, 'ADP': 717, 'PART': 265, 'ADV': 454, 'INTJ': 27}
-Total words: 6910
-Total characters: 36681
-Sentence count: 455
-Avg words per sentence: 15.19
-Avg characters per sentence: 80.62
+Title: A Rose for Emily
+Unnecessary words: 21
+Parts of Speech: {'NOUN': 710, 'PUNCT': 602, 'DET': 419, 'PROPN': 203, 'ADP': 393, 'SPACE': 332, 'SCONJ': 109, 'VERB': 466, 'PRON': 403, 'ADJ': 243, 'ADV': 174, 'PART': 77, 'CCONJ': 148, 'NUM': 51, 'AUX': 183, 'INTJ': 4, 'X': 1}
+Total words: 3552
+Total characters: 19886
+Sentence count: 194
+Avg words per sentence: 18.31
+Avg characters per sentence: 102.51
+Median words per sentence: 16.00
+Median characters per sentence: 72.00
+
+Title: A Slander
+Unnecessary words: 11
+Parts of Speech: {'NOUN': 272, 'PUNCT': 417, 'PROPN': 59, 'SPACE': 139, 'DET': 154, 'AUX': 87, 'VERB': 223, 'PRON': 224, 'ADP': 189, 'CCONJ': 63, 'ADV': 56, 'ADJ': 74, 'NUM': 4, 'SCONJ': 22, 'PART': 25, 'INTJ': 11}
+Total words: 1430
+Total characters: 8024
+Sentence count: 151
+Avg words per sentence: 9.47
+Avg characters per sentence: 53.14
+Median words per sentence: 6.00
+Median characters per sentence: 28.00
 
 ### Averages Across All Files ###
 
-Average unnecessary words: 36.12
-Average parts of speech: {'NOUN': 1165.76, 'PUNCT': 1255.28, 'PROPN': 288.56, 'PRON': 970.84, 'SPACE': 356.68, 'AUX': 419.88, 'DET': 649.56, 'ADV': 397.2, 'ADJ': 415.64, 'ADP': 747.88, 'CCONJ': 299.48, 'SCONJ': 176.56, 'VERB': 997.88, 'PART': 200.88, 'NUM': 50.6, 'INTJ': 19.96, 'unnecessary_word_count': 36.12, 'total_words': 6652.64, 'total_characters': 36146.08, 'sentence_count': 421.16, 'avg_words_per_sentence': 16.569662065213894, 'avg_characters_per_sentence': 90.0315273497441, 'X': 1.2, 'SYM': 0.2}
-Average words per sentence: 16.57
-Average characters per sentence: 90.03
+Average unnecessary words: 16.22
+Average parts of speech: {'NOUN': 583.01, 'PUNCT': 595.2066666666667, 'PROPN': 128.48333333333332, 'SPACE': 133.57, 'X': 1.1, 'DET': 323.88, 'ADP': 365.7866666666667, 'AUX': 201.31333333333333, 'ADJ': 209.45666666666668, 'VERB': 463.52, 'CCONJ': 137.54666666666665, 'PART': 91.87, 'PRON': 457.0733333333333, 'NUM': 28.42, 'SCONJ': 80.31666666666666, 'ADV': 178.17666666666668, 'INTJ': 9.303333333333333, 'unnecessary_word_count': 16.22, 'total_words': 3195.89, 'total_characters': 17530.113333333335, 'sentence_count': 202.27333333333334, 'avg_words_per_sentence': 17.034814695825, 'avg_characters_per_sentence': 93.91184798420397, 'SYM': 0.22}
+Average words per sentence: 17.03
+Average characters per sentence: 93.91
+Median words per sentence: 13.00
+Median characters per sentence: 58.00
