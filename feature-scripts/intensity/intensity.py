@@ -16,15 +16,14 @@ def analyze_sentiment(file_path):
 
     blob = TextBlob(text)
     sentences = blob.sentences
-
-    total_absolute_sentiment = 0
-
-    for sentence in sentences:
-        sentiment = sentence.sentiment.polarity
-        total_absolute_sentiment += abs(sentiment)
+    
+    total_absolute_sentiment = sum(abs(sentence.sentiment.polarity) for sentence in sentences)
+    total_sentences = len(sentences)
+    
+    normalized_sentiment = total_absolute_sentiment / total_sentences if total_sentences > 0 else 0
 
     return {
-        "total_absolute_sentiment": total_absolute_sentiment
+        "normalized_absolute_sentiment": normalized_sentiment
     }
 
 def process_sentiment_directory(directory_path, output_file_path):

@@ -1,3 +1,8 @@
+"""
+SETUP: conda activate py39
+Code co-authored with ChatGPT
+"""
+
 import nltk
 from nltk.tokenize import sent_tokenize
 import os
@@ -20,13 +25,15 @@ def analyze_file(file_path):
         print(f"Skipping file due to no valid sentences: {file_path}")
         return None
 
-    total_polarity = sum(sentence.sentiment.polarity for sentence in sentences)
-    average_polarity = total_polarity / len(sentences)
+    # Sum absolute negative polarity
+    negative_polarity_sum = sum(abs(sentence.sentiment.polarity) for sentence in sentences if sentence.sentiment.polarity < 0)
 
-    psychological_intensity = -average_polarity * 10 
+    # Normalize by number of sentences
+    num_sentences = len(sentences)
+    normalized_mystery_and_strangeness_score = negative_polarity_sum / num_sentences if num_sentences > 0 else 0
 
     return {
-        "psychological_intensity": psychological_intensity
+        "normalized_mystery_and_strangeness_score": normalized_mystery_and_strangeness_score
     }
 
 def process_directory(directory_path, output_file_path):
@@ -44,7 +51,7 @@ def process_directory(directory_path, output_file_path):
         output_file.write("### Analysis Results for Each File ###\n\n")
         for title, scores in results:
             output_file.write(f"Title: {title}\n")
-            output_file.write(f"Psychological Intensity: {scores['psychological_intensity']:.4f}\n\n")
+            output_file.write(f"Normalized Mystery and Strangeness Score: {scores['normalized_mystery_and_strangeness_score']:.4f}\n\n")
 
 def main():
     generated_stories_dir = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/generated-stories"

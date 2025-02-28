@@ -1,77 +1,902 @@
 ### Analysis Results for Each File ###
 
-Title: Goodbye, My Brother.txt
-Psychological Intensity: -0.1276
+Title: Timbuctoo, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0528
 
-Title: The Tell-Tale Heart.txt
-Psychological Intensity: -0.6777
+Title: The Thousand-And-Second Tale of Scheherazade, Poe.txt
+Normalized Mystery and Strangeness Score: 0.0347
 
-Title: Mother.txt
-Psychological Intensity: -0.1253
+Title: The Soldier_s Peaches, Cloete.txt
+Normalized Mystery and Strangeness Score: 0.0338
 
-Title: uncle_wiggly.txt
-Psychological Intensity: -0.0744
+Title: Ghoul, Sanders.txt
+Normalized Mystery and Strangeness Score: 0.0556
 
-Title: The Aleph.txt
-Psychological Intensity: -0.3250
+Title: A Very Old Man with Enormous Wings, Marquez.txt
+Normalized Mystery and Strangeness Score: 0.0905
 
-Title: why_don't_you_dance.txt
-Psychological Intensity: -0.2319
+Title: The Stranger, Mansfield.txt
+Normalized Mystery and Strangeness Score: 0.0430
 
-Title: The Gardener.txt
-Psychological Intensity: -0.5329
+Title: The Sisters, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0938
 
-Title: How to Tell a True War Story, O'Brien.txt
-Psychological Intensity: -0.3756
+Title: Lady with the Dog, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0485
 
-Title: Big Two-Hearted River.txt
-Psychological Intensity: -0.3169
+Title: a_few_normal_things_that_happen_a_lot.txt
+Normalized Mystery and Strangeness Score: 0.0825
 
-Title: indian_uprising.txt
-Psychological Intensity: -0.4366
+Title: Turkeys Turning The Tables, Howells.txt
+Normalized Mystery and Strangeness Score: 0.0558
 
-Title: midnight_zone.txt
-Psychological Intensity: -0.1286
+Title: Who Will Greet You at Home, Davis.txt
+Normalized Mystery and Strangeness Score: 0.0469
 
-Title: Lost in the Funhouse.txt
-Psychological Intensity: -0.2024
+Title: Beyond the Wall, Bierce.txt
+Normalized Mystery and Strangeness Score: 0.0612
 
-Title: The Dead.txt
-Psychological Intensity: -0.5331
+Title: Split Cherry Tree, Stuart.txt
+Normalized Mystery and Strangeness Score: 0.0443
 
-Title: two_men_arrive.txt
-Psychological Intensity: -0.4220
+Title: The Consul, Davis.txt
+Normalized Mystery and Strangeness Score: 0.0413
 
-Title: Brokeback Mountain.txt
-Psychological Intensity: -0.0874
+Title: What Christmas Is As We Grow Older, Dickens.txt
+Normalized Mystery and Strangeness Score: 0.0258
 
-Title: Ghoul.txt
-Psychological Intensity: -0.2262
+Title: The Boarding House, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0568
 
-Title: who_will_greet_you_at_home.txt
-Psychological Intensity: -0.4763
+Title: some_things_about_typewriters.txt
+Normalized Mystery and Strangeness Score: 0.1072
 
-Title: yellow_wallpaper.txt
-Psychological Intensity: -0.3918
+Title: The Colonel_s Ideas, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0490
 
-Title: Gooseberries.txt
-Psychological Intensity: -0.8651
+Title: conditions_for_growing.txt
+Normalized Mystery and Strangeness Score: 0.0347
 
-Title: all_summer_in_a_day.txt
-Psychological Intensity: -0.3109
+Title: Waiter, a Bock!, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0565
 
-Title: Bela.txt
-Psychological Intensity: -0.3867
+Title: there_is_no_world.txt
+Normalized Mystery and Strangeness Score: 0.0385
 
-Title: A Temporary Matter.txt
-Psychological Intensity: -0.3073
+Title: i'm_exaggerating.txt
+Normalized Mystery and Strangeness Score: 0.0418
 
-Title: the_overcoat.txt
-Psychological Intensity: -0.7812
+Title: The Cats of Ulthar, Lovecraft.txt
+Normalized Mystery and Strangeness Score: 0.0906
 
-Title: Sonny's Blues.txt
-Psychological Intensity: -0.3920
+Title: Bellflower, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0752
 
-Title: where_are_you_going_where_have_you_been.txt
-Psychological Intensity: -0.4674
+Title: Rikki-Tikki-Tavi, Kipling.txt
+Normalized Mystery and Strangeness Score: 0.0639
+
+Title: the_fourth_trimester.txt
+Normalized Mystery and Strangeness Score: 0.0522
+
+Title: The End of the Party, Greene.txt
+Normalized Mystery and Strangeness Score: 0.0814
+
+Title: my_dear_you.txt
+Normalized Mystery and Strangeness Score: 0.0470
+
+Title: possum.txt
+Normalized Mystery and Strangeness Score: 0.0595
+
+Title: outside_the_raft.txt
+Normalized Mystery and Strangeness Score: 0.0478
+
+Title: Bela, Lermontov.txt
+Normalized Mystery and Strangeness Score: 0.0377
+
+Title: The Veteran, Crane.txt
+Normalized Mystery and Strangeness Score: 0.0581
+
+Title: The Tomb, Lovecraft.txt
+Normalized Mystery and Strangeness Score: 0.0510
+
+Title: In the Red Room, Bowles.txt
+Normalized Mystery and Strangeness Score: 0.0417
+
+Title: The Terrible Old Man, Lovecraft.txt
+Normalized Mystery and Strangeness Score: 0.1156
+
+Title: preservation.txt
+Normalized Mystery and Strangeness Score: 0.0589
+
+Title: The Dowry, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0201
+
+Title: predator_satiation.txt
+Normalized Mystery and Strangeness Score: 0.0774
+
+Title: The Snows of Kilimanjaro, Hemmingway.txt
+Normalized Mystery and Strangeness Score: 0.0569
+
+Title: An Alpine Divorce, Barr.txt
+Normalized Mystery and Strangeness Score: 0.0812
+
+Title: Indiscretion, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0567
+
+Title: Lamb to the Slaughter, Dahl.txt
+Normalized Mystery and Strangeness Score: 0.0455
+
+Title: According to Their Lights, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0437
+
+Title: The Celebrated Jumping Frog of Calaveras County, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0284
+
+Title: The Cop and the Anthem, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0413
+
+Title: Marjorie Daw, Aldrich.txt
+Normalized Mystery and Strangeness Score: 0.0420
+
+Title: Von Kempelen and His Discovery, Poe.txt
+Normalized Mystery and Strangeness Score: 0.0295
+
+Title: biblical_proportions.txt
+Normalized Mystery and Strangeness Score: 0.0368
+
+Title: sisters.txt
+Normalized Mystery and Strangeness Score: 0.0819
+
+Title: in_the_exclusion_zone.txt
+Normalized Mystery and Strangeness Score: 0.0416
+
+Title: The Sphinx Without a Secret, Wilde.txt
+Normalized Mystery and Strangeness Score: 0.0436
+
+Title: Leiningen Versus the Ants, Stephenson.txt
+Normalized Mystery and Strangeness Score: 0.0421
+
+Title: The Doll_s House, Mansfield.txt
+Normalized Mystery and Strangeness Score: 0.0547
+
+Title: Why Don_t You Dance, Carver.txt
+Normalized Mystery and Strangeness Score: 0.0292
+
+Title: ron.txt
+Normalized Mystery and Strangeness Score: 0.0617
+
+Title: Witches_ Loaves, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0818
+
+Title: sea_change.txt
+Normalized Mystery and Strangeness Score: 0.0538
+
+Title: pity_and_shame.txt
+Normalized Mystery and Strangeness Score: 0.0512
+
+Title: The Bet, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0388
+
+Title: Italian with Grammar, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0284
+
+Title: The Yellow Wallpaper, Gilman.txt
+Normalized Mystery and Strangeness Score: 0.0756
+
+Title: The Affair at Coulter_s Notch, Bierce.txt
+Normalized Mystery and Strangeness Score: 0.0607
+
+Title: The Yarkand Manner, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0247
+
+Title: What You Want, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0542
+
+Title: The Black Cat, Poe.txt
+Normalized Mystery and Strangeness Score: 0.0536
+
+Title: Hunters in the Snow, Wolff.txt
+Normalized Mystery and Strangeness Score: 0.0368
+
+Title: All Summer in a Day, Bradbury.txt
+Normalized Mystery and Strangeness Score: 0.0329
+
+Title: glass_people.txt
+Normalized Mystery and Strangeness Score: 0.0912
+
+Title: Pigs Is Pigs, Butler.txt
+Normalized Mystery and Strangeness Score: 0.0433
+
+Title: The Wedding-Knell, Hawthorne.txt
+Normalized Mystery and Strangeness Score: 0.0661
+
+Title: Big Two-Hearted River, Hemmingway.txt
+Normalized Mystery and Strangeness Score: 0.0490
+
+Title: Hands, Sherwood.txt
+Normalized Mystery and Strangeness Score: 0.0473
+
+Title: the_monk_dilemma.txt
+Normalized Mystery and Strangeness Score: 0.0398
+
+Title: Haircut, Lardner.txt
+Normalized Mystery and Strangeness Score: 0.0353
+
+Title: Transients in Arcadia, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0370
+
+Title: The Diary of a Madman, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0244
+
+Title: Hearts And Hands, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0490
+
+Title: it's_only_been_me_all_this_time.txt
+Normalized Mystery and Strangeness Score: 0.0491
+
+Title: Theodule Sabot_s Confession, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0335
+
+Title: regarding_lichen.txt
+Normalized Mystery and Strangeness Score: 0.0595
+
+Title: The Coming of the King, Richards.txt
+Normalized Mystery and Strangeness Score: 0.0757
+
+Title: The Wreck, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0552
+
+Title: swamps.txt
+Normalized Mystery and Strangeness Score: 0.0524
+
+Title: the_bug_man.txt
+Normalized Mystery and Strangeness Score: 0.0671
+
+Title: Shooting an Elephant, Orwell.txt
+Normalized Mystery and Strangeness Score: 0.0789
+
+Title: The Baron of Grogzwig, Dickens.txt
+Normalized Mystery and Strangeness Score: 0.0210
+
+Title: Princess Mary, Lermontov.txt
+Normalized Mystery and Strangeness Score: 0.0386
+
+Title: the_spoils.txt
+Normalized Mystery and Strangeness Score: 0.0350
+
+Title: Young Goodman Brown, Hawthorne.txt
+Normalized Mystery and Strangeness Score: 0.0492
+
+Title: the_superstition_of_albatross.txt
+Normalized Mystery and Strangeness Score: 0.0545
+
+Title: Berenice, Poe.txt
+Normalized Mystery and Strangeness Score: 0.0534
+
+Title: whatever_remains.txt
+Normalized Mystery and Strangeness Score: 0.0474
+
+Title: Madame Parisse, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0503
+
+Title: Gooseberries, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0459
+
+Title: A Retrieved Reformation, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0337
+
+Title: the_salesman.txt
+Normalized Mystery and Strangeness Score: 0.0523
+
+Title: fantasy.txt
+Normalized Mystery and Strangeness Score: 0.0324
+
+Title: african_violets.txt
+Normalized Mystery and Strangeness Score: 0.1333
+
+Title: The Door in the Wall, Wells.txt
+Normalized Mystery and Strangeness Score: 0.0518
+
+Title: Araby, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0778
+
+Title: A School Story, James.txt
+Normalized Mystery and Strangeness Score: 0.0448
+
+Title: christmas_alligator.txt
+Normalized Mystery and Strangeness Score: 0.0524
+
+Title: Sredni Vashtar, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0525
+
+Title: Where are you going, Where have you been_, Oats.txt
+Normalized Mystery and Strangeness Score: 0.0407
+
+Title: The Sniper, O_Flaherty.txt
+Normalized Mystery and Strangeness Score: 0.0424
+
+Title: Springtime a la Carte, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0415
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker), Irving.txt
+Normalized Mystery and Strangeness Score: 0.0388
+
+Title: Goodbye, My Brother, Cheever.txt
+Normalized Mystery and Strangeness Score: 0.0602
+
+Title: cloud_eat_blue_sky.txt
+Normalized Mystery and Strangeness Score: 0.0683
+
+Title: A True Story, Repeated Word for Word As I Heard It, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0364
+
+Title: i_have_her_memories_now.txt
+Normalized Mystery and Strangeness Score: 0.0452
+
+Title: The Christening, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0835
+
+Title: how_to_breathe_without_thinking_about_it.txt
+Normalized Mystery and Strangeness Score: 0.0714
+
+Title: Gusev, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0444
+
+Title: Was it Heaven_ Or Hell_, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0470
+
+Title: A Respectable Woman, Chopin.txt
+Normalized Mystery and Strangeness Score: 0.0294
+
+Title: Two Friends, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0294
+
+Title: Babes in the Jungle, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0382
+
+Title: the_girl_who_did_not_know_fear.txt
+Normalized Mystery and Strangeness Score: 0.0598
+
+Title: Gentlemen The King!, Barr.txt
+Normalized Mystery and Strangeness Score: 0.0508
+
+Title: The Drunkard, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0811
+
+Title: The Story of Keesh, London.txt
+Normalized Mystery and Strangeness Score: 0.0588
+
+Title: The Vendetta, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0399
+
+Title: molting.txt
+Normalized Mystery and Strangeness Score: 0.0566
+
+Title: A Vagabond, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0471
+
+Title: The Tell-Tale Heart, Poe.txt
+Normalized Mystery and Strangeness Score: 0.0468
+
+Title: Robert Kennedy Saved From Drowning, Barthelme.txt
+Normalized Mystery and Strangeness Score: 0.0572
+
+Title: An Uncomfortable Bed, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0468
+
+Title: Man From The South, Dahl.txt
+Normalized Mystery and Strangeness Score: 0.0445
+
+Title: Mademoiselle Fifi, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0570
+
+Title: The Burial of the Guns, Page.txt
+Normalized Mystery and Strangeness Score: 0.0405
+
+Title: coda.txt
+Normalized Mystery and Strangeness Score: 0.0396
+
+Title: Jim Baker_s Blue-Jay Yarn, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0371
+
+Title: The Unrest-Cure, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0475
+
+Title: Mademoiselle Pearl, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0346
+
+Title: The Death Of A Government Clerk, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0225
+
+Title: The Selfish Giant, Wilde.txt
+Normalized Mystery and Strangeness Score: 0.0668
+
+Title: The Child_s Story, Dickens.txt
+Normalized Mystery and Strangeness Score: 0.0229
+
+Title: After the Race, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0323
+
+Title: An Affair of State, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0274
+
+Title: The Vertical Fields, Dawson.txt
+Normalized Mystery and Strangeness Score: 0.0000
+
+Title: The Storyteller, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0608
+
+Title: The Ambitious Guest, Hawthorne.txt
+Normalized Mystery and Strangeness Score: 0.0389
+
+Title: beautiful_animals.txt
+Normalized Mystery and Strangeness Score: 0.0442
+
+Title: The Street That Got Mislaid, Waddington.txt
+Normalized Mystery and Strangeness Score: 0.0436
+
+Title: The Shed Chamber, Richards.txt
+Normalized Mystery and Strangeness Score: 0.0346
+
+Title: The Unknown, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0320
+
+Title: Hills like White Elephants.txt
+Normalized Mystery and Strangeness Score: 0.0171
+
+Title: postwar.txt
+Normalized Mystery and Strangeness Score: 0.0219
+
+Title: ON_AUGUST_EIGHTEENTH_AT_TEN_THIRTY_PM,_ANNIE_OTSUKA_WATCHED_HER_FIRST_JAPANESE_ANIMATED_FILM.txt
+Normalized Mystery and Strangeness Score: 0.0322
+
+Title: all_the_sea_in_the_fish.txt
+Normalized Mystery and Strangeness Score: 0.0307
+
+Title: Souls Belated, Wharton.txt
+Normalized Mystery and Strangeness Score: 0.0663
+
+Title: A Temporary Matter, Lahiri.txt
+Normalized Mystery and Strangeness Score: 0.0499
+
+Title: Vanka, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0266
+
+Title: Useless Beauty, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0653
+
+Title: gretel's_dreams.txt
+Normalized Mystery and Strangeness Score: 0.0885
+
+Title: The Shoemaker And The Devil, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0451
+
+Title: a_guided_tour_of_the_sistine_chapel_ceiling.txt
+Normalized Mystery and Strangeness Score: 0.0225
+
+Title: the_other_side_of_the_fence.txt
+Normalized Mystery and Strangeness Score: 0.0452
+
+Title: my_coworker’s_obituary_photograph.txt
+Normalized Mystery and Strangeness Score: 0.0197
+
+Title: How I Edited an Agricultural Paper, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0326
+
+Title: career_counseling.txt
+Normalized Mystery and Strangeness Score: 0.0514
+
+Title: The Unkindest Blow, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0325
+
+Title: she_was_warned.txt
+Normalized Mystery and Strangeness Score: 0.0609
+
+Title: Politics and the English Language, Orwell.txt
+Normalized Mystery and Strangeness Score: 0.0647
+
+Title: break.txt
+Normalized Mystery and Strangeness Score: 0.1678
+
+Title: How the Widow Won the Deacon, Lampton.txt
+Normalized Mystery and Strangeness Score: 0.0271
+
+Title: The Devil, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0550
+
+Title: Two Little Soldiers, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0560
+
+Title: Skeleton Lake An Episode in Camp, Blackwood.txt
+Normalized Mystery and Strangeness Score: 0.0731
+
+Title: go_limp.txt
+Normalized Mystery and Strangeness Score: 0.0392
+
+Title: I_don't_think_of_you_until_I_do.txt
+Normalized Mystery and Strangeness Score: 0.0715
+
+Title: Julie Romain, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0375
+
+Title: analysis.txt
+Normalized Mystery and Strangeness Score: 0.0023
+
+Title: An Encounter, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0527
+
+Title: The Time Machine, Wells.txt
+Normalized Mystery and Strangeness Score: 0.0533
+
+Title: Beware of the Dog, Dahl.txt
+Normalized Mystery and Strangeness Score: 0.0360
+
+Title: the_big_lemon.txt
+Normalized Mystery and Strangeness Score: 0.0196
+
+Title: Toine, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0554
+
+Title: irreversible.txt
+Normalized Mystery and Strangeness Score: 0.0532
+
+Title: mendelssohn.txt
+Normalized Mystery and Strangeness Score: 0.0457
+
+Title: jerry.txt
+Normalized Mystery and Strangeness Score: 0.0269
+
+Title: The Disappearance of Crispina Umberleigh,Munro.txt
+Normalized Mystery and Strangeness Score: 0.0283
+
+Title: The School, Barthelme.txt
+Normalized Mystery and Strangeness Score: 0.0867
+
+Title: How the Leopard Got His Spots, Kipling.txt
+Normalized Mystery and Strangeness Score: 0.0312
+
+Title: he_trying_to_say_something_and_couldn't_get_it_out.txt
+Normalized Mystery and Strangeness Score: 0.0332
+
+Title: His Wife_s Deceased Sister, Stockton.txt
+Normalized Mystery and Strangeness Score: 0.0515
+
+Title: the_fully-conducted_tour.txt
+Normalized Mystery and Strangeness Score: 0.0486
+
+Title: the_boathouse.txt
+Normalized Mystery and Strangeness Score: 0.0610
+
+Title: The Velveteen Rabbit, Williams.txt
+Normalized Mystery and Strangeness Score: 0.0316
+
+Title: network.txt
+Normalized Mystery and Strangeness Score: 0.0284
+
+Title: bad_luck_meditation.txt
+Normalized Mystery and Strangeness Score: 0.1658
+
+Title: sink_monkey.txt
+Normalized Mystery and Strangeness Score: 0.0681
+
+Title: the_huntress.txt
+Normalized Mystery and Strangeness Score: 0.0250
+
+Title: The Whirligig of Life, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0536
+
+Title: new_fruit.txt
+Normalized Mystery and Strangeness Score: 0.0410
+
+Title: The Aleph, Borges.txt
+Normalized Mystery and Strangeness Score: 0.0526
+
+Title: The School of English, Mantel.txt
+Normalized Mystery and Strangeness Score: 0.0595
+
+Title: A Vine on a House, Bierce.txt
+Normalized Mystery and Strangeness Score: 0.0362
+
+Title: The Strangers That Came to Town, Flack.txt
+Normalized Mystery and Strangeness Score: 0.0465
+
+Title: tacky_goblin.txt
+Normalized Mystery and Strangeness Score: 0.0537
+
+Title: inauguration.txt
+Normalized Mystery and Strangeness Score: 0.2287
+
+Title: How to Tell a True War Story, Hemmingway.txt
+Normalized Mystery and Strangeness Score: 0.0527
+
+Title: The Schartz-Metterklume Method, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0648
+
+Title: The Donkey, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0478
+
+Title: A Telephone Call, Parker.txt
+Normalized Mystery and Strangeness Score: 0.0689
+
+Title: hungarian_sprats.txt
+Normalized Mystery and Strangeness Score: 0.0370
+
+Title: a_syrian_winter.txt
+Normalized Mystery and Strangeness Score: 0.0682
+
+Title: A Sound of Thunder, Bradbury.txt
+Normalized Mystery and Strangeness Score: 0.0358
+
+Title: The Egg, Anderson.txt
+Normalized Mystery and Strangeness Score: 0.0688
+
+Title: picnic.txt
+Normalized Mystery and Strangeness Score: 0.0737
+
+Title: abyssal_gigantism.txt
+Normalized Mystery and Strangeness Score: 0.0401
+
+Title: The Elephant_s Child, Kipling.txt
+Normalized Mystery and Strangeness Score: 0.0352
+
+Title: The Coming-Out of Maggie, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0239
+
+Title: origami.txt
+Normalized Mystery and Strangeness Score: 0.0765
+
+Title: The Cask of Amontillado, Poe.txt
+Normalized Mystery and Strangeness Score: 0.0421
+
+Title: Game, Barthleme.txt
+Normalized Mystery and Strangeness Score: 0.0340
+
+Title: Afterward, Wharton.txt
+Normalized Mystery and Strangeness Score: 0.0432
+
+Title: Keeping Watch, Jacobs.txt
+Normalized Mystery and Strangeness Score: 0.0632
+
+Title: That Pig of a Morin, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0696
+
+Title: the_game.txt
+Normalized Mystery and Strangeness Score: 0.0771
+
+Title: Girl, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0587
+
+Title: scan.txt
+Normalized Mystery and Strangeness Score: 0.0414
+
+Title: The Dreamer, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0323
+
+Title: How Santa Claus Came to Simpson_s Bar, Harte.txt
+Normalized Mystery and Strangeness Score: 0.0557
+
+Title: Jimmy Scarecrow_s Christmas, Freeman.txt
+Normalized Mystery and Strangeness Score: 0.0685
+
+Title: The Enchanted Bluff, Cather.txt
+Normalized Mystery and Strangeness Score: 0.0438
+
+Title: The Darling, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0616
+
+Title: rescue.txt
+Normalized Mystery and Strangeness Score: 0.0553
+
+Title: jean_wants.txt
+Normalized Mystery and Strangeness Score: 0.0529
+
+Title: alien_hunters.txt
+Normalized Mystery and Strangeness Score: 0.0475
+
+Title: In The Ravine, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0369
+
+Title: An Occurrence at Owl Creek Bridge, Bierce.txt
+Normalized Mystery and Strangeness Score: 0.0657
+
+Title: dance_dance_revolution.txt
+Normalized Mystery and Strangeness Score: 0.0463
+
+Title: What Occurred at Franklin, Bierce.txt
+Normalized Mystery and Strangeness Score: 0.0598
+
+Title: uncle_ray_intercedes_for_us.txt
+Normalized Mystery and Strangeness Score: 0.0594
+
+Title: To Build a Fire, London.txt
+Normalized Mystery and Strangeness Score: 0.0730
+
+Title: postcards.txt
+Normalized Mystery and Strangeness Score: 0.0422
+
+Title: The Wind_s Tale, Andersen.txt
+Normalized Mystery and Strangeness Score: 0.0348
+
+Title: Hermann The Irascible, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0428
+
+Title: l'heure_bleue.txt
+Normalized Mystery and Strangeness Score: 0.0333
+
+Title: saturday_night_special.txt
+Normalized Mystery and Strangeness Score: 0.0528
+
+Title: honest_open_willing.txt
+Normalized Mystery and Strangeness Score: 0.0747
+
+Title: The Thorny Road of Honor, Andersen.txt
+Normalized Mystery and Strangeness Score: 0.0362
+
+Title: Humiliation, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0417
+
+Title: The Way to the Dairy, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0577
+
+Title: perspective.txt
+Normalized Mystery and Strangeness Score: 0.0421
+
+Title: escape_plans.txt
+Normalized Mystery and Strangeness Score: 0.0668
+
+Title: natural_order.txt
+Normalized Mystery and Strangeness Score: 0.0577
+
+Title: with_gun.txt
+Normalized Mystery and Strangeness Score: 0.0788
+
+Title: the_righting_reflex.txt
+Normalized Mystery and Strangeness Score: 0.0726
+
+Title: Brokeback Mountain, Proulx.txt
+Normalized Mystery and Strangeness Score: 0.0602
+
+Title: Just Before the War with the Eskimos, Salinger.txt
+Normalized Mystery and Strangeness Score: 0.0392
+
+Title: Gentle Hand, Rinehart.txt
+Normalized Mystery and Strangeness Score: 0.0581
+
+Title: The Boy And The Filberts, Aesop.txt
+Normalized Mystery and Strangeness Score: 0.1480
+
+Title: Two Gallants, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0439
+
+Title: Bertie_s Christmas Eve, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0449
+
+Title: The Star, Wells.txt
+Normalized Mystery and Strangeness Score: 0.0550
+
+Title: Hyacinth, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0528
+
+Title: the_miss_april_houses.txt
+Normalized Mystery and Strangeness Score: 0.0360
+
+Title: Tennessee_s Partner, Harte.txt
+Normalized Mystery and Strangeness Score: 0.0438
+
+Title: The Boarded Window, Bierce.txt
+Normalized Mystery and Strangeness Score: 0.0743
+
+Title: as_close_as_we_dare.txt
+Normalized Mystery and Strangeness Score: 0.0883
+
+Title: the_meat_bee.txt
+Normalized Mystery and Strangeness Score: 0.0410
+
+Title: triple_goddess.txt
+Normalized Mystery and Strangeness Score: 0.0313
+
+Title: child_psychology.txt
+Normalized Mystery and Strangeness Score: 0.0230
+
+Title: delicately,_I_beg_of_you.txt
+Normalized Mystery and Strangeness Score: 0.0535
+
+Title: Lost in the Funhouse, Barth.txt
+Normalized Mystery and Strangeness Score: 0.0604
+
+Title: daughters_of_the_air.txt
+Normalized Mystery and Strangeness Score: 0.0366
+
+Title: The Romance of a Busy Broker, Henry.txt
+Normalized Mystery and Strangeness Score: 0.0158
+
+Title: The Egg, Weir.txt
+Normalized Mystery and Strangeness Score: 0.0360
+
+Title: the_edifice.txt
+Normalized Mystery and Strangeness Score: 0.0587
+
+Title: The Wolves of Cernogatz, Munro.txt
+Normalized Mystery and Strangeness Score: 0.0745
+
+Title: The Alchemist, Lovecraft.txt
+Normalized Mystery and Strangeness Score: 0.0697
+
+Title: the_couplet.txt
+Normalized Mystery and Strangeness Score: 0.0822
+
+Title: Indian Uprising, Barthelme.txt
+Normalized Mystery and Strangeness Score: 0.0480
+
+Title: The Aged Mother, Basho.txt
+Normalized Mystery and Strangeness Score: 0.0664
+
+Title: A Telephonic Conversation, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0217
+
+Title: Rappaccini_s Daughter, Hawthorne.txt
+Normalized Mystery and Strangeness Score: 0.0558
+
+Title: Two Men come to a Village, Smith.txt
+Normalized Mystery and Strangeness Score: 0.0282
+
+Title: The Dead, Joyce.txt
+Normalized Mystery and Strangeness Score: 0.0549
+
+Title: Aloha Oe, London.txt
+Normalized Mystery and Strangeness Score: 0.0373
+
+Title: Yvette, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0395
+
+Title: moonlight_paddle_in_machac_swamp.txt
+Normalized Mystery and Strangeness Score: 0.0414
+
+Title: Alexandre, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0960
+
+Title: re_clients.txt
+Normalized Mystery and Strangeness Score: 0.0908
+
+Title: The Door, White.txt
+Normalized Mystery and Strangeness Score: 0.0449
+
+Title: out_of_nowhere.txt
+Normalized Mystery and Strangeness Score: 0.0478
+
+Title: Italian without a Master, Twain.txt
+Normalized Mystery and Strangeness Score: 0.0216
+
+Title: Uncle Wiggily in Connecticut, Salinger.txt
+Normalized Mystery and Strangeness Score: 0.0477
+
+Title: In the Wood, Maupassant.txt
+Normalized Mystery and Strangeness Score: 0.0750
+
+Title: Goodbye to all That, Didion.txt
+Normalized Mystery and Strangeness Score: 0.0378
+
+Title: Victory Lap, Saunders.txt
+Normalized Mystery and Strangeness Score: 0.0441
+
+Title: The Use of Force, Williams.txt
+Normalized Mystery and Strangeness Score: 0.0559
+
+Title: raw_season.txt
+Normalized Mystery and Strangeness Score: 0.0446
+
+Title: take_five_hundred_new_nightmares.txt
+Normalized Mystery and Strangeness Score: 0.0576
+
+Title: hall_of_hantings.txt
+Normalized Mystery and Strangeness Score: 0.0839
+
+Title: Sonny_s Blues, Baldwin.txt
+Normalized Mystery and Strangeness Score: 0.0475
+
+Title: A Rose for Emily, Faulkner.txt
+Normalized Mystery and Strangeness Score: 0.0596
+
+Title: A Slander, Chekhov.txt
+Normalized Mystery and Strangeness Score: 0.0269
 

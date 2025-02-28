@@ -1,0 +1,1500 @@
+### Focused Event Analysis Results for Each File ###
+
+Title: The_Lighthouse_Keeper_of_Eldrige_Rock.txt
+Focused Event Score: 0.0513
+Details: 4
+
+
+Title: Untitled_4.txt
+Focused Event Score: 0.0210
+Details: 3
+
+
+Title: The_Echoes_of_Willoughby_Street.txt
+Focused Event Score: 0.0115
+Details: 1
+
+
+Title: The_Clockmaker_of_Vermilion_Street.txt
+Focused Event Score: 0.0388
+Details: 4
+
+
+Title: The_Last_Watchmaker_of_Fillory_Street.txt
+Focused Event Score: 0.0574
+Details: 7
+
+
+Title: The_Lighthouse_Keeper_of_Merrows_Point.txt
+Focused Event Score: 0.0351
+Details: 4
+
+
+Title: The_Clockmakers_Secret_18.txt
+Focused Event Score: 0.0283
+Details: 3
+
+
+Title: The_Clockmakers_Apprentice_2.txt
+Focused Event Score: 0.0106
+Details: 1
+
+
+Title: The_Lighthouse_Keepers_Radiance.txt
+Focused Event Score: 0.0309
+Details: 3
+
+
+Title: The_Clockmakers_Heart_2.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: Echoes_of_Time.txt
+Focused Event Score: 0.0213
+Details: 2
+
+
+Title: Adrift_in_the_Clouds.txt
+Focused Event Score: 0.0563
+Details: 8
+
+
+Title: Echoes_of_the_Forgotten.txt
+Focused Event Score: 0.0337
+Details: 3
+
+
+Title: The_Last_Sorrows_of_Autumn.txt
+Focused Event Score: 0.0097
+Details: 1
+
+
+Title: The_Last_Bookbinder_of_Cornish_Cove.txt
+Focused Event Score: 0.0093
+Details: 1
+
+
+Title: The_Clockmakers_Apprentice_12.txt
+Focused Event Score: 0.0403
+Details: 5
+
+
+Title: Echoes_of_the_Silent_City.txt
+Focused Event Score: 0.0229
+Details: 3
+
+
+Title: The_Clockmakers_Apprentice_3.txt
+Focused Event Score: 0.0244
+Details: 2
+
+
+Title: The_Clockmaker_of_Via_del_Corso.txt
+Focused Event Score: 0.0278
+Details: 3
+
+
+Title: Whispers_of_the_Forgotten_Library.txt
+Focused Event Score: 0.0280
+Details: 3
+
+
+Title: The_Last_Lightkeeper_of_Eldoria.txt
+Focused Event Score: 0.0645
+Details: 6
+
+
+Title: Untitled_5.txt
+Focused Event Score: 0.0275
+Details: 3
+
+
+Title: Echoes_of_Selene.txt
+Focused Event Score: 0.0323
+Details: 3
+
+
+Title: The_Secret_of_Eldridge_Manor.txt
+Focused Event Score: 0.0784
+Details: 8
+
+
+Title: Untitled_7.txt
+Focused Event Score: 0.0446
+Details: 5
+
+
+Title: The_Last_Garden_4.txt
+Focused Event Score: 0.0252
+Details: 3
+
+
+Title: The_Vanishing_Act.txt
+Focused Event Score: 0.0374
+Details: 4
+
+
+Title: The_Clockmakers_Paradox_8.txt
+Focused Event Score: 0.0588
+Details: 6
+
+
+Title: The_Lighthouse_Keeper_of_Eldwen.txt
+Focused Event Score: 0.0303
+Details: 4
+
+
+Title: The_Clockmakers_Promise.txt
+Focused Event Score: 0.0486
+Details: 7
+
+
+Title: The_Last_Symphony_45.txt
+Focused Event Score: 0.0085
+Details: 1
+
+
+Title: The_Clockmakers_Apprentice_10.txt
+Focused Event Score: 0.0500
+Details: 4
+
+
+Title: Untitled_48.txt
+Focused Event Score: 0.0088
+Details: 1
+
+
+Title: The_Paradox_Clock.txt
+Focused Event Score: 0.0387
+Details: 6
+
+
+Title: The_Lighthouse_Keeper_of_Corwyn_Point.txt
+Focused Event Score: 0.0548
+Details: 4
+
+
+Title: Echoes_of_Starlight.txt
+Focused Event Score: 0.0439
+Details: 5
+
+
+Title: Untitled_49.txt
+Focused Event Score: 0.0482
+Details: 4
+
+
+Title: The_Timekeepers_Paradox.txt
+Focused Event Score: 0.0394
+Details: 5
+
+
+Title: The_Clockmakers_Apprentice_11.txt
+Focused Event Score: 0.0297
+Details: 3
+
+
+Title: The_Clockmakers_Paradox_9.txt
+Focused Event Score: 0.0177
+Details: 2
+
+
+Title: Untitled_6.txt
+Focused Event Score: 0.0517
+Details: 6
+
+
+Title: The_Midnight_Hour.txt
+Focused Event Score: 0.0619
+Details: 7
+
+
+Title: Untitled_2.txt
+Focused Event Score: 0.0750
+Details: 9
+
+
+Title: The_Smithfield_Heirloom.txt
+Focused Event Score: 0.0164
+Details: 2
+
+
+Title: The_Shadow_Collector.txt
+Focused Event Score: 0.0286
+Details: 3
+
+
+Title: The_Clockmakers_Apprentice_4.txt
+Focused Event Score: 0.0297
+Details: 3
+
+
+Title: The_Clockmakers_Heart.txt
+Focused Event Score: 0.0185
+Details: 2
+
+
+Title: The_Last_Lantern.txt
+Focused Event Score: 0.0094
+Details: 1
+
+
+Title: The_Lighthouse_Keepers_Secret.txt
+Focused Event Score: 0.0076
+Details: 1
+
+
+Title: The_Last_Garden.txt
+Focused Event Score: 0.0531
+Details: 6
+
+
+Title: The_Fiddler_in_the_Forest.txt
+Focused Event Score: 0.0213
+Details: 2
+
+
+Title: The_Lighthouse_Keeper_of_Morwens_Cove.txt
+Focused Event Score: 0.0698
+Details: 6
+
+
+Title: The_Clockmakers_Apprentice_5.txt
+Focused Event Score: 0.0085
+Details: 1
+
+
+Title: Shards_of_the_Old_World.txt
+Focused Event Score: 0.0567
+Details: 8
+
+
+Title: A_Whisper_Down_Dellridge_Lane.txt
+Focused Event Score: 0.0566
+Details: 6
+
+
+Title: Untitled_3.txt
+Focused Event Score: 0.0530
+Details: 7
+
+
+Title: The_Last_Garden_2.txt
+Focused Event Score: 0.0194
+Details: 2
+
+
+Title: The_Clockmakers_Apprentice_7.txt
+Focused Event Score: 0.0364
+Details: 4
+
+
+Title: The_Last_Page.txt
+Focused Event Score: 0.0851
+Details: 8
+
+
+Title: The_Lighthouse_Keeper_2.txt
+Focused Event Score: 0.0495
+Details: 5
+
+
+Title: The_Echoing_Green.txt
+Focused Event Score: 0.0202
+Details: 2
+
+
+Title: Echoes_of_Jupiter.txt
+Focused Event Score: 0.0423
+Details: 6
+
+
+Title: The_Lighthouse_Keeper_3.txt
+Focused Event Score: 0.0319
+Details: 3
+
+
+Title: Whispers_of_the_Old_Willow.txt
+Focused Event Score: 0.0108
+Details: 1
+
+
+Title: Echoes_of_the_Past_2.txt
+Focused Event Score: 0.0698
+Details: 6
+
+
+Title: The_Clockmakers_Apprentice_6.txt
+Focused Event Score: 0.0227
+Details: 3
+
+
+Title: The_Clockmaker_of_Mirewood.txt
+Focused Event Score: 0.0455
+Details: 4
+
+
+Title: A_Moonlit_Sonata.txt
+Focused Event Score: 0.0254
+Details: 3
+
+
+Title: The_Last_Garden_3.txt
+Focused Event Score: 0.0404
+Details: 4
+
+
+Title: The_Weeping_Timekeeper.txt
+Focused Event Score: 0.0306
+Details: 3
+
+
+Title: The_Ascent.txt
+Focused Event Score: 0.0446
+Details: 5
+
+
+Title: The_Clockmakers_Paradox_19.txt
+Focused Event Score: 0.0673
+Details: 7
+
+
+Title: The_Clockmaker_of_Tirsol.txt
+Focused Event Score: 0.0091
+Details: 1
+
+
+Title: Among_the_Shadows_of_Winter.txt
+Focused Event Score: 0.0252
+Details: 3
+
+
+Title: The_Curious_Case_of_Caelum_Mellor.txt
+Focused Event Score: 0.0263
+Details: 3
+
+
+Title: Untitled_14.txt
+Focused Event Score: 0.0429
+Details: 3
+
+
+Title: The_Curators_Clock.txt
+Focused Event Score: 0.0382
+Details: 5
+
+
+Title: Untitled_28.txt
+Focused Event Score: 0.0110
+Details: 1
+
+
+Title: Whispers_in_the_Willow.txt
+Focused Event Score: 0.0366
+Details: 3
+
+
+Title: The_Last_Garden_of_Mars_3.txt
+Focused Event Score: 0.0294
+Details: 3
+
+
+Title: The_Clockmaker_of_Solitude.txt
+Focused Event Score: 0.0612
+Details: 6
+
+
+Title: Echoes_of_the_Fallen_Star.txt
+Focused Event Score: 0.0309
+Details: 3
+
+
+Title: The_Unseen_Library.txt
+Focused Event Score: 0.0316
+Details: 3
+
+
+Title: Untitled_29.txt
+Focused Event Score: 0.0505
+Details: 5
+
+
+Title: Whispers_of_the_Old_Lore.txt
+Focused Event Score: 0.0278
+Details: 3
+
+
+Title: Untitled_15.txt
+Focused Event Score: 0.0521
+Details: 5
+
+
+Title: The_Echoes_of_Redstone_Manor.txt
+Focused Event Score: 0.0235
+Details: 2
+
+
+Title: The_Clockmakers_Paradox_24.txt
+Focused Event Score: 0.0442
+Details: 5
+
+
+Title: The_Clockmakers_Paradox_18.txt
+Focused Event Score: 0.0400
+Details: 5
+
+
+Title: The_Lighthouse_Keepers_Secret_9.txt
+Focused Event Score: 0.0407
+Details: 5
+
+
+Title: Whispering_Pines.txt
+Focused Event Score: 0.0408
+Details: 4
+
+
+Title: The_Echoes_of_Margarets_Grove_18.txt
+Focused Event Score: 0.0426
+Details: 4
+
+
+Title: Untitled_17.txt
+Focused Event Score: 0.0349
+Details: 3
+
+
+Title: The_Clockmakers_Secret_8.txt
+Focused Event Score: 0.0198
+Details: 2
+
+
+Title: The_Last_Light_of_Arvale.txt
+Focused Event Score: 0.0331
+Details: 4
+
+
+Title: The_Echoes_of_5th_Avenue.txt
+Focused Event Score: 0.0342
+Details: 4
+
+
+Title: The_Whispering_Winds_of_Ballymore.txt
+Focused Event Score: 0.0227
+Details: 2
+
+
+Title: Echoes_of_Juniper_Hollow.txt
+Focused Event Score: 0.0632
+Details: 6
+
+
+Title: The_Lost_Manuscript_of_Thistle_Grove.txt
+Focused Event Score: 0.0227
+Details: 3
+
+
+Title: Shadows_on_Lavender_Walls.txt
+Focused Event Score: 0.0381
+Details: 4
+
+
+Title: Untitled_16.txt
+Focused Event Score: 0.0088
+Details: 1
+
+
+Title: The_Clockmakers_Secret_9.txt
+Focused Event Score: 0.0385
+Details: 4
+
+
+Title: The_Clockmakers_Secret.txt
+Focused Event Score: 0.0088
+Details: 1
+
+
+Title: The_Lighthouse_Keepers_Secret_8.txt
+Focused Event Score: 0.0207
+Details: 3
+
+
+Title: The_Clockmakers_Paradox_23.txt
+Focused Event Score: 0.0168
+Details: 2
+
+
+Title: The_Last_Light_of_Loria.txt
+Focused Event Score: 0.0200
+Details: 2
+
+
+Title: Echoes_of_the_Forgotten_2.txt
+Focused Event Score: 0.0370
+Details: 4
+
+
+Title: The_Clockmakers_Legacy.txt
+Focused Event Score: 0.0495
+Details: 5
+
+
+Title: Untitled_12.txt
+Focused Event Score: 0.0738
+Details: 9
+
+
+Title: Untitled_13.txt
+Focused Event Score: 0.0177
+Details: 2
+
+
+Title: The_Glassmakers_Paradox.txt
+Focused Event Score: 0.0263
+Details: 3
+
+
+Title: Echoes_of_the_Forgotten_3.txt
+Focused Event Score: 0.0274
+Details: 2
+
+
+Title: The_Clockmakers_Paradox_22.txt
+Focused Event Score: 0.1048
+Details: 11
+
+
+Title: The_Clockmakers_Paradox_20.txt
+Focused Event Score: 0.0164
+Details: 2
+
+
+Title: The_Clockmakers_Legacy_8.txt
+Focused Event Score: 0.0444
+Details: 4
+
+
+Title: Untitled_39.txt
+Focused Event Score: 0.0198
+Details: 2
+
+
+Title: Untitled_11.txt
+Focused Event Score: 0.0404
+Details: 4
+
+
+Title: The_Lighthouse_Keeper_of_Parsons_Cove.txt
+Focused Event Score: 0.0638
+Details: 6
+
+
+Title: Whispers_of_Eloria.txt
+Focused Event Score: 0.0109
+Details: 1
+
+
+Title: Untitled_10.txt
+Focused Event Score: 0.0273
+Details: 3
+
+
+Title: The_Last_Symphony_of_Mr_Clements.txt
+Focused Event Score: 0.0455
+Details: 5
+
+
+Title: Untitled_38.txt
+Focused Event Score: 0.0280
+Details: 3
+
+
+Title: The_Clockmaker_of_Via_Marcello.txt
+Focused Event Score: 0.0265
+Details: 3
+
+
+Title: The_Hourglass_Symphony.txt
+Focused Event Score: 0.0185
+Details: 2
+
+
+Title: Elysiums_Mist.txt
+Focused Event Score: 0.0421
+Details: 4
+
+
+Title: The_Clockmakers_Paradox_21.txt
+Focused Event Score: 0.0584
+Details: 8
+
+
+Title: The_Lighthouse_Keepers_Secret_3.txt
+Focused Event Score: 0.0490
+Details: 5
+
+
+Title: The_Lighthouse_Keepers_Diary_3.txt
+Focused Event Score: 0.0090
+Details: 1
+
+
+Title: The_Shadow_on_Sundial_Court.txt
+Focused Event Score: 0.0234
+Details: 3
+
+
+Title: The_Clockmakers_Paradox_10.txt
+Focused Event Score: 0.0310
+Details: 4
+
+
+Title: The_Whispering_Wood_2.txt
+Focused Event Score: 0.0459
+Details: 5
+
+
+Title: The_Clockmakers_Apprentice.txt
+Focused Event Score: 0.0200
+Details: 2
+
+
+Title: The_Clockmakers_Legacy_4.txt
+Focused Event Score: 0.0339
+Details: 4
+
+
+Title: Untitled_21.txt
+Focused Event Score: 0.0202
+Details: 2
+
+
+Title: Untitled_35.txt
+Focused Event Score: 0.0200
+Details: 2
+
+
+Title: The_Clockmakers_Secret_2.txt
+Focused Event Score: 0.0476
+Details: 6
+
+
+Title: Echoes_of_Jupiter_2.txt
+Focused Event Score: 0.0465
+Details: 6
+
+
+Title: Echoes_of_Jupiter_3.txt
+Focused Event Score: 0.0935
+Details: 10
+
+
+Title: The_Clockmakers_Secret_3.txt
+Focused Event Score: 0.0400
+Details: 4
+
+
+Title: Untitled_34.txt
+Focused Event Score: 0.0306
+Details: 3
+
+
+Title: Untitled_20.txt
+Focused Event Score: 0.0448
+Details: 6
+
+
+Title: The_Clockmakers_Legacy_5.txt
+Focused Event Score: 0.0248
+Details: 3
+
+
+Title: The_Echoes_of_Jasmine.txt
+Focused Event Score: 0.0106
+Details: 1
+
+
+Title: The_Lighthouse_Keepers_Secret_12.txt
+Focused Event Score: 0.0476
+Details: 5
+
+
+Title: The_Clockmakers_Paradox_11.txt
+Focused Event Score: 0.0072
+Details: 1
+
+
+Title: Untitled.txt
+Focused Event Score: 0.0093
+Details: 1
+
+
+Title: The_Lighthouse_Keepers_Diary_2.txt
+Focused Event Score: 0.0583
+Details: 6
+
+
+Title: The_Lighthouse_Keepers_Secret_2.txt
+Focused Event Score: 0.0088
+Details: 1
+
+
+Title: The_Echoes_of_Elkwood.txt
+Focused Event Score: 0.0636
+Details: 7
+
+
+Title: The_Clockmakers_Paradox_13.txt
+Focused Event Score: 0.0333
+Details: 4
+
+
+Title: The_Lighthouse_Keepers_Secret_10.txt
+Focused Event Score: 0.0463
+Details: 5
+
+
+Title: The_Lighthouse_Keeper.txt
+Focused Event Score: 0.0163
+Details: 2
+
+
+Title: The_Man_with_the_Silver_Clarinet.txt
+Focused Event Score: 0.0385
+Details: 5
+
+
+Title: The_Map_of_Lost_Echoes.txt
+Focused Event Score: 0.0342
+Details: 4
+
+
+Title: The_Clockmakers_Legacy_7.txt
+Focused Event Score: 0.0430
+Details: 4
+
+
+Title: Untitled_36.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: Untitled_22.txt
+Focused Event Score: 0.0196
+Details: 2
+
+
+Title: The_Whispering_Gallery.txt
+Focused Event Score: 0.0388
+Details: 5
+
+
+Title: Broken_Wings.txt
+Focused Event Score: 0.0388
+Details: 4
+
+
+Title: Untitled_23.txt
+Focused Event Score: 0.0306
+Details: 3
+
+
+Title: Untitled_37.txt
+Focused Event Score: 0.0179
+Details: 2
+
+
+Title: The_Clockmakers_Legacy_6.txt
+Focused Event Score: 0.0656
+Details: 8
+
+
+Title: The_Sound_of_Silver.txt
+Focused Event Score: 0.0333
+Details: 3
+
+
+Title: The_Silvered_Hourglass.txt
+Focused Event Score: 0.0333
+Details: 4
+
+
+Title: The_Lighthouse_Keepers_Secret_11.txt
+Focused Event Score: 0.0278
+Details: 3
+
+
+Title: The_Clockmakers_Paradox_12.txt
+Focused Event Score: 0.0515
+Details: 5
+
+
+Title: Echoes_of_Winter.txt
+Focused Event Score: 0.0240
+Details: 3
+
+
+Title: The_Lighthouse_Keepers_Secret_5.txt
+Focused Event Score: 0.0077
+Details: 1
+
+
+Title: The_Lighthouse_Keeper_of_Calloway_Rock.txt
+Focused Event Score: 0.0070
+Details: 1
+
+
+Title: The_Clockmakers_Paradox_16.txt
+Focused Event Score: 0.0530
+Details: 7
+
+
+Title: The_Clockmaker_of_Sivelin.txt
+Focused Event Score: 0.0463
+Details: 5
+
+
+Title: The_Clockmakers_Legacy_2.txt
+Focused Event Score: 0.0440
+Details: 4
+
+
+Title: The_Clockmakers_Secret_4.txt
+Focused Event Score: 0.0280
+Details: 3
+
+
+Title: The_Last_Page_2.txt
+Focused Event Score: 0.0513
+Details: 4
+
+
+Title: Untitled_33.txt
+Focused Event Score: 0.0095
+Details: 1
+
+
+Title: The_Lighthouse_Keepers_Diary.txt
+Focused Event Score: 0.0345
+Details: 3
+
+
+Title: Untitled_27.txt
+Focused Event Score: 0.0496
+Details: 6
+
+
+Title: Whispers_of_the_Past_3.txt
+Focused Event Score: 0.0202
+Details: 2
+
+
+Title: The_Midnight_Librarian.txt
+Focused Event Score: 0.0278
+Details: 3
+
+
+Title: Whispers_of_the_Past_2.txt
+Focused Event Score: 0.0288
+Details: 3
+
+
+Title: Untitled_26.txt
+Focused Event Score: 0.0294
+Details: 3
+
+
+Title: Untitled_32.txt
+Focused Event Score: 0.0351
+Details: 4
+
+
+Title: The_Clockmakers_Secret_5.txt
+Focused Event Score: 0.0667
+Details: 7
+
+
+Title: The_Clockmakers_Legacy_3.txt
+Focused Event Score: 0.0270
+Details: 3
+
+
+Title: The_Lighthouse_Keeper_of_Eldritch_Shores.txt
+Focused Event Score: 0.0200
+Details: 2
+
+
+Title: The_Clockmakers_Paradox_17.txt
+Focused Event Score: 0.0175
+Details: 2
+
+
+Title: The_Lighthouse_Keepers_Secret_4.txt
+Focused Event Score: 0.0234
+Details: 3
+
+
+Title: The_Lighthouse_Keepers_Diary_4.txt
+Focused Event Score: 0.0234
+Details: 3
+
+
+Title: The_Last_Bookstore_2.txt
+Focused Event Score: 0.0248
+Details: 3
+
+
+Title: The_Lighthouse_Keepers_Secret_6.txt
+Focused Event Score: 0.0238
+Details: 3
+
+
+Title: The_Last_Pages_of_Summer.txt
+Focused Event Score: 0.0550
+Details: 6
+
+
+Title: The_Clockmakers_Paradox_15.txt
+Focused Event Score: 0.0185
+Details: 2
+
+
+Title: The_Ledger_of_Lemuel_Pike.txt
+Focused Event Score: 0.0513
+Details: 4
+
+
+Title: Whispers_of_the_Old_Willow_3.txt
+Focused Event Score: 0.0581
+Details: 5
+
+
+Title: A_Whisper_of_Wind.txt
+Focused Event Score: 0.0659
+Details: 6
+
+
+Title: The_Clockmakers_Secret_7.txt
+Focused Event Score: 0.0349
+Details: 3
+
+
+Title: Untitled_18.txt
+Focused Event Score: 0.0330
+Details: 3
+
+
+Title: Untitled_24.txt
+Focused Event Score: 0.0202
+Details: 2
+
+
+Title: Untitled_30.txt
+Focused Event Score: 0.0303
+Details: 3
+
+
+Title: The_Mask_of_Camille.txt
+Focused Event Score: 0.0172
+Details: 2
+
+
+Title: Untitled_31.txt
+Focused Event Score: 0.0417
+Details: 5
+
+
+Title: The_Echoes_of_Yesterday.txt
+Focused Event Score: 0.0268
+Details: 3
+
+
+Title: Untitled_25.txt
+Focused Event Score: 0.0385
+Details: 6
+
+
+Title: The_Clockmakers_Secret_6.txt
+Focused Event Score: 0.0631
+Details: 7
+
+
+Title: Untitled_19.txt
+Focused Event Score: 0.0116
+Details: 1
+
+
+Title: The_Clockmakers_Paradox.txt
+Focused Event Score: 0.0427
+Details: 5
+
+
+Title: The_Last_Light_of_Dusk.txt
+Focused Event Score: 0.0495
+Details: 5
+
+
+Title: Whispers_of_the_Old_Willow_2.txt
+Focused Event Score: 0.0366
+Details: 3
+
+
+Title: The_Last_Light_of_Fidelis_4.txt
+Focused Event Score: 0.0095
+Details: 1
+
+
+Title: The_Symphony_of_Mr_Bartholomew.txt
+Focused Event Score: 0.0485
+Details: 5
+
+
+Title: The_Clockmakers_Paradox_14.txt
+Focused Event Score: 0.0149
+Details: 2
+
+
+Title: The_Lighthouse_Keepers_Secret_7.txt
+Focused Event Score: 0.0385
+Details: 4
+
+
+Title: The_Echoes_of_Amissville.txt
+Focused Event Score: 0.0233
+Details: 2
+
+
+Title: The_Last_Lightkeeper_6.txt
+Focused Event Score: 0.0268
+Details: 3
+
+
+Title: Whispers_of_the_Past.txt
+Focused Event Score: 0.0638
+Details: 6
+
+
+Title: The_Forgotten_Melody_5.txt
+Focused Event Score: 0.0093
+Details: 1
+
+
+Title: The_Clockmaker_of_Vernazza.txt
+Focused Event Score: 0.0556
+Details: 5
+
+
+Title: The_Clockmakers_Paradox_2.txt
+Focused Event Score: 0.0161
+Details: 2
+
+
+Title: The_Clockmakers_Secret_11.txt
+Focused Event Score: 0.0556
+Details: 6
+
+
+Title: The_Midnight_Library.txt
+Focused Event Score: 0.0291
+Details: 3
+
+
+Title: The_Echoes_of_Jupiter.txt
+Focused Event Score: 0.0892
+Details: 14
+
+
+Title: Untitled_42.txt
+Focused Event Score: 0.0291
+Details: 3
+
+
+Title: Untitled_56.txt
+Focused Event Score: 0.0310
+Details: 4
+
+
+Title: The_Clockmakers_Promise_3.txt
+Focused Event Score: 0.0248
+Details: 3
+
+
+Title: The_Clockmakers_Gift.txt
+Focused Event Score: 0.0377
+Details: 4
+
+
+Title: The_Lighthouse_Keeper_of_Eldritch_Cove.txt
+Focused Event Score: 0.0404
+Details: 4
+
+
+Title: The_Clockmakers_Promise_2.txt
+Focused Event Score: 0.0659
+Details: 6
+
+
+Title: Untitled_43.txt
+Focused Event Score: 0.0541
+Details: 6
+
+
+Title: The_Clockmakers_Secret_10.txt
+Focused Event Score: 0.0220
+Details: 2
+
+
+Title: The_Clockmakers_Paradox_3.txt
+Focused Event Score: 0.0197
+Details: 3
+
+
+Title: The_Forgotten_Melody_4.txt
+Focused Event Score: 0.0204
+Details: 2
+
+
+Title: The_Last_Lightkeeper_5.txt
+Focused Event Score: 0.0530
+Details: 7
+
+
+Title: The_Vanishing_Point.txt
+Focused Event Score: 0.0093
+Details: 1
+
+
+Title: The_Lockbox.txt
+Focused Event Score: 0.0506
+Details: 4
+
+
+Title: The_Clockmakers_Apprentice_8.txt
+Focused Event Score: 0.0174
+Details: 2
+
+
+Title: The_Clockmakers_Secret_12.txt
+Focused Event Score: 0.0588
+Details: 5
+
+
+Title: Untitled_55.txt
+Focused Event Score: 0.0654
+Details: 7
+
+
+Title: Untitled_41.txt
+Focused Event Score: 0.0481
+Details: 5
+
+
+Title: Whispers_at_Dusk.txt
+Focused Event Score: 0.0571
+Details: 6
+
+
+Title: The_Echo_of_Driftwood.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The_Whispering_Gallery_2.txt
+Focused Event Score: 0.0077
+Details: 1
+
+
+Title: Echoes_of_the_Creek.txt
+Focused Event Score: 0.0256
+Details: 3
+
+
+Title: The_Whispering_Woods.txt
+Focused Event Score: 0.0183
+Details: 2
+
+
+Title: The_Echoes_of_Larkspur_Lane.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The_Whispering_Gallery_3.txt
+Focused Event Score: 0.0526
+Details: 6
+
+
+Title: The_Mapmakers_Paradox.txt
+Focused Event Score: 0.0381
+Details: 4
+
+
+Title: Whispers_in_Willowmere.txt
+Focused Event Score: 0.0222
+Details: 3
+
+
+Title: Untitled_40.txt
+Focused Event Score: 0.0083
+Details: 1
+
+
+Title: Untitled_54.txt
+Focused Event Score: 0.0571
+Details: 6
+
+
+Title: The_Clockmakers_Secret_13.txt
+Focused Event Score: 0.0367
+Details: 4
+
+
+Title: The_Clockmakers_Apprentice_9.txt
+Focused Event Score: 0.0263
+Details: 3
+
+
+Title: The_Lightkeepers_Secret.txt
+Focused Event Score: 0.0449
+Details: 4
+
+
+Title: The_Echo_of_the_Lighthouse.txt
+Focused Event Score: 0.0312
+Details: 3
+
+
+Title: The_Last_Lightkeeper_4.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: A_Thread_in_Time.txt
+Focused Event Score: 0.0299
+Details: 4
+
+
+Title: The_Mysterious_Island_of_Dr_Floros.txt
+Focused Event Score: 0.0175
+Details: 2
+
+
+Title: The_Forgotten_Melody_3.txt
+Focused Event Score: 0.0700
+Details: 7
+
+
+Title: The_Clockmakers_Secret_17.txt
+Focused Event Score: 0.0556
+Details: 8
+
+
+Title: The_Clockmakers_Paradox_4.txt
+Focused Event Score: 0.0550
+Details: 6
+
+
+Title: The_Lighthouse_Keeper_of_Grimsby_Point.txt
+Focused Event Score: 0.0341
+Details: 3
+
+
+Title: Untitled_50.txt
+Focused Event Score: 0.0081
+Details: 1
+
+
+Title: Untitled_44.txt
+Focused Event Score: 0.0229
+Details: 3
+
+
+Title: The_Clockmaker_of_Middlesbrooke.txt
+Focused Event Score: 0.0080
+Details: 1
+
+
+Title: Echoes_of_the_Past.txt
+Focused Event Score: 0.0132
+Details: 1
+
+
+Title: Untitled_45.txt
+Focused Event Score: 0.0248
+Details: 3
+
+
+Title: Untitled_51.txt
+Focused Event Score: 0.0816
+Details: 8
+
+
+Title: The_Lighthouse_Keeper_of_Evershore.txt
+Focused Event Score: 0.0261
+Details: 3
+
+
+Title: Echoes_of_the_Lost_Star.txt
+Focused Event Score: 0.0513
+Details: 4
+
+
+Title: The_Forgotten_Map.txt
+Focused Event Score: 0.0643
+Details: 9
+
+
+Title: The_Clockmakers_Paradox_5.txt
+Focused Event Score: 0.0556
+Details: 5
+
+
+Title: The_Clockmakers_Secret_16.txt
+Focused Event Score: 0.0297
+Details: 3
+
+
+Title: The_Ivory_Tower.txt
+Focused Event Score: 0.0085
+Details: 1
+
+
+Title: Whispers_of_the_Forgotten_Orchard.txt
+Focused Event Score: 0.0439
+Details: 5
+
+
+Title: Untitled_8.txt
+Focused Event Score: 0.0394
+Details: 5
+
+
+Title: The_Watcher_of_Westbrook_Avenue.txt
+Focused Event Score: 0.0413
+Details: 5
+
+
+Title: Whispering_Winds.txt
+Focused Event Score: 0.0388
+Details: 4
+
+
+Title: The_Last_Lightkeeper_3.txt
+Focused Event Score: 0.0351
+Details: 4
+
+
+Title: The_Clockmakers_Secret_14.txt
+Focused Event Score: 0.0404
+Details: 4
+
+
+Title: The_Clockmakers_Paradox_7.txt
+Focused Event Score: 0.0396
+Details: 4
+
+
+Title: The_Lighthouse_Keeper_of_Morwen_Bay.txt
+Focused Event Score: 0.0328
+Details: 4
+
+
+Title: The_Lighthouse_Keeper_of_Eventide.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: Untitled_47.txt
+Focused Event Score: 0.0431
+Details: 5
+
+
+Title: Untitled_53.txt
+Focused Event Score: 0.0172
+Details: 2
+
+
+Title: The_Last_Lightkeeper.txt
+Focused Event Score: 0.0216
+Details: 3
+
+
+Title: The_Whispering_Wood.txt
+Focused Event Score: 0.0439
+Details: 5
+
+
+Title: Untitled_52.txt
+Focused Event Score: 0.0430
+Details: 4
+
+
+Title: Untitled_46.txt
+Focused Event Score: 0.0083
+Details: 1
+
+
+Title: Whispering_Shadows.txt
+Focused Event Score: 0.0348
+Details: 4
+
+
+Title: The_Clockmakers_Paradox_6.txt
+Focused Event Score: 0.0394
+Details: 5
+
+
+Title: The_Clockmakers_Secret_15.txt
+Focused Event Score: 0.0583
+Details: 6
+
+
+Title: The_Last_Bookstore.txt
+Focused Event Score: 0.0088
+Details: 1
+
+
+Title: A_Murmuration_of_Memories.txt
+Focused Event Score: 0.0423
+Details: 6
+
+
+Title: The_Lighthouse_Keeper_of_Merrow_Down.txt
+Focused Event Score: 0.0196
+Details: 2
+
+
+Title: Echoes_of_the_Lighthouse.txt
+Focused Event Score: 0.0460
+Details: 4
+
+
+Title: The_Last_Light_of_Eridanus.txt
+Focused Event Score: 0.0088
+Details: 1
+
+
+Title: The_Last_Lightkeeper_2.txt
+Focused Event Score: 0.0215
+Details: 2
+
+
+Title: The_Forgotten_Melody_1.txt
+Focused Event Score: 0.0431
+Details: 5
+
+
+Title: Untitled_9.txt
+Focused Event Score: 0.0331
+Details: 4
+
+
+Title: The_Glassmakers_Apprentice.txt
+Focused Event Score: 0.0412
+Details: 4
+
+
+Title: The_Echoes_of_Willowbrook.txt
+Focused Event Score: 0.0431
+Details: 5

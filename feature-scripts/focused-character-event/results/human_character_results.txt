@@ -1,1500 +1,1500 @@
-### Character Analysis Results for Each File ###
+### Focused Character Analysis Results for Each File ###
 
 Title: Timbuctoo, Maupassant.txt
-Number of Characters: 8
-Characters: ['hot!\'"And', 'Madeleine', 'Bezieres', 'Timbuctoo', 'Turcos', 'ya', 'Africans', 'Chavaharibouhalikranafotapolara']
+Focused Character Score: 0.0005
+Details: {'Chavaharibouhalikranafotapolara', 'ya', 'Timbuctoo', 'Turcos'}
 
 
 Title: The Thousand-And-Second Tale of Scheherazade, Poe.txt
-Number of Characters: 7
-Characters: ['Haroun Alraschid', 'Machiavelli', 'Absurd', 'Edgar Allan Poe', 'Scheherazade', 'whiss', 'lal']
+Focused Character Score: 0.0007
+Details: {'Scheherazade', 'Absurd', 'lal', 'Haroun Alraschid', 'whiss'}
 
 
 Title: The Soldier_s Peaches, Cloete.txt
-Number of Characters: 31
-Characters: ['Francis Vane', 'Charlie', 'Church Square', 'Boer', 'Bull', 'Joubert', 'Brennen', 'Queen Victoria', 'He"--she', 'Boers', 'George', 'Johnny', 'John Brennen', 'Cecelia Brennen', 'John', 'Jim', 'Kiss', 'Susie', 'Stuart Cloete', 'bush', 'Chaka', 'Klinkie', 'Frantz Joubert', 'kiss', 'Fairburn', 'Vane', 'Bandages', 'De la Rey', 'George Brennen', 'Commandant', 'De Wet']
+Focused Character Score: 0.0014
+Details: {'George', 'George Brennen', 'Bandages', 'Queen Victoria', 'Johnny', 'Church Square', 'Vane', 'Brennen', 'Joubert'}
 
 
 Title: Ghoul, Sanders.txt
-Number of Characters: 76
-Characters: ['Bill', 'Frank-a-roo', 'Ann’s', 'Eisenhower', 'Frame', 'Melissa', 'Rolph P. Spengler', 'Rolph', 'Shy Suitor', 'Susan', 'Mom', 'Edgar', 'Lunch', 'Kiko', 'Law', 'Regis', 'Frankie', 'Tom', 'crabs Leonard', 'Gwen', 'Kit Kats', 'Cockney Cook', 'George Saunders', 'Todd Sharpe', 'Gwen Thorsen', 'Regrettable Falsehood', 'Dad', 'Sky', 'Katy Freeze', 'Crap', 'Amy', 'Kitchens', 'Stunners', 'Leonard', 'Stun Brian', 'Décor', 'Kit Kat', 'Tim', 'Gabrielle D. of', 'Bill’s', 'Vat', 'Al', 'Frankenstein', 'Kiss', 'Betty Loomis', 'bobby socks', 'Jim', 'O.K.', 'Shirley', 'Jeez', 'Bret Freeze', 'Jacqueline', 'Squatting Ghouls', 'Randall', 'Carver D.', 'James', 'Torture Racks', 'Spout', 'Death', 'Animatron', 'Ann Frame', 'Feuding Ghouls', 'Ann', 'Bob “Big Bob” French', 'Hence Law 6', 'Ken DiRogini', 'Sweetie', 'Gingerade', 'Dennis', 'Remorseful Demon', 'Gabrielle D.', 'Bri', 'Edgar Spengler', 'Tom Frame', 'Brian', 'Rolph Spengler']
+Focused Character Score: 0.0005
+Details: {'Regis', 'Rolph', 'Dad', 'Gabrielle D.', 'Tom Frame'}
 
 
 Title: A Very Old Man with Enormous Wings, Marquez.txt
-Number of Characters: 6
-Characters: ['Gonzaga', 'Pelayo', 'Gabriel Garcia Marquez', 'Elisenda', 'mush', 'Aramaic']
+Focused Character Score: 0.0003
+Details: {'Gonzaga'}
 
 
 Title: The Stranger, Mansfield.txt
-Number of Characters: 18
-Characters: ['Scott', 'Lo-ok', 'Hul-lo', 'Katherine Mansfield', 'Thenks', 'Janey', 'Hammond', 'Gaven', 'Jove', 'Said Hammond', 'John', 'Jean', 'Johnson', 'John darling--"\n', 'Jean Scott', 'Arnold', 'Kiss', 'John Hammond']
+Focused Character Score: 0.0017
+Details: {'Jean', 'Scott', 'Hammond', 'Gaven', 'Said Hammond', 'Johnson', 'John', 'John Hammond', 'John darling--"\n', 'Janey'}
 
 
 Title: The Sisters, Joyce.txt
-Number of Characters: 10
-Characters: ['Napoleon Bonaparte', 'Flynn', 'Nannie', 'Johnny Rush’s', 'James Joyces', 'R. I. P.', 'James Flynn', 'S. Catherine’s\nChurch', 'James', 'Jack']
+Focused Character Score: 0.0014
+Details: {'Flynn', 'Jack', 'James', 'Johnny Rush’s', 'Nannie'}
 
 
 Title: Lady with the Dog, Chekhov.txt
-Number of Characters: 19
-Characters: ['Yalta', 'Anna', 'Gurov', 'Anna Sergeyevna', 'Anton Chekhov', 'Anna Ser-\ngeyevna', 'Papa', 'Belyev', 'Anna\nSergeyevna', 'Von Diederitz', 'von Diederitz', 'Geisha', 'Zemstvo', 'Slavyanski Bazaar', 'Dmitri Dmitrich', 'Dmitri', 'Zhizdra', 'Dimitri', 'Dmitri Dmitrich Gurov']
+Focused Character Score: 0.0005
+Details: {'Dimitri', 'Gurov', 'Anna', 'Anna Sergeyevna'}
 
 
 Title: a_few_normal_things_that_happen_a_lot.txt
-Number of Characters: 4
-Characters: ['Snow White’s', 'Marianna', 'Gwen E. Kirby', 'Headaches']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Turkeys Turning The Tables, Howells.txt
-Number of Characters: 4
-Characters: ['ma', 'Queen Victoria', 'William Dean Howells', 'Hubbard']
+Focused Character Score: 0.0003
+Details: {'William Dean Howells'}
 
 
 Title: Who Will Greet You at Home, Davis.txt
-Number of Characters: 4
-Characters: ['twigs', 'Forbidden', 'Ogechi', 'Yarn']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Beyond the Wall, Bierce.txt
-Number of Characters: 5
-Characters: ['Mohun Dampier', 'Mohan', 'Dampier', 'sum qualis eram', 'Necromantius']
+Focused Character Score: 0.0008
+Details: {'Necromantius', 'sum qualis eram', 'Dampier'}
 
 
 Title: Split Cherry Tree, Stuart.txt
-Number of Characters: 22
-Characters: ['Sexton', 'Glenn Armstrong', 'don', 'breakin', 'Luster', 'Keepin', 'Mom', 'hep', 'Muddy', 'Breakin', 'Ma', 'Seein', 'Ransackin', 'Fred Wutts', 'Herbert', 'Dave', 'Tryin', 'Eif Crabtree', 'Jesse Stuart', 'Varmint', 'Takin', 'Glenn']
+Focused Character Score: 0.0022
+Details: {'breakin', 'Ma', 'Herbert', 'Breakin', 'Keepin', 'Seein', 'hep', 'Luster', 'Ransackin', 'don', 'Sexton', 'Eif Crabtree', 'Dave', 'Takin', 'Tryin'}
 
 
 Title: The Consul, Davis.txt
-Number of Characters: 30
-Characters: ['Henry twenty-five years', 'Hamilton', 'Gambetta', 'a Rip Van Winkle', 'Dumas', 'Livingstone', 'Porto Banos', 'Majesty', 'Aiken', 'knownGaribaldi', 'Henry', 'Henry Marshall', 'Mary Cairns', 'bashaw', 'Miss Cairns', 'Thesophistryamused Marshall', 'Richard Harding Davis', 'Hanley', 'José', "Abraham Lincoln's", 'Edinburgh Marshall', 'Carlyle', 'Hardy', 'Cairns', 'Adelina Patti', 'Marshall', 'Consul', 'Charles', 'Herbert Livingstone', 'Henry Cairns']
+Focused Character Score: 0.0008
+Details: {'Henry', 'Marshall', 'Porto Banos', 'Consul', 'Adelina Patti', 'Hanley', 'Cairns'}
 
 
 Title: What Christmas Is As We Grow Older, Dickens.txt
-Number of Characters: 6
-Characters: ['Jairus', 'Patriarchs', 'Arise', 'Reader', 'Christmases', 'Charles Dickens']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Boarding House, Joyce.txt
-Number of Characters: 14
-Characters: ['Mooney', 'Bantam Lyons', 'Bob', 'Bass', 'Meade', 'Jack Mooney', 'Mary', 'James Joyce', 'Madam', 'Leonard', 'Londoner', 'Doran', 'Jack', 'Sheridan']
+Focused Character Score: 0.0003
+Details: {'Mary'}
 
 
 Title: some_things_about_typewriters.txt
-Number of Characters: 3
-Characters: ['keys jammed', 'Cindy Hunter Morgan', 'Leroy Anderson’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Colonel_s Ideas, Maupassant.txt
-Number of Characters: 7
-Characters: ['Madonna', 'Joan', 'Marseillaise', 'Laporte', 'Jove', 'Marshal MacMahon', 'pell-mell']
+Focused Character Score: 0.0012
+Details: {'Jove', 'Laporte', 'Marseillaise'}
 
 
 Title: conditions_for_growing.txt
-Number of Characters: 3
-Characters: ['Nora', 'Beckie Dashiell', 'Sherry']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Waiter, a Bock!, Maupassant.txt
-Number of Characters: 3
-Characters: ['Jean', 'Brennevilles', 'Waiter']
+Focused Character Score: 0.0003
+Details: {'Waiter'}
 
 
 Title: there_is_no_world.txt
-Number of Characters: 16
-Characters: ['Boni', 'Kristine Ong Muslim', 'Wesley Mapa', 'Alfonso Gato', 'Romina Dansel', 'Dodong Lazarus', 'Boris Spassky’s', 'Jill', 'Karl', 'Wesley', 'Jun Krusnaligas', 'Eddie', 'Emerald Trimmings', 'Anton', 'Stairwell', 'murky greenish']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: i'm_exaggerating.txt
-Number of Characters: 3
-Characters: ['Niko', 'Kate Wisel', 'Janis Joplin']
+Focused Character Score: 0.0013
+Details: {'Niko'}
 
 
 Title: The Cats of Ulthar, Lovecraft.txt
-Number of Characters: 5
-Characters: ['Fate', 'Kranon', 'Nith', 'Thul', 'Shang']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Bellflower, Maupassant.txt
-Number of Characters: 7
-Characters: ['Sigisbert', 'Grabu', 'Mamma', 'Monsieur Sigisbert', 'Mother Bellflower', 'Monsieur Grabu', "Jean Pila's"]
+Focused Character Score: 0.0014
+Details: {'Sigisbert', 'Monsieur Grabu', 'Mamma'}
 
 
 Title: Rikki-Tikki-Tavi, Kipling.txt
-Number of Characters: 23
-Characters: ['Nag', 'Nagaina', 'Valiant Rikki-tikki', 'Rikki-tikki-tavi', 'Tailorbird', "Rikki-tikki's", 'Rikki', 'Alice', 'Darzee', 'Rikki-Tikki-Tavi', 'Ding-dong-tock', 'bush', 'Rikk', 'Rudyard Kipling', 'Segowlee', 'Teddy', 'me?--I', 'Death', 'Rikki-tikki', 'Rikki-tikki-tck-tck', 'Chua', 'Karait', 'Rikki-Tikki-Tavi"At']
+Focused Character Score: 0.0014
+Details: {'bush', 'Nag', 'Rikki', 'Alice', 'Chua', 'Rikki-tikki-tavi', 'Teddy', "Rikki-tikki's", 'Rikki-tikki', 'Darzee'}
 
 
 Title: the_fourth_trimester.txt
-Number of Characters: 3
-Characters: ['Avanti', 'myrrh', 'Debbie Vance']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The End of the Party, Greene.txt
-Number of Characters: 17
-Characters: ['Graham Greene', 'Francis Morton', 'Mrs Henne-Falcon', "Peter Morton's", "Francis Morton's", 'Peter Morton', 'Warren', "Colin Henne-Falcon's", 'Mabel Warren', 'Mrs Henne-Falconabsent', 'Francis', "Mrs Henne-Falcon's", 'Mabel', 'buff', 'Peter', 'God', 'Joyce']
+Focused Character Score: 0.0014
+Details: {'Mrs Henne-Falconabsent', 'Francis Morton', 'Peter', 'Mrs Henne-Falcon', "Mrs Henne-Falcon's", 'Francis'}
 
 
 Title: my_dear_you.txt
-Number of Characters: 12
-Characters: ['Richard', 'hose', 'life”—he', 'Adam’s', 'David Bowie', 'Betsy', 'Jesus', 'ADAM', 'Heidi', 'Adam', 'Rachel Khong', 'mug']
+Focused Character Score: 0.0011
+Details: {'Heidi', 'Richard', 'ADAM', 'life”—he', 'Adam'}
 
 
 Title: possum.txt
-Number of Characters: 2
-Characters: ['Leo', 'Genevieve Hudson']
+Focused Character Score: 0.0006
+Details: {'Leo'}
 
 
 Title: outside_the_raft.txt
-Number of Characters: 16
-Characters: ['Yana', 'Tati', 'Jehovah', 'Clyde', 'Barbie', 'Mike', 'Shawnie', 'Grandma', 'Chris', 'Shawnie Auntie', 'Bonnie', 'Dantiel W. Moniz', 'Bubble', 'Jonah', 'Shayla', 'Tweet']
+Focused Character Score: 0.0012
+Details: {'Jehovah', 'Chris', 'Shawnie', 'Shayla', 'Tweet', 'Tati'}
 
 
 Title: Bela, Lermontov.txt
-Number of Characters: 29
-Characters: ['Grigori Alexandrovich', 'Yakshi', 'Kuban', 'Chains', 'Pechorin', 'Kamenny Brod', 'Maxim Maximych', 'Glad', 'I.', 'Alexei Petrovich', 'Azamat', 'Gamba', 'Kobi', 'Mountains', 'Baidara', 'Bela', 'karagach twigs', 'Shapsugi', 'bush', 'Mikhail Lermontov', 'Mitka', 'Farewell', 'Peter', 'Sweeter', 'I.\n"Maybe', 'bang', 'Prophet', 'Kazbich', 'Krestovaya']
+Focused Character Score: 0.0008
+Details: {'Bela', 'Kuban', 'Kobi', 'I.\n"Maybe', 'Mitka', 'Alexei Petrovich', 'Yakshi', 'Azamat', 'Grigori Alexandrovich', 'I.', 'Glad', 'Kazbich', 'Maxim Maximych', 'Pechorin'}
 
 
 Title: The Veteran, Crane.txt
-Number of Characters: 10
-Characters: ['Henry', "Si Conklin's", 'Jim Conklin', 'Stephen Crane\n\nOut', 'Sickles', 'Jimmie', 'Grandpa', 'Fleming', 'Jim', 'Henry warmly']
+Focused Character Score: 0.0018
+Details: {'Henry warmly', 'Jimmie', 'Grandpa', 'Fleming'}
 
 
 Title: The Tomb, Lovecraft.txt
-Number of Characters: 15
-Characters: ['Jervas Dudley', "J. H.'", 'Betty', 'Anacreon', 'Hydesi', 'Theseus', 'Geoffrey Hyde', 'Hiram', 'Goodman Simpson', 'satin small-clothes', 'Jervas Hyde', 'Squire Brewster', 'Henceforward', 'Hydes', 'silken hose']
+Focused Character Score: 0.0002
+Details: {"J. H.'"}
 
 
 Title: In the Red Room, Bowles.txt
-Number of Characters: 16
-Characters: ['Gonzag', 'Galleface', 'lianas', 'Justus Gonzag', 'Sonny', 'Sonny\nGonzag', 'Wickramasinghe', 'Sonny Gonzag', 'Paul Bowles', 'Colombo', 'Dodd', 'Bultjens', 'de\nSylva', 'Hannah', 'Weston', 'Buddhas']
+Focused Character Score: 0.0010
+Details: {'Hannah', 'Dodd', 'de\nSylva', 'Bultjens'}
 
 
 Title: The Terrible Old Man, Lovecraft.txt
-Number of Characters: 10
-Characters: ['Silva', 'Joe Czanek', 'Angelo Ricci', 'Mate Ellis', 'Peters', 'Ricci', 'Spanish Joe', 'Manuel Silva', 'Jack', 'Czanek']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: preservation.txt
-Number of Characters: 24
-Characters: ['twigs', 'Annechka', 'Boris', 'Pushkins', 'Marx', 'Caucasian Ovcharka', 'Sergey', 'Zenit', 'Yes”—she laughed—“a big one', 'mug', 'Lenin', 'Moskvich', 'Yurik', 'Valentina', 'Anton Antonovich Saratin', 'Grandfather Frost', 'Kaput', 'Attendance', 'Valentina Nikolaevna', 'Maria Lioutaia', 'stretch marks', 'Katya', 'Saint Basil’s', 'Vladimir Ilyich']
+Focused Character Score: 0.0009
+Details: {'Lenin', 'Sergey', 'Boris', 'Valentina', 'Valentina Nikolaevna', 'Katya'}
 
 
 Title: The Dowry, Maupassant.txt
-Number of Characters: 6
-Characters: ['Madeleine', 'Henry', 'Vaugirard', 'Jeanne', 'Mademoiselle Jeanne Cordier', 'Mademoiselle Cordier']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: predator_satiation.txt
-Number of Characters: 4
-Characters: ['Momma', 'Thunderbird High', 'Farah \n\nMomma', 'Nah']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Snows of Kilimanjaro, Hemmingway.txt
-Number of Characters: 40
-Characters: ['Julian', 'Grandfather', 'Cole Porter', 'lorry', 'Versailles', 'Arlberg', 'Marie', 'Bal Musette', 'Tommie', 'Madlener', 'Rimmily Hissa', 'Forks', 'Hans', 'inn', 'Bwana', 'Monte Corono', 'Tristan Tzara', 'Bosphorus', 'Schwarzwald', 'Helen', 'Herr Lent', 'Old Westbury', 'Armour', 'bush', 'Arsiero', 'Barker', 'Café', 'Regence', 'Perticara', 'Roily', 'Williamson', 'Klim', 'Boucherie Chevaline', 'Compton', 'the M. P.’s', 'lombardy poplars', 'Ernest Hemmingway\n\n', 'Bludenz', 'Vorarlberg', 'Harry']
+Focused Character Score: 0.0007
+Details: {'Bwana', 'Grandfather', 'Julian', 'Compton', 'Roily', 'Tristan Tzara', 'Harry', 'Ernest Hemmingway\n\n'}
 
 
 Title: An Alpine Divorce, Barr.txt
-Number of Characters: 5
-Characters: ['Bodman', 'An Alpine Divorce', 'Robert Barr', 'John', 'John Bodman']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Indiscretion, Maupassant.txt
-Number of Characters: 3
-Characters: ['Monsieur Paul', 'Henriette', 'Paul']
+Focused Character Score: 0.0011
+Details: {'Paul', 'Henriette'}
 
 
 Title: Lamb to the Slaughter, Dahl.txt
-Number of Characters: 14
-Characters: ['Charlie', 'Jack Noonan', "Patrick Maloney's", 'Patrick', 'Roald Dahl', 'Mary Maloney', 'Sam', "O'Malley", 'Jack', 'Sergeant Noonan', 'Maloney', 'God', 'Hullo Sam', 'Patrick Maloney']
+Focused Character Score: 0.0014
+Details: {'Jack Noonan', 'Jack', 'Sam', 'Maloney', 'Hullo Sam', 'Sergeant Noonan'}
 
 
 Title: According to Their Lights, Henry.txt
-Number of Characters: 19
-Characters: ['Charlie', 'Dan Pickering', 'O. Henry\n\nSomewhere', 'Gotham', 'Reginald Vanderbilt', 'Finnegan', 'Charlie Finnegan', 'Murray', "O'Shea", 'Mac', 'Jerry', 'Prince Hal', 'Sonny', 'Mike', 'Maroney', 'Bread Line', 'Judas', 'Vanderhurst', 'Malone']
+Focused Character Score: 0.0025
+Details: {'Maroney', 'Vanderhurst', 'Sonny', 'Mac', 'Murray', 'Finnegan', 'Judas'}
 
 
 Title: The Celebrated Jumping Frog of Calaveras County, Twain.txt
-Number of Characters: 13
-Characters: ['Andrew Jackson', 'Wheeler', 'Mark Twain', 'Gospel', "Leonidas W. H'm", 'Smiley', 'Angel', 'Simon Wheeler', 'Leonidas W. Smiley', "Dan'l Webster", "Smiley kep'", 'Jim Smiley', 'Andrew\nJackson']
+Focused Character Score: 0.0019
+Details: {'Jim Smiley', "Smiley kep'", "Leonidas W. H'm", 'Wheeler', 'Smiley', 'Leonidas W. Smiley'}
 
 
 Title: The Cop and the Anthem, Henry.txt
-Number of Characters: 12
-Characters: ['Sabbath', 'Noisy', 'O. Henry', "Jack Frost's", 'Camembert', 'Mike', 'Soapy', 'Brutus', 'Anthem', 'Law', 'Cop', 'Jack']
+Focused Character Score: 0.0007
+Details: {'Mike', 'Soapy'}
 
 
 Title: Marjorie Daw, Aldrich.txt
-Number of Characters: 42
-Characters: ['J. F.4.', 'name?--Tourguenieff', 'Thomas Bailey Aldrich', 'JOHN FLEMMING.Do', 'Miss Marjorie', 'Marjorie', 'J. F.2.', "Frank Livingstone's", 'Rivermouth', 'Stillwater', 'R. W. D.', 'Daw', 'Richard W. Daw', 'E. D.3', 'Fanny', 'Marjorie of Bradly', 'J. F.\nXV', 'Drop', 'Mary', 'JOHN FLEMMIMG', 'Balzac', 'Flemming', 'Miss Daw', 'Fanny Flemming', 'John Flemming', 'Dombey', 'Plucky', 'Marjorie Daw', 'X.\nEDWARD', 'Watkins', 'Roederer', 'Snapt Axle', 'Jack', 'Jonas Delaney', 'Liza', 'Louis Quatorze', 'JOHN FLEMMING.Stay', 'Jove', 'Ned', 'snowy throat', 'Bismillah', 'Edward Delaney']
+Focused Character Score: 0.0002
+Details: {'snowy throat', 'Marjorie'}
 
 
 Title: Von Kempelen and His Discovery, Poe.txt
-Number of Characters: 11
-Characters: ['Arago', "Humphrey Davy'", 'Kempelen', 'Gasperitch Lane', 'Edgar Allan Poe', 'Humphrey Davy', 'Lieutenant Maury', 'Kissam', 'Von Kempelen', "Von Kempelen's", 'Quizzem']
+Focused Character Score: 0.0024
+Details: {"Humphrey Davy'", 'Arago', 'Kissam', 'Lieutenant Maury', "Von Kempelen's", 'Von Kempelen', 'Humphrey Davy', 'Edgar Allan Poe'}
 
 
 Title: biblical_proportions.txt
-Number of Characters: 8
-Characters: ['meth head', 'Big Earl', 'Jami Kimbrell', 'Jane Doe', 'Jonah', 'Jane Doe’s', 'Noah', 'Daniel']
+Focused Character Score: 0.0020
+Details: {'Big Earl'}
 
 
 Title: sisters.txt
-Number of Characters: 33
-Characters: ['Lacey’s', 'Sudafed', 'Needles’s van', 'Duane Reade', 'Nicole', 'Selena', 'Leigh', 'Kyra', 'Jump', 'mouth thick', 'Grass', 'Lacey', 'Ellie', 'Delilah', 'Amina', 'Jonathon Durbin', 'Celia', 'Michelle', 'Needles', 'Val', 'Maya', 'Liza', 'Dawn', 'Zan', 'Marianne', 'Rachel', 'Mallory', 'Aisha', 'Rite Aid', 'Leigh’s', 'Chloe', 'Zyrtec', 'Nathan’s']
+Focused Character Score: 0.0003
+Details: {'Needles', 'Selena', 'Lacey’s'}
 
 
 Title: in_the_exclusion_zone.txt
-Number of Characters: 4
-Characters: ['Mika Taylor', 'kerosene lamps', 'Stalin', 'Hitler']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Sphinx Without a Secret, Wilde.txt
-Number of Characters: 10
-Characters: ['Madeleine', 'Lady Alroy', 'Gioconda', 'Murchison', 'ma belle inconnue', 'Gerald', 'Oscar Wilde', 'Knox', 'Alan Colville', 'Bois']
+Focused Character Score: 0.0022
+Details: {'Bois', 'Murchison', 'Lady Alroy', 'Madeleine', 'Gerald', 'Gioconda'}
 
 
 Title: Leiningen Versus the Ants, Stephenson.txt
-Number of Characters: 13
-Characters: ['Dawn', 'Near Leiningen', 'Hood', 'Dante', 'hose', 'bush', 'Pell-mell', 'Scot', 'grey hair', 'Carl Stephenson', 'Macbeth', 'Leiningen', 'Yonder']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Doll_s House, Mansfield.txt
-Number of Characters: 23
-Characters: ['Bush', 'Pat', 'Lena Logan', 'Kelvey', 'Katherine Mansfield', 'Kelveys', 'Hay', 'Lil', 'Sweet', 'Lottie', 'Lecky', 'Jessie May', 'Willie Brent', "Aunt Beryl's", 'Isabel Burnell', 'Pulman', 'Emmie Cole', 'Emmie', 'Aunt Beryl', "Lena Logan's", 'Lena', 'Kezia', 'Pooh']
+Focused Character Score: 0.0026
+Details: {'Jessie May', 'Pooh', 'Isabel Burnell', 'Sweet', 'Aunt Beryl', 'Kelveys', 'Kezia', 'Lena', 'Hay'}
 
 
 Title: Why Don_t You Dance, Carver.txt
-Number of Characters: 2
-Characters: ['Raymond Carver', 'Jack']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: ron.txt
-Number of Characters: 35
-Characters: ['Lewis', 'Ron Egglestein', 'Escape', 'Vega', 'Ronaldo', 'Ron Wessell', 'I’m Ron', 'Ron Walden', 'Ron Myers', 'Dante', 'Aaron', 'T. S. Eliot', 'Ronald', 'Hebert', 'Ron Wessell’s', 'Greenwald', 'Ron C.', 'Wasserman', 'Wachowski', 'Ron', 'Ron Cory', 'Egglestein', 'Ron Hebert', 'Sharpied Venn', 'Joy Baglio', 'Ron Svenson', 'Celestron SkyMaster', 'Ron Getty', 'Ron Greenwald', 'Ron Axel Bardacci', 'Ron Wachowski', 'Svenson', 'Ron Bardacci', 'James Joyce’s', 'Carson']
+Focused Character Score: 0.0005
+Details: {'Lewis', 'Egglestein', 'Hebert'}
 
 
 Title: Witches_ Loaves, Henry.txt
-Number of Characters: 8
-Characters: ['Witches', 'O. Henry', 'Martha', 'Der', 'Sally Lunns', 'Martha Meacham', 'Blumberger', 'Miss Martha']
+Focused Character Score: 0.0026
+Details: {'O. Henry', 'Martha Meacham', 'Witches', 'Der'}
 
 
 Title: sea_change.txt
-Number of Characters: 3
-Characters: ['Matia', 'Ziaur', 'Abdus']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: pity_and_shame.txt
-Number of Characters: 60
-Characters: ['Angus', 'Korah', 'Dickens', 'Pete', 'Robineau', 'Honor', 'Ursula K. Le Guin \n\nHard', 'Van Allen', 'Pete Tonely', 'Miz Tonely', 'William Cowper', '’s Rae Brown', 'Aunt Bessie', 'Koons', 'Ross', 'MacIver', 'Petey', 'Scriptures', 'Bendischer', 'Jeffrey', 'Roy Daid', 'Amy', 'Cooper', 'Keep', 'Ederson', 'Tim', 'Cleo', 'Cowper’s', 'Doc', 'Charles Dickens', 'Peer', 'R.E. Bendischer', 'Whom', '’s William', 'Dorrit', 'Roy', 'Dathan', 'Arthur Clennam', 'William', 'Tonely', 'Doc Mac', 'Rae Brown', 'Marsay', 'Pete’s', 'Hereby', 'Carl Ederson', 'Bingham', 'Girls Rae', 'Miss Rae', 'Miz Brown', 'W. Cowper', 'Cowper', 'Robert Bendischer', 'Gospel', 'Forsaken', 'Carl', 'Grandmother Brown', 'Rae', 'Metcalf', 'Frederick']
+Focused Character Score: 0.0012
+Details: {'Dathan', 'Bendischer', 'Rae', 'Tonely', 'William', 'MacIver', 'Cooper', 'Koons', '’s Rae Brown', 'Ross', 'Doc', 'Hereby', 'William Cowper', 'Miz Brown', 'Metcalf', 'Miz Tonely'}
 
 
 Title: The Bet, Chekhov.txt
-Number of Characters: 5
-Characters: ['Shakespeare', 'Gospel', 'Gospels', 'Jailer', 'Anton Chekhov']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Italian with Grammar, Twain.txt
-Number of Characters: 10
-Characters: ['Verb', 'Mark Twain', 'Florentine', 'Grammar', 'Marimana', 'Sergeant Avere', 'Helm alee', 'Continuous', 'Adam', 'Tu hai un']
+Focused Character Score: 0.0003
+Details: {'Verb'}
 
 
 Title: The Yellow Wallpaper, Gilman.txt
-Number of Characters: 9
-Characters: ['John’s', 'Jane', 'sticketh closer', 'Hurrah', 'Mary', 'Charlotte Perkins Gilman', 'Jennie', 'John', 'Cousin Henry']
+Focused Character Score: 0.0006
+Details: {'Jane', 'John’s', 'John', 'sticketh closer'}
 
 
 Title: The Affair at Coulter_s Notch, Bierce.txt
-Number of Characters: 6
-Characters: ['what--', 'Morrison', 'Coulter', 'Barbour', 'Harmon', 'Williams']
+Focused Character Score: 0.0008
+Details: {'Coulter', 'Morrison', 'Barbour'}
 
 
 Title: The Yarkand Manner, Munro.txt
-Number of Characters: 5
-Characters: ['Monte Carlo', 'Salonica', 'H.H. Munro', 'Lulworth Quayne', 'Lulworth']
+Focused Character Score: 0.0005
+Details: {'Lulworth'}
 
 
 Title: What You Want, Henry.txt
-Number of Characters: 20
-Characters: ['Volumes', 'Tom', 'Tailor', "Clark\nRussell's", 'Barber', 'Bessemer', "James Turner's", 'Rashid', 'Haman', 'Bagdad', 'James Turner', 'James', 'Teddy', 'H. A.', 'Ali Baba', 'Mike', 'O. Henry\n\nNight', 'H. A. Rashid', 'Clark Russell', 'Tom Crowley']
+Focused Character Score: 0.0008
+Details: {'Mike', 'James Turner'}
 
 
 Title: The Black Cat, Poe.txt
-Number of Characters: 12
-Characters: ['gore', 'Horror', 'Pluto', 'Edgar Allan Poe', 'Rum', 'Gin', 'slow degrees - degrees', 'theFiendIntemperance-', 'Agony', 'slow degrees', 'Law', 'Rest']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Hunters in the Snow, Wolff.txt
-Number of Characters: 16
-Characters: ['Tub', 'Jack Robinson', 'Frank', 'Roxanne\nBrewer', 'Juliet', 'Nancy', 'babysitter', 'Drop', 'Kenny', 'Taht', 'Tobias Wolff\n\nTub', 'Jesus', 'jackknifed', 'Juliet Miller', 'Alice', 'Wherever Tub']
+Focused Character Score: 0.0007
+Details: {'Tub', 'Jesus', 'Drop', 'Frank', 'Kenny'}
 
 
 Title: All Summer in a Day, Bradbury.txt
-Number of Characters: 3
-Characters: ['Ray Bradbury', 'Venus', 'William']
+Focused Character Score: 0.0004
+Details: {'William'}
 
 
 Title: glass_people.txt
-Number of Characters: 3
-Characters: ['Ma', 'Dad', 'Jimi']
+Focused Character Score: 0.0016
+Details: {'Ma'}
 
 
 Title: Pigs Is Pigs, Butler.txt
-Number of Characters: 24
-Characters: ['Morgan', 'St. Patrick', 'Kane', 'N. J. Regarding', 'George', 'Mike Flannery', 'N. J. Please', 'Cava', 'John C. Morehouse', 'Sivin', 'Ellis Parker Butler', 'Gordon', 'Nixt', 'Pigs Franklin', 'Sammy', 'Rooshun', 'wan dang kebbage', "Mike Flannery's", 'Wan', 'Morehouse', 'Misther Morehouse', 'Miss Kane', 'Westcote', 'P. S.']
+Focused Character Score: 0.0033
+Details: {'Misther Morehouse', 'George', 'Wan', 'Nixt', 'Kane', 'Sammy', 'Sivin', 'Westcote', 'Pigs Franklin', "Mike Flannery's", 'N. J. Please', 'Morehouse', 'Morgan', 'Mike Flannery'}
 
 
 Title: The Wedding-Knell, Hawthorne.txt
-Number of Characters: 5
-Characters: ['Bishop Taylor', 'Ellenwood', 'satin', 'Dabney', 'Nathaniel Hawthorne']
+Focused Character Score: 0.0003
+Details: {'Ellenwood'}
 
 
 Title: Big Two-Hearted River, Hemmingway.txt
-Number of Characters: 8
-Characters: ['Bill', 'Nick\n', 'mosquito', 'Nick', 'Colt', 'Seney', 'Hop', 'Hopkins']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Hands, Sherwood.txt
-Number of Characters: 11
-Characters: ['George Willard', 'Wing Biddlebaum', "Wing Biddlebaum's", 'Adolph Myers', "George Willard's", 'Henry Bradford', 'Sympathetically', "Wesley Moyer's", 'Tom Willard', 'Tony Tip', 'Sherwood Anderson']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_monk_dilemma.txt
-Number of Characters: 9
-Characters: ['Barb Havlick', 'Barb', 'Miguel', 'Joan', 'Cameron Stewart', 'Bravo', 'Dickie', 'Jesus', 'Peter']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Haircut, Lardner.txt
-Number of Characters: 49
-Characters: ['talkie', 'Gloria Swanson', 'Missus', 'Charley', 'Carterville', 'Dick', 'H. Kendall', 'John Scott', 'outwittin', 'Henry Smith', 'Paul', 'Benton', 'Joe Barnes', 'Doc Gamble', "Doc Stair's", 'Paul Dickson', 'Ralph', 'Ralphie', 'Joe', 'John', 'Julie Gregg', 'Doc', 'Jim', 'Tommy Meighan', 'Scott', 'Charles M. Vail', 'expectin', 'knowin', "Charley Vail's", 'Hod Meyers', 'Doc Stair', 'travelin', 'Ring Lardner\n\nIgot', 'Whitey', 'Milt', 'Milt Sheppard', 'Kendall', 'George Purdy', 'Gloria', "Frank Abbott's", 'Wright', 'borrowin', 'Frank Abbott', 'Jim Kendall', 'Ken Beatty', 'Julie', 'Gregg', 'Adam', 'Hod']
+Focused Character Score: 0.0057
+Details: {'outwittin', 'talkie', 'Carterville', 'Julie Gregg', 'Gregg', 'knowin', 'Doc', 'Doc Gamble', 'Julie', "Charley Vail's", 'Jim Kendall', 'Jim', 'Paul', 'Benton', 'Kendall', 'Ralph', 'Wright', 'Paul Dickson', 'Joe', 'Frank Abbott', 'Hod Meyers', 'John Scott', 'Milt', 'Doc Stair', 'travelin', 'borrowin', "Frank Abbott's", 'John', 'Henry Smith', 'expectin', 'Ralphie', 'George Purdy'}
 
 
 Title: Transients in Arcadia, Henry.txt
-Number of Characters: 17
-Characters: ['Count Polinski', 'O. Henry', 'Versailles', 'Mme', 'Mame', 'Harold Farrington', 'Mammoth Store', 'Casey', 'Farrington', 'Mamie Siviter', 'James McManus', "Harold Farrington's", 'McManus', "D'Arcy Beaumont", 'Superfluous', 'Fiske', 'Jimmy']
+Focused Character Score: 0.0017
+Details: {'Harold Farrington', 'Count Polinski', 'Jimmy', 'Farrington'}
 
 
 Title: The Diary of a Madman, Maupassant.txt
-Number of Characters: 2
-Characters: ['Prefect', 'Jean']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Hearts And Hands, Henry.txt
-Number of Characters: 6
-Characters: ['O. Henry\n\n', 'Fairchild', 'Mamma', 'Leavenworth', 'Marshal', 'Easton']
+Focused Character Score: 0.0027
+Details: {'Leavenworth', 'Easton', 'Fairchild'}
 
 
 Title: it's_only_been_me_all_this_time.txt
-Number of Characters: 4
-Characters: ['Toni', 'Baby Ruths', 'Fuck', 'Yay']
+Focused Character Score: 0.0008
+Details: {'Yay'}
 
 
 Title: Theodule Sabot_s Confession, Maupassant.txt
-Number of Characters: 12
-Characters: ['Sabot', 'Kneel', 'Easter', 'Mary', 'Christopher', 'The Abbe Maritime', 'Monsieur Sabot', 'Theodule Sabot', 'Abbe Maritime', 'nom de Dieu', 'Rouen', 'Carpenter']
+Focused Character Score: 0.0017
+Details: {'Mary', 'Abbe Maritime', 'Sabot', 'Easter', 'Kneel', 'Carpenter'}
 
 
 Title: regarding_lichen.txt
-Number of Characters: 1
-Characters: ['Isaac Yuen']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Coming of the King, Richards.txt
-Number of Characters: 2
-Characters: ['Laura E. Richards', "Oscar Wilde's"]
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Wreck, Maupassant.txt
-Number of Characters: 8
-Characters: ['the Marie Joseph', 'Marie Joseph', 'Richelieu', 'Jean Guiton', 'Kate', 'Georges', 'Georges Garin', 'Rouen']
+Focused Character Score: 0.0008
+Details: {'Kate', 'Marie Joseph', 'Rouen', 'Georges'}
 
 
 Title: swamps.txt
-Number of Characters: 2
-Characters: ['Ryūnosuke Akutagawa', 'Velvet']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_bug_man.txt
-Number of Characters: 2
-Characters: ['Ma', 'Josh']
+Focused Character Score: 0.0028
+Details: {'Josh'}
 
 
 Title: Shooting an Elephant, Orwell.txt
-Number of Characters: 3
-Characters: ['InMoulmein', 'George Orwell', 'van']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Baron of Grogzwig, Dickens.txt
-Number of Characters: 15
-Characters: ['Von Swillenhausen', 'Grogzwig', 'Von Koëldwethout', 'Nimrod', 'Hem', 'Baroness Von Swillenhausen', 'Koëldwethout', 'Thedamselheld', 'Scolding', 'Charles Dickens', 'Rhine', 'Swillenhausen', 'Gillingwater', 'Baron', 'Grogzwigcoffersran']
+Focused Character Score: 0.0009
+Details: {'Von Koëldwethout', 'Von Swillenhausen', 'Hem', 'Koëldwethout'}
 
 
 Title: Princess Mary, Lermontov.txt
-Number of Characters: 42
-Characters: ['Library', 'Walter Scott', "M'sieu Pechorin", 'Mephistopheles', 'Pushkin', 'Spurs', 'Worthy', 'noisy brooks', 'Pechorin', 'thick grey', 'Laughter', 'I.', 'Grushnitsky', 'Mary', 'Waterloo', 'Zheleznaya', 'Ivan Ignatych', 'Elizabeth', 'Reader', 'I.\nGrushnitsky', 'Elizabeth Springs', 'Ligovskaya', 'Semyon Vasilyevich G', 'Triumph', 'Mary\ntold', 'Werner', 'bush', 'Mikhail Lermontov', 'je hais', 'Delicieux', 'Farewell', 'Ivanov', 'Podkumok', 'Vera', 'N. Maxim Maximych', 'Nero', 'Moscovites', 'Kislovodsk', 'I.\n', 'Rayevich', 'Permettez', "Robinson Crusoe's"]
+Focused Character Score: 0.0004
+Details: {'Werner', 'Mary', 'je hais', 'I.\n', 'Pushkin', 'Vera', 'Ligovskaya', "M'sieu Pechorin", 'Permettez', 'Pechorin', 'Grushnitsky', 'I.'}
 
 
 Title: the_spoils.txt
-Number of Characters: 12
-Characters: ['Bloomberg', 'Dad', 'Marva', 'gaunt', 'Jesus', 'Stanley', 'Mom', 'Ken Sandbank', 'Soros', 'Hitler Youth', 'Megillah', 'Trevor']
+Focused Character Score: 0.0007
+Details: {'Megillah'}
 
 
 Title: Young Goodman Brown, Hawthorne.txt
-Number of Characters: 16
-Characters: ['Goody Cory', 'Sabbath', 'Goody Cloyse', 'Thither', 'Faith', 'Herein', 'Come witch', 'Goodman Brown', 'Lo', 'Deacon Gookin', "Goodman Brown's", 'wolf', 'church bell', 'Martha Carrier', 'Brown', 'Nathaniel Hawthorne']
+Focused Character Score: 0.0010
+Details: {'Goody Cloyse', 'wolf', 'Goodman Brown', 'Faith', 'Goody Cory', 'Lo'}
 
 
 Title: the_superstition_of_albatross.txt
-Number of Characters: 6
-Characters: ['Bad', 'Hound', 'Kerri Finney', 'Greeks', 'Broken', 'Daisy Johnson']
+Focused Character Score: 0.0005
+Details: {'Bad', 'Broken'}
 
 
 Title: Berenice, Poe.txt
-Number of Characters: 7
-Characters: ['gore', 'Secundus Curio', 'Edgar Allan Poe', 'Dei', 'Ebn Zaiat', 'Egaeus', 'Herein']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: whatever_remains.txt
-Number of Characters: 3
-Characters: ['Tara Isabel Zambrano', 'Maa', 'Papa']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Madame Parisse, Maupassant.txt
-Number of Characters: 11
-Characters: ['Monsieur Saribe', 'Monsieur Martini', 'Saint-Michel', 'Saribe', 'Jean de Carmelin', 'Southerner', 'aPaul de Kock', 'M. Martini', 'Gribois', 'Marseilles', 'Trojan']
+Focused Character Score: 0.0004
+Details: {'Gribois'}
 
 
 Title: Gooseberries, Chekhov.txt
-Number of Characters: 16
-Characters: ['Aliokhin', "Ivan Ivanich's", 'Mirousky', 'Nicholai Ivanich', 'Tchimbarshov Corner', 'lick', 'Nicholai', 'bush', 'Pavel Koustantinich', 'Pelagueya', 'Aliokin', 'Ivan Ivanich', 'Anton Chekhov', 'Bourkin', 'Hooray', 'Pretty Pelagueya']
+Focused Character Score: 0.0013
+Details: {'Bourkin', 'Pavel Koustantinich', 'Ivan Ivanich', 'Aliokhin', 'Pelagueya', 'Nicholai Ivanich'}
 
 
 Title: A Retrieved Reformation, Henry.txt
-Number of Characters: 28
-Characters: ['Socially', 'Annabel', 'Jimmy Valentine', 'Agatha', 'Jimmy', 'May', 'Ben Price', 'Miss Annabel Adams', 'Ralph Spencer', 'O. Henry', 'Ralph', 'Ralph D. Spencer', 'Mike Dolan', 'Adams', "Jimmy Valentine's", 'Polly Simpson', 'James Valentine', 'Valentine', 'Annabel Adams', 'Logansport', 'Billy', 'Dolph Gibson', 'Sullivan', "Dandy Jim Valentine's", 'Ben', "Ben Price's", 'Spencer', 'Mike']
+Focused Character Score: 0.0028
+Details: {'Mike', 'Mike Dolan', 'Spencer', 'Jimmy', 'Polly Simpson', 'Annabel', 'Valentine', 'Adams', 'Ralph D. Spencer', 'Ben'}
 
 
 Title: the_salesman.txt
-Number of Characters: 1
-Characters: ['Emily Dezurick-Badran']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: fantasy.txt
-Number of Characters: 4
-Characters: ['Donald Duck', 'Lawrence', 'Råskog', 'Kay']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: african_violets.txt
-Number of Characters: 1
-Characters: ['Emma Bushnell']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Door in the Wall, Wells.txt
-Number of Characters: 11
-Characters: ['Crawshaw', 'Gurker', 'Wallace', 'Fawcett', 'Gazettestill', 'Lionel Wallace', 'Redmond', 'Hotchkiss', 'H. G. Wells', 'I.\n"', 'Frobisher']
+Focused Character Score: 0.0004
+Details: {'I.\n"', 'Hotchkiss', 'Crawshaw'}
 
 
 Title: Araby, Joyce.txt
-Number of Characters: 12
-Characters: ['Steed', "O'Donovan Rossa", 'Walter Scott', 'James Joyce', 'Freemason', 'Devout Communicant', 'Mangan', 'Araby', 'Farewell', 'Café Chantant', 'Jack', 'Mrs Mercer']
+Focused Character Score: 0.0015
+Details: {'Jack', 'Araby', "O'Donovan Rossa", 'James Joyce'}
 
 
 Title: A School Story, James.txt
-Number of Characters: 5
-Characters: ['ego veniam ad te', 'Sampson', 'McLeod', 'A.', 'M.R. James']
+Focused Character Score: 0.0010
+Details: {'McLeod', 'Sampson', 'A.'}
 
 
 Title: christmas_alligator.txt
-Number of Characters: 3
-Characters: ['Scrabble', 'Valentine’s Day', 'Mandy']
+Focused Character Score: 0.0008
+Details: {'Mandy'}
 
 
 Title: Sredni Vashtar, Munro.txt
-Number of Characters: 5
-Characters: ['De Ropp', 'Houdan', 'H.H. Munro', 'Sredni Vashtar', 'Conradin']
+Focused Character Score: 0.0005
+Details: {'Conradin'}
 
 
 Title: Where are you going, Where have you been_, Oats.txt
-Number of Characters: 21
-Characters: ['Connie', 'Charley', 'Eddie', 'Nancy Pettinger', 'Tillie', 'Arnold Friend', 'Tony Fitch', 'Bobby\nKing', 'Joyce Carol Oats', 'Pettinger', 'Hornsby', 'Raymond Stanley', 'Ellie', 'ARNOLD FRIEND', 'Jimmy Pettinger', 'Bob Hutter', 'Bobby King', "Don'tcha", "Arnold Friend's", 'Betty Schultz', 'Ellie Oscar']
+Focused Character Score: 0.0015
+Details: {'Charley', 'Arnold Friend', 'Connie', 'Betty Schultz', "Don'tcha", 'Ellie', 'Tony Fitch', 'Tillie', 'Jimmy Pettinger', 'Eddie', 'Pettinger', 'Bobby\nKing', 'Nancy Pettinger'}
 
 
 Title: The Sniper, O_Flaherty.txt
-Number of Characters: 1
-Characters: ["Liam O'Flaherty"]
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Springtime a la Carte, Henry.txt
-Number of Characters: 18
-Characters: ['Shakespeare', 'Walter Franklin', 'Walter', 'Juliet', 'O. Henry', "O.\nHenry's", 'Sarah', 'Lady', 'Easter', 'Percy', 'Spring', 'Flowered', 'Madam', "Farmer Franklin's", 'Lucy Maud Montgomery', 'Gerard', 'Hackett', 'lima beans']
+Focused Character Score: 0.0015
+Details: {'Walter Franklin', 'Sarah', 'Walter', 'Shakespeare'}
 
 
 Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker), Irving.txt
-Number of Characters: 34
-Characters: ['Wolf', 'Peter Vanderdonk', 'a Waterloo Medal', 'D. K."', 'Rip', 'Judith Gardenier', 'Frederick der Rothbart', 'Hendrick Hudson', 'Hudson', 'buff', "Rip Van Winkle's", 'King George', 'Tale', 'Doolittle', 'Knickerbocker', 'Peter Stuyvesant', 'inn', 'Jonathan Doolittle', 'Nicholas Vedder', 'Poor Rip', 'Derrick Van Bummel', 'Dominie Van Shaick', 'uncouth', 'Diedrich Knickerbocker', 'Brom Dutcher', "degrees Rip's", 'Van Bummel', 'Peter', 'Kypphauser', 'Nicholas', 'Rip Van Winkle', 'Hush', 'squirrel shooting', 'Stony Point']
+Focused Character Score: 0.0004
+Details: {'Nicholas', 'Nicholas Vedder', 'Rip'}
 
 
 Title: Goodbye, My Brother, Cheever.txt
-Number of Characters: 34
-Characters: ['Ruth', 'John Cheever', 'Anna', 'Jenny Lind', 'Edward Chester', 'Jesus', 'Little Jesus', 'Dad', 'Cotton Mather', 'Bette Davis', 'Cassiopeia', 'Anna Ostrovick', 'Dwight MacGregor', 'Talcott', 'Patsy Hewitt', 'Helen', 'Chaddy', 'Auerbach', 'Martini', 'Eric Auerbach', 'Thalassa', 'Henry VIII', 'Lawrence', 'Roosevelt', 'Odette', 'Andromeda', 'Tifty', 'Laud’s Head', 'Gear', 'Diana', 'Lawrence’s', 'Henry Barrett', 'Mother', 'Lew Phillips']
+Focused Character Score: 0.0009
+Details: {'Lawrence', 'Andromeda', 'Mother', 'John Cheever', 'Tifty', 'Helen', 'Martini', 'Chaddy', 'Ruth', 'Odette'}
 
 
 Title: cloud_eat_blue_sky.txt
-Number of Characters: 6
-Characters: ['Styrofoam', 'Probably Mandy', 'Granny', 'John Christopher Duncan', 'Clouds', 'Mandy']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: A True Story, Repeated Word for Word As I Heard It, Twain.txt
-Number of Characters: 17
-Characters: ["Ca'se", 'stan', 'Henry', 'Mark Twain', 'Richmon', 'Shet', 'Aunt Rachel', 'de chile', 'de Norf', 'Git', 'de Lord', 'everywhah', 'Dey', 'Jim', 'Misto C', 'Den', 'De Lord']
+Focused Character Score: 0.0043
+Details: {'Henry', 'De Lord', 'stan', 'Shet', "Ca'se", 'Git', 'Richmon', 'Den', 'de Norf', 'everywhah', 'de Lord', 'Dey', 'Jim'}
 
 
 Title: i_have_her_memories_now.txt
-Number of Characters: 11
-Characters: ['Baby Beluga', 'Marrona', 'Cyndi Lauper', 'Marlie', 'spell hepatocyte', 'Muffin', 'Mother’s', 'Tiny Marlie', 'Mother', 'Carrie Grinstead', 'Marlie O’Hagan']
+Focused Character Score: 0.0007
+Details: {'Muffin', 'Marlie', 'Mother', 'Marrona'}
 
 
 Title: The Christening, Maupassant.txt
-Number of Characters: 4
-Characters: ["L'Assommoir", 'Kerandec', 'Mother Kerandec', 'Breton']
+Focused Character Score: 0.0010
+Details: {'Kerandec', 'Breton'}
 
 
 Title: how_to_breathe_without_thinking_about_it.txt
-Number of Characters: 5
-Characters: ['Christine Texeira', 'Dad', 'Joe', 'Mom', 'Tim']
+Focused Character Score: 0.0039
+Details: {'Christine Texeira', 'Dad', 'Tim', 'Mom'}
 
 
 Title: Gusev, Chekhov.txt
-Number of Characters: 19
-Characters: ['servile mug', 'Gazette', 'Kopeikin', 'Chinaman', 'Anton Chekhov', 'Akulka', 'Pavel Ivanitch half', 'Languidly', 'I.', 'Harkov', 'Pavel Ivanitch’s', 'Petchenyegs', 'Stepan', 'Alexey', 'Pavel Ivanitch', 'Dirka', 'Gusev', 'Jew Isaitchik', 'Domna']
+Focused Character Score: 0.0010
+Details: {'Pavel Ivanitch half', 'Pavel Ivanitch', 'servile mug', 'Pavel Ivanitch’s', 'Gusev', 'Stepan', 'I.'}
 
 
 Title: Was it Heaven_ Or Hell_, Twain.txt
-Number of Characters: 23
-Characters: ['Loch Lomond', 'Margaret Lester', 'Nancy', 'Hannah', 'Foster', 'God', 'Aunt', 'Mark Twain', 'Aunt Hannah', 'Drop', 'Margaret', 'Kiss', 'Helen', 'Faint', 'Hester Gray', 'Helen Lester', 'Pretty', 'Lester', 'Hester', 'Tilly', 'me?--I', 'Aunt Hester', 'Daily']
+Focused Character Score: 0.0009
+Details: {'Hannah', 'Aunt Hester', 'Loch Lomond', 'Hester', 'Helen', 'Foster', 'Margaret', 'Aunt Hannah'}
 
 
 Title: A Respectable Woman, Chopin.txt
-Number of Characters: 6
-Characters: ['Kate Chopin', 'Baroda', 'Gouvernail', 'ma belle', 'night--', 'Gaston']
+Focused Character Score: 0.0017
+Details: {'Baroda', 'night--', 'ma belle'}
 
 
 Title: Two Friends, Maupassant.txt
-Number of Characters: 9
-Characters: ['Mont-Valerien', 'Argenteuil', 'Monsieur Morissot', 'Morissot', 'Colombes', 'Sannois', 'Ile Marante', 'Monsieur Sauvage', 'Dumoulin']
+Focused Character Score: 0.0011
+Details: {'Monsieur Morissot', 'Morissot', 'Monsieur Sauvage'}
 
 
 Title: Babes in the Jungle, Henry.txt
-Number of Characters: 23
-Characters: ["Willie Manhattan's", 'Morgan', 'O. Henry\n\nMontague Silver', "Andrea del Sarto's", "Helen Gould's", "O'Sullivan", 'Pescud', 'Wiretapper', 'Saint John', 'I.', 'Winnie', 'Jerome', 'Klein', 'Bella', 'S. C.', 'Dewey', 'Silver', 'klein', 'Lawson', 'Billy', 'Peters', 'Chic', 'J. P. Morgan']
+Focused Character Score: 0.0004
+Details: {'Morgan'}
 
 
 Title: the_girl_who_did_not_know_fear.txt
-Number of Characters: 13
-Characters: ['Martine', 'Leila', 'Viddy', 'Dido', 'Molly', 'Jie', 'Min Jie', 'Sacher', 'Abby', 'Penny', 'tupelo', 'Sheraton', 'Kate Atkinson']
+Focused Character Score: 0.0008
+Details: {'Leila', 'Abby', 'Martine', 'Sacher', 'Penny', 'Jie', 'tupelo'}
 
 
 Title: Gentlemen The King!, Barr.txt
-Number of Characters: 11
-Characters: ['Rudolph', 'Count Staumn', 'Steinmetz', 'Alluria', 'Herr Steinmetz', 'Majesty', 'King', 'Robert Barr', 'King Rudolph', 'gaunt', 'Baron']
+Focused Character Score: 0.0006
+Details: {'King', 'Count Staumn', 'Baron'}
 
 
 Title: The Drunkard, Maupassant.txt
-Number of Characters: 3
-Characters: ['Paumelle', 'Café', 'Jeremie']
+Focused Character Score: 0.0005
+Details: {'Jeremie'}
 
 
 Title: The Story of Keesh, London.txt
-Number of Characters: 7
-Characters: ['Bawn', 'Ikeega', 'Massuk', 'Ugh-Gluk', 'Jack London', 'Keesh', 'Bim']
+Focused Character Score: 0.0005
+Details: {'Bim', 'Bawn'}
 
 
 Title: The Vendetta, Maupassant.txt
-Number of Characters: 10
-Characters: ['Paolo Saverini', 'Antonia', 'Antoine Saverini', 'Ajaccio', 'Nicolas Ravolati', 'Nicolas', 'Bonifacio', 'Saverini', 'Mother Saverini', 'Semillante']
+Focused Character Score: 0.0010
+Details: {'Mother Saverini', 'Nicolas Ravolati'}
 
 
 Title: molting.txt
-Number of Characters: 2
-Characters: ['Sarah Marie Kosch', 'Commas']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: A Vagabond, Maupassant.txt
-Number of Characters: 5
-Characters: ['journeyman carpenter', 'Jacques Randel', 'Vagabond', 'Widow Malet', 'Monsieur le Maire']
+Focused Character Score: 0.0002
+Details: {'Monsieur le Maire'}
 
 
 Title: The Tell-Tale Heart, Poe.txt
-Number of Characters: 5
-Characters: ['Death', 'God!--no', 'Edgar Allan Poe', 'here!--it', 'Evil Eye']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Robert Kennedy Saved From Drowning, Barthelme.txt
-Number of Characters: 16
-Characters: ['Hemingway', 'Sidi-Madani', 'Kennedy', 'Arthur M. Schlesinger', 'Kenneth Noland', 'Karsh', 'Pfote', 'Entrepreneur', 'Waiters', 'Affe', 'Paw', 'Donald Barthelme', 'Robert Kennedy', 'Churchill', "John Kennedy's", 'Poulet']
+Focused Character Score: 0.0006
+Details: {'Kennedy', "John Kennedy's"}
 
 
 Title: An Uncomfortable Bed, Maupassant.txt
-Number of Characters: 0
-Characters: []
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Man From The South, Dahl.txt
-Number of Characters: 4
-Characters: ['Carlos', 'palm outward', 'Martini', 'dis ting']
+Focused Character Score: 0.0002
+Details: {'Martini'}
 
 
 Title: Mademoiselle Fifi, Maupassant.txt
-Number of Characters: 22
-Characters: ['Baron von Kelweinstein', 'Mademoiselle Fifi\nAuthor', 'Pamela', 'Graf Von Farlsberg', 'Otto', 'Baron von Eyrick', 'Lieutenant von Grossling', 'Mademoiselle Fifi', 'Graf von Farlsberg', 'Fritz', 'Rouen', 'Tomato', 'Comte Fernand', 'Fritz Scheuneberg', 'Lieutenants Otto and', "Abbe Chantavoine's", "Mademoiselle Fifi's", 'Baron Wilhelm', 'Otto von Grossling', 'Rachel', 'Baron van Kelweinstein', "Count Wilhelm d'Eyrick"]
+Focused Character Score: 0.0013
+Details: {"Abbe Chantavoine's", 'Rachel', 'Pamela', 'Otto', 'Mademoiselle Fifi', 'Fritz', 'Lieutenant von Grossling'}
 
 
 Title: The Burial of the Guns, Page.txt
-Number of Characters: 11
-Characters: ['Sabbath', 'Yorktown', 'Thomas Nelson Page', 'Magruder', 'Matthew', 'Harris', 'Lee', 'John', 'Luke', 'Rapidan', 'Mark']
+Focused Character Score: 0.0002
+Details: {'Lee', 'Harris'}
 
 
 Title: coda.txt
-Number of Characters: 2
-Characters: ['Clichés', 'Emily Everett']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Jim Baker_s Blue-Jay Yarn, Twain.txt
-Number of Characters: 7
-Characters: ['Mark Twain', "Jim Baker's", 'Baker', 'Jim Baker', 'Yo Semite', 'ﬁrst jay', 'the Yo Semite']
+Focused Character Score: 0.0004
+Details: {'Baker'}
 
 
 Title: The Unrest-Cure, Munro.txt
-Number of Characters: 16
-Characters: ['James Huddle', 'Miss Huddle', 'Clovis', 'Louis Quatorzian', 'Huddle', 'Stanislaus', 'Kilkenny', 'Birberry', 'Telegram', 'Paul Isaacs', 'Alberti', 'H.H. Munro', 'Bishops', 'Leon Birberry', 'J. P. Huddle', 'Gambetta']
+Focused Character Score: 0.0018
+Details: {'J. P. Huddle', 'Clovis', 'Telegram', 'Miss Huddle', 'Huddle'}
 
 
 Title: Mademoiselle Pearl, Maupassant.txt
-Number of Characters: 17
-Characters: ['maid curls', 'Claire', 'Pearl', 'Paul', 'Louise', 'Chantal', 'Mademoiselle Pearl', 'Jacques', 'Uncle', 'Jove', 'Gaston', 'Marie Simonne Claire', 'Marry', 'Pauline', 'blameless hearts', 'M. Chantal', 'Baptiste']
+Focused Character Score: 0.0009
+Details: {'Marie Simonne Claire', 'Mademoiselle Pearl', 'Pearl', 'Baptiste', 'Claire', 'Jacques'}
 
 
 Title: The Death Of A Government Clerk, Chekhov.txt
-Number of Characters: 8
-Characters: ['Exc', 'Tchervyakov', 'Aptchee', 'Jove', 'Russian Writers', 'Chekhov', 'Anton Chekhov', 'Ivan Dmitritch Tchervyakov']
+Focused Character Score: 0.0008
+Details: {'Tchervyakov'}
 
 
 Title: The Selfish Giant, Wilde.txt
-Number of Characters: 6
-Characters: ['Frost', 'Spring', 'Snow', 'Oscar Wilde', 'Laura E. Richards', 'Fairy Tales']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Child_s Story, Dickens.txt
-Number of Characters: 4
-Characters: ['Charles Dickens', 'Juno', 'Theatres', 'Grandfather']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: After the Race, Joyce.txt
-Number of Characters: 12
-Characters: ['Cadet\nRoussel', 'Villona', 'Farley', 'James Joyce', 'Andre Riviere', 'Segouin', 'Frenchmen', 'Englishman', 'Doyle', 'Andre', 'Jimmy', 'Charles Segouin']
+Focused Character Score: 0.0008
+Details: {'Villona', 'Jimmy'}
 
 
 Title: An Affair of State, Maupassant.txt
-Number of Characters: 11
-Characters: ['Hurrah', 'Counselor', 'Send Torcheboeuf', 'Torcheboeuf', 'Celeste', 'Picard', 'Viscountde Varnetot', 'ofSedan', 'Massarel', 'Salmare', 'Napoleon II']
+Focused Character Score: 0.0002
+Details: {'Massarel'}
 
 
 Title: The Vertical Fields, Dawson.txt
-Number of Characters: 14
-Characters: ['Birth', 'Billy Berthold', 'Gene', 'Sloan', 'Ed', 'Mary', 'Charles', 'Joseph', 'Reid', "Charles Kean's", 'Emma Jackman', 'Dart', "James Joyce's", 'Lorry']
+Focused Character Score: 0.0023
+Details: {'Billy Berthold', 'Emma Jackman'}
 
 
 Title: The Storyteller, Munro.txt
-Number of Characters: 7
-Characters: ['bush', 'Bertha', 'Cyril', 'H. H. Munro', 'Saki', 'wolf', 'Storyteller']
+Focused Character Score: 0.0008
+Details: {'Bertha', 'Cyril'}
 
 
 Title: The Ambitious Guest, Hawthorne.txt
-Number of Characters: 5
-Characters: ['Bartlett', 'toBurlington', 'Esther', 'Lawrence', 'Nathaniel Hawthorne']
+Focused Character Score: 0.0003
+Details: {'toBurlington'}
 
 
 Title: beautiful_animals.txt
-Number of Characters: 7
-Characters: ['Naomi', 'Forgotten', 'Sam’s', 'Louis Armstrong', 'Sam', 'Jeffrey', 'Lawrence Osborne']
+Focused Character Score: 0.0011
+Details: {'Sam', 'Naomi'}
 
 
 Title: The Street That Got Mislaid, Waddington.txt
-Number of Characters: 15
-Characters: ['Flanagan', 'Marc', 'Plonsky', 'Louis', 'Patrick Waddington', 'Bleury', 'Hunter', 'Trusdale', 'Marc Girondin', 'Hazard', 'Jean Desselin', 'Green Bottle\nStreet', 'Michael Flanagan', 'Green Bottle Street', 'Craig']
+Focused Character Score: 0.0017
+Details: {'Marc', 'Flanagan', 'Michael Flanagan', 'Trusdale'}
 
 
 Title: The Shed Chamber, Richards.txt
-Number of Characters: 19
-Characters: ['Richard', 'George Brett', 'Annie', 'George', 'Bowles', 'Lottie', 'Barbara', 'Nora', 'Joe', 'John', 'Rob', 'Sue', 'life!--she', 'Nell', 'Tunkett', 'Brett', 'Billy', 'A. B. C.', 'Laura E. Richards']
+Focused Character Score: 0.0029
+Details: {'George', 'Tunkett', 'life!--she', 'Annie', 'Barbara', 'Nora', 'Richard', 'John', 'Lottie', 'Bowles', 'Brett', 'A. B. C.'}
 
 
 Title: The Unknown, Maupassant.txt
-Number of Characters: 4
-Characters: ['Jove', 'Gontran', 'Roger des Annettes', 'Solomon']
+Focused Character Score: 0.0004
+Details: {'Gontran'}
 
 
 Title: Hills like White Elephants.txt
-Number of Characters: 3
-Characters: ['Ernest Hemmingway', 'Anis', 'Jig']
+Focused Character Score: 0.0005
+Details: {'Jig'}
 
 
 Title: postwar.txt
-Number of Characters: 5
-Characters: ['Los Angles', 'Modelo', 'Alex Webb Wilson', 'Douglas', 'Walter Jr.']
+Focused Character Score: 0.0009
+Details: {'Los Angles'}
 
 
 Title: ON_AUGUST_EIGHTEENTH_AT_TEN_THIRTY_PM,_ANNIE_OTSUKA_WATCHED_HER_FIRST_JAPANESE_ANIMATED_FILM.txt
-Number of Characters: 5
-Characters: ['Elaine Hsieh Chou', 'Satoshi Kon', 'kawaii', 'Monica Vitti', 'Annie']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: all_the_sea_in_the_fish.txt
-Number of Characters: 5
-Characters: ['Rob Bockman', 'Rachel', 'Sogbo', 'Rachel’s', 'Sogbo’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Souls Belated, Wharton.txt
-Number of Characters: 26
-Characters: ['Civis Romanus', 'Monsieur Grossart', 'Pinsent', 'Gannett', 'van', "Lady Susan's", 'chuck', 'Ralph', 'Monte Rosa', 'Lady Susan', 'Edith Wharton', 'Ainger', 'Bradshaw', 'Imustfind', 'Trevenna', 'earl', 'Ganett', 'Cope', 'Drummond', 'Bologna', 'Lady Trevenna', 'Shall', 'Tillotson', 'Grossartisin', 'Lydia', 'Linton']
+Focused Character Score: 0.0005
+Details: {'Ainger', 'Gannett', 'Monsieur Grossart', 'Pinsent', 'Lady Susan', 'Trevenna'}
 
 
 Title: A Temporary Matter, Lahiri.txt
-Number of Characters: 8
-Characters: ['O.K.', 'Martini', 'Gillian', 'Shoba', 'Jhumpa Lahiri', 'Filene’s', 'Shukumar', 'Realtor']
+Focused Character Score: 0.0006
+Details: {'Gillian', 'Shukumar', 'Martini', 'Shoba'}
 
 
 Title: Vanka, Chekhov.txt
-Number of Characters: 13
-Characters: ['Grandfather', 'Fedka', 'Sidor', 'Olga Ignatyevna', 'Zhivarev', 'Kashtanka', 'Russian Writers', 'Eel', 'Anton Chekhov', 'Old Kashtanka', 'Ivan Zhukov', 'Pelageya', 'Konstantin Makaritch']
+Focused Character Score: 0.0005
+Details: {'Pelageya'}
 
 
 Title: Useless Beauty, Maupassant.txt
-Number of Characters: 15
-Characters: ['Bernard Grandin', 'Gabrielle', 'Miss Smith', 'Mascaret', 'Creator', 'Philippe', 'Comtesse Mascaret', 'Grandin', 'Roger de Salnis', 'de Mascaret', 'Jacques', 'Abbe Martin', 'Salnis', 'Bois', 'Jeanne']
+Focused Character Score: 0.0010
+Details: {'Roger de Salnis', 'Bernard Grandin', 'Gabrielle', 'Grandin', 'Jeanne', 'Philippe', 'Jacques', 'Comtesse Mascaret'}
 
 
 Title: gretel's_dreams.txt
-Number of Characters: 3
-Characters: ['Maria Adelmann', 'Gretel', 'Beneath Gretel’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Shoemaker And The Devil, Chekhov.txt
-Number of Characters: 8
-Characters: ['Beggar', 'Satan Ivanitch', 'Fyodor Pantelyeitch', 'Anton Chekhov', 'Kuzma Lebyodkin', 'kvass', 'Soul', 'Kolokolny Lane']
+Focused Character Score: 0.0003
+Details: {'Fyodor Pantelyeitch'}
 
 
 Title: a_guided_tour_of_the_sistine_chapel_ceiling.txt
-Number of Characters: 4
-Characters: ['pun', 'Tom', 'Sandeep', 'Beth']
+Focused Character Score: 0.0016
+Details: {'Beth', 'Tom'}
 
 
 Title: the_other_side_of_the_fence.txt
-Number of Characters: 7
-Characters: ['Crutch', 'Elbow', 'noun', 'V. Adducing', 'Susan Tacent', 'Marty', 'Kindness']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: my_coworker’s_obituary_photograph.txt
-Number of Characters: 2
-Characters: ['Annie Hartnett', 'George']
+Focused Character Score: 0.0026
+Details: {'George', 'Annie Hartnett'}
 
 
 Title: How I Edited an Agricultural Paper, Twain.txt
-Number of Characters: 3
-Characters: ['Relieve', 'Clams', 'Mark Twain']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: career_counseling.txt
-Number of Characters: 20
-Characters: ['Aim High', 'Doc Martens', 'Maya Angelou', 'David Bowie', 'Mendozas', 'Luisah Teish', 'Red Zinger', 'Ariel Gore', 'Ntozake Shange', 'Gore', 'Jambalaya', 'Gammie Evelyn', 'Almond Sunset', 'Lehrer Newshour', 'Joe Strummer', 'Jorge Luis Borges', 'Aim', 'Ariel', 'Roberta', 'Curious George']
+Focused Character Score: 0.0007
+Details: {'Gore', 'Ariel'}
 
 
 Title: The Unkindest Blow, Munro.txt
-Number of Characters: 5
-Characters: ['Duke', 'bull bison', 'Grandson', 'The Duke of', 'H.H. Munro']
+Focused Character Score: 0.0006
+Details: {'Duke'}
 
 
 Title: she_was_warned.txt
-Number of Characters: 17
-Characters: ['Crabby', 'balsam fir', 'Ovutran', 'Clomid', 'Mínervudottír', 'Leni Zumas', 'Dad', 'Sitka', 'Roberta', 'Fingers', 'Ab', 'Eivør Mínervudottír', 'Jesus', 'Susan', 'Kalbfleisch', 'Kalbfleisch’s', 'Zeus']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Politics and the English Language, Orwell.txt
-Number of Characters: 19
-Characters: ['Saxon', 'Comfort', 'Stuart Chase', 'Milton', 'X', 'LANCELOT HOGBEN', 'Shelley', 'Bad', 'Langham Place', 'George Orwell', 'Wrey Gardiner', 'Fascism', 'mutatis mutandis', 'Hogben', 'swan song', 'Basicput', 'Laski', 'HAROLD LASKI', 'Achilles']
+Focused Character Score: 0.0002
+Details: {'Achilles'}
 
 
 Title: break.txt
-Number of Characters: 13
-Characters: ['Jake’s', 'Valerie O’Riordan', 'Linda', 'Joey', 'Robby', 'Lady', 'Jesus', 'Francis', '’s Francis', 'Al', 'Ma', 'Jake', 'Johnnie Doe Useless']
+Focused Character Score: 0.0028
+Details: {'’s Francis', 'Jesus'}
 
 
 Title: How the Widow Won the Deacon, Lampton.txt
-Number of Characters: 13
-Characters: ['hooray', 'Kate Stimson', 'Kitty', 'Deacon Hawkins', 'Sister Spicer', 'Sister Clark', 'Maria Cartridge', "Kate Stimson '", 'Sister Green', 'Hooray', 'Susan Spicer', 'William James Lampton', 'Clark']
+Focused Character Score: 0.0019
+Details: {'Clark', "Kate Stimson '", 'Kate Stimson', 'Sister Spicer', 'Kitty', 'Sister Clark'}
 
 
 Title: The Devil, Maupassant.txt
-Number of Characters: 9
-Characters: ['Mother Rapet', 'Bontemps', 'Mother Bontemps', 'Host', 'Rapet', 'Eulalie Ratier', 'La Rapet', 'Honore Bontemps', 'Seraphine Grospied']
+Focused Character Score: 0.0012
+Details: {'Honore Bontemps', 'Mother Bontemps', 'La Rapet', 'Mother Rapet'}
 
 
 Title: Two Little Soldiers, Maupassant.txt
-Number of Characters: 8
-Characters: ['Chatou', 'Luc Le Ganidec', 'atKermarivan', 'Kerderen', 'Colombes', 'Jean Kerderen', 'Jean', 'Luc']
+Focused Character Score: 0.0016
+Details: {'Jean Kerderen', 'Jean', 'Luc', 'Luc Le Ganidec'}
 
 
 Title: Skeleton Lake An Episode in Camp, Blackwood.txt
-Number of Characters: 10
-Characters: ['Hank', 'Jake the', 'Algernon Blackwood', 'Hank Milligan', 'Skeleton Lake', 'Matt Morris', 'Mister', 'Jake', 'Morris', 'Hank\nMilligan']
+Focused Character Score: 0.0005
+Details: {'Morris', 'Hank'}
 
 
 Title: go_limp.txt
-Number of Characters: 8
-Characters: ['Howie Long Scream', 'Pat', 'Howling Scream', 'Falsetto', 'Baptists', 'James Will Brady', 'Shatters', 'Terrified Wail']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: I_don't_think_of_you_until_I_do.txt
-Number of Characters: 1
-Characters: ['Tatiana Ryckman']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Julie Romain, Maupassant.txt
-Number of Characters: 3
-Characters: ['Monte Carlo', 'Beg', 'Julie Romain']
+Focused Character Score: 0.0006
+Details: {'Julie Romain', 'Monte Carlo'}
 
 
 Title: analysis.txt
-Number of Characters: 1
-Characters: ['Katy Rossing']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: An Encounter, Joyce.txt
-Number of Characters: 17
-Characters: ['Butler', 'Mahony', 'Lytton', 'Halfpenny Marvel', 'Ya', 'Thomas Moore', 'Joe Dillon', 'Walter Scott', 'Ryan', 'Dillon', 'James Joyce', 'Smith', 'Roman History', "Joe Dillon's", 'Leo', 'Murphy', 'josser']
+Focused Character Score: 0.0016
+Details: {'Murphy', 'Thomas Moore', 'Lytton', 'Mahony', 'Walter Scott', 'Butler'}
 
 
 Title: The Time Machine, Wells.txt
-Number of Characters: 30
-Characters: ['Southward', 'Filby', 'Fate', "Grant Allen's", 'Battersea', 'Hitherto', 'Swinging', 'Hillyer', 'I.', 'Darwin', 'Traveller', 'Simon Newcomb', 'Lemur', 'Wandsworth', 'Happily', 'Plato', 'Combe Wood', 'Watchett', 'Little Weena', 'Dance', 'Eloi', 'Length', 'Eureka', 'Nebuchadnezzar', 'Richardson', 'Carlyle', 'Weena', 'H. G. Wells', 'I. "Have', 'Hettie Potter']
+Focused Character Score: 0.0002
+Details: {'Eureka', 'Eloi', 'Dance', 'I. "Have', 'Little Weena', 'I.', 'Traveller'}
 
 
 Title: Beware of the Dog, Dahl.txt
-Number of Characters: 6
-Characters: ['Johnny', 'Ill', 'Bluey', 'Peter Williamson', 'Yorky', 'inBagdad']
+Focused Character Score: 0.0002
+Details: {'Peter Williamson'}
 
 
 Title: the_big_lemon.txt
-Number of Characters: 2
-Characters: ['The Big Lemon', 'Jim Vockler Whyte']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Toine, Maupassant.txt
-Number of Characters: 8
-Characters: ['Toine-', 'inn', 'Normandy', 'Annoyed', 'Cesaire Paumelle', 'Celestin Maloisel', 'Horslaville', 'Prosper Horslaville']
+Focused Character Score: 0.0003
+Details: {'Horslaville'}
 
 
 Title: irreversible.txt
-Number of Characters: 2
-Characters: ['Mary Kate McGrath', 'Allison']
+Focused Character Score: 0.0008
+Details: {'Allison'}
 
 
 Title: mendelssohn.txt
-Number of Characters: 35
-Characters: ['Stewart', 'Ronson', 'Nowak', 'Lambert', 'Oldberry', 'mug Olive', 'Mom', 'Felix Mendelssohn’s', 'Ollie', 'Conklin', 'Ours', 'Mendelssohn', 'Beyond Castle Wolfenstein', 'Dad', 'Pat Drexler', 'Drexler', 'de bois', 'Velmer', 'Rubio', 'Jethro Tull', 'Andy', 'Butler', 'Seth Fried', 'Wallace', 'hose', 'mush', 'Johnson', 'P. G. Wodehouse', 'Davis', 'kitty litter', 'Emory', 'Stephen', 'Boudin', 'Bags', 'Futz']
+Focused Character Score: 0.0007
+Details: {'Stewart', 'Ollie', 'Mom', 'Wallace', 'Dad', 'Drexler', 'Emory'}
 
 
 Title: jerry.txt
-Number of Characters: 4
-Characters: ['Rubik’s Cubes', 'Jerry', 'Miles Greaves', 'Jerry’s']
+Focused Character Score: 0.0034
+Details: {'Jerry’s', 'Rubik’s Cubes', 'Jerry'}
 
 
 Title: The Disappearance of Crispina Umberleigh,Munro.txt
-Number of Characters: 8
-Characters: ['Crispina Umberleigh', 'Louvre', 'Balkanward', 'Belgrad', 'Teuton', 'Umberleigh', 'H.H. Munro', 'Edward Umberleigh']
+Focused Character Score: 0.0005
+Details: {'Crispina Umberleigh'}
 
 
 Title: The School, Barthelme.txt
-Number of Characters: 11
-Characters: ['Murdoch', 'Tony', 'Tony Mavrogordo', 'Billy Brandt', 'Matthew Wein', 'Kim', 'Matthew', 'Edgar', 'Donald Barthelme', 'Nice Edgar', 'Helen']
+Focused Character Score: 0.0007
+Details: {'Helen'}
 
 
 Title: How the Leopard Got His Spots, Kipling.txt
-Number of Characters: 12
-Characters: ['Baviaan', 'Bush', 'Koodoo', 'Said Leopard', 'Flora', 'Said', 'Leopard', 'Rudyard Kipling', 'Quagga', 'Zebra', 'Fauna', 'Giraffe']
+Focused Character Score: 0.0043
+Details: {'Quagga', 'Bush', 'Said Leopard', 'Fauna', 'Flora', 'Giraffe', 'Baviaan', 'Koodoo', 'Said', 'Rudyard Kipling', 'Leopard'}
 
 
 Title: he_trying_to_say_something_and_couldn't_get_it_out.txt
-Number of Characters: 2
-Characters: ['Kaj Tanaka', 'Dad']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: His Wife_s Deceased Sister, Stockton.txt
-Number of Characters: 9
-Characters: ['Frank Stockton', 'John Darmstadt', 'Hypatia', 'I.', 'Barbel', 'Gibson', "Suppose Raphael's", 'Morris Moore', 'Trovatore']
+Focused Character Score: 0.0008
+Details: {'Hypatia', 'Trovatore', 'Barbel', 'I.'}
 
 
 Title: the_fully-conducted_tour.txt
-Number of Characters: 7
-Characters: ['Emma', 'Il Principe', 'Robert Aickman', 'Richard Coeur de Lion', 'Juno', 'Jane Austen', 'Dusk']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_boathouse.txt
-Number of Characters: 7
-Characters: ['Henry', 'Bird', 'don', 'Robinson Crusoe', 'Henry’s', 'Henry mutters', 'Willy']
+Focused Character Score: 0.0003
+Details: {'Henry'}
 
 
 Title: The Velveteen Rabbit, Williams.txt
-Number of Characters: 7
-Characters: ['Fairy', 'Hurrah', 'Bunny', "Aleksandr Kuprin's", 'Boy', 'Skin Horse', 'Margery Williams']
+Focused Character Score: 0.0009
+Details: {'Skin Horse', 'Bunny', 'Boy', 'Fairy'}
 
 
 Title: network.txt
-Number of Characters: 1
-Characters: ['Jake Rawdin']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: bad_luck_meditation.txt
-Number of Characters: 7
-Characters: ['Mary Poppins', 'R. Daniel Foster', 'Good Luck People', 'Bad Luck People', 'Good Luck Guy', 'Good Luck', 'Steve']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: sink_monkey.txt
-Number of Characters: 5
-Characters: ['Alyssa Proujansky', 'Sink Monkey', 'Sink Monkey’s', 'Ethan', 'Mandy']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_huntress.txt
-Number of Characters: 0
-Characters: []
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Whirligig of Life, Henry.txt
-Number of Characters: 13
-Characters: ['Ariela', 'Ranse', 'Ariela Bilbro', 'Benaja Widdup', 'Le', 'Ed', 'Ransie Bilbro', 'O. Henry\n\nJustice', 'Aricla', "Uncle Ziah's", 'Ransie', 'Herein', 'Followin']
+Focused Character Score: 0.0032
+Details: {'Ranse', 'Ariela Bilbro', 'Followin', 'Benaja Widdup', 'Ransie', 'Ariela', 'Ransie Bilbro', 'Le', 'Ed'}
 
 
 Title: new_fruit.txt
-Number of Characters: 17
-Characters: ['Feng', 'Carina Wei’s', 'Lao Zhou', 'Fan Shiyi’s', 'Zhu Ayi', 'Te-Ping Chen', 'Carina Wei', 'Sunshan', 'Sunshan Produce', 'SUNSHAN PRODUCE', 'Fan Shiyi', 'knelt', 'Pang Ayi', 'Sun', 'Pang Ayi’s', 'baggy gauze', 'Lao Song']
+Focused Character Score: 0.0011
+Details: {'Zhu Ayi', 'Fan Shiyi', 'Sun', 'Sunshan Produce', 'Feng', 'SUNSHAN PRODUCE'}
 
 
 Title: The Aleph, Borges.txt
-Number of Characters: 49
-Characters: ['Down', 'Mariana Cambaceres de Alvear', 'Paul Fort', 'Merlin’s', 'Zungri', 'Lucian', 'Adrogué', 'Ezekiel', 'Goldoni', 'Pedro Henríquez Ureña', 'Tariq ibn-Ziyad', 'Álvaro', 'Philemon Holland', 'Mohammed', 'autour de ma', 'Querétaro', 'Zunni', 'Elena Viterbo', 'Carlos', 'Beatriz Viterbo', 'Carlos Argentino Daneri', 'Aita', 'Carlos Argentino’s', 'Odyssey', 'Carlos Argentino’s feet', 'Third Prize', 'Carlos Argentino', 'Amr', 'Burton', 'Jorge Luis Borges', 'Michael Drayton', 'Aleph', 'Works', 'San Martín', 'Iskander Zu al-Karnayn', 'Alexander Bicornis', 'Viterbo', 'ibn-Khaldun', 'Buenos Aires', 'Carlos\nArgentino Daneri', 'Zunni’s', 'Álvaro Melián\nLafinur', 'Roberto Alessandri', 'Villegas Haedo', 'bison', 'Kai Kosru', 'Tacuarí', 'Daneri', 'Mario Bonfanti']
+Focused Character Score: 0.0008
+Details: {'Elena Viterbo', 'Aleph', 'Daneri', 'Zunni', 'Carlos Argentino'}
 
 
 Title: The School of English, Mantel.txt
-Number of Characters: 22
-Characters: ['Hilary Mantel', 'Jonquil', 'Mr Maddox', 'Lady Sophie', 'grey marl torso', 'Wiltshire', 'Maddox', 'Desmond Maddox', 'Robber', 'Marcella', 'Marcella’s feet', 'bush', 'St John’s Wood', 'uncouth', 'Soon', 'Needles', 'Desmond', 'Joshua', 'Moron', 'Mike', 'Lady', 'Vacuum']
+Focused Character Score: 0.0009
+Details: {'Mike', 'Desmond', 'Maddox', 'Lady Sophie', 'Desmond Maddox', 'Joshua', 'Hilary Mantel', 'Lady', 'Marcella'}
 
 
 Title: A Vine on a House, Bierce.txt
-Number of Characters: 6
-Characters: ['J. Gruber', 'Robert Harding', 'Hyatt', 'Gruber', 'Julia Went', 'Harding']
+Focused Character Score: 0.0007
+Details: {'Gruber'}
 
 
 Title: The Strangers That Came to Town, Flack.txt
-Number of Characters: 27
-Characters: ['David', 'Abraham Lincoln', 'Thomas Jefferson', 'George Washington', 'Nathan Duvitch', 'Kinsella', 'Miller', 'Benny', 'Tom', 'Manny Duvitch', 'Sophia', 'Lovejoy', 'Manny', 'Abe', 'Nathan', 'Andy', 'Maria Duvitch', 'Esther', 'Mamma', 'Duvitches', 'Kasimar', 'Frithjof Kinsella', 'Dawn', 'Switzer', 'Durston', 'Mother', 'Duvitch']
+Focused Character Score: 0.0008
+Details: {'Duvitch', 'Lovejoy', 'Mamma', 'Andy', 'Duvitches', 'Tom'}
 
 
 Title: tacky_goblin.txt
-Number of Characters: 5
-Characters: ['Laurie', 'Tacky Goblin\n', 'Kim', 'Dude', 'T. Sean Steele']
+Focused Character Score: 0.0009
+Details: {'Kim'}
 
 
 Title: inauguration.txt
-Number of Characters: 1
-Characters: ['Jordan Castro']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: How to Tell a True War Story, Hemmingway.txt
-Number of Characters: 18
-Characters: ['gore', 'Kiley', 'Stink Harris', 'jack', 'Mitchell Sanders', 'Quang Ngai', 'Sanders', 'bush', 'Dave Jensen', 'Lemon', 'Jesus Christ', 'Kiowa', 'Bob Kiley', 'Curt Lemon', 'Norman Bowker', 'Tim O’Brien', 'Rat Kiley', 'Willie Peter']
+Focused Character Score: 0.0005
+Details: {'Rat Kiley', 'Sanders', 'Dave Jensen'}
 
 
 Title: The Schartz-Metterklume Method, Munro.txt
-Number of Characters: 8
-Characters: ['Canon Teep', 'Claude', 'Quabarl', 'Irene', 'Hope', 'Teep', 'H.H. Munro', 'Lady Carlotta']
+Focused Character Score: 0.0014
+Details: {'Lady Carlotta', 'Hope', 'Quabarl'}
 
 
 Title: The Donkey, Maupassant.txt
-Number of Characters: 9
-Characters: ['Jules', 'Labouise', 'Macquart', 'bush', 'Joinville', 'Saint- Germain', 'jerky gallop', 'snowy white', 'Maillochon']
+Focused Character Score: 0.0009
+Details: {'Jules', 'bush', 'Labouise'}
 
 
 Title: A Telephone Call, Parker.txt
-Number of Characters: 4
-Characters: ['Jesus Christ', 'Knobby', 'Son', 'Dorothy Parker']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: hungarian_sprats.txt
-Number of Characters: 7
-Characters: ['Otto', 'Dambski', 'Klementyna Hoffmanowa', 'jack-in-the-box', 'King Augustus', 'artichoke hearts', 'Baron']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: a_syrian_winter.txt
-Number of Characters: 6
-Characters: ['laurel trees', 'grey hair', 'Alexander Khansa', 'Grandpa', 'Maher', 'Abdalla']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: A Sound of Thunder, Bradbury.txt
-Number of Characters: 17
-Characters: ['Ray Bradbury', 'Time Safari', 'Keith', 'Safari', 'Path', 'Safari Guide', 'Lesperance', 'Alexander', 'Adam', 'Elizabeth', 'iris', 'Kramer', 'Safari Heads', 'Eckels', 'Deutscher', 'Billings', 'Travis']
+Focused Character Score: 0.0011
+Details: {'Time Safari', 'Travis', 'Safari', 'Lesperance', 'Path', 'Kramer'}
 
 
 Title: The Egg, Anderson.txt
-Number of Characters: 13
-Characters: ['Bidlow', 'Afire', 'Garfield', 'Joe Kane', "Frank Stockton's", 'Griggs', 'Christopher Columbus', "Joe Kane's", 'Anderson\n\n\n\n', 'Joe', "Ben Head's", 'Thomas Butterworth', 'Albert Griggs']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: picnic.txt
-Number of Characters: 7
-Characters: ['Uncle Rob', 'Paul', 'Mike', 'Renee', 'Julie', 'Shawn Campbell', 'Hat Rock']
+Focused Character Score: 0.0008
+Details: {'Uncle Rob'}
 
 
 Title: abyssal_gigantism.txt
-Number of Characters: 15
-Characters: ['Tons', 'James Bond VHS', 'Pierce Brosnan', 'Natasha', 'Albert', 'Kevin Costner', 'Maria', 'Add Trevor', 'Ruby', 'Breakfast', 'Little Albert', 'Maria’s', 'Lloyd', 'Saliha', 'Trevor']
+Focused Character Score: 0.0006
+Details: {'Little Albert', 'Natasha', 'Trevor', 'Saliha', 'Maria', 'Ruby'}
 
 
 Title: The Elephant_s Child, Kipling.txt
-Number of Characters: 10
-Characters: ['Graham', 'Jack Robinson', 'Kolokolo Bird', 'Kimberley', 'bush', 'Ostrich', 'Rudyard Kipling', 'Hippopotamus', 'Andhe', 'a Bi-Coloured-Python-Rock-Snake']
+Focused Character Score: 0.0018
+Details: {'Ostrich', 'Kimberley', 'Andhe', 'Jack Robinson', 'Kolokolo Bird', 'Graham'}
 
 
 Title: The Coming-Out of Maggie, Henry.txt
-Number of Characters: 25
-Characters: ['Anna', "O'Sullivan", 'Rosa', 'Dempsey Donovan', 'Rose Cassidy', 'Jimmy', 'O. Henry\n\n', 'William McMahan', "Dempsey Donovan's", 'Andy', "Pipe Mag's", 'Maggie Toole', 'Andy Geoghan', 'Tony Spinelli', 'Niagara', 'Chuck', 'Dempsey', "Terry O'Sullivan", 'Jimmy Burns', 'Demps Donovan', 'Beau Brummel', 'Maggie', 'Mag', 'Rhinegold', 'Anna McCarty']
+Focused Character Score: 0.0030
+Details: {"O'Sullivan", 'Jimmy', 'Rose Cassidy', 'Anna', 'Mag', 'Maggie', 'Rosa', 'Chuck', 'Dempsey'}
 
 
 Title: origami.txt
-Number of Characters: 3
-Characters: ['Mommy', 'Sabrina Helen Li', 'Hush']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Cask of Amontillado, Poe.txt
-Number of Characters: 4
-Characters: ['Edgar Allan Poe', 'Sherry', 'Luchresi', 'Amontillado']
+Focused Character Score: 0.0003
+Details: {'Luchresi'}
 
 
 Title: Game, Barthleme.txt
-Number of Characters: 6
-Characters: ['Lucy', 'Brahms', 'Nacht', 'Shotwell', 'Sometimes Shotwell', 'Donald Barthelme\n\nShotwell']
+Focused Character Score: 0.0014
+Details: {'Nacht', 'Shotwell', 'Brahms'}
 
 
 Title: Afterward, Wharton.txt
-Number of Characters: 28
-Characters: ['Alida Stair', "Mary Boyne's", 'Horror', 'Dockett', 'Mary Boyne', 'Ned Boyne', 'Boyne', 'thebanterof the other', 'Mary', 'Edith Wharton', 'Stair', 'Bob Elwell', 'Dorchester', 'Alida', 'Trimmle', 'Meldon', 'Elwell', 'Madam', 'Meldon Steep', 'Parvis', 'Americansperverselyin', 'Edward Boyne', 'Death', 'Peters', 'Dorsetshire', 'Ned', 'Robert Elwell', "Bob Elwell's"]
+Focused Character Score: 0.0006
+Details: {'Boyne', 'Alida', 'Parvis', 'Madam', 'Ned', 'thebanterof the other', 'Trimmle', 'Ned Boyne'}
 
 
 Title: Keeping Watch, Jacobs.txt
-Number of Characters: 16
-Characters: ['Minnie Miller', 'Butt', 'W. W. Jacobs', 'Bill', 'Nasty', "D'ye", "Cap'n Butt", 'Shall', 'Winnie', 'John Street', 'Nice', 'Alfred', 'Joe', 'untidy cook', 'Keeping Watch', 'Mile End Road']
+Focused Character Score: 0.0030
+Details: {'Shall', 'Butt', 'W. W. Jacobs', "D'ye", 'John Street', 'Nice', 'Winnie', 'untidy cook', 'Bill', 'Joe', 'Alfred', 'Mile End Road', "Cap'n Butt", 'Nasty', 'Minnie Miller'}
 
 
 Title: That Pig of a Morin, Maupassant.txt
-Number of Characters: 10
-Characters: ['Monsieur Belloncle', 'Rivet', 'Henriette', 'Fousserre', 'Jove', 'Mademoiselle Henriette Bonnel', 'Henriette Bonnel', 'Labarbe', 'Danton', 'notDantonwho']
+Focused Character Score: 0.0012
+Details: {'Labarbe', 'Rivet', 'notDantonwho', 'Henriette', 'Henriette Bonnel', 'Jove'}
 
 
 Title: the_game.txt
-Number of Characters: 1
-Characters: ['Rachel Heng']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Girl, Henry.txt
-Number of Characters: 12
-Characters: ['Billy', 'McComus', 'Percherons', 'O. Henry\n\n', 'Hartley', 'Saxon', 'Hloise', 'Vivienne Arlington', 'Robbins', 'Mamma', 'Montgomery', 'Vivienne']
+Focused Character Score: 0.0017
+Details: {'Hloise', 'Vivienne', 'Hartley', 'Mamma'}
 
 
 Title: scan.txt
-Number of Characters: 7
-Characters: ['Richard Nixon', 'Claire Underwood', 'Francis', 'Sammy', 'Laurie Stone', 'Nixon', 'Sammy Davis Jr.']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Dreamer, Munro.txt
-Number of Characters: 7
-Characters: ['Ruth', 'Adela Chemping', 'Dreamer', 'H.H. Munro', 'Ruth Colson', 'Adela', 'Chemping']
+Focused Character Score: 0.0006
+Details: {'Adela'}
 
 
 Title: How Santa Claus Came to Simpson_s Bar, Harte.txt
-Number of Characters: 43
-Characters: ['Richard Bullen', 'Bill', 'Hamlin', 'Richard', 'Staples', 'Smiley', 'Jovita', 'Ye', 'Bullen', 'Sandy Claws', 'Dick', 'Jim Smiley - -', 'Joe Dimmick', 'Johnny', 'Bettin', 'Grangers', 'Simpson', 'mar', 'Bret Harte', 'McFadden', 'Whereupon Dick', 'Jim', 'Chrismiss', 'Whar', 'Old Man', 'Sandy Claus', "Dick Bullen's", 'Jack', 'Hevin', 'jest passin', 'Sing', 'Thet', 'Sonny', 'Dick Bullen', 'Thar', 'Santa Claus', 'Jack Simpson', 'Tomorrer', 'Hush', 'Rattlesnake Creek', 'Reckon', 'Rattlesnake Hill', 'Tom Flynn']
+Focused Character Score: 0.0032
+Details: {'Tomorrer', 'Whar', 'Jack', 'Johnny', 'Staples', 'Simpson', 'Thet', 'Thar', 'Dick Bullen', 'Bill', 'Hevin', 'Sandy Claws', 'Hush', "Dick Bullen's", 'Sonny', 'jest passin', 'Sandy Claus', 'Ye', 'Dick', 'Bullen', 'Bettin', 'Chrismiss'}
 
 
 Title: Jimmy Scarecrow_s Christmas, Freeman.txt
-Number of Characters: 13
-Characters: ['Betsey', "Santa Claus'", 'Mary E. Wilkins', 'Aunt Hannah', 'Santa Claus', "Aunt Hannah's", "Jimmy Scarecrow's", 'Susan', "Nathaniel Hawthorne's", 'Freeman', 'John', 'Jimmy Scarecrow', 'Jimmy']
+Focused Character Score: 0.0026
+Details: {"Jimmy Scarecrow's", 'Jimmy', 'Jimmy Scarecrow', "Santa Claus'", 'Aunt Hannah', 'Betsey', 'Santa Claus'}
 
 
 Title: The Enchanted Bluff, Cather.txt
-Number of Characters: 20
-Characters: ['Tommy', 'Bill', 'Ott', 'Bert', 'Uncle Bill', 'Nature', 'Otto', "Spanish Fanny's", 'Tip Smith', 'Percy Pound', 'Sandtown', 'Fritz', 'Otto Hassler', "Nathaniel Hawthorne's", 'Aztecs', 'Bluff', 'Arthur Adams', 'Arthur', 'Percy', 'Smith']
+Focused Character Score: 0.0013
+Details: {'Arthur', 'Otto Hassler', "Spanish Fanny's", 'Fritz', 'Aztecs', 'Percy Pound'}
 
 
 Title: The Darling, Chekhov.txt
-Number of Characters: 16
-Characters: ['Plemyanniakov', 'Vladimir Platonitch', 'Towards Lent', 'Vassitchka', 'Olga Semyonovna', 'Olenka', 'Vassily Andreitch', 'Sasha', 'chubby', 'Kukin', 'Mamma', 'Harkov', 'Mrr', 'Babakayev', 'Pustovalov', 'Anton Chekhov\n\nOlenka']
+Focused Character Score: 0.0005
+Details: {'Sasha', 'Olenka', 'Olga Semyonovna'}
 
 
 Title: rescue.txt
-Number of Characters: 33
-Characters: ['Pete', 'Miskos', 'Bert', 'Amy Price', 'Jesse Leroy', 'Alex', 'Lisa', 'Jesse', 'Jane Ripton', 'Abigail Bronkowski', 'Jesse’s', 'Amy', 'Brenda Leroy', 'Bert Misko', 'Scott', 'Odyssey', 'Carol', 'Brenda', 'Brenda Leroy’s', 'Penny Misko', 'Tipton Lane', 'Penny', 'Carol Li', 'Bert Misko’s', 'Fred Miller', 'Lisa Miller', 'Brenda’s minutes', 'Scott Hernandez', 'Alex Ripton', 'Dementia', 'Sarah Hughes', 'Bert’s', 'Pete Geary']
+Focused Character Score: 0.0018
+Details: {'Sarah Hughes', 'Scott', 'Fred Miller', 'Brenda Leroy', 'Jesse', 'Pete Geary', 'Odyssey', 'Scott Hernandez', 'Abigail Bronkowski'}
 
 
 Title: jean_wants.txt
-Number of Characters: 9
-Characters: ['Bob', 'Mike', 'Terry', 'Jenna', 'Jeans', 'Jenna’s', 'Jean Wants', 'Jean', 'Alyse Wexler']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: alien_hunters.txt
-Number of Characters: 6
-Characters: ['Alma', 'Dad', 'Mom', 'Dylan Brown', 'Evan', 'Gabriel']
+Focused Character Score: 0.0016
+Details: {'Dad', 'Mom'}
 
 
 Title: In The Ravine, Chekhov.txt
-Number of Characters: 42
-Characters: ['Elizarov', 'Yegoryevsky', 'Nikifor Anisimitch', 'Hrymin Juniors', 'Varvara\nNikolaevna', 'Stepanida', 'Varvara', 'Grigory Petrovitch\nTsybukin', 'Anton Chekhov', 'Bricks', 'God', 'gaunt', 'Guntorev', 'Anisim Tsybukin', 'Anisim Grigoritch', 'Ivan Yegorov', 'Tsybukins', 'Lipinka', 'Epifan', 'Stepan', 'Dmitri Filatitch', 'Varvara Nikolaevna', 'Sofya Nikiforovna', 'Kazanskoe', 'Tsybukin', "Grigory Petrovitch's", 'Don', 'Grigory Petrovitch', 'Kostukov', 'Makaritch', 'Nikifor', 'Ilya Makaritch', 'Lipa', 'Praskovya', 'Crutch', 'Beggars', 'Saint Joseph', 'Vassily Danilitch', 'Ho-ho-ho', 'Hrymins', 'Hush', 'Samorodov']
+Focused Character Score: 0.0012
+Details: {'Elizarov', 'Lipinka', 'Varvara', 'Samorodov', 'Makaritch', 'Lipa', 'Anisim Tsybukin', 'Don', 'gaunt', 'Grigory Petrovitch', 'Nikifor Anisimitch', 'Nikifor', "Grigory Petrovitch's", 'Ilya Makaritch', 'Tsybukins', 'Vassily Danilitch', 'Crutch'}
 
 
 Title: An Occurrence at Owl Creek Bridge, Bierce.txt
-Number of Characters: 5
-Characters: ['Keen', 'Peyton Farquhar', 'Farquhar', 'Niagara', 'Aim']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: dance_dance_revolution.txt
-Number of Characters: 7
-Characters: ['Dad', 'Clara', 'Bushmaster', 'Nick', 'Ben Jahn', 'Hunter', 'Fritz']
+Focused Character Score: 0.0006
+Details: {'Nick'}
 
 
 Title: What Occurred at Franklin, Bierce.txt
-Number of Characters: 15
-Characters: ['Hood', 'P. Sidney Post', 'I. Howbeit', 'Wagner', 'Harpeth', 'Stanley', 'Cleburne', 'D. S. Stanley', 'Dawson', 'Schofield', 'Thomas', 'Adams', 'Emerson Opdycke', 'circumstance!--it', 'Forrest']
+Focused Character Score: 0.0003
+Details: {'Dawson'}
 
 
 Title: uncle_ray_intercedes_for_us.txt
-Number of Characters: 4
-Characters: ['Uncle Ray', 'Jody Kennedy', 'Uncle Ray Intercedes', 'Aunt Ida’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: To Build a Fire, London.txt
-Number of Characters: 5
-Characters: ['Bud', 'Sulphur Creek', 'twigs', 'Dyea', 'Jack London\n\nDay']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: postcards.txt
-Number of Characters: 11
-Characters: ['Dad', 'Westminster Abbey', 'Margaret', 'Cheyenne Autry\n\nJosie', 'Anne Boleyn', 'Mel', 'Mom', 'Grandpa', 'Anne Boleyn’s', 'Mark', 'Anne']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Wind_s Tale, Andersen.txt
-Number of Characters: 22
-Characters: ['Ové Ramel', 'Anna Dorothea', "Marsk Stig's", 'Herr Daa', 'Borreby Hall', 'Hans Christian Andersen', 'squirrel skins', 'Smidstrup Heath', 'Noah', 'Barn', 'Dean', 'Belt', 'Dorothea', 'Herr Ové', 'Little Ida', 'Caw', 'Broken', 'Sister Ida', 'Waldemar Daa', 'Ida', 'Johanna', "Anna Dorothea's"]
+Focused Character Score: 0.0022
+Details: {'Dorothea', 'Waldemar Daa', 'Ida', 'Herr Daa', 'Johanna', 'Belt', 'Barn', 'Smidstrup Heath', "Marsk Stig's", 'Dean', 'Anna Dorothea'}
 
 
 Title: Hermann The Irascible, Munro.txt
-Number of Characters: 9
-Characters: ['Bill', 'Hermann', 'Wise', 'H.H. Munro', 'King', 'Nelson', 'Trafalgar', 'Suffragettes', 'Metropolis']
+Focused Character Score: 0.0025
+Details: {'King', 'Hermann', 'Bill'}
 
 
 Title: l'heure_bleue.txt
-Number of Characters: 5
-Characters: ['Ryo', 'Kari', "L'Heure Bleue", 'Susanne Lee', 'yu dan']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: saturday_night_special.txt
-Number of Characters: 31
-Characters: ['Old Soldier', 'Gentile', 'Gullah', 'George Washington', 'Scotch Irish', 'Goliath', 'Ezekiel', 'Dracula', 'Gohegan', 'Valene', 'Horatio Applewood', 'Paulson', 'Goliath McCullough', 'Applewood', 'Zekie Boy', 'Ezekiel Applewood', 'Gohegan Man', 'Goliath McCullough’s', 'Hepplewhite', 'Sarah Applewood’s', 'Zeke', 'Bela Lugosi', 'Death', 'Geechee', 'Sarah', 'Zekie', 'Horatio', 'Gohegan Man’s Christian', 'Noah Baranski', 'Gohegan Man’s', 'Sarah Applewood']
+Focused Character Score: 0.0027
+Details: {'Gohegan', 'Gohegan Man’s Christian', 'Sarah Applewood', 'Old Soldier', 'Gohegan Man', 'Zeke', 'Goliath McCullough', 'Horatio Applewood', 'Scotch Irish', 'Paulson', 'Gullah', 'Sarah', 'Zekie Boy', 'Gohegan Man’s'}
 
 
 Title: honest_open_willing.txt
-Number of Characters: 6
-Characters: ['Shelley', 'Nicole Simonsen', 'Halloweens', 'Al-Anon', 'Christmases', 'Nelson']
+Focused Character Score: 0.0033
+Details: {'Halloweens', 'Shelley', 'Christmases', 'Nicole Simonsen'}
 
 
 Title: The Thorny Road of Honor, Andersen.txt
-Number of Characters: 11
-Characters: ['Thorny', 'Richelieu', 'Joan', 'Hans Christian Andersen', 'Tycho Brahe', 'Griffenfeldt', 'Robert Fulton', 'Thrice', 'Solomon de Cares', 'Camoens', 'Danish Prometheus']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Humiliation, Maupassant.txt
-Number of Characters: 11
-Characters: ['Rose', 'Peter Courtin', 'Mlle Simone', 'Simone', 'Henry IV', 'Lady Ryswell', 'John Nicholas\nLecapet', 'Mlle Marguerite', 'Said', 'Francis Pingau', 'Marguerite']
+Focused Character Score: 0.0029
+Details: {'Peter Courtin', 'Mlle Marguerite', 'John Nicholas\nLecapet', 'Said', 'Marguerite', 'Francis Pingau', 'Lady Ryswell'}
 
 
 Title: The Way to the Dairy, Munro.txt
-Number of Characters: 13
-Characters: ['Brimley Bomefields', 'Monte Carlo', 'Clovis', 'Roger knowingly', 'Roger', 'Recourse', 'Dairy', 'H.H. Munro', 'Monte\nCarlo', 'Bertie van Tahn', 'Dieppe', 'Waiter', 'Bertie']
+Focused Character Score: 0.0023
+Details: {'Roger', 'Roger knowingly', 'Dieppe', 'Clovis', 'Monte Carlo', 'Monte\nCarlo', 'Bertie van Tahn'}
 
 
 Title: perspective.txt
-Number of Characters: 4
-Characters: ['Grandpa', 'Spiderwoman', 'Robin Littell', 'Matt']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: escape_plans.txt
-Number of Characters: 1
-Characters: ['Rebecca Fishow']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: natural_order.txt
-Number of Characters: 2
-Characters: ['Elin Hawkinson', 'Eve']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: with_gun.txt
-Number of Characters: 3
-Characters: ['Twitter', 'Snapchat', 'Shannon McLeod']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_righting_reflex.txt
-Number of Characters: 2
-Characters: ['Gail', 'Max Berwald']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Brokeback Mountain, Proulx.txt
-Number of Characters: 43
-Characters: ['Bill', 'Thresher', 'Don Wroe’s', 'heifers', 'Joe Aguirre', 'Higgins', 'Elwood Hi-Top', 'hurtin', 'Strawberry Roan', 'Carl Perkins', 'Granites', 'Jesus', 'John C. Twist', 'Jack Twist’s', 'Jack’s jaw', 'Alma Jr.', 'Francine', 'Harold', 'Riverton', 'Rattlesnakes', 'Dad', 'Aguirre', 'Gallatins', 'Dead Horse Road', 'Drop', 'Jack Twist', 'Jack\nNasty', 'Lureen', 'dick-clipped', 'Jack\nTwist', 'Jesus Christ', 'K.E.', 'travelin', 'Linda\nHiggins', 'Fuckin', 'Jesus H.', 'Jack', 'Earl', 'Cigar Butt', 'Dawn', 'Alma', 'Joe Aguirre’s', 'K.E. Dad']
+Focused Character Score: 0.0007
+Details: {'Jack', 'Joe Aguirre', 'Francine', 'Jack Twist', 'Linda\nHiggins', 'Riverton', 'Alma', 'Alma Jr.', 'Jesus'}
 
 
 Title: Just Before the War with the Eskimos, Salinger.txt
-Number of Characters: 22
-Characters: ['Ginnie', 'J.D. Salinger', 'Stopsa', 'Joan', "Miss Basehoar's", 'Eskimos', 'Virginia Mannox', 'Jesus', 'Ginnie Mannox', 'Dick Heffner', 'Hemingway', 'Mannox', 'Selena', 'musicals--"\n "', 'Eric', 'Basehoar', 'Good Samaritan', 'O.K.', 'Ya', 'Joan the', 'Ticker', 'ya mean']
+Focused Character Score: 0.0012
+Details: {'Eric', 'Selena', 'Ginnie', 'Mannox', 'Joan', 'Ginnie Mannox', 'Ticker'}
 
 
 Title: Gentle Hand, Rinehart.txt
-Number of Characters: 6
-Characters: ['Tiger', 'Gentle Hand', 'Dusky', 'John', 'Mary Roberts Rinehart', 'Dick']
+Focused Character Score: 0.0012
+Details: {'John', 'Tiger', 'Dick'}
 
 
 Title: The Boy And The Filberts, Aesop.txt
-Number of Characters: 0
-Characters: []
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Two Gallants, Joyce.txt
-Number of Characters: 15
-Characters: ['good- night', 'halfpenny', 'Kildare\nStreet', 'coin shone', 'Mac', 'Ginger Ale', 'Stephen', 'James Joyce', 'Refreshment Bar', 'Lenehan', 'Corley', 'Moyle', "Stephen's Green", 'Ginger Beer', 'mug']
+Focused Character Score: 0.0011
+Details: {'good- night', 'Lenehan', 'mug', 'Corley', 'Mac'}
 
 
 Title: Bertie_s Christmas Eve, Munro.txt
-Number of Characters: 18
-Characters: ['Steffinks', 'Steffink', 'Daisy', 'Luke Steffink', 'Luke\nSteffink', 'Hence Bertie', 'King Wenceslas', 'Horace Bordenby', 'Teddie', 'H.H. Munro', 'Bertie Steffink', 'Orpingtons', 'Bordenby', 'Russian Chrismush Eve', 'Luke', 'Byre', 'Myrtle', 'Bertie']
+Focused Character Score: 0.0033
+Details: {'Bordenby', 'Bertie', 'Russian Chrismush Eve', 'Steffink', 'Luke', 'Teddie', 'Horace Bordenby', 'Luke Steffink'}
 
 
 Title: The Star, Wells.txt
-Number of Characters: 10
-Characters: ['limit"--so', 'Capricorn', 'moon', 'Aldebaran', 'Java', 'Capella', 'H.G. Wells', 'Featured', 'Brighter', 'climb zenithward']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Hyacinth, Munro.txt
-Number of Characters: 12
-Characters: ['Gaffins', 'Jutterlys', 'John Ball', 'Thither', 'Jutterly', 'Jacky', 'Yorkshire', 'H.H. Munro', 'Luffbridge', 'Calais', 'Panstreppon', 'Jacky Gaffin']
+Focused Character Score: 0.0018
+Details: {'Gaffins', 'H.H. Munro', 'Jutterly', 'Panstreppon', 'Jacky'}
 
 
 Title: the_miss_april_houses.txt
-Number of Characters: 23
-Characters: ['Becca Samuels', 'Fon', 'April Houses', 'Nnamdi Watson', 'April Lee-June Walters', 'Becca', 'Phd', 'Lenny Roberts', 'Gander', 'Pinda', 'Agadja', 'John Binker Walters', 'Patricia Dwyer', 'Lee', 'Esther Malink', 'Nnamdi', 'Angela Flournoy', 'Buster Griggs', 'Nichole Valdes-James', 'Shaw Hammers', 'lee', 'Lyle Sanders', 'WOLOF']
+Focused Character Score: 0.0008
+Details: {'Becca', 'Becca Samuels'}
 
 
 Title: Tennessee_s Partner, Harte.txt
-Number of Characters: 15
-Characters: ['Hill', 'Thet', 'Jack Folinsbee', 'Bret Harte', 'Ido', 'Thar', 'Stockton', 'Prisoner', 'Sandy Bar', 'Clifford', 'Lynch', 'Marley', 'Partner', 'Jinny', 'Pardner']
+Focused Character Score: 0.0007
+Details: {'Prisoner', 'Thet', 'Jinny'}
 
 
 Title: The Boarded Window, Bierce.txt
-Number of Characters: 1
-Characters: ['Murlock']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: as_close_as_we_dare.txt
-Number of Characters: 2
-Characters: ['Laundrybot', 'Gwendolyn Paradice']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_meat_bee.txt
-Number of Characters: 14
-Characters: ['Glad', 'Betty Crocker', 'Tara Ison \n\nHoney', 'Renee’s avid', 'Chobani Low-Fat Straw ’Nana', 'Brie', 'Renee', 'Jesus', 'Rest', 'Vicodin', 'Pixy Stix', 'Almond Joys', 'Baby Ruths', 'Tootsie Pops']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: triple_goddess.txt
-Number of Characters: 1
-Characters: ['Radhika Borde']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: child_psychology.txt
-Number of Characters: 1
-Characters: ['Gina Zucker']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: delicately,_I_beg_of_you.txt
-Number of Characters: 2
-Characters: ['I Beg of You \n', 'Muhammad Amirul bin Muhamad']
+Focused Character Score: 0.0009
+Details: {'Muhammad Amirul bin Muhamad'}
 
 
 Title: Lost in the Funhouse, Barth.txt
-Number of Characters: 36
-Characters: ['Niggers Peter', 'EXAMINED BY', 'James Joyce', 'U. S. War\nBonds', 'Lucky Strike', 'Geronimo', 'Torture Chamber', 'Baltimore', 'Sieg', 'Grace Methodist-Protestant', 'Autogiros', 'Peter’s', 'Ambrose’s', 'Magda', 'Uncle', 'John Barth', 'Assawoman Bay', 'Welsh', 'Karl', 'Roosevelt', 'Amb', 'Peter', 'Uncle Karl', 'Karl’s', 'Noxzema', 'Uncle Konrad', 'John Dos Passos', 'Peter M', 'and/or and/or flatulence', 'Charles I', 'Aloysius', 'Lucky Strikes', 'Pins', 'Adam', 'M', 'Ambrose']
+Focused Character Score: 0.0005
+Details: {'Ambrose', 'Peter', 'M', 'Uncle Karl', 'Peter M', 'Magda'}
 
 
 Title: daughters_of_the_air.txt
-Number of Characters: 8
-Characters: ['Buenos Aires', 'I’m Bobby', 'Bobby', 'bush', 'Casey', 'Lolo', 'Saliva', 'Anca Szilágyi']
+Focused Character Score: 0.0010
+Details: {'Casey', 'I’m Bobby'}
 
 
 Title: The Romance of a Busy Broker, Henry.txt
-Number of Characters: 9
-Characters: ['O. Henry\n\nPitcher', 'Harvey Maxwell', 'Messenger', 'Leslie', 'Harvey', 'Maxwell', 'Pitcher', "Harvey Maxwell's", 'George']
+Focused Character Score: 0.0018
+Details: {'George', 'Pitcher', 'Maxwell'}
 
 
 Title: The Egg, Weir.txt
-Number of Characters: 5
-Characters: ['Abraham Lincoln', 'John Wilkes Booth', 'Jesus', 'Hitler', 'Andy Weir']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: the_edifice.txt
-Number of Characters: 3
-Characters: ['Heavier', 'Daniel Uncapher', 'Little Quinn']
+Focused Character Score: 0.0008
+Details: {'Heavier'}
 
 
 Title: The Wolves of Cernogatz, Munro.txt
-Number of Characters: 12
-Characters: ['Amalie', 'Schloss Cernogratz', 'a von Cernogratz', 'Fraulein', 'Fraulein\nSchmidt', 'Schmidt', 'H.H. Munro', 'Cernogratz', 'wolf', 'Amalie von Cernogratz', 'Conrad', 'Baron']
+Focused Character Score: 0.0029
+Details: {'H.H. Munro', 'Conrad', 'Amalie', 'Baron', 'Fraulein\nSchmidt', 'a von Cernogratz'}
 
 
 Title: The Alchemist, Lovecraft.txt
-Number of Characters: 18
-Characters: ['Godfrey', 'Kings', 'Michel', 'Mauvais', 'Henris', 'Pierre', 'Charles Le', 'Louis', 'Charles Le Sorcier', 'Charles', 'Antoines', 'Count', 'Count Henri', 'Michel Mauvais', 'Robert', 'Roberts', 'Wizard', 'Charles Le\nSorcier']
+Focused Character Score: 0.0010
+Details: {'Pierre', 'Michel', 'Charles Le', 'Charles Le Sorcier'}
 
 
 Title: the_couplet.txt
-Number of Characters: 2
-Characters: ['Keith Richards', 'Grant Faulkner']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Indian Uprising, Barthelme.txt
-Number of Characters: 27
-Characters: ['Jane', 'Abraham', 'Nancy', 'Miss R.', 'Korzybski', 'Vivaldi', 'mon cher', 'Albinoni', 'Harold', 'Harold’s', 'Frank Wedekind', 'Eunice', 'Gabrieli', 'Paula', 'Gustave Aschenbach', 'Kenneth', 'Marcello', 'Boccherini', 'the Rue Chester Nimitz', 'Billy', 'Marianne', 'Sylvia', 'Anna Pedersen', 'George C. Marshall Allée', 'Gabriel Fauré', 'Valéry', 'Donald Barthelme']
+Focused Character Score: 0.0014
+Details: {'mon cher', 'Sylvia', 'Kenneth', 'Gustave Aschenbach'}
 
 
 Title: The Aged Mother, Basho.txt
-Number of Characters: 1
-Characters: ['Matsuo Basho\n\nLong']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: A Telephonic Conversation, Twain.txt
-Number of Characters: 7
-Characters: ['world--', 'Bagley', 'Mark Twain', 'I.', 'C. O.', 'I. Will', 'C. O. All']
+Focused Character Score: 0.0009
+Details: {'Bagley'}
 
 
 Title: Rappaccini_s Daughter, Hawthorne.txt
-Number of Characters: 38
-Characters: ['Ill', 'mirror,--a', 'Signor Giovanni', 'Beatrice', "Giovanni Guasconti's", 'Borgias', 'Nature', 'Eugene Sue', 'Dante', 'Pietro Baglioni', 'Signor Giacomo Rappaccini', 'I. Not', 'Giovanni Guasconti', 'Padua', 'Signor Guasconti', 'Nathaniel Hawthorne', 'Signora Beatrice', 'Benvenuto Cellini', 'Signor Rappaccini', 'Behold', 'Baglioni', "M. de l'Aubepine's", 'Rappaccini', 'Alexander', 'however,--as Giovanni', 'Pluck', 'Papillon Mecanique', 'Signor Pietro Baglioni', 'Guasconti', 'Speedily', 'Araby', 'Giacomo Rappaccini', 'Giovanni', 'Signor Giovanni Guasconti', 'Persian Ghebers', 'Signora', 'minute,--it', 'Adam']
+Focused Character Score: 0.0008
+Details: {'Signor Giovanni', 'Rappaccini', 'Speedily', 'Signora', 'Signor Giovanni Guasconti', 'Baglioni', 'Giovanni Guasconti', 'Ill', 'Pietro Baglioni', 'Giovanni', 'Beatrice'}
 
 
 Title: Two Men come to a Village, Smith.txt
-Number of Characters: 3
-Characters: ['Lycra', 'Zadie Smith', 'Suzuki']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Dead, Joyce.txt
-Number of Characters: 76
-Characters: ['James Joyce\n\nLily', 'Mary Jane', 'Shakespeare', 'Daly', 'Conroy', 'Pat', 'Aunt Kate', "O'Clohissey", 'Distant Music', "O'Callaghan", 'brown satin', 'Higgins', 'Michael Furey', "Mary Jane's", 'Browning', 'Clancy', 'Caruso', 'Ellen', 'Gabriel', 'Tom', 'Kathleen Kearney', 'Gretta', 'Malins', 'Miss\nDaly', 'Fulham', 'Juliet', 'Hickey', 'Molly Ivors', 'Freddy Malins', 'Julia', 'Furlong', 'Dinorah', 'Johnny', 'Stoney Batter', 'T. J. Conroy', 'Amy', 'Kerrigan', 'Ravelli', 'Massey', 'Connacht', 'Dan', 'Lily', "Mary\nJane's", 'G. C.?', 'Freddy', 'Cassidy', 'Patrick Morkan', 'Browne', 'Miss Daly', 'Bergin', "Aunt Kate's", 'Mary Grimes', 'Constantine', 'Trebelli', 'Giuglini', 'Julia Morkan', 'Kilkelly', "Bartell D'Arcy", "D'Arcy", 'Robert Browning', 'Teddy', 'meek', 'donna', 'Bessie', 'Campanini', 'Freddy\nMalins', 'Aunt\nKate', 'Kate', 'Morkan', 'Aunt Julia', 'Molly', 'Miss Ivors', 'Healey', "Miss O'Callaghan", "Freddy Malins'", 'Monkstown']
+Focused Character Score: 0.0024
+Details: {'Miss\nDaly', 'Morkan', 'meek', "O'Callaghan", 'Dan', 'Miss Ivors', 'Malins', 'Amy', 'Johnny', 'Michael Furey', 'Kate', 'Conroy', "D'Arcy", 'Aunt Kate', 'Monkstown', 'Julia Morkan', 'Julia', 'brown satin', 'Lily', 'Furlong', 'Teddy', 'Healey', 'Freddy Malins', 'Mary Jane', 'Gabriel', 'Caruso', 'Connacht', 'Cassidy', 'Mary Grimes', "Bartell D'Arcy", 'Aunt\nKate', 'Kerrigan', "Mary Jane's", "Miss O'Callaghan", 'Molly', 'Dinorah', 'Miss Daly', 'Freddy', 'Gretta', 'Bergin', "Freddy Malins'", 'Browne', "Mary\nJane's", 'Bessie', 'Aunt Julia'}
 
 
 Title: Aloha Oe, London.txt
-Number of Characters: 24
-Characters: ['Stanton', 'Dorothy', 'Kilauea', "Susie Maydwell's", 'Ka halia ko', 'Willie Kupele', 'Dorothy Sambrooke', 'Jeremy Sambrooke', 'Behrend', 'lava', 'Mervin', 'Stephen Knight', 'Steve', 'Susie Maydwell', 'Kamehameha', 'Slender', 'Jeremy', 'Waikiki', 'Manna Kea', 'Abe Louisson', 'Jack London', 'ke onaona', "Dorothy Sambrooke's", 'Hodgkins']
+Focused Character Score: 0.0016
+Details: {'Steve', 'Stephen Knight', 'Susie Maydwell', 'Hodgkins', 'Dorothy'}
 
 
 Title: Yvette, Maupassant.txt
-Number of Characters: 8
-Characters: ['M. Joseph Bonenthal', 'Mamma', 'Joseph', 'Mademoiselle Yvette', 'Samuel Morris', 'Count Rouvaloff', 'Yvette', 'Yvette Samoris']
+Focused Character Score: 0.0016
+Details: {'Samuel Morris', 'Count Rouvaloff', 'Mamma'}
 
 
 Title: moonlight_paddle_in_machac_swamp.txt
-Number of Characters: 3
-Characters: ['Fred Meyer’s', 'Richard', 'Manchac Swamp']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Alexandre, Maupassant.txt
-Number of Characters: 3
-Characters: ['Maramballe', 'Joseph Maramballe', 'Alexandre']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: re_clients.txt
-Number of Characters: 3
-Characters: ['Outlook', 'K. Angel', 'mug']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The Door, White.txt
-Number of Characters: 4
-Characters: ['O.K.', 'E. B. White', 'Madam', 'flexsan duro']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: out_of_nowhere.txt
-Number of Characters: 2
-Characters: ['Kevin Sampsell', 'Jersey']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Italian without a Master, Twain.txt
-Number of Characters: 24
-Characters: ['Principessine Reali si', 'Sovrani', 'La Principassa', 'Chiesa Russa', 'Spettacolli del di', 'Gomorrah', 'Mark Twain', 'al Direttissimo', 'La Patrie', 'Don Chisciotte', 'Sarebbe', 'vettura n. 365', 'Giuseppe Sciatti', 'Via Brunelleschi', 'Lo Sciatti fu subito', 'Joseph Sciatti', 'Torri', 'Avaunt', 'Ponte Vecchio', 'Shakespearian', 'Said Sciatti', 'al suolo', 'Florentine', 'Sono Dispiacentissimo']
+Focused Character Score: 0.0015
+Details: {'Said Sciatti', 'al suolo', 'Giuseppe Sciatti', 'Ponte Vecchio'}
 
 
 Title: Uncle Wiggily in Connecticut, Salinger.txt
-Number of Characters: 37
-Characters: ['Mary Jane', 'always--', "Wengler'll", 'J.D. Salinger', 'Frank\nHenke', 'Mary\nJane', 'Miriam Ball', "Mary Jane's", 'Hitler', 'Jackson', 'God', 'Jimmy', 'Dick', 'Miz Wengler', 'Donald Duck', 'Whiting', 'Taylor', 'Louise\nHermanson', 'Sleeps', 'Marcia Louise', 'Mickey', 'Barbara Hill', 'Jimmy Jimmereeno', 'Mickey Mickeranno', 'Jane Austen', 'meant--', 'Joyce', 'Uncle Wiggily', 'Akim Tamiroff', 'Mommy', 'Wuzzat', 'Lew', 'Weyinburg', 'Walt', "don't--", 'Mother', 'Grace']
+Focused Character Score: 0.0019
+Details: {'Grace', 'Mary Jane', 'Lew', 'Weyinburg', 'Akim Tamiroff', 'Jimmy', 'Mickey', 'Walt', 'Mary\nJane', 'Miz Wengler', 'Jimmy Jimmereeno', 'Barbara Hill', 'Mommy'}
 
 
 Title: In the Wood, Maupassant.txt
-Number of Characters: 8
-Characters: ['Rose', 'Monsieur Beaurain', 'Argenteuil', 'Bredel', 'Daddy Hochedur', 'Rose Leveque', 'Hochedur', 'Simon']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Goodbye to all That, Didion.txt
-Number of Characters: 15
-Characters: ['Triborough', 'Henri Bendel', 'Estoril', 'Lynn', 'Madison', 'Village', 'Easter', 'Lowestoft', 'Yorkshire', 'Michael’s Pub', 'box springs', 'Emotional Appeal', 'Hammacher Schlemmer', 'Lester Lanin', 'Joan Didion']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Victory Lap, Saunders.txt
-Number of Characters: 53
-Characters: ['Kyle Boot', 'C.', 'Betty', 'Melvin', 'dank hunter', 'Alison', 'Small Package', 'Matt Drey', 'van', 'Jesus', 'dick-munch', 'Allie', 'Mom', 'Sergei', 'Sean Ball', 'Boris', 'Pope', 'George Saunders', 'rond de jambe', 'Dad', 'Matt\nDrey', 'Bev Mirren', 'Feder', 'Callow', 'Rooskie', 'Gladsong', 'Kissing Matt', 'Gladsong Drive', 'Mother Teresa', 'Sackett', 'Kyle', 'O.K.', 'Dmitri', 'Jeez', 'Carol', 'Roosevelt', 'dick-in-the-ear', 'Calm', 'Thumper', 'Helen\nKeller', 'Drama', 'Screw Kenny', 'Gal', 'Treat', 'Mommy', 'Kenny', 'Kenny’s van', 'Pooh', 'Dad Out', 'Dees', 'Scout', 'Matt', 'Curtsy']
+Focused Character Score: 0.0008
+Details: {'Kyle', 'Mom', 'Dad', 'O.K.', 'Matt Drey', 'Melvin'}
 
 
 Title: The Use of Force, Williams.txt
-Number of Characters: 3
-Characters: ['William Carlos Williams', 'Mathilda', 'Olson']
+Focused Character Score: 0.0006
+Details: {'Mathilda'}
 
 
 Title: raw_season.txt
-Number of Characters: 37
-Characters: ['Carmen', 'Felt', 'Tío Raul’s', 'Laly', 'Manolo El Leñero', 'Qué', 'esa locura', 'Lares', 'Tía Carmen', 'Dead Sleepwalker\n', 'Palpatine', 'Muñoz Maríne', 'Yamil', 'Ma', 'Hurry', 'Manuel Rojas', 'Raul', 'Monsy', 'bush', 'Celia', 'Jabba', 'Mack', 'Hmm', 'Paquito', 'Tía Carmen’s', 'Zeus', 'Tío’s', 'Jabba the Hutt', 'Venancio Román', 'Ma’s', 'La Brava', 'Ignacio', 'Pedro', 'Tío Raul', 'Joaquín Parrilla', 'Raul’s', 'Tío']
+Focused Character Score: 0.0008
+Details: {'Ma', 'Monsy', 'Tío Raul', 'Qué', 'Ignacio', 'Lares', 'Raul'}
 
 
 Title: take_five_hundred_new_nightmares.txt
-Number of Characters: 2
-Characters: ['Liza St. James', 'Howard Lord']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: hall_of_hantings.txt
-Number of Characters: 2
-Characters: ['Naomi', 'Rebekah Bergman']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Sonny_s Blues, Baldwin.txt
-Number of Characters: 20
-Characters: ['Oryour', 'seeIsabel', 'hear?""I', '"It', 'wasSonny', "he'llknow", 'Charlie Parker', 'Sonny?""I', 'Idug', 'jazz,"he', 'Godspeed', 'James Baldwin', 'Thebrother', 'help-"I', 'Sonny', 'Isaid', 'inSonny', 'andIsabel', 'SonnyThen', 'Grace']
+Focused Character Score: 0.0002
+Details: {'jazz,"he', 'hear?""I', 'Sonny?""I', 'Sonny'}
 
 
 Title: A Rose for Emily, Faulkner.txt
-Number of Characters: 18
-Characters: ['Miss Emily', 'Emilys', 'Wyatt', 'Miss\nEmily', 'William Faulkner', 'Stevens', 'Emily', 'madam?”hesaid', 'Episcopal', 'Grierson', 'Sartoris', 'Whenherfather', 'Homer Barron', 'Homer', 'H. B.', 'Barron', 'Emily Grierson', 'Griersons']
+Focused Character Score: 0.0010
+Details: {'Emily', 'Homer', 'Stevens', 'Grierson'}
 
 
 Title: A Slander, Chekhov.txt
-Number of Characters: 9
-Characters: ['Anton Pavlovich Chekhov', 'cook', 'Kissing Marfa', 'Vankin', 'Ahineev', 'I.', 'Marfa', 'Mohammedan', 'Sergei Kapitonich']
+Focused Character Score: 0.0021
+Details: {'Marfa', 'Sergei Kapitonich', 'Ahineev', 'I.'}

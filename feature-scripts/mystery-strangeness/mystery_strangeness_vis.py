@@ -11,7 +11,7 @@ def parse_results(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
             for line in lines:
-                if line.startswith("Psychological Intensity:"):
+                if line.startswith("Normalized Mystery and Strangeness Score:"):
                     score = float(line.split(":")[1].strip())
                     scores.append(score)
     except Exception as e:
@@ -55,7 +55,7 @@ def main():
         data, 
         labels, 
         "Mystery and Strangeness: Generated vs. Human Stories", 
-        "Psychological Intensity", 
+        "Normalized Absolute Negative Sentiment Score", 
         "mystery_and_strangeness_boxplot.png"
     )
 

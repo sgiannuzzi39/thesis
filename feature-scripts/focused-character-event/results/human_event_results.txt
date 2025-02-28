@@ -1,0 +1,1500 @@
+### Focused Event Analysis Results for Each File ###
+
+Title: Timbuctoo, Maupassant.txt
+Focused Event Score: 0.1079
+Details: 48
+
+
+Title: The Thousand-And-Second Tale of Scheherazade, Poe.txt
+Focused Event Score: 0.1338
+Details: 19
+
+
+Title: The Soldier_s Peaches, Cloete.txt
+Focused Event Score: 0.0411
+Details: 23
+
+
+Title: Ghoul, Sanders.txt
+Focused Event Score: 0.0702
+Details: 44
+
+
+Title: A Very Old Man with Enormous Wings, Marquez.txt
+Focused Event Score: 0.1327
+Details: 13
+
+
+Title: The Stranger, Mansfield.txt
+Focused Event Score: 0.0324
+Details: 15
+
+
+Title: The Sisters, Joyce.txt
+Focused Event Score: 0.0904
+Details: 17
+
+
+Title: Lady with the Dog, Chekhov.txt
+Focused Event Score: 0.0803
+Details: 29
+
+
+Title: a_few_normal_things_that_happen_a_lot.txt
+Focused Event Score: 0.0578
+Details: 10
+
+
+Title: Turkeys Turning The Tables, Howells.txt
+Focused Event Score: 0.1258
+Details: 19
+
+
+Title: Who Will Greet You at Home, Davis.txt
+Focused Event Score: 0.0865
+Details: 32
+
+
+Title: Beyond the Wall, Bierce.txt
+Focused Event Score: 0.0813
+Details: 13
+
+
+Title: Split Cherry Tree, Stuart.txt
+Focused Event Score: 0.0152
+Details: 8
+
+
+Title: The Consul, Davis.txt
+Focused Event Score: 0.0588
+Details: 30
+
+
+Title: What Christmas Is As We Grow Older, Dickens.txt
+Focused Event Score: 0.0286
+Details: 2
+
+
+Title: The Boarding House, Joyce.txt
+Focused Event Score: 0.0545
+Details: 9
+
+
+Title: some_things_about_typewriters.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The Colonel_s Ideas, Maupassant.txt
+Focused Event Score: 0.1585
+Details: 13
+
+
+Title: conditions_for_growing.txt
+Focused Event Score: 0.0303
+Details: 2
+
+
+Title: Waiter, a Bock!, Maupassant.txt
+Focused Event Score: 0.1098
+Details: 18
+
+
+Title: there_is_no_world.txt
+Focused Event Score: 0.0952
+Details: 4
+
+
+Title: i'm_exaggerating.txt
+Focused Event Score: 0.0172
+Details: 1
+
+
+Title: The Cats of Ulthar, Lovecraft.txt
+Focused Event Score: 0.0400
+Details: 2
+
+
+Title: Bellflower, Maupassant.txt
+Focused Event Score: 0.2267
+Details: 17
+
+
+Title: Rikki-Tikki-Tavi, Kipling.txt
+Focused Event Score: 0.0808
+Details: 29
+
+
+Title: the_fourth_trimester.txt
+Focused Event Score: 0.0149
+Details: 1
+
+
+Title: The End of the Party, Greene.txt
+Focused Event Score: 0.0553
+Details: 13
+
+
+Title: my_dear_you.txt
+Focused Event Score: 0.0453
+Details: 14
+
+
+Title: possum.txt
+Focused Event Score: 0.0619
+Details: 7
+
+
+Title: outside_the_raft.txt
+Focused Event Score: 0.0562
+Details: 14
+
+
+Title: Bela, Lermontov.txt
+Focused Event Score: 0.0931
+Details: 77
+
+
+Title: The Veteran, Crane.txt
+Focused Event Score: 0.0923
+Details: 12
+
+
+Title: The Tomb, Lovecraft.txt
+Focused Event Score: 0.0779
+Details: 12
+
+
+Title: In the Red Room, Bowles.txt
+Focused Event Score: 0.0586
+Details: 18
+
+
+Title: The Terrible Old Man, Lovecraft.txt
+Focused Event Score: 0.0750
+Details: 3
+
+
+Title: preservation.txt
+Focused Event Score: 0.0499
+Details: 19
+
+
+Title: The Dowry, Maupassant.txt
+Focused Event Score: 0.0875
+Details: 14
+
+
+Title: predator_satiation.txt
+Focused Event Score: 0.0366
+Details: 3
+
+
+Title: The Snows of Kilimanjaro, Hemmingway.txt
+Focused Event Score: 0.0856
+Details: 53
+
+
+Title: An Alpine Divorce, Barr.txt
+Focused Event Score: 0.0392
+Details: 4
+
+
+Title: Indiscretion, Maupassant.txt
+Focused Event Score: 0.0538
+Details: 5
+
+
+Title: Lamb to the Slaughter, Dahl.txt
+Focused Event Score: 0.0974
+Details: 26
+
+
+Title: According to Their Lights, Henry.txt
+Focused Event Score: 0.0125
+Details: 2
+
+
+Title: The Celebrated Jumping Frog of Calaveras County, Twain.txt
+Focused Event Score: 0.1667
+Details: 12
+
+
+Title: The Cop and the Anthem, Henry.txt
+Focused Event Score: 0.0467
+Details: 7
+
+
+Title: Marjorie Daw, Aldrich.txt
+Focused Event Score: 0.0381
+Details: 19
+
+
+Title: Von Kempelen and His Discovery, Poe.txt
+Focused Event Score: 0.0482
+Details: 4
+
+
+Title: biblical_proportions.txt
+Focused Event Score: 0.0417
+Details: 1
+
+
+Title: sisters.txt
+Focused Event Score: 0.0295
+Details: 19
+
+
+Title: in_the_exclusion_zone.txt
+Focused Event Score: 0.0080
+Details: 1
+
+
+Title: The Sphinx Without a Secret, Wilde.txt
+Focused Event Score: 0.0889
+Details: 12
+
+
+Title: Leiningen Versus the Ants, Stephenson.txt
+Focused Event Score: 0.1011
+Details: 46
+
+
+Title: The Doll_s House, Mansfield.txt
+Focused Event Score: 0.0422
+Details: 10
+
+
+Title: Why Don_t You Dance, Carver.txt
+Focused Event Score: 0.0469
+Details: 9
+
+
+Title: ron.txt
+Focused Event Score: 0.0769
+Details: 26
+
+
+Title: Witches_ Loaves, Henry.txt
+Focused Event Score: 0.0561
+Details: 6
+
+
+Title: sea_change.txt
+Focused Event Score: 0.1186
+Details: 7
+
+
+Title: pity_and_shame.txt
+Focused Event Score: 0.0542
+Details: 48
+
+
+Title: The Bet, Chekhov.txt
+Focused Event Score: 0.0584
+Details: 9
+
+
+Title: Italian with Grammar, Twain.txt
+Focused Event Score: 0.1057
+Details: 13
+
+
+Title: The Yellow Wallpaper, Gilman.txt
+Focused Event Score: 0.0510
+Details: 20
+
+
+Title: The Affair at Coulter_s Notch, Bierce.txt
+Focused Event Score: 0.0636
+Details: 11
+
+
+Title: The Yarkand Manner, Munro.txt
+Focused Event Score: 0.0635
+Details: 4
+
+
+Title: What You Want, Henry.txt
+Focused Event Score: 0.0545
+Details: 6
+
+
+Title: The Black Cat, Poe.txt
+Focused Event Score: 0.0749
+Details: 14
+
+
+Title: Hunters in the Snow, Wolff.txt
+Focused Event Score: 0.0307
+Details: 19
+
+
+Title: All Summer in a Day, Bradbury.txt
+Focused Event Score: 0.0959
+Details: 14
+
+
+Title: glass_people.txt
+Focused Event Score: 0.0204
+Details: 1
+
+
+Title: Pigs Is Pigs, Butler.txt
+Focused Event Score: 0.0620
+Details: 16
+
+
+Title: The Wedding-Knell, Hawthorne.txt
+Focused Event Score: 0.0781
+Details: 10
+
+
+Title: Big Two-Hearted River, Hemmingway.txt
+Focused Event Score: 0.0495
+Details: 31
+
+
+Title: Hands, Sherwood.txt
+Focused Event Score: 0.0310
+Details: 4
+
+
+Title: the_monk_dilemma.txt
+Focused Event Score: 0.0845
+Details: 6
+
+
+Title: Haircut, Lardner.txt
+Focused Event Score: 0.0764
+Details: 21
+
+
+Title: Transients in Arcadia, Henry.txt
+Focused Event Score: 0.0283
+Details: 3
+
+
+Title: The Diary of a Madman, Maupassant.txt
+Focused Event Score: 0.0452
+Details: 8
+
+
+Title: Hearts And Hands, Henry.txt
+Focused Event Score: 0.0580
+Details: 4
+
+
+Title: it's_only_been_me_all_this_time.txt
+Focused Event Score: 0.0213
+Details: 2
+
+
+Title: Theodule Sabot_s Confession, Maupassant.txt
+Focused Event Score: 0.0986
+Details: 21
+
+
+Title: regarding_lichen.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The Coming of the King, Richards.txt
+Focused Event Score: 0.0488
+Details: 2
+
+
+Title: The Wreck, Maupassant.txt
+Focused Event Score: 0.1494
+Details: 36
+
+
+Title: swamps.txt
+Focused Event Score: 0.0147
+Details: 1
+
+
+Title: the_bug_man.txt
+Focused Event Score: 0.0370
+Details: 1
+
+
+Title: Shooting an Elephant, Orwell.txt
+Focused Event Score: 0.0843
+Details: 14
+
+
+Title: The Baron of Grogzwig, Dickens.txt
+Focused Event Score: 0.1000
+Details: 15
+
+
+Title: Princess Mary, Lermontov.txt
+Focused Event Score: 0.0490
+Details: 92
+
+
+Title: the_spoils.txt
+Focused Event Score: 0.0407
+Details: 5
+
+
+Title: Young Goodman Brown, Hawthorne.txt
+Focused Event Score: 0.0796
+Details: 18
+
+
+Title: the_superstition_of_albatross.txt
+Focused Event Score: 0.0675
+Details: 16
+
+
+Title: Berenice, Poe.txt
+Focused Event Score: 0.0625
+Details: 8
+
+
+Title: whatever_remains.txt
+Focused Event Score: 0.1220
+Details: 5
+
+
+Title: Madame Parisse, Maupassant.txt
+Focused Event Score: 0.0833
+Details: 10
+
+
+Title: Gooseberries, Chekhov.txt
+Focused Event Score: 0.0660
+Details: 14
+
+
+Title: A Retrieved Reformation, Henry.txt
+Focused Event Score: 0.0433
+Details: 9
+
+
+Title: the_salesman.txt
+Focused Event Score: 0.0870
+Details: 2
+
+
+Title: fantasy.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: african_violets.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The Door in the Wall, Wells.txt
+Focused Event Score: 0.1015
+Details: 41
+
+
+Title: Araby, Joyce.txt
+Focused Event Score: 0.0071
+Details: 1
+
+
+Title: A School Story, James.txt
+Focused Event Score: 0.1163
+Details: 15
+
+
+Title: christmas_alligator.txt
+Focused Event Score: 0.0845
+Details: 6
+
+
+Title: Sredni Vashtar, Munro.txt
+Focused Event Score: 0.0500
+Details: 4
+
+
+Title: Where are you going, Where have you been_, Oats.txt
+Focused Event Score: 0.0467
+Details: 21
+
+
+Title: The Sniper, O_Flaherty.txt
+Focused Event Score: 0.1449
+Details: 20
+
+
+Title: Springtime a la Carte, Henry.txt
+Focused Event Score: 0.0985
+Details: 13
+
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker), Irving.txt
+Focused Event Score: 0.0498
+Details: 12
+
+
+Title: Goodbye, My Brother, Cheever.txt
+Focused Event Score: 0.0797
+Details: 42
+
+
+Title: cloud_eat_blue_sky.txt
+Focused Event Score: 0.0167
+Details: 1
+
+
+Title: A True Story, Repeated Word for Word As I Heard It, Twain.txt
+Focused Event Score: 0.0182
+Details: 2
+
+
+Title: i_have_her_memories_now.txt
+Focused Event Score: 0.0279
+Details: 11
+
+
+Title: The Christening, Maupassant.txt
+Focused Event Score: 0.0833
+Details: 9
+
+
+Title: how_to_breathe_without_thinking_about_it.txt
+Focused Event Score: 0.0597
+Details: 4
+
+
+Title: Gusev, Chekhov.txt
+Focused Event Score: 0.0791
+Details: 28
+
+
+Title: Was it Heaven_ Or Hell_, Twain.txt
+Focused Event Score: 0.0738
+Details: 31
+
+
+Title: A Respectable Woman, Chopin.txt
+Focused Event Score: 0.0465
+Details: 4
+
+
+Title: Two Friends, Maupassant.txt
+Focused Event Score: 0.1507
+Details: 22
+
+
+Title: Babes in the Jungle, Henry.txt
+Focused Event Score: 0.0274
+Details: 4
+
+
+Title: the_girl_who_did_not_know_fear.txt
+Focused Event Score: 0.0789
+Details: 39
+
+
+Title: Gentlemen The King!, Barr.txt
+Focused Event Score: 0.0644
+Details: 13
+
+
+Title: The Drunkard, Maupassant.txt
+Focused Event Score: 0.1616
+Details: 16
+
+
+Title: The Story of Keesh, London.txt
+Focused Event Score: 0.0670
+Details: 13
+
+
+Title: The Vendetta, Maupassant.txt
+Focused Event Score: 0.1731
+Details: 18
+
+
+Title: molting.txt
+Focused Event Score: 0.0270
+Details: 1
+
+
+Title: A Vagabond, Maupassant.txt
+Focused Event Score: 0.2099
+Details: 38
+
+
+Title: The Tell-Tale Heart, Poe.txt
+Focused Event Score: 0.0440
+Details: 7
+
+
+Title: Robert Kennedy Saved From Drowning, Barthelme.txt
+Focused Event Score: 0.0408
+Details: 8
+
+
+Title: An Uncomfortable Bed, Maupassant.txt
+Focused Event Score: 0.1067
+Details: 8
+
+
+Title: Man From The South, Dahl.txt
+Focused Event Score: 0.0617
+Details: 24
+
+
+Title: Mademoiselle Fifi, Maupassant.txt
+Focused Event Score: 0.2133
+Details: 32
+
+
+Title: The Burial of the Guns, Page.txt
+Focused Event Score: 0.1755
+Details: 53
+
+
+Title: coda.txt
+Focused Event Score: 0.0364
+Details: 2
+
+
+Title: Jim Baker_s Blue-Jay Yarn, Twain.txt
+Focused Event Score: 0.1000
+Details: 9
+
+
+Title: The Unrest-Cure, Munro.txt
+Focused Event Score: 0.0806
+Details: 10
+
+
+Title: Mademoiselle Pearl, Maupassant.txt
+Focused Event Score: 0.1169
+Details: 36
+
+
+Title: The Death Of A Government Clerk, Chekhov.txt
+Focused Event Score: 0.1176
+Details: 10
+
+
+Title: The Selfish Giant, Wilde.txt
+Focused Event Score: 0.0619
+Details: 6
+
+
+Title: The Child_s Story, Dickens.txt
+Focused Event Score: 0.0769
+Details: 6
+
+
+Title: After the Race, Joyce.txt
+Focused Event Score: 0.0511
+Details: 7
+
+
+Title: An Affair of State, Maupassant.txt
+Focused Event Score: 0.1336
+Details: 29
+
+
+Title: The Vertical Fields, Dawson.txt
+Focused Event Score: 0.5000
+Details: 1
+
+
+Title: The Storyteller, Munro.txt
+Focused Event Score: 0.0505
+Details: 5
+
+
+Title: The Ambitious Guest, Hawthorne.txt
+Focused Event Score: 0.0725
+Details: 10
+
+
+Title: beautiful_animals.txt
+Focused Event Score: 0.0887
+Details: 11
+
+
+Title: The Street That Got Mislaid, Waddington.txt
+Focused Event Score: 0.0559
+Details: 8
+
+
+Title: The Shed Chamber, Richards.txt
+Focused Event Score: 0.1369
+Details: 23
+
+
+Title: The Unknown, Maupassant.txt
+Focused Event Score: 0.1069
+Details: 14
+
+
+Title: Hills like White Elephants.txt
+Focused Event Score: 0.0497
+Details: 8
+
+
+Title: postwar.txt
+Focused Event Score: 0.1020
+Details: 5
+
+
+Title: ON_AUGUST_EIGHTEENTH_AT_TEN_THIRTY_PM,_ANNIE_OTSUKA_WATCHED_HER_FIRST_JAPANESE_ANIMATED_FILM.txt
+Focused Event Score: 0.0114
+Details: 2
+
+
+Title: all_the_sea_in_the_fish.txt
+Focused Event Score: 0.0345
+Details: 1
+
+
+Title: Souls Belated, Wharton.txt
+Focused Event Score: 0.0514
+Details: 34
+
+
+Title: A Temporary Matter, Lahiri.txt
+Focused Event Score: 0.0542
+Details: 22
+
+
+Title: Vanka, Chekhov.txt
+Focused Event Score: 0.0465
+Details: 4
+
+
+Title: Useless Beauty, Maupassant.txt
+Focused Event Score: 0.1204
+Details: 33
+
+
+Title: gretel's_dreams.txt
+Focused Event Score: 0.0244
+Details: 1
+
+
+Title: The Shoemaker And The Devil, Chekhov.txt
+Focused Event Score: 0.0819
+Details: 14
+
+
+Title: a_guided_tour_of_the_sistine_chapel_ceiling.txt
+Focused Event Score: 0.0377
+Details: 4
+
+
+Title: the_other_side_of_the_fence.txt
+Focused Event Score: 0.0145
+Details: 1
+
+
+Title: my_coworker’s_obituary_photograph.txt
+Focused Event Score: 0.0714
+Details: 3
+
+
+Title: How I Edited an Agricultural Paper, Twain.txt
+Focused Event Score: 0.0880
+Details: 11
+
+
+Title: career_counseling.txt
+Focused Event Score: 0.0474
+Details: 10
+
+
+Title: The Unkindest Blow, Munro.txt
+Focused Event Score: 0.0500
+Details: 3
+
+
+Title: she_was_warned.txt
+Focused Event Score: 0.0340
+Details: 11
+
+
+Title: Politics and the English Language, Orwell.txt
+Focused Event Score: 0.0343
+Details: 7
+
+
+Title: break.txt
+Focused Event Score: 0.1429
+Details: 5
+
+
+Title: How the Widow Won the Deacon, Lampton.txt
+Focused Event Score: 0.0469
+Details: 6
+
+
+Title: The Devil, Maupassant.txt
+Focused Event Score: 0.2054
+Details: 23
+
+
+Title: Two Little Soldiers, Maupassant.txt
+Focused Event Score: 0.1508
+Details: 19
+
+
+Title: Skeleton Lake An Episode in Camp, Blackwood.txt
+Focused Event Score: 0.1156
+Details: 17
+
+
+Title: go_limp.txt
+Focused Event Score: 0.0612
+Details: 3
+
+
+Title: I_don't_think_of_you_until_I_do.txt
+Focused Event Score: 0.0448
+Details: 3
+
+
+Title: Julie Romain, Maupassant.txt
+Focused Event Score: 0.1124
+Details: 19
+
+
+Title: analysis.txt
+Focused Event Score: 0.0625
+Details: 2
+
+
+Title: An Encounter, Joyce.txt
+Focused Event Score: 0.0552
+Details: 10
+
+
+Title: The Time Machine, Wells.txt
+Focused Event Score: 0.0998
+Details: 188
+
+
+Title: Beware of the Dog, Dahl.txt
+Focused Event Score: 0.0807
+Details: 31
+
+
+Title: the_big_lemon.txt
+Focused Event Score: 0.0270
+Details: 1
+
+
+Title: Toine, Maupassant.txt
+Focused Event Score: 0.0909
+Details: 16
+
+
+Title: irreversible.txt
+Focused Event Score: 0.0526
+Details: 4
+
+
+Title: mendelssohn.txt
+Focused Event Score: 0.0803
+Details: 31
+
+
+Title: jerry.txt
+Focused Event Score: 0.3056
+Details: 11
+
+
+Title: The Disappearance of Crispina Umberleigh,Munro.txt
+Focused Event Score: 0.0845
+Details: 6
+
+
+Title: The School, Barthelme.txt
+Focused Event Score: 0.0568
+Details: 5
+
+
+Title: How the Leopard Got His Spots, Kipling.txt
+Focused Event Score: 0.1262
+Details: 13
+
+
+Title: he_trying_to_say_something_and_couldn't_get_it_out.txt
+Focused Event Score: 0.0492
+Details: 3
+
+
+Title: His Wife_s Deceased Sister, Stockton.txt
+Focused Event Score: 0.0955
+Details: 19
+
+
+Title: the_fully-conducted_tour.txt
+Focused Event Score: 0.0714
+Details: 9
+
+
+Title: the_boathouse.txt
+Focused Event Score: 0.1128
+Details: 15
+
+
+Title: The Velveteen Rabbit, Williams.txt
+Focused Event Score: 0.0766
+Details: 16
+
+
+Title: network.txt
+Focused Event Score: 0.0500
+Details: 2
+
+
+Title: bad_luck_meditation.txt
+Focused Event Score: 0.0769
+Details: 2
+
+
+Title: sink_monkey.txt
+Focused Event Score: 0.0441
+Details: 3
+
+
+Title: the_huntress.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The Whirligig of Life, Henry.txt
+Focused Event Score: 0.0347
+Details: 5
+
+
+Title: new_fruit.txt
+Focused Event Score: 0.0733
+Details: 17
+
+
+Title: The Aleph, Borges.txt
+Focused Event Score: 0.0969
+Details: 22
+
+
+Title: The School of English, Mantel.txt
+Focused Event Score: 0.0306
+Details: 20
+
+
+Title: A Vine on a House, Bierce.txt
+Focused Event Score: 0.1373
+Details: 7
+
+
+Title: The Strangers That Came to Town, Flack.txt
+Focused Event Score: 0.0528
+Details: 17
+
+
+Title: tacky_goblin.txt
+Focused Event Score: 0.0430
+Details: 4
+
+
+Title: inauguration.txt
+Focused Event Score: 0.0476
+Details: 2
+
+
+Title: How to Tell a True War Story, Hemmingway.txt
+Focused Event Score: 0.0924
+Details: 39
+
+
+Title: The Schartz-Metterklume Method, Munro.txt
+Focused Event Score: 0.0759
+Details: 6
+
+
+Title: The Donkey, Maupassant.txt
+Focused Event Score: 0.1392
+Details: 27
+
+
+Title: A Telephone Call, Parker.txt
+Focused Event Score: 0.0500
+Details: 14
+
+
+Title: hungarian_sprats.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: a_syrian_winter.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: A Sound of Thunder, Bradbury.txt
+Focused Event Score: 0.0274
+Details: 13
+
+
+Title: The Egg, Anderson.txt
+Focused Event Score: 0.0738
+Details: 20
+
+
+Title: picnic.txt
+Focused Event Score: 0.0455
+Details: 3
+
+
+Title: abyssal_gigantism.txt
+Focused Event Score: 0.0622
+Details: 34
+
+
+Title: The Elephant_s Child, Kipling.txt
+Focused Event Score: 0.1837
+Details: 18
+
+
+Title: The Coming-Out of Maggie, Henry.txt
+Focused Event Score: 0.0578
+Details: 10
+
+
+Title: origami.txt
+Focused Event Score: 0.0423
+Details: 3
+
+
+Title: The Cask of Amontillado, Poe.txt
+Focused Event Score: 0.0370
+Details: 8
+
+
+Title: Game, Barthleme.txt
+Focused Event Score: 0.0365
+Details: 5
+
+
+Title: Afterward, Wharton.txt
+Focused Event Score: 0.0923
+Details: 53
+
+
+Title: Keeping Watch, Jacobs.txt
+Focused Event Score: 0.0798
+Details: 19
+
+
+Title: That Pig of a Morin, Maupassant.txt
+Focused Event Score: 0.1828
+Details: 34
+
+
+Title: the_game.txt
+Focused Event Score: 0.1250
+Details: 6
+
+
+Title: Girl, Henry.txt
+Focused Event Score: 0.0207
+Details: 3
+
+
+Title: scan.txt
+Focused Event Score: 0.0147
+Details: 1
+
+
+Title: The Dreamer, Munro.txt
+Focused Event Score: 0.0972
+Details: 7
+
+
+Title: How Santa Claus Came to Simpson_s Bar, Harte.txt
+Focused Event Score: 0.0629
+Details: 22
+
+
+Title: Jimmy Scarecrow_s Christmas, Freeman.txt
+Focused Event Score: 0.1049
+Details: 15
+
+
+Title: The Enchanted Bluff, Cather.txt
+Focused Event Score: 0.0439
+Details: 9
+
+
+Title: The Darling, Chekhov.txt
+Focused Event Score: 0.0887
+Details: 25
+
+
+Title: rescue.txt
+Focused Event Score: 0.0410
+Details: 11
+
+
+Title: jean_wants.txt
+Focused Event Score: 0.0741
+Details: 6
+
+
+Title: alien_hunters.txt
+Focused Event Score: 0.0238
+Details: 2
+
+
+Title: In The Ravine, Chekhov.txt
+Focused Event Score: 0.0697
+Details: 46
+
+
+Title: An Occurrence at Owl Creek Bridge, Bierce.txt
+Focused Event Score: 0.0686
+Details: 14
+
+
+Title: dance_dance_revolution.txt
+Focused Event Score: 0.0303
+Details: 3
+
+
+Title: What Occurred at Franklin, Bierce.txt
+Focused Event Score: 0.0667
+Details: 7
+
+
+Title: uncle_ray_intercedes_for_us.txt
+Focused Event Score: 0.2857
+Details: 2
+
+
+Title: To Build a Fire, London.txt
+Focused Event Score: 0.0881
+Details: 37
+
+
+Title: postcards.txt
+Focused Event Score: 0.0676
+Details: 5
+
+
+Title: The Wind_s Tale, Andersen.txt
+Focused Event Score: 0.0453
+Details: 12
+
+
+Title: Hermann The Irascible, Munro.txt
+Focused Event Score: 0.0286
+Details: 1
+
+
+Title: l'heure_bleue.txt
+Focused Event Score: 0.0286
+Details: 1
+
+
+Title: saturday_night_special.txt
+Focused Event Score: 0.0469
+Details: 10
+
+
+Title: honest_open_willing.txt
+Focused Event Score: 0.0127
+Details: 1
+
+
+Title: The Thorny Road of Honor, Andersen.txt
+Focused Event Score: 0.0411
+Details: 3
+
+
+Title: Humiliation, Maupassant.txt
+Focused Event Score: 0.1017
+Details: 12
+
+
+Title: The Way to the Dairy, Munro.txt
+Focused Event Score: 0.0532
+Details: 5
+
+
+Title: perspective.txt
+Focused Event Score: 0.0588
+Details: 4
+
+
+Title: escape_plans.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: natural_order.txt
+Focused Event Score: 0.0545
+Details: 3
+
+
+Title: with_gun.txt
+Focused Event Score: 0.0263
+Details: 1
+
+
+Title: the_righting_reflex.txt
+Focused Event Score: 0.0312
+Details: 1
+
+
+Title: Brokeback Mountain, Proulx.txt
+Focused Event Score: 0.0578
+Details: 35
+
+
+Title: Just Before the War with the Eskimos, Salinger.txt
+Focused Event Score: 0.0491
+Details: 22
+
+
+Title: Gentle Hand, Rinehart.txt
+Focused Event Score: 0.0948
+Details: 11
+
+
+Title: The Boy And The Filberts, Aesop.txt
+Focused Event Score: 0.1429
+Details: 1
+
+
+Title: Two Gallants, Joyce.txt
+Focused Event Score: 0.0590
+Details: 17
+
+
+Title: Bertie_s Christmas Eve, Munro.txt
+Focused Event Score: 0.0460
+Details: 4
+
+
+Title: The Star, Wells.txt
+Focused Event Score: 0.1297
+Details: 24
+
+
+Title: Hyacinth, Munro.txt
+Focused Event Score: 0.0463
+Details: 5
+
+
+Title: the_miss_april_houses.txt
+Focused Event Score: 0.0877
+Details: 10
+
+
+Title: Tennessee_s Partner, Harte.txt
+Focused Event Score: 0.0584
+Details: 9
+
+
+Title: The Boarded Window, Bierce.txt
+Focused Event Score: 0.1169
+Details: 9
+
+
+Title: as_close_as_we_dare.txt
+Focused Event Score: 0.0175
+Details: 1
+
+
+Title: the_meat_bee.txt
+Focused Event Score: 0.0393
+Details: 9
+
+
+Title: triple_goddess.txt
+Focused Event Score: 0.0682
+Details: 6
+
+
+Title: child_psychology.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: delicately,_I_beg_of_you.txt
+Focused Event Score: 0.0256
+Details: 2
+
+
+Title: Lost in the Funhouse, Barth.txt
+Focused Event Score: 0.0471
+Details: 23
+
+
+Title: daughters_of_the_air.txt
+Focused Event Score: 0.0638
+Details: 9
+
+
+Title: The Romance of a Busy Broker, Henry.txt
+Focused Event Score: 0.0619
+Details: 6
+
+
+Title: The Egg, Weir.txt
+Focused Event Score: 0.0219
+Details: 3
+
+
+Title: the_edifice.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: The Wolves of Cernogatz, Munro.txt
+Focused Event Score: 0.0814
+Details: 7
+
+
+Title: The Alchemist, Lovecraft.txt
+Focused Event Score: 0.1172
+Details: 15
+
+
+Title: the_couplet.txt
+Focused Event Score: 0.0000
+Details: 0
+
+
+Title: Indian Uprising, Barthelme.txt
+Focused Event Score: 0.0600
+Details: 9
+
+
+Title: The Aged Mother, Basho.txt
+Focused Event Score: 0.0877
+Details: 5
+
+
+Title: A Telephonic Conversation, Twain.txt
+Focused Event Score: 0.0500
+Details: 5
+
+
+Title: Rappaccini_s Daughter, Hawthorne.txt
+Focused Event Score: 0.0498
+Details: 25
+
+
+Title: Two Men come to a Village, Smith.txt
+Focused Event Score: 0.1324
+Details: 9
+
+
+Title: The Dead, Joyce.txt
+Focused Event Score: 0.0717
+Details: 65
+
+
+Title: Aloha Oe, London.txt
+Focused Event Score: 0.0504
+Details: 7
+
+
+Title: Yvette, Maupassant.txt
+Focused Event Score: 0.0505
+Details: 5
+
+
+Title: moonlight_paddle_in_machac_swamp.txt
+Focused Event Score: 0.0469
+Details: 3
+
+
+Title: Alexandre, Maupassant.txt
+Focused Event Score: 0.2051
+Details: 16
+
+
+Title: re_clients.txt
+Focused Event Score: 0.3333
+Details: 4
+
+
+Title: The Door, White.txt
+Focused Event Score: 0.1096
+Details: 8
+
+
+Title: out_of_nowhere.txt
+Focused Event Score: 0.0323
+Details: 1
+
+
+Title: Italian without a Master, Twain.txt
+Focused Event Score: 0.0534
+Details: 7
+
+
+Title: Uncle Wiggily in Connecticut, Salinger.txt
+Focused Event Score: 0.0297
+Details: 17
+
+
+Title: In the Wood, Maupassant.txt
+Focused Event Score: 0.1158
+Details: 11
+
+
+Title: Goodbye to all That, Didion.txt
+Focused Event Score: 0.1508
+Details: 19
+
+
+Title: Victory Lap, Saunders.txt
+Focused Event Score: 0.0435
+Details: 27
+
+
+Title: The Use of Force, Williams.txt
+Focused Event Score: 0.0513
+Details: 6
+
+
+Title: raw_season.txt
+Focused Event Score: 0.0411
+Details: 34
+
+
+Title: take_five_hundred_new_nightmares.txt
+Focused Event Score: 0.0690
+Details: 2
+
+
+Title: hall_of_hantings.txt
+Focused Event Score: 0.0465
+Details: 6
+
+
+Title: Sonny_s Blues, Baldwin.txt
+Focused Event Score: 0.0819
+Details: 82
+
+
+Title: A Rose for Emily, Faulkner.txt
+Focused Event Score: 0.1347
+Details: 26
+
+
+Title: A Slander, Chekhov.txt
+Focused Event Score: 0.0420
+Details: 6

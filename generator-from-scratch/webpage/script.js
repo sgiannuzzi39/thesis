@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Fetch author list and populate checkboxes
     fetch('/get-authors')
         .then(response => response.json())
         .then(data => {
@@ -37,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .then(data => {
                 const storyDiv = document.getElementById('story');
                 storyDiv.textContent = data.story;
-                storyDiv.style.display = 'block'; // Show the story container
+                storyDiv.style.display = 'block';
             })
             .catch(error => console.error('Error:', error));
     });

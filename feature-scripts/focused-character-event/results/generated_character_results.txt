@@ -1,1500 +1,1500 @@
-### Character Analysis Results for Each File ###
+### Focused Character Analysis Results for Each File ###
 
 Title: The_Lighthouse_Keeper_of_Eldrige_Rock.txt
-Number of Characters: 5
-Characters: ['Emma', 'Thomas Eldrige', 'Emma Collins', 'Eldrige', 'Thomas']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_4.txt
-Number of Characters: 4
-Characters: ['Eliot Crane', 'Eliot', 'Willowmere', 'Thomlinson']
+Focused Character Score: 0.0004
+Details: {'Eliot'}
 
 
 Title: The_Echoes_of_Willoughby_Street.txt
-Number of Characters: 13
-Characters: ['Harrows', 'Pickering', 'Nora Reid', "Elizabeth Whitmore's", 'Elizabeth Whitmore', 'Sebastian Crane', 'Crane', 'Reid', 'Nora', 'Thompson', 'Elizabeth', 'Whitmore', 'Sebastian']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmaker_of_Vermilion_Street.txt
-Number of Characters: 2
-Characters: ['Cole', 'Ignatius Cole']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Watchmaker_of_Fillory_Street.txt
-Number of Characters: 6
-Characters: ['’s keeper', 'Ebenezer Eldridge', 'Nights', 'Watches', 'Eldridge', 'Ebenezer']
+Focused Character Score: 0.0010
+Details: {'Watches', 'Ebenezer'}
 
 
 Title: The_Lighthouse_Keeper_of_Merrows_Point.txt
-Number of Characters: 4
-Characters: ['Thomas', 'Thomas Shepard', 'Merrow’s Point', 'Unfinished']
+Focused Character Score: 0.0005
+Details: {'Thomas'}
 
 
 Title: The_Clockmakers_Secret_18.txt
-Number of Characters: 6
-Characters: ['Clockmaker', 'Mirabel', 'Nora', 'Nora Lambert', 'Grimes', 'Gideon Grimes']
+Focused Character Score: 0.0014
+Details: {'Grimes', 'Nora', 'Gideon Grimes'}
 
 
 Title: The_Clockmakers_Apprentice_2.txt
-Number of Characters: 3
-Characters: ['Nay', 'Finn', 'Eliasz Clockman']
+Focused Character Score: 0.0006
+Details: {'Finn'}
 
 
 Title: The_Lighthouse_Keepers_Radiance.txt
-Number of Characters: 5
-Characters: ['Edith', 'Hargrove', 'Thomas', 'Thomas’s', 'mug']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Heart_2.txt
-Number of Characters: 4
-Characters: ['Thomas', 'Mara Caine', 'Thomas Whitmore', 'Mara']
+Focused Character Score: 0.0010
+Details: {'Thomas Whitmore', 'Mara'}
 
 
 Title: Echoes_of_Time.txt
-Number of Characters: 5
-Characters: ['Henry Adams', 'Henry', 'Merriweather Manor', 'Henry’s', 'Elizabeth']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Adrift_in_the_Clouds.txt
-Number of Characters: 4
-Characters: ['Crane', 'Clara', 'Leonardo da Vinci', 'Eliot']
+Focused Character Score: 0.0009
+Details: {'Leonardo da Vinci', 'Clara'}
 
 
 Title: Echoes_of_the_Forgotten.txt
-Number of Characters: 5
-Characters: ['Mila', 'Kresnik Alley', 'Eliza', 'Manzara', 'Petrovic']
+Focused Character Score: 0.0011
+Details: {'Mila', 'Petrovic'}
 
 
 Title: The_Last_Sorrows_of_Autumn.txt
-Number of Characters: 5
-Characters: ['Eleanor', 'Miriam', 'Thomas', 'Miriam’s', 'Ellie']
+Focused Character Score: 0.0020
+Details: {'Ellie', 'Thomas', 'Eleanor', 'Miriam'}
 
 
 Title: The_Last_Bookbinder_of_Cornish_Cove.txt
-Number of Characters: 11
-Characters: ['Shakespeare', 'Ava’s', 'Eleanor', 'Ava Simmons', 'Cornish Cove', 'Darcy', 'Eleanor Darcy', 'Tom Fletcher', 'Ava', 'Gran', 'Tom']
+Focused Character Score: 0.0013
+Details: {'Eleanor', 'Gran', 'Tom'}
 
 
 Title: The_Clockmakers_Apprentice_12.txt
-Number of Characters: 4
-Characters: ['Tobias', 'Mira', 'Leon', 'Aldermere']
+Focused Character Score: 0.0009
+Details: {'Leon', 'Tobias'}
 
 
 Title: Echoes_of_the_Silent_City.txt
-Number of Characters: 7
-Characters: ['Eliot', 'Eliot Crane', 'Nora Sands', 'Marzanna', 'Lhu', 'Nora', 'Lhu’s']
+Focused Character Score: 0.0004
+Details: {'Nora'}
 
 
 Title: The_Clockmakers_Apprentice_3.txt
-Number of Characters: 6
-Characters: ['Samuel', 'Samuel’s feet', 'Willeford', 'Barrowby', 'Samuel’s sixteenth', 'Samuel’s days']
+Focused Character Score: 0.0006
+Details: {'Willeford'}
 
 
 Title: The_Clockmaker_of_Via_del_Corso.txt
-Number of Characters: 4
-Characters: ['Signor Bellucci', 'Via del Corso', 'Lucia', 'Alessandro']
+Focused Character Score: 0.0009
+Details: {'Lucia', 'Alessandro'}
 
 
 Title: Whispers_of_the_Forgotten_Library.txt
-Number of Characters: 2
-Characters: ['Elena Rossi', 'Rumor']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Lightkeeper_of_Eldoria.txt
-Number of Characters: 6
-Characters: ['Elias Morgan', 'Thaddeus', 'Reaching Ada', 'Crane', 'Ada', 'Thadueus']
+Focused Character Score: 0.0005
+Details: {'Ada'}
 
 
 Title: Untitled_5.txt
-Number of Characters: 3
-Characters: ['Whispers', 'Marie', 'Elian']
+Focused Character Score: 0.0009
+Details: {'Marie', 'Elian'}
 
 
 Title: Echoes_of_Selene.txt
-Number of Characters: 5
-Characters: ['Elias', 'Selene', 'Mira', 'Selene’s', 'Drawn']
+Focused Character Score: 0.0009
+Details: {'Mira', 'Elias'}
 
 
 Title: The_Secret_of_Eldridge_Manor.txt
-Number of Characters: 7
-Characters: ['Michael', 'Lady Elizabeth', 'Theresa Winters', 'Eldridge Manor', 'Elizabeth', 'Harry', 'Lady Elizabeth Eldridge']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_7.txt
-Number of Characters: 8
-Characters: ['Tom Jenkins', 'Halloweens', 'Mallory', 'Jeremiah Alder', 'Jeremiah', 'Claire', 'Alder', 'Tom']
+Focused Character Score: 0.0005
+Details: {'Tom'}
 
 
 Title: The_Last_Garden_4.txt
-Number of Characters: 5
-Characters: ['Alia', 'Elias', 'Elias Quinn', 'Greyfall', 'Alia Reynolds']
+Focused Character Score: 0.0004
+Details: {'Elias'}
 
 
 Title: The_Vanishing_Act.txt
-Number of Characters: 6
-Characters: ['Samuel', 'Peabody', 'Elmsworth', 'Peabody’s', 'moon', 'Samuel Quince']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Paradox_8.txt
-Number of Characters: 4
-Characters: ['Clockmaker', 'Anna', 'Elias', 'Elias Moor']
+Focused Character Score: 0.0010
+Details: {'Anna', 'Elias'}
 
 
 Title: The_Lighthouse_Keeper_of_Eldwen.txt
-Number of Characters: 8
-Characters: ['I. We', 'Eamon', 'Clara', 'albeit musty', 'Eamon Byrne', 'Byrne', 'Clara’s', 'Eldwen']
+Focused Character Score: 0.0017
+Details: {'Eldwen', 'Clara', 'Eamon', 'albeit musty'}
 
 
 Title: The_Clockmakers_Promise.txt
-Number of Characters: 3
-Characters: ['Elias Hartwell', 'Hartwell', 'Elias']
+Focused Character Score: 0.0008
+Details: {'Hartwell', 'Elias'}
 
 
 Title: The_Last_Symphony_45.txt
-Number of Characters: 9
-Characters: ['Otto', 'Kraus', 'Otto’s days', 'Otto Kraus', 'Elise', 'Otto murmured', 'Otto’s', 'Mahler', 'Adler']
+Focused Character Score: 0.0009
+Details: {'Elise', 'Otto'}
 
 
 Title: The_Clockmakers_Apprentice_10.txt
-Number of Characters: 8
-Characters: ['Thaddeus', 'T. Willoughby', 'Queen Elizabeth', 'Sideralium', 'Willoughby', 'Elsie', 'Thadueus', 'Thaddeus Willoughby']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_48.txt
-Number of Characters: 3
-Characters: ['Julian', 'Maria', 'Maria’s']
+Focused Character Score: 0.0005
+Details: {'Maria'}
 
 
 Title: The_Paradox_Clock.txt
-Number of Characters: 9
-Characters: ['Arthur Liddell', 'Garrett', 'Lena', 'Arthur', 'Clock', 'Dunhill', 'Liddell', 'Halverton', 'Archibald']
+Focused Character Score: 0.0009
+Details: {'Arthur', 'Archibald'}
 
 
 Title: The_Lighthouse_Keeper_of_Corwyn_Point.txt
-Number of Characters: 6
-Characters: ['Elijah Moore', 'Clara', 'Elijah', 'Alarm', 'Corwyn Point', 'Clara Reed']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Echoes_of_Starlight.txt
-Number of Characters: 5
-Characters: ['Rowan', 'I’m Evelyn', 'Evelyn', 'Selene', 'Luna’s Embrace']
+Focused Character Score: 0.0013
+Details: {'Selene', 'Rowan', 'Evelyn'}
 
 
 Title: Untitled_49.txt
-Number of Characters: 13
-Characters: ['Bake', 'Carlton Ridge’s', 'Earl Grey', 'Marjorie', 'Marjorie Pellman', 'Carlton Ridge', 'Eloise Harper', 'Ridge Bake', 'strawberry rhubarb', 'Pie Bake', 'Austen', 'Jensen', 'Jane Austen']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Timekeepers_Paradox.txt
-Number of Characters: 7
-Characters: ['Elsie May', 'Peter’s', 'Nathaniel Greenwich', 'Elsie', 'Greenwich', 'Peter', 'Chronos Pendulum']
+Focused Character Score: 0.0009
+Details: {'Peter', 'Greenwich'}
 
 
 Title: The_Clockmakers_Apprentice_11.txt
-Number of Characters: 5
-Characters: ['Clockmaker', 'Grafton', 'Benjamin Grafton', 'Benjamin Grafton’s', 'Lysander']
+Focused Character Score: 0.0010
+Details: {'Lysander', 'Grafton'}
 
 
 Title: The_Clockmakers_Paradox_9.txt
-Number of Characters: 4
-Characters: ['Highwind Lane', 'Pindle', 'Thom Pindle', 'Elara']
+Focused Character Score: 0.0004
+Details: {'Elara'}
 
 
 Title: Untitled_6.txt
-Number of Characters: 10
-Characters: ['Marie Holden', 'Marie', "Willow Creek'", 'her Aunt Eliza', 'Surprised', 'Mabel', 'George’s', 'Alice', 'Aunt Eliza', 'George']
+Focused Character Score: 0.0013
+Details: {'Marie', 'Mabel', "Willow Creek'"}
 
 
 Title: The_Midnight_Hour.txt
-Number of Characters: 2
-Characters: ['Detective Eliza Harrow', 'Underneath St. Hilda’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_2.txt
-Number of Characters: 11
-Characters: ['Appleton', 'Tommy', 'the Cloud Catcher', 'Redwood Falls', 'Cloud Catcher 3002', 'Whatcha', 'Cloud Catcher', 'The Cloud Catcher', 'Breakfast', 'Tommy Riddle', 'Ellie']
+Focused Character Score: 0.0005
+Details: {'Tommy'}
 
 
 Title: The_Smithfield_Heirloom.txt
-Number of Characters: 9
-Characters: ['Eliza Whitmore', 'Harold', 'Harold Pennyweather', 'Pennyweather', 'Miss Whitmore', 'Edward Alcott', 'jewel', 'Alcotts', 'Miss']
+Focused Character Score: 0.0009
+Details: {'Eliza Whitmore', 'Alcotts'}
 
 
 Title: The_Shadow_Collector.txt
-Number of Characters: 3
-Characters: ['Edward of Elderwood', 'Startled', 'Edward']
+Focused Character Score: 0.0005
+Details: {'Edward'}
 
 
 Title: The_Clockmakers_Apprentice_4.txt
-Number of Characters: 5
-Characters: ['Saxon', 'Percival Grey', 'Aldric', 'Grey', 'Elara']
+Focused Character Score: 0.0005
+Details: {'Elara'}
 
 
 Title: The_Clockmakers_Heart.txt
-Number of Characters: 9
-Characters: ['Clockmaker', 'Thomason', 'Cecilia Harrow', 'Oliver', 'George Harrow', 'Harrow', 'Elric Thomason', 'Mom', 'Oliver’s']
+Focused Character Score: 0.0010
+Details: {'Oliver', 'Harrow'}
 
 
 Title: The_Last_Lantern.txt
-Number of Characters: 8
-Characters: ['Timothy.', 'Timothy’s', 'Elias Thorn', 'Colgrave', 'Intrigue', 'Thorn', 'Timothy', 'Timothy Colgrave']
+Focused Character Score: 0.0005
+Details: {'Timothy’s'}
 
 
 Title: The_Lighthouse_Keepers_Secret.txt
-Number of Characters: 6
-Characters: ['Morgan', 'Silas', 'Clara', 'Silas Morgan', 'Clara Hargrove', 'Tom']
+Focused Character Score: 0.0005
+Details: {'Silas'}
 
 
 Title: The_Last_Garden.txt
-Number of Characters: 5
-Characters: ['Huang', 'Matthew', 'Lee', 'Matthew Lee', 'Miss Amelia']
+Focused Character Score: 0.0005
+Details: {'Huang'}
 
 
 Title: The_Fiddler_in_the_Forest.txt
-Number of Characters: 3
-Characters: ['Jasper Thorne', 'Aveline', 'Jasper']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Lighthouse_Keeper_of_Morwens_Cove.txt
-Number of Characters: 8
-Characters: ['Elara’s', 'Silas', 'Harrow', 'Morwen’s Cove', 'Elara', 'Jonathan Harrow', 'Silas Moone', 'Morwen']
+Focused Character Score: 0.0017
+Details: {'Elara', 'Morwen', 'Silas', 'Harrow'}
 
 
 Title: The_Clockmakers_Apprentice_5.txt
-Number of Characters: 3
-Characters: ['Elias Bramwell', 'Finley', 'Elias']
+Focused Character Score: 0.0009
+Details: {'Finley', 'Elias'}
 
 
 Title: Shards_of_the_Old_World.txt
-Number of Characters: 4
-Characters: ['Lucas', 'Simmons', 'Mara', 'Elara Simmons']
+Focused Character Score: 0.0004
+Details: {'Mara'}
 
 
 Title: A_Whisper_Down_Dellridge_Lane.txt
-Number of Characters: 8
-Characters: ['Clarendon', 'Anna', 'Anna’s', 'Dellridge Lane', 'Anna Pearson', 'Ellie’s', 'Eleanor Rigby', 'Ellie']
+Focused Character Score: 0.0005
+Details: {'Anna'}
 
 
 Title: Untitled_3.txt
-Number of Characters: 11
-Characters: ['Harold', 'Sam momentarily', 'Harold Jenkins', 'Clara Belle’s', 'Sam’s', 'Clara', 'Clara Belle', 'Sam', 'Joe Mills', 'Joe', 'Harold led Sam']
+Focused Character Score: 0.0009
+Details: {'Sam', 'Harold'}
 
 
 Title: The_Last_Garden_2.txt
-Number of Characters: 3
-Characters: ['Elsie', 'Aldridge', 'Mommy']
+Focused Character Score: 0.0005
+Details: {'Elsie'}
 
 
 Title: The_Clockmakers_Apprentice_7.txt
-Number of Characters: 3
-Characters: ['Václav’s', 'Eliska', 'Václav']
+Focused Character Score: 0.0005
+Details: {'Eliska'}
 
 
 Title: The_Last_Page.txt
-Number of Characters: 6
-Characters: ['Elara’s', 'Hawthorne', 'Elara’s Whisper', 'Elara', 'Felix', 'Felix Wren']
+Focused Character Score: 0.0009
+Details: {'Hawthorne', 'Felix'}
 
 
 Title: The_Lighthouse_Keeper_2.txt
-Number of Characters: 2
-Characters: ['Keeper', 'Elara']
+Focused Character Score: 0.0010
+Details: {'Elara', 'Keeper'}
 
 
 Title: The_Echoing_Green.txt
-Number of Characters: 6
-Characters: ['Hawthorne', 'Italo Calvino', 'William Blake', 'Elsie', 'Jacob', 'Aeloria']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Echoes_of_Jupiter.txt
-Number of Characters: 10
-Characters: ['Tommy', 'Clara', 'Ellie Mayfield', 'George Mayfield', 'George’s', 'George and Ellie', 'Rosewood', 'Tommy’s', 'George', 'Ellie']
+Focused Character Score: 0.0008
+Details: {'Ellie', 'George'}
 
 
 Title: The_Lighthouse_Keeper_3.txt
-Number of Characters: 1
-Characters: ['Samson']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Whispers_of_the_Old_Willow.txt
-Number of Characters: 3
-Characters: ['Eliot', 'Elderswell', 'Helen']
+Focused Character Score: 0.0011
+Details: {'Elderswell', 'Helen'}
 
 
 Title: Echoes_of_the_Past_2.txt
-Number of Characters: 10
-Characters: ['Harold', 'Keys', 'Appleby', 'Harold’s', 'Emily', 'Mira', 'Danvers', 'Grandpa', 'Harold Bennett', 'Thomas']
+Focused Character Score: 0.0010
+Details: {'Grandpa', 'Harold'}
 
 
 Title: The_Clockmakers_Apprentice_6.txt
-Number of Characters: 9
-Characters: ['Peter’s', 'Eliot', 'Chronos', 'Dad', 'Crumb', 'Eliot’s', 'Eliot Crumb', 'Peter', 'Gildenbrook']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmaker_of_Mirewood.txt
-Number of Characters: 5
-Characters: ['Mirewood', 'Tobias', "Tobias Finch's", 'Finch', 'Tobias Finch']
+Focused Character Score: 0.0005
+Details: {'Tobias'}
 
 
 Title: A_Moonlit_Sonata.txt
-Number of Characters: 6
-Characters: ['Tommy', 'Jonathan Wren', 'Wren', 'Eleanor Wren', 'Eleanor', 'Thomas Gale']
+Focused Character Score: 0.0009
+Details: {'Eleanor', 'Tommy'}
 
 
 Title: The_Last_Garden_3.txt
-Number of Characters: 4
-Characters: ['Alder', 'Charlotte', 'Evermere', 'bush']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Weeping_Timekeeper.txt
-Number of Characters: 8
-Characters: ['Julian', 'Nathaniel Willoughby', 'Nathaniel', 'Julian Crane', 'Crane', 'Glaston', 'Willoughby', 'Bertie']
+Focused Character Score: 0.0015
+Details: {'Julian', 'Bertie', 'Willoughby'}
 
 
 Title: The_Ascent.txt
-Number of Characters: 3
-Characters: ['Mount Falcor', 'Ellie', 'Falcor']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Paradox_19.txt
-Number of Characters: 5
-Characters: ['Elias Bramley', 'Elias', 'Wren', 'Bramley', 'Lillian']
+Focused Character Score: 0.0010
+Details: {'Wren', 'Bramley'}
 
 
 Title: The_Clockmaker_of_Tirsol.txt
-Number of Characters: 4
-Characters: ['Dawn', 'Oren', 'Wandering', 'Hendley']
+Focused Character Score: 0.0005
+Details: {'Oren'}
 
 
 Title: Among_the_Shadows_of_Winter.txt
-Number of Characters: 7
-Characters: ['Widow Wilkerson', 'Bennett', 'Chris', 'Whitaker', 'Wilkerson', 'Tom', 'Tom Bennett']
+Focused Character Score: 0.0021
+Details: {'Whitaker', 'Wilkerson', 'Chris', 'Widow Wilkerson'}
 
 
 Title: The_Curious_Case_of_Caelum_Mellor.txt
-Number of Characters: 10
-Characters: ['Leonard’s', 'Surrey', 'Leonard Vasey', 'Elsie Whitaker', 'Whitaker', 'Caelum', 'Leonard', 'Caelum Mellor', 'Vasey', 'Elsie']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_14.txt
-Number of Characters: 1
-Characters: ['Tibbles']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Curators_Clock.txt
-Number of Characters: 9
-Characters: ['Vrána', 'Astrolabe of Ages', 'Clara', 'Antonín Dvořák', 'Zodiac', 'Zodiakos Kyklos', 'The Zodiakos Kyklos', 'Zodiakos Kyklos*', 'Emilian']
+Focused Character Score: 0.0004
+Details: {'Emilian'}
 
 
 Title: Untitled_28.txt
-Number of Characters: 7
-Characters: ['Guilt', 'Aveline', 'Abigail', 'Moonflower', 'Abigail Carter', 'Carter', 'Lady Aveline']
+Focused Character Score: 0.0005
+Details: {'Lady Aveline'}
 
 
 Title: Whispers_in_the_Willow.txt
-Number of Characters: 3
-Characters: ['Thomas', 'Ellyn', 'Thimble']
+Focused Character Score: 0.0006
+Details: {'Thimble'}
 
 
 Title: The_Last_Garden_of_Mars_3.txt
-Number of Characters: 4
-Characters: ['Virgil’s', 'Juno', 'rang out', 'Virgil']
+Focused Character Score: 0.0005
+Details: {'Juno'}
 
 
 Title: The_Clockmaker_of_Solitude.txt
-Number of Characters: 4
-Characters: ['Clara', 'Hart', 'Elias', 'Elias Hart']
+Focused Character Score: 0.0009
+Details: {'Clara', 'Elias'}
 
 
 Title: Echoes_of_the_Fallen_Star.txt
-Number of Characters: 2
-Characters: ['Elara', 'Emily']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Unseen_Library.txt
-Number of Characters: 4
-Characters: ['Lumnos', 'Marjorie', 'Worlds', 'Atlas']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_29.txt
-Number of Characters: 5
-Characters: ['David', 'Sarah', 'Waverley', 'Helena Waverley', 'David Whitley']
+Focused Character Score: 0.0005
+Details: {'David'}
 
 
 Title: Whispers_of_the_Old_Lore.txt
-Number of Characters: 8
-Characters: ['Heed', 'Albert', 'Heartwood', 'Emilia Hawthorn', 'worlds', 'Emilia', 'Albert Hawthorn', 'Tilsbee']
+Focused Character Score: 0.0009
+Details: {'Emilia', 'worlds'}
 
 
 Title: Untitled_15.txt
-Number of Characters: 8
-Characters: ['Evelyn', 'Evelyn Harper', 'Harper', 'Eleanor', 'Whispers', 'Thomas', 'Drawn', 'Eleanor Harper"—Mrs']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Echoes_of_Redstone_Manor.txt
-Number of Characters: 5
-Characters: ["Elizabeth Blackwell's", 'Margaret', 'Maggie', 'Elizabeth Blackwell', 'Elizabeth']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Paradox_24.txt
-Number of Characters: 3
-Characters: ['Eva', 'Karel', 'Josef']
+Focused Character Score: 0.0010
+Details: {'Karel', 'Eva'}
 
 
 Title: The_Clockmakers_Paradox_18.txt
-Number of Characters: 5
-Characters: ['Elisa', 'Johann', 'Heinrich', 'Gustav', 'Gustav Heinrich']
+Focused Character Score: 0.0010
+Details: {'Elisa', 'Gustav'}
 
 
 Title: The_Lighthouse_Keepers_Secret_9.txt
-Number of Characters: 5
-Characters: ['Clara', 'Thomas Gale', 'Eliza', 'Thomas', 'Gale']
+Focused Character Score: 0.0009
+Details: {'Thomas', 'Eliza'}
 
 
 Title: Whispering_Pines.txt
-Number of Characters: 8
-Characters: ['Jonathan', 'Michael', 'Edward Rigby', 'Jonathan’s', 'Edward', 'Eleanor', 'Jonathan Harker', 'Eleanor Rigby']
+Focused Character Score: 0.0014
+Details: {'Michael', 'Eleanor', 'Jonathan Harker'}
 
 
 Title: The_Echoes_of_Margarets_Grove_18.txt
-Number of Characters: 6
-Characters: ['Margaret’s Grove', 'Margaret', 'Frozen', 'Emily', 'Grandma', 'Emily Barton']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_17.txt
-Number of Characters: 4
-Characters: ['Elias Crane', 'Esther Crane', 'Elias', 'Esther']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: The_Clockmakers_Secret_8.txt
-Number of Characters: 5
-Characters: ['Sharing', 'Elmsworth', 'Gazette', 'Elias', 'Eve']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: The_Last_Light_of_Arvale.txt
-Number of Characters: 5
-Characters: ['Basil’s', 'Basil', 'Basil Marwick', 'Elara', 'Arvale']
+Focused Character Score: 0.0009
+Details: {'Elara', 'Basil'}
 
 
 Title: The_Echoes_of_5th_Avenue.txt
-Number of Characters: 3
-Characters: ['Maggie Rennert', 'Clara', 'Maggie']
+Focused Character Score: 0.0005
+Details: {'Maggie'}
 
 
 Title: The_Whispering_Winds_of_Ballymore.txt
-Number of Characters: 4
-Characters: ['Maeve O’Sullivan', 'Tom Flannery', 'Sean Murphy', 'Tom']
+Focused Character Score: 0.0006
+Details: {'Tom'}
 
 
 Title: Echoes_of_Juniper_Hollow.txt
-Number of Characters: 4
-Characters: ['Juniper Hollow', 'Sarah', 'Aunt Eliza', 'Walton']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Lost_Manuscript_of_Thistle_Grove.txt
-Number of Characters: 10
-Characters: ['Marge', 'Thistle Grove', 'Peter Fletcher', 'Fletcher', 'Tom', 'Dalloway', 'Alisdair Fletcher', 'Willow Lane', 'Mark', 'Peter']
+Focused Character Score: 0.0013
+Details: {'Marge', 'Peter', 'Thistle Grove'}
 
 
 Title: Shadows_on_Lavender_Walls.txt
-Number of Characters: 13
-Characters: ['Vane', 'Moorcroft Manor', 'Redwood', 'Yorkshire', 'Eleanor', 'Thomas Redwood', 'Lillian Moorcroft', 'Eleanor Vane', 'Eliza', 'Lillian', 'Thomas', 'Moorcroft', 'Melissa Carter']
+Focused Character Score: 0.0014
+Details: {'Eleanor', 'Vane', 'Lillian'}
 
 
 Title: Untitled_16.txt
-Number of Characters: 6
-Characters: ['Midnight Bloom', 'Amelie', 'Eleanor', 'wolf', 'Thomas', 'Old Thomas']
+Focused Character Score: 0.0004
+Details: {'Thomas'}
 
 
 Title: The_Clockmakers_Secret_9.txt
-Number of Characters: 6
-Characters: ['Clockmaker', 'Silas Hargrove', 'Silas', 'Loomis', 'Elara', 'Ellie']
+Focused Character Score: 0.0005
+Details: {'Elara'}
 
 
 Title: The_Clockmakers_Secret.txt
-Number of Characters: 4
-Characters: ['Monroe', 'Nasty', 'Moonwatcher', 'Anatole Monroe']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Lighthouse_Keepers_Secret_8.txt
-Number of Characters: 7
-Characters: ['Eliza Harrow', 'Adrian Harrow', 'Kildare', 'MacAllister', 'Owen’s', 'Owen MacAllister', 'Owen']
+Focused Character Score: 0.0005
+Details: {'Owen'}
 
 
 Title: The_Clockmakers_Paradox_23.txt
-Number of Characters: 5
-Characters: ['Tobias TikTak', 'Clara', 'Tobias', 'TikTak', 'Clara Bellwood']
+Focused Character Score: 0.0009
+Details: {'Tobias', 'Clara'}
 
 
 Title: The_Last_Light_of_Loria.txt
-Number of Characters: 6
-Characters: ['Theo', 'Grandfather', 'Lena', 'Horace', 'Widow Marren', 'Nightshades']
+Focused Character Score: 0.0005
+Details: {'Theo'}
 
 
 Title: Echoes_of_the_Forgotten_2.txt
-Number of Characters: 7
-Characters: ['Elara’s', 'Cedric Holloway', 'Midsummer', 'Cedric', 'Elara', 'Elara Thornwood', 'Holloway']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Legacy.txt
-Number of Characters: 4
-Characters: ['the Tempus Scriptor', 'Nathaniel Wren', 'Nathaniel', 'Thomas']
+Focused Character Score: 0.0005
+Details: {'Nathaniel'}
 
 
 Title: Untitled_12.txt
-Number of Characters: 6
-Characters: ['Alex', 'Elias Hargrove', 'Hargrove', 'Thomas', 'Grandma Marta', 'Marcella']
+Focused Character Score: 0.0009
+Details: {'Marcella', 'Hargrove'}
 
 
 Title: Untitled_13.txt
-Number of Characters: 5
-Characters: ['Dwight', 'Sam’s', 'Sam', 'Dwight’s', 'Harrowick Woods']
+Focused Character Score: 0.0010
+Details: {'Sam', 'Dwight’s'}
 
 
 Title: The_Glassmakers_Paradox.txt
-Number of Characters: 5
-Characters: ['Elias', 'Clara', 'Hourglass', 'Marantha', 'Lady Marantha']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Echoes_of_the_Forgotten_3.txt
-Number of Characters: 3
-Characters: ['Willow Lane', 'Core', 'Jasper']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Paradox_22.txt
-Number of Characters: 6
-Characters: ['Václav knelt', 'Novak', 'Václav', 'Eliska Novak', 'Eliska', 'Miss']
+Focused Character Score: 0.0005
+Details: {'Václav'}
 
 
 Title: The_Clockmakers_Paradox_20.txt
-Number of Characters: 10
-Characters: ['Harper Woods', 'Victor Eldritch', 'Alastor', 'Eldritch', 'Harper', 'Victor', 'Harper’s', 'Eldritch Timecrafts', 'Victor’s', 'Miss Woods']
+Focused Character Score: 0.0014
+Details: {'Miss Woods', 'Victor', 'Eldritch Timecrafts'}
 
 
 Title: The_Clockmakers_Legacy_8.txt
-Number of Characters: 3
-Characters: ['Thaddeus', 'Lila', 'Snellgrove']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_39.txt
-Number of Characters: 4
-Characters: ['Thomas', "Albert Harrington's", 'Albert Harrington', 'Albert Harrington’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_11.txt
-Number of Characters: 3
-Characters: ['Elsie', 'Miss Writer', 'Miss']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Lighthouse_Keeper_of_Parsons_Cove.txt
-Number of Characters: 4
-Characters: ['Elias Crane', 'Ada', 'Elias', 'Crane']
+Focused Character Score: 0.0010
+Details: {'Elias', 'Ada'}
 
 
 Title: Whispers_of_Eloria.txt
-Number of Characters: 3
-Characters: ['Aric', 'Ellorn', 'Aric of Grendale']
+Focused Character Score: 0.0005
+Details: {'Aric of Grendale'}
 
 
 Title: Untitled_10.txt
-Number of Characters: 3
-Characters: ['Bennett', 'Surprised', 'Elara']
+Focused Character Score: 0.0005
+Details: {'Bennett'}
 
 
 Title: The_Last_Symphony_of_Mr_Clements.txt
-Number of Characters: 11
-Characters: ['Beethoven', 'Ludwig', 'Gilbert', 'Whitcombe', 'Sarah', 'Clements', 'Maggie', 'Whitaker', 'Elsie', 'Horatio Clements', 'Aunt Sarah']
+Focused Character Score: 0.0010
+Details: {'Maggie', 'Clements'}
 
 
 Title: Untitled_38.txt
-Number of Characters: 2
-Characters: ['Elaina', 'Lush']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmaker_of_Via_Marcello.txt
-Number of Characters: 8
-Characters: ['Giordano', 'Lucia', 'Alberto', 'Alberto Giordano', 'Emiliano', 'Emiliano Rossi', 'Il Tempo Ritrovato', 'Via Marcello']
+Focused Character Score: 0.0015
+Details: {'Alberto', 'Alberto Giordano', 'Giordano'}
 
 
 Title: The_Hourglass_Symphony.txt
-Number of Characters: 3
-Characters: ['Timekeepers', 'Elias', 'The Hourglass Symphony']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: Elysiums_Mist.txt
-Number of Characters: 6
-Characters: ['Maura Keller', 'Elysium Falls', 'Maura', 'Grandmother', 'Fingers', 'Mara']
+Focused Character Score: 0.0015
+Details: {'Grandmother', 'Maura', 'Mara'}
 
 
 Title: The_Clockmakers_Paradox_21.txt
-Number of Characters: 7
-Characters: ['Temporalis', 'Wellby', 'Thad', 'Thaddeus Wellby', 'Alcott', 'Alcott’s', 'Miss']
+Focused Character Score: 0.0019
+Details: {'Temporalis', 'Thaddeus Wellby', 'Thad', 'Alcott'}
 
 
 Title: The_Lighthouse_Keepers_Secret_3.txt
-Number of Characters: 5
-Characters: ['Elias Crane', 'Elias', 'Whisker', 'Pinecroft', 'Mad Jack']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: The_Lighthouse_Keepers_Diary_3.txt
-Number of Characters: 6
-Characters: ['Kneeling', 'Amelia Harwood', 'Elinor Point', 'Josiah', 'Eleanor', 'Eleanor Rigby']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Shadow_on_Sundial_Court.txt
-Number of Characters: 8
-Characters: ['Eliza Cromwell', 'Charles', 'Henley', 'Eliza', 'Edgar', 'Charles Cromwell', 'Earl Grey', 'Edgar Henley']
+Focused Character Score: 0.0004
+Details: {'Edgar'}
 
 
 Title: The_Clockmakers_Paradox_10.txt
-Number of Characters: 12
-Characters: ['Clockmaker', 'Timothy momentarily', 'peppered grey', 'Timothy’s', 'Langford', 'Tick-Tock Tim’s', 'Harrow', 'Margaret', 'Eleanor', 'Timothy', 'Timothy Harrow', 'Eleanor Rigby']
+Focused Character Score: 0.0013
+Details: {'Eleanor', 'Harrow', 'Timothy'}
 
 
 Title: The_Whispering_Wood_2.txt
-Number of Characters: 4
-Characters: ['knelt', 'Gilden Falls', 'Frozen', 'Hargrove']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Apprentice.txt
-Number of Characters: 8
-Characters: ['Arabella Wren', 'Thorne', 'Elias', 'Wren', 'Arabella', 'Miss Wren', 'Ambrose Thorne', 'Miss']
+Focused Character Score: 0.0010
+Details: {'Thorne', 'Elias'}
 
 
 Title: The_Clockmakers_Legacy_4.txt
-Number of Characters: 7
-Characters: ['Julian', 'Aria', 'Dad', 'Surprised', 'Horatio Tilwell', 'Aria’s', 'Tilwell']
+Focused Character Score: 0.0005
+Details: {'Julian'}
 
 
 Title: Untitled_21.txt
-Number of Characters: 6
-Characters: ['Quill', 'Arthur Blackwood', 'Arthur', 'Maple Drive', 'Whispering Woods', 'Blackwood']
+Focused Character Score: 0.0010
+Details: {'Blackwood', 'Arthur'}
 
 
 Title: Untitled_35.txt
-Number of Characters: 11
-Characters: ['Rigby', 'Hardy', 'Henley', 'Eleanor', 'Jacob Hardy', 'Alcott', 'Keepers', 'Marigold Falls', 'Jacob', 'Willow Lane', 'Eleanor Rigby']
+Focused Character Score: 0.0014
+Details: {'Jacob', 'Keepers', 'Eleanor'}
 
 
 Title: The_Clockmakers_Secret_2.txt
-Number of Characters: 6
-Characters: ['Clockmaker', 'Silas Hargrove', 'Silas', 'Cora', 'Lanford Hills', 'Thomas']
+Focused Character Score: 0.0004
+Details: {'Silas'}
 
 
 Title: Echoes_of_Jupiter_2.txt
-Number of Characters: 11
-Characters: ['Ilsa Halvorsen', 'Hours', 'Elara Myles', 'Myles', 'Alarm', 'Halvorsen', 'Liam', 'Elara', 'Sanvi Patel', 'Patel', 'Liam Russo']
+Focused Character Score: 0.0005
+Details: {'Liam'}
 
 
 Title: Echoes_of_Jupiter_3.txt
-Number of Characters: 6
-Characters: ['Simmons', 'Laura', 'Laura Hargrove', 'Elias Hargrove', "Elias Hargrove's", 'Laura’s']
+Focused Character Score: 0.0005
+Details: {'Laura'}
 
 
 Title: The_Clockmakers_Secret_3.txt
-Number of Characters: 5
-Characters: ['Clockmaker', 'Unique', 'Victor Darnell', 'Darnell', 'Victor']
+Focused Character Score: 0.0011
+Details: {'Unique', 'Victor'}
 
 
 Title: Untitled_34.txt
-Number of Characters: 3
-Characters: ['Nights', 'Alton', 'Alton Carrow']
+Focused Character Score: 0.0010
+Details: {'Alton', 'Alton Carrow'}
 
 
 Title: Untitled_20.txt
-Number of Characters: 6
-Characters: ['Elias', 'Elias Hawthorne', 'café', 'Elizabeth', 'Rosie Leighton', 'Rosie']
+Focused Character Score: 0.0009
+Details: {'Rosie', 'Elias'}
 
 
 Title: The_Clockmakers_Legacy_5.txt
-Number of Characters: 8
-Characters: ['Wren', 'Clara', 'Eleanor', 'Surprised', 'Said', 'Tobias Wren’s', 'Tobias Wren', 'Eldhurst']
+Focused Character Score: 0.0013
+Details: {'Wren', 'Eleanor', 'Said'}
 
 
 Title: The_Echoes_of_Jasmine.txt
-Number of Characters: 7
-Characters: ['Grandma Leah', 'Anna', 'Grandma', 'Grandma Leah’s', 'Marlene', 'Anna’s feet', "Grandma Leah's"]
+Focused Character Score: 0.0004
+Details: {'Marlene'}
 
 
 Title: The_Lighthouse_Keepers_Secret_12.txt
-Number of Characters: 5
-Characters: ['Jamie', 'Old Tom', 'Tom’s', 'Tom', 'Ellie']
+Focused Character Score: 0.0010
+Details: {'Jamie', 'Tom'}
 
 
 Title: The_Clockmakers_Paradox_11.txt
-Number of Characters: 9
-Characters: ['Elias', 'Elias Hartmann', 'Whisper Alley', 'Watches', 'Madeline', 'Hartmann', 'Drawn', 'Madeline Voss', 'Miss Voss']
+Focused Character Score: 0.0012
+Details: {'Miss Voss', 'Madeline', 'Elias'}
 
 
 Title: Untitled.txt
-Number of Characters: 7
-Characters: ['Hemsley', 'Liv', 'Ethan Carroll', 'Calendon', 'Olivia', 'Ethan', 'Beaumont']
+Focused Character Score: 0.0010
+Details: {'Ethan', 'Olivia'}
 
 
 Title: The_Lighthouse_Keepers_Diary_2.txt
-Number of Characters: 7
-Characters: ['Jonathan', 'Galeswatch', 'Jonathan’s', 'Emily', 'Jonathan Leverett', 'Captain', 'Emily Warren']
+Focused Character Score: 0.0005
+Details: {'Jonathan'}
 
 
 Title: The_Lighthouse_Keepers_Secret_2.txt
-Number of Characters: 7
-Characters: ['Eleanor Davis', 'Davis', 'Eleanor', 'Thomas Reed', 'Thomas', 'Thomas’s', 'Reed']
+Focused Character Score: 0.0009
+Details: {'Eleanor', 'Thomas'}
 
 
 Title: The_Echoes_of_Elkwood.txt
-Number of Characters: 4
-Characters: ['Thorne', 'Lila', 'Mara', 'Eli']
+Focused Character Score: 0.0005
+Details: {'Mara'}
 
 
 Title: The_Clockmakers_Paradox_13.txt
-Number of Characters: 7
-Characters: ['Clockmaker', 'Cobblestone Lane', 'Voss', 'Alaric Voss', 'Eliott', 'Liora', 'Eliott’s Timepieces']
+Focused Character Score: 0.0010
+Details: {'Eliott', 'Voss'}
 
 
 Title: The_Lighthouse_Keepers_Secret_10.txt
-Number of Characters: 5
-Characters: ['Elias', 'Hamish', 'Elias Thorne', 'Grey', 'mug']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: The_Lighthouse_Keeper.txt
-Number of Characters: 3
-Characters: ['Silas Marlowe', 'Silas', 'Elara']
+Focused Character Score: 0.0004
+Details: {'Silas'}
 
 
 Title: The_Man_with_the_Silver_Clarinet.txt
-Number of Characters: 6
-Characters: ['Oliver Hawthorne', 'Oliver', 'Hawthorne', 'Casey', 'Eleanor', 'Oliver’s']
+Focused Character Score: 0.0004
+Details: {'Oliver'}
 
 
 Title: The_Map_of_Lost_Echoes.txt
-Number of Characters: 11
-Characters: ['Harold', 'Rookwoods', 'Trembley', 'Harold Trembley', 'Miss Rookwood', 'Harold’s', 'Eleanor Rookwood', 'Eleanor', 'Minton', 'Minton’s', 'Eliot Cooke']
+Focused Character Score: 0.0014
+Details: {'Eleanor', 'Miss Rookwood', 'Harold'}
 
 
 Title: The_Clockmakers_Legacy_7.txt
-Number of Characters: 5
-Characters: ['Clockmaker', 'Thorne', 'Augustus Thorne', 'Elara', 'Augustus']
+Focused Character Score: 0.0010
+Details: {'Elara', 'Augustus'}
 
 
 Title: Untitled_36.txt
-Number of Characters: 7
-Characters: ['Felt', 'Clara', 'Peter Hale', 'Sandy', 'Name’s Clara', 'Peter', 'Approaching Clara']
+Focused Character Score: 0.0009
+Details: {'Clara', 'Peter'}
 
 
 Title: Untitled_22.txt
-Number of Characters: 8
-Characters: ['David', 'Miss Weller', 'Emily', 'Joe', '’s Anne', 'McCray', 'Anne', 'Anne Weller']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Whispering_Gallery.txt
-Number of Characters: 7
-Characters: ['Crowley', 'Alistair Crowley', 'Penglade Forest', 'Minerva', 'Lydia', 'hidden nooks', 'Thomas']
+Focused Character Score: 0.0009
+Details: {'Thomas', 'Lydia'}
 
 
 Title: Broken_Wings.txt
-Number of Characters: 6
-Characters: ['Levin’s Coffee Shop', 'Sophia', 'Miss Sophia', 'Sophia’s', 'Miss Sofia', 'Elderton']
+Focused Character Score: 0.0010
+Details: {'Sophia', 'Miss Sofia'}
 
 
 Title: Untitled_23.txt
-Number of Characters: 5
-Characters: ['Elias', 'Elias Whitmore', 'Whitmore', 'Lee', 'Annabelle Lee']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: Untitled_37.txt
-Number of Characters: 6
-Characters: ['Elias Burke', 'Elias', 'Clara', 'Tolstoy', 'Chekhov', 'Dostoevsky']
+Focused Character Score: 0.0009
+Details: {'Clara', 'Elias'}
 
 
 Title: The_Clockmakers_Legacy_6.txt
-Number of Characters: 9
-Characters: ['Elric', 'Edgar Elric', 'Clara', 'Clara Bennett', 'Jacob Bennett', 'Edgar', 'Gableshire', 'Jacob', 'Miss Bennett']
+Focused Character Score: 0.0014
+Details: {'Jacob', 'Clara', 'Edgar'}
 
 
 Title: The_Sound_of_Silver.txt
-Number of Characters: 4
-Characters: ["Peter Farrell's", 'Harrington', 'Peter Farrell', 'Peter']
+Focused Character Score: 0.0005
+Details: {'Peter'}
 
 
 Title: The_Silvered_Hourglass.txt
-Number of Characters: 6
-Characters: ['Eliot', 'Mirabel', 'Keeper', 'Eliot Cray', 'Cray', 'Blackwood']
+Focused Character Score: 0.0013
+Details: {'Mirabel', 'Cray', 'Keeper'}
 
 
 Title: The_Lighthouse_Keepers_Secret_11.txt
-Number of Characters: 3
-Characters: ['Heartbeats', 'Edgar Roane', 'Edgar']
+Focused Character Score: 0.0005
+Details: {'Edgar'}
 
 
 Title: The_Clockmakers_Paradox_12.txt
-Number of Characters: 7
-Characters: ['Clockmaker', 'Tobias', 'Tinkerton', 'Tobias Tinkerton', 'Elara Dane', 'Grey', 'Elara']
+Focused Character Score: 0.0005
+Details: {'Tobias'}
 
 
 Title: Echoes_of_Winter.txt
-Number of Characters: 7
-Characters: ['Timothy Hargrove', 'Guilt', 'Ashwood Manor', 'Eleanor', 'Hargrove', 'Timothy', 'Ashwood']
+Focused Character Score: 0.0005
+Details: {'Timothy'}
 
 
 Title: The_Lighthouse_Keepers_Secret_5.txt
-Number of Characters: 9
-Characters: ['Jacob’s', 'Harrow', 'Ethan Harrow', 'Ethan', 'Alice Harrow', 'Jacob Finn', 'Alice', 'Finn', 'Jacob']
+Focused Character Score: 0.0009
+Details: {'Jacob', 'Alice'}
 
 
 Title: The_Lighthouse_Keeper_of_Calloway_Rock.txt
-Number of Characters: 3
-Characters: ['Edward Grimes', 'Annabelle Rowe', 'Edward']
+Focused Character Score: 0.0009
+Details: {'Edward', 'Annabelle Rowe'}
 
 
 Title: The_Clockmakers_Paradox_16.txt
-Number of Characters: 8
-Characters: ['Hargrave', 'Aeon', 'Elowen', 'Cray', 'Aldus Hargrave', 'Intrigue', 'Aldus', 'Elowen Cray']
+Focused Character Score: 0.0012
+Details: {'Cray', 'Intrigue', 'Aeon'}
 
 
 Title: The_Clockmaker_of_Sivelin.txt
-Number of Characters: 3
-Characters: ['Sivelin', 'Ardal', 'Elara']
+Focused Character Score: 0.0004
+Details: {'Ardal'}
 
 
 Title: The_Clockmakers_Legacy_2.txt
-Number of Characters: 6
-Characters: ['Eliot', 'Clara', 'Clara Bennett', 'Eliot’s', 'Eliot Grimshaw', 'Miss Bennett']
+Focused Character Score: 0.0015
+Details: {'Eliot', 'Clara', 'Miss Bennett'}
 
 
 Title: The_Clockmakers_Secret_4.txt
-Number of Characters: 4
-Characters: ['Alder', 'Bramble', 'Elias Bramble', 'Elias']
+Focused Character Score: 0.0005
+Details: {'Bramble'}
 
 
 Title: The_Last_Page_2.txt
-Number of Characters: 7
-Characters: ['Barnett', 'Michael', 'Raphael', 'Michael Verity', 'Raphael Barnett', 'Michael’s', 'Thomas']
+Focused Character Score: 0.0005
+Details: {'Michael'}
 
 
 Title: Untitled_33.txt
-Number of Characters: 5
-Characters: ['Horace', 'the Aeon Clock', 'Horace Timely', 'Drawn', 'Timely']
+Focused Character Score: 0.0005
+Details: {'Timely'}
 
 
 Title: The_Lighthouse_Keepers_Diary.txt
-Number of Characters: 6
-Characters: ['Dawn', 'Merlyn', 'Edmund Halley', 'Windswept Point', 'Edmund Halley’s', 'Langley']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_27.txt
-Number of Characters: 2
-Characters: ['Jack', 'Gramps']
+Focused Character Score: 0.0004
+Details: {'Jack'}
 
 
 Title: Whispers_of_the_Past_3.txt
-Number of Characters: 6
-Characters: ['Arthur', 'Drawn', 'Agatha', 'Margaret', 'Agatha Whitmore', 'Whitmore']
+Focused Character Score: 0.0009
+Details: {'Margaret', 'Arthur'}
 
 
 Title: The_Midnight_Librarian.txt
-Number of Characters: 4
-Characters: ['Miranda’s', 'Miranda Hobbes', 'Miranda', 'Greywood']
+Focused Character Score: 0.0004
+Details: {'Miranda'}
 
 
 Title: Whispers_of_the_Past_2.txt
-Number of Characters: 8
-Characters: ['Warwick', 'Eleanor Hastings', 'McCready', 'Eleanor', 'Warwick Manor', 'Millway', 'Jennings', 'Leaving Warwick Manor']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_26.txt
-Number of Characters: 3
-Characters: ['Thomas', 'Thomas Feldman', 'Feldman']
+Focused Character Score: 0.0004
+Details: {'Thomas'}
 
 
 Title: Untitled_32.txt
-Number of Characters: 5
-Characters: ['Hastings', 'London Bridge', 'James’s', 'Mercery Lane', 'James']
+Focused Character Score: 0.0009
+Details: {'Hastings', 'James'}
 
 
 Title: The_Clockmakers_Secret_5.txt
-Number of Characters: 4
-Characters: ['Wren', 'Behold', 'Horatio Wren', 'Eliza']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Legacy_3.txt
-Number of Characters: 9
-Characters: ['Horace Wenthill’s', 'Eleanor Voss', 'Dad', 'Horace', 'Voss', 'Abraham Voss', 'Eleanor', 'Horace Wenthill', 'Wenthill']
+Focused Character Score: 0.0014
+Details: {'Eleanor', 'Wenthill', 'Horace'}
 
 
 Title: The_Lighthouse_Keeper_of_Eldritch_Shores.txt
-Number of Characters: 3
-Characters: ['Silas Marwick', 'Silas', 'Lilith']
+Focused Character Score: 0.0005
+Details: {'Silas'}
 
 
 Title: The_Clockmakers_Paradox_17.txt
-Number of Characters: 8
-Characters: ['Clockmaker', 'Dawn', 'Hart', 'Beddington', 'Silas', 'Tempus Vincit Omnia* - Time', 'Bramley', 'Silas Hart']
+Focused Character Score: 0.0009
+Details: {'Silas', 'Hart'}
 
 
 Title: The_Lighthouse_Keepers_Secret_4.txt
-Number of Characters: 10
-Characters: ['Harold', 'Eliot', 'Eliot Crane', 'Marianne', 'Cape Alder', 'Harold’s', 'Thomas Quell', 'Harold and Thomas', 'Thomas', 'Eastmere']
+Focused Character Score: 0.0009
+Details: {'Marianne', 'Eliot Crane'}
 
 
 Title: The_Lighthouse_Keepers_Diary_4.txt
-Number of Characters: 10
-Characters: ['Thomas Harper', 'Granddad', 'Thorne', 'I’m Abigail', 'Thomas Harper’s', 'Eli Thorne', 'Abigail', 'Margaret', 'Eli', 'Abigail Harper']
+Focused Character Score: 0.0005
+Details: {'Abigail'}
 
 
 Title: The_Last_Bookstore_2.txt
-Number of Characters: 8
-Characters: ['Eleanor Voss', 'Jasper', 'Jasper Quinn', 'Quinn', 'Jasper Quinn’s', 'stark white', 'Eleanor', 'Voss']
+Focused Character Score: 0.0004
+Details: {'Jasper'}
 
 
 Title: The_Lighthouse_Keepers_Secret_6.txt
-Number of Characters: 8
-Characters: ['Lena', 'Tolley', 'Josiah', 'Grandma', 'Mom', 'Grandpa', 'Elsie', 'Josiah Harknell']
+Focused Character Score: 0.0017
+Details: {'Josiah', 'Tolley', 'Lena', 'Mom'}
 
 
 Title: The_Last_Pages_of_Summer.txt
-Number of Characters: 3
-Characters: ['Tommy', 'Eliza Jane', "Eliza Jane's"]
+Focused Character Score: 0.0005
+Details: {'Eliza Jane'}
 
 
 Title: The_Clockmakers_Paradox_15.txt
-Number of Characters: 8
-Characters: ['Elias', 'Bartholomew', 'Pennington', 'Whitomre', 'Eleanor', 'Bartholomew Whitmore', 'Whitmore', 'Miss Eleanor']
+Focused Character Score: 0.0005
+Details: {'Bartholomew'}
 
 
 Title: The_Ledger_of_Lemuel_Pike.txt
-Number of Characters: 10
-Characters: ['Store', 'Marianne', 'Lemuel', 'Lemuel’s', 'Dalton', 'Eleanor', 'Lemuel Pike', 'Lem', 'Thomas', 'Lemuel and Amelia']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Whispers_of_the_Old_Willow_3.txt
-Number of Characters: 4
-Characters: ['Thomas', 'Bonnet', 'Dabble', 'Elder Hammond']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: A_Whisper_of_Wind.txt
-Number of Characters: 4
-Characters: ['Listener', 'Nora', 'Wind Listener', 'Eleonora']
+Focused Character Score: 0.0005
+Details: {'Wind Listener'}
 
 
 Title: The_Clockmakers_Secret_7.txt
-Number of Characters: 8
-Characters: ['Witherspoon', 'Tolley', 'Eliza Hammond', 'Margaret', 'Hammond', 'Francis', 'Eldenbrook', 'Francis Tolley']
+Focused Character Score: 0.0005
+Details: {'Francis'}
 
 
 Title: Untitled_18.txt
-Number of Characters: 2
-Characters: ['Eldridge’s', 'Eldridge Manor']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_24.txt
-Number of Characters: 9
-Characters: ['Name’s Thomas', 'Archer', 'Madeline led Thomas', 'Eversnow', 'Madeline’s', 'Madeline', 'Elara', 'Thomas', 'Frozen Heart']
+Focused Character Score: 0.0014
+Details: {'Thomas', 'Name’s Thomas', 'Madeline'}
 
 
 Title: Untitled_30.txt
-Number of Characters: 4
-Characters: ['Leica', 'Ethan', 'Cedarwood', 'Elias']
+Focused Character Score: 0.0010
+Details: {'Ethan', 'Elias'}
 
 
 Title: The_Mask_of_Camille.txt
-Number of Characters: 6
-Characters: ['Mayor', 'Bellview', 'Camille', 'Alcott', 'Hargrove', 'Miss']
+Focused Character Score: 0.0009
+Details: {'Camille', 'Alcott'}
 
 
 Title: Untitled_31.txt
-Number of Characters: 5
-Characters: ['Harrow', 'Mira', 'Elias Harrow', 'Jon', 'Alder']
+Focused Character Score: 0.0014
+Details: {'Alder', 'Mira', 'Jon'}
 
 
 Title: The_Echoes_of_Yesterday.txt
-Number of Characters: 9
-Characters: ['Devonshire', 'George Bramley', 'Bramley', 'Tom Henshawe', 'Eleanor', 'Wickersham Mill', 'Eleanor Bramley', 'Tom', 'George']
+Focused Character Score: 0.0015
+Details: {'George', 'Tom', 'Bramley'}
 
 
 Title: Untitled_25.txt
-Number of Characters: 6
-Characters: ['Anna', 'Whitaker', 'Lila', 'Pike', 'Jack', 'Harold Whitaker']
+Focused Character Score: 0.0021
+Details: {'Anna', 'Jack', 'Harold Whitaker', 'Lila', 'Pike'}
 
 
 Title: The_Clockmakers_Secret_6.txt
-Number of Characters: 7
-Characters: ['Hawthorne', 'Alexandria', 'Elara Lark', 'Elara', 'Lark', 'Cecil Hawthorne', 'Miss']
+Focused Character Score: 0.0009
+Details: {'Miss', 'Elara Lark'}
 
 
 Title: Untitled_19.txt
-Number of Characters: 3
-Characters: ['Elaine Merrick', 'Elaine', 'Bending']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Paradox.txt
-Number of Characters: 7
-Characters: ['Elsie', 'Eleanor', 'Victor Smith', 'Smith', 'Normalcy', 'Victor', 'Aldermead']
+Focused Character Score: 0.0009
+Details: {'Eleanor', 'Victor'}
 
 
 Title: The_Last_Light_of_Dusk.txt
-Number of Characters: 5
-Characters: ['Eliot', 'Dunberry', 'Eliot’s', 'Lila', 'Rindlewood']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Whispers_of_the_Old_Willow_2.txt
-Number of Characters: 6
-Characters: ['Leora', 'Eamon', 'Merriweather', 'Whisper Willow', 'Leora’s', 'Elsie']
+Focused Character Score: 0.0010
+Details: {'Leora', 'Eamon'}
 
 
 Title: The_Last_Light_of_Fidelis_4.txt
-Number of Characters: 5
-Characters: ['Archeon', 'Sael', 'Vala', 'Fidelis', 'Waking']
+Focused Character Score: 0.0014
+Details: {'Sael', 'Fidelis', 'Vala'}
 
 
 Title: The_Symphony_of_Mr_Bartholomew.txt
-Number of Characters: 8
-Characters: ['Lucy', 'Willowby', 'Bartholomew', 'Rehearsal', 'Higglesworth', 'Pianissimo', 'Daily', 'Maestro Fiorelli']
+Focused Character Score: 0.0005
+Details: {'Bartholomew'}
 
 
 Title: The_Clockmakers_Paradox_14.txt
-Number of Characters: 7
-Characters: ['Chronolier', 'Tobias', 'William', 'Tobias Finch’s', 'William’s', 'William Grey', 'Tobias Finch']
+Focused Character Score: 0.0004
+Details: {'Tobias'}
 
 
 Title: The_Lighthouse_Keepers_Secret_7.txt
-Number of Characters: 8
-Characters: ['Bowen Lighthouse', 'Willowmere', 'Eliott Rowe', 'Jonah Pierce', 'Eliott’s', 'Mariner', 'Eliott', 'Jonah']
+Focused Character Score: 0.0009
+Details: {'Eliott', 'Jonah'}
 
 
 Title: The_Echoes_of_Amissville.txt
-Number of Characters: 6
-Characters: ['Cole Hartnett', 'Deputy Sheriff', 'Mia', 'Amissville', 'Gateway', 'Amelia Wren']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Lightkeeper_6.txt
-Number of Characters: 6
-Characters: ['Tomás', 'Collins', 'Edward Collins', 'Edward', 'Brenner', 'Tomás Brenner']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Whispers_of_the_Past.txt
-Number of Characters: 5
-Characters: ['Edward Merrick', 'Cecelia', 'Ainsworth', "Hemsby Herald'", 'Edward']
+Focused Character Score: 0.0009
+Details: {'Edward', "Hemsby Herald'"}
 
 
 Title: The_Forgotten_Melody_5.txt
-Number of Characters: 5
-Characters: ['To Ezra', 'Chopin', 'Ezra', 'Ezra Hamilton', 'Noah']
+Focused Character Score: 0.0013
+Details: {'Noah', 'Ezra', 'Chopin'}
 
 
 Title: The_Clockmaker_of_Vernazza.txt
-Number of Characters: 9
-Characters: ['Signor', 'Isabella Romano', 'Signor Vercelli', 'Emilio', 'La Festa di San Giovanni', 'Liguria', 'Signora', 'Emilio Vercelli', 'Isabella']
+Focused Character Score: 0.0005
+Details: {'Signor Vercelli'}
 
 
 Title: The_Clockmakers_Paradox_2.txt
-Number of Characters: 7
-Characters: ['Godfrey', 'Hargrave', 'Marrow', 'Owen Godfrey', 'Elspeth Marrow', 'Owen', 'Eldhurst']
+Focused Character Score: 0.0004
+Details: {'Owen'}
 
 
 Title: The_Clockmakers_Secret_11.txt
-Number of Characters: 7
-Characters: ['Van Meer’s', 'Jonathan', 'Jonathan Avery', 'Jonathan’s', 'Eliza Wren', 'Eldridge Falls', 'Van Meer']
+Focused Character Score: 0.0010
+Details: {'Jonathan’s', 'Jonathan'}
 
 
 Title: The_Midnight_Library.txt
-Number of Characters: 2
-Characters: ['Arthur', 'Elbridge']
+Focused Character Score: 0.0005
+Details: {'Arthur'}
 
 
 Title: The_Echoes_of_Jupiter.txt
-Number of Characters: 7
-Characters: ['Mikhail Levin', 'Levin', 'Hartley', 'James Hartley', 'Anna', 'Anna Levin', 'Morse']
+Focused Character Score: 0.0008
+Details: {'Hartley', 'Anna'}
 
 
 Title: Untitled_42.txt
-Number of Characters: 9
-Characters: ['Harold', 'Harold Mattheson', "Cousin Archibald's", 'Archibald', 'Cousin Archibald', 'Judith', 'Mattheson', 'Eleanor', 'mug']
+Focused Character Score: 0.0013
+Details: {'Eleanor', "Cousin Archibald's", 'Judith'}
 
 
 Title: Untitled_56.txt
-Number of Characters: 7
-Characters: ['Beauchamp', 'Julian', 'Julian Carter', 'Maple Drive', 'Carter', 'Felicity Beauchamp', 'Rosewood']
+Focused Character Score: 0.0005
+Details: {'Julian'}
 
 
 Title: The_Clockmakers_Promise_3.txt
-Number of Characters: 4
-Characters: ['Eleanor', 'Horologe', 'William', 'Blackwood']
+Focused Character Score: 0.0013
+Details: {'Blackwood', 'William', 'Horologe'}
 
 
 Title: The_Clockmakers_Gift.txt
-Number of Characters: 6
-Characters: ['Crowell', 'Tobias', 'Finch', 'Elara', 'Tobias Finch', 'Miss']
+Focused Character Score: 0.0015
+Details: {'Finch', 'Tobias', 'Crowell'}
 
 
 Title: The_Lighthouse_Keeper_of_Eldritch_Cove.txt
-Number of Characters: 4
-Characters: ['Moira', 'Silas Trewin', 'Elowen', 'Silas']
+Focused Character Score: 0.0005
+Details: {'Elowen'}
 
 
 Title: The_Clockmakers_Promise_2.txt
-Number of Characters: 4
-Characters: ['Elara’s', 'Tobias', 'Tobias Hartwell', 'Elara']
+Focused Character Score: 0.0010
+Details: {'Elara', 'Tobias'}
 
 
 Title: Untitled_43.txt
-Number of Characters: 11
-Characters: ['Lucas', 'Harold Wheatley', 'Harroway', 'Lucas Grant', 'Anna', 'Thomas Bell', 'Bell', 'Clarke', 'Anna Wheatley', 'Matthews', 'Grandpa']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Secret_10.txt
-Number of Characters: 6
-Characters: ['Clockmaker', 'the Aeon Keeper', 'Edgar’s', 'Wilde', 'Edgar', 'Edgar Wilde']
+Focused Character Score: 0.0005
+Details: {'Edgar'}
 
 
 Title: The_Clockmakers_Paradox_3.txt
-Number of Characters: 5
-Characters: ['Clockmaker', 'Julian', 'Elias', 'Cray', 'Elias Cray']
+Focused Character Score: 0.0012
+Details: {'Julian', 'Cray', 'Elias'}
 
 
 Title: The_Forgotten_Melody_4.txt
-Number of Characters: 6
-Characters: ['Olliver Bartholomew', 'Emeric Faelan', 'Bartholomew', 'Orpheus', 'Eliza', 'Melody']
+Focused Character Score: 0.0010
+Details: {'Bartholomew', 'Orpheus'}
 
 
 Title: The_Last_Lightkeeper_5.txt
-Number of Characters: 3
-Characters: ['Elias Crane', 'Mirabel', 'Elias']
+Focused Character Score: 0.0008
+Details: {'Mirabel', 'Elias'}
 
 
 Title: The_Vanishing_Point.txt
-Number of Characters: 5
-Characters: ['Eliza Harrow', 'Katherine’s', 'Katherine', 'Witherly', 'Katherine Witherly']
+Focused Character Score: 0.0009
+Details: {'Katherine Witherly', 'Witherly'}
 
 
 Title: The_Lockbox.txt
-Number of Characters: 7
-Characters: ['Marianne', 'Gallant', 'Meadowview', 'Edgar’s', 'Edgar', 'Elsie', 'Edgar Crowley']
+Focused Character Score: 0.0005
+Details: {'Meadowview'}
 
 
 Title: The_Clockmakers_Apprentice_8.txt
-Number of Characters: 3
-Characters: ['Sullivan', 'Edmund Sullivan', 'Sullivan’s Timepieces']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Secret_12.txt
-Number of Characters: 4
-Characters: ["Monsieur Broussard's", 'Monsieur Broussard', 'Monsieur Broussard’s', 'Monsieur Henri Broussard']
+Focused Character Score: 0.0006
+Details: {'Monsieur Broussard'}
 
 
 Title: Untitled_55.txt
-Number of Characters: 10
-Characters: ['Tabitha', 'Crumb', 'Elizabeth Morrow', 'Harper', 'Beckett', 'Stillwater', 'Elizabeth', "Elizabeth Morrow's", 'Harper Cole', 'Tabitha Mallory']
+Focused Character Score: 0.0005
+Details: {'Beckett'}
 
 
 Title: Untitled_41.txt
-Number of Characters: 4
-Characters: ['Arthur', 'Doyle', 'Eli', 'Arthur Doyle']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Whispers_at_Dusk.txt
-Number of Characters: 3
-Characters: ['Hammond', 'Whispering Willows', 'Nathan']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Echo_of_Driftwood.txt
-Number of Characters: 4
-Characters: ['Driftwood Throne', 'Eliot', 'Miriam', 'The Driftwood Throne']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Whispering_Gallery_2.txt
-Number of Characters: 6
-Characters: ['Edward Mallory', 'Libris', 'Edward', 'Martin', 'Galleria Libris', 'Martin Reed']
+Focused Character Score: 0.0009
+Details: {'Edward', 'Martin'}
 
 
 Title: Echoes_of_the_Creek.txt
-Number of Characters: 14
-Characters: ['Joel Hammond', 'Willow Creek', 'Margaret McCready', 'Joel’s', 'McCready', 'Irene', 'Martha', 'Willow Creek’s', 'Margaret', 'Maggie', 'Hammond', 'Greene', 'Joel', 'Delaney']
+Focused Character Score: 0.0019
+Details: {'Maggie', 'Margaret', 'Irene', 'Greene'}
 
 
 Title: The_Whispering_Woods.txt
-Number of Characters: 3
-Characters: ['Mila', 'Barney', 'Old Man Cravitt']
+Focused Character Score: 0.0010
+Details: {'Mila', 'Old Man Cravitt'}
 
 
 Title: The_Echoes_of_Larkspur_Lane.txt
-Number of Characters: 6
-Characters: ['Josephine', 'Mayfair', 'Larkspur Lane', 'Wrenwright', 'Eleanor', 'Eleanor Briggs']
+Focused Character Score: 0.0005
+Details: {'Eleanor'}
 
 
 Title: The_Whispering_Gallery_3.txt
-Number of Characters: 9
-Characters: ['Miss Castillo', 'Keeper', 'Herrero', 'Madrigal', 'Jonathan Ashbel', 'su camino', 'Lucas Herrero', 'Ormun', 'Elena Castillo']
+Focused Character Score: 0.0004
+Details: {'su camino'}
 
 
 Title: The_Mapmakers_Paradox.txt
-Number of Characters: 5
-Characters: ['Thorne', 'Elias', 'Goria', 'Elias Thorne', 'Timmy Wicket']
+Focused Character Score: 0.0005
+Details: {'Elias'}
 
 
 Title: Whispers_in_Willowmere.txt
-Number of Characters: 6
-Characters: ['Willowmere', 'Keeper', 'Grandma', 'Joe', 'Keepers', 'Ellie']
+Focused Character Score: 0.0005
+Details: {'Joe'}
 
 
 Title: Untitled_40.txt
-Number of Characters: 2
-Characters: ['Eleanor', 'Whitlock']
+Focused Character Score: 0.0005
+Details: {'Whitlock'}
 
 
 Title: Untitled_54.txt
-Number of Characters: 8
-Characters: ['Laura', 'Grandpa Thomas', 'Margot Crane', 'Crane', 'Grandma', 'Grandpa', 'Thomas', 'Laura’s']
+Focused Character Score: 0.0005
+Details: {'Laura'}
 
 
 Title: The_Clockmakers_Secret_13.txt
-Number of Characters: 5
-Characters: ['Elias', 'Clara', 'Elias Dunkirk', 'Dunkirk', 'Whimper Alley']
+Focused Character Score: 0.0010
+Details: {'Clara', 'Elias'}
 
 
 Title: The_Clockmakers_Apprentice_9.txt
-Number of Characters: 5
-Characters: ['Samuel', 'Thorne', 'Lucius Thorne', 'Thorne’s', 'Elderton']
+Focused Character Score: 0.0014
+Details: {'Thorne', 'Samuel', 'Thorne’s'}
 
 
 Title: The_Lightkeepers_Secret.txt
-Number of Characters: 6
-Characters: ['Elias Crane', 'Elias', 'Wickley', 'Crane', 'Mara Winslow', 'Mara']
+Focused Character Score: 0.0010
+Details: {'Elias', 'Mara'}
 
 
 Title: The_Echo_of_the_Lighthouse.txt
-Number of Characters: 3
-Characters: ['Alex’s', 'Sympathy', 'Alex']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Lightkeeper_4.txt
-Number of Characters: 3
-Characters: ['Morwen’s Keep', 'Overwhelmed', 'Elara']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: A_Thread_in_Time.txt
-Number of Characters: 7
-Characters: ['Ruben Thatcher', 'Chilton Lane', 'Louis XV', 'Thatcher', 'Surprised', 'Elara', 'Ruban']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Mysterious_Island_of_Dr_Floros.txt
-Number of Characters: 6
-Characters: ['William', 'William St. John', 'Alaric Floros', 'Floros', 'William’s', 'Mariah Quell']
+Focused Character Score: 0.0018
+Details: {'Mariah Quell', 'William', 'Floros', 'William St. John'}
 
 
 Title: The_Forgotten_Melody_3.txt
-Number of Characters: 4
-Characters: ['Geneviève', 'Clearer', 'Lucette', 'Rue Cortot']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Secret_17.txt
-Number of Characters: 7
-Characters: ['Cyrus', 'George Bennett', 'I’m Eliza', 'Cyrus Thornfield’s', 'Cyrus Thornfield', 'Thornfield', 'George’s']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Paradox_4.txt
-Number of Characters: 8
-Characters: ['Miss Beckett', 'Elias Bramwell', 'Elias', 'Clara', 'Bramwell', 'Beckett', 'Glimmerbrook', 'Clara Beckett']
+Focused Character Score: 0.0017
+Details: {'Elias Bramwell', 'Beckett', 'Clara', 'Elias'}
 
 
 Title: The_Lighthouse_Keeper_of_Grimsby_Point.txt
-Number of Characters: 6
-Characters: ['Cassandra', 'Henry', 'Old Man Henley', 'Grimsby Point', 'Henry’s', 'Aylesworth']
+Focused Character Score: 0.0005
+Details: {'Henry'}
 
 
 Title: Untitled_50.txt
-Number of Characters: 6
-Characters: ['Meirwood', 'Horrid', 'Elsie Carmichael', 'Margaret', 'Thomas', 'Elsie']
+Focused Character Score: 0.0004
+Details: {'Elsie'}
 
 
 Title: Untitled_44.txt
-Number of Characters: 5
-Characters: ['Ethan Miller', 'Miller', 'Ethan', 'Willowbrook', 'Wayfarer']
+Focused Character Score: 0.0004
+Details: {'Ethan'}
 
 
 Title: The_Clockmaker_of_Middlesbrooke.txt
-Number of Characters: 11
-Characters: ['Elias', 'Jonathan', 'Sarah Pettigrew', 'Bramble', 'Jonathan’s', 'Elias Bramble', 'Jonathan Harker', 'Marielle', 'I."', 'Thomas', 'Mark']
+Focused Character Score: 0.0013
+Details: {'Jonathan', 'Bramble', 'Elias'}
 
 
 Title: Echoes_of_the_Past.txt
-Number of Characters: 10
-Characters: ['Uncle Gerald', 'Donovan', 'James knelt', 'Eleanor', 'Eleanor Donovan', 'Intrigue', 'Thomas W. Hargrave', 'James Donovan', 'Thomas', 'James']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_45.txt
-Number of Characters: 8
-Characters: ['Victor Holloway', 'Bellwether’s', 'Intrigue', 'Blackwood', 'Victor', 'Bellwether', 'Nathaniel Blackwood', 'Holloway']
+Focused Character Score: 0.0008
+Details: {'Blackwood', 'Victor'}
 
 
 Title: Untitled_51.txt
-Number of Characters: 8
-Characters: ['Jonah Keller', 'Agatha Wren', 'Linda', 'Wren', 'Hawthorne', 'Jonah', 'Keller', 'Tom']
+Focused Character Score: 0.0015
+Details: {'Jonah', 'Linda', 'Hawthorne'}
 
 
 Title: The_Lighthouse_Keeper_of_Evershore.txt
-Number of Characters: 5
-Characters: ['Elias Crane', 'Morningstar', 'Blackthorn', 'Elias', 'Crane']
+Focused Character Score: 0.0015
+Details: {'Crane', 'Blackthorn', 'Elias'}
 
 
 Title: Echoes_of_the_Lost_Star.txt
-Number of Characters: 4
-Characters: ['Daisy Bell', 'Helen Bell', 'Daisy', 'Emmeline Carter']
+Focused Character Score: 0.0005
+Details: {'Daisy'}
 
 
 Title: The_Forgotten_Map.txt
-Number of Characters: 5
-Characters: ['Jacob’s', 'Jacob Reed', 'Mira', 'Gilbert’s Antiquarian Maps', 'Jacob']
+Focused Character Score: 0.0009
+Details: {'Jacob', 'Mira'}
 
 
 Title: The_Clockmakers_Paradox_5.txt
-Number of Characters: 5
-Characters: ['Blackhead', 'archaic symbols', 'Tobias', 'Tobias Gray', 'Blackwood']
+Focused Character Score: 0.0006
+Details: {'Tobias'}
 
 
 Title: The_Clockmakers_Secret_16.txt
-Number of Characters: 9
-Characters: ['Clockmaker', 'Hart', 'Tobias Hart’s', 'Tobias Hart', 'Martha', 'Pindle', 'fluid motion', 'Martha Pindle', 'Elderton']
+Focused Character Score: 0.0020
+Details: {'Elderton', 'Pindle', 'Hart', 'Clockmaker'}
 
 
 Title: The_Ivory_Tower.txt
-Number of Characters: 10
-Characters: ['Harold', 'Harold Eldridge’s', 'Nora Grayson', 'Jack Sullivan', 'Nora', 'Westwood', 'Eldridge', 'Tower', 'Jack', 'Harold Eldridge']
+Focused Character Score: 0.0004
+Details: {'Jack'}
 
 
 Title: Whispers_of_the_Forgotten_Orchard.txt
-Number of Characters: 7
-Characters: ['Eliot', 'Jonathan', 'hidden pond', 'Jonathan’s', 'Mabel', 'Eliot Carter', 'Jonathan W.']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_8.txt
-Number of Characters: 3
-Characters: ['Bram', 'Mira', 'Elara']
+Focused Character Score: 0.0009
+Details: {'Mira', 'Bram'}
 
 
 Title: The_Watcher_of_Westbrook_Avenue.txt
-Number of Characters: 15
-Characters: ['Eleanor’s Victorian', 'Rigby', 'Watcher', 'Sam’s', 'Sam Whitaker', 'Lillian Daley’s', 'Sam', 'Eleanor', 'Whitaker', 'Lillian', 'Eleanor Rigby', 'Daley', 'Earl Grey', 'Eleanor Rigby’s', 'George']
+Focused Character Score: 0.0009
+Details: {'Watcher', 'Sam'}
 
 
 Title: Whispering_Winds.txt
-Number of Characters: 5
-Characters: ['Dawn', 'Willowmere', 'Eldritch Glen', 'Cora', 'Bram']
+Focused Character Score: 0.0005
+Details: {'Cora'}
 
 
 Title: The_Last_Lightkeeper_3.txt
-Number of Characters: 3
-Characters: ['Clara', 'Elias Bram', 'Elias']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Clockmakers_Secret_14.txt
-Number of Characters: 10
-Characters: ['Dray', 'Thorne', 'Bentwick', 'Archibald Thorne', 'Viktor', 'Clara', 'Emilian Voss', 'Viktor Dray', 'Clara Bentwick', 'Voss']
+Focused Character Score: 0.0011
+Details: {'Clara', 'Thorne'}
 
 
 Title: The_Clockmakers_Paradox_7.txt
-Number of Characters: 5
-Characters: ['Old Valethorne', 'Cobblestone Lane', 'Daniel’s', 'Valethorne', 'Daniel']
+Focused Character Score: 0.0005
+Details: {'Valethorne'}
 
 
 Title: The_Lighthouse_Keeper_of_Morwen_Bay.txt
-Number of Characters: 4
-Characters: ['Thomas', 'Morwen Bay', 'Thomas Gale', 'Morwen']
+Focused Character Score: 0.0005
+Details: {'Thomas'}
 
 
 Title: The_Lighthouse_Keeper_of_Eventide.txt
-Number of Characters: 7
-Characters: ['Old Sammy', 'Samuel', 'Thomas Gregory', 'Mariner', 'Elara Westcott', 'Samuel’s', 'Elara']
+Focused Character Score: 0.0009
+Details: {'Elara', 'Samuel'}
 
 
 Title: Untitled_47.txt
-Number of Characters: 11
-Characters: ['Midnight Orchid', 'Willow Creek', 'Meredith Wyncham', 'Eleanor’s', 'Meriel', 'Eleanor', 'the Midnight Orchid', 'the Midnight Orchid’s', 'The Midnight Orchid', 'Old Thomas', 'Eleanor Rigby']
+Focused Character Score: 0.0014
+Details: {'Eleanor', 'Meriel', 'Meredith Wyncham'}
 
 
 Title: Untitled_53.txt
-Number of Characters: 6
-Characters: ['Thomas Blake', 'Harper’s Café', 'café', 'Emily Harper', 'Thomas', 'Larkspur']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Lightkeeper.txt
-Number of Characters: 6
-Characters: ['Dawn', 'Rose', 'Lila Ward', 'Eleanor Rose', 'Eleanor', 'Lila']
+Focused Character Score: 0.0013
+Details: {'Lila Ward', 'Lila', 'Eleanor'}
 
 
 Title: The_Whispering_Wood.txt
-Number of Characters: 2
-Characters: ['Eliza Warwick', 'Hesitant']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_52.txt
-Number of Characters: 0
-Characters: []
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Untitled_46.txt
-Number of Characters: 7
-Characters: ['Miller’s Grocery', 'Charlie', 'Penumbra', 'Horace', 'Master Charles', 'Horace Penumbra', 'Cedric']
+Focused Character Score: 0.0018
+Details: {'Charlie', 'Cedric', 'Master Charles', 'Horace'}
 
 
 Title: Whispering_Shadows.txt
-Number of Characters: 2
-Characters: ['Lila', 'Glimpses']
+Focused Character Score: 0.0004
+Details: {'Lila'}
 
 
 Title: The_Clockmakers_Paradox_6.txt
-Number of Characters: 8
-Characters: ['Clockmaker', 'Eldwich', 'Thaddeus Wren', 'Alexander Calloway', 'Gran', 'Milo', 'Thad', 'Langley']
+Focused Character Score: 0.0014
+Details: {'Thad', 'Milo', 'Gran'}
 
 
 Title: The_Clockmakers_Secret_15.txt
-Number of Characters: 3
-Characters: ['Elias Cromwell', 'Abigail', 'Elias']
+Focused Character Score: 0.0009
+Details: {'Abigail', 'Elias'}
 
 
 Title: The_Last_Bookstore.txt
-Number of Characters: 7
-Characters: ['Cassandra', 'Elias', 'OmniTech Enterprises', 'Elias Finch', 'Finch', 'Thompson', 'glass tablet']
+Focused Character Score: 0.0010
+Details: {'Cassandra', 'Elias'}
 
 
 Title: A_Murmuration_of_Memories.txt
-Number of Characters: 9
-Characters: ['Lucy', 'Henderson', 'Dad', 'Edgewater', 'Maple Drive', 'Nora', 'Thompson', 'Cedar Inn', 'Lucy’s']
+Focused Character Score: 0.0017
+Details: {'Dad', 'Nora', 'Lucy', 'Henderson'}
 
 
 Title: The_Lighthouse_Keeper_of_Merrow_Down.txt
-Number of Characters: 7
-Characters: ['Elias Bramwell', 'Elias', 'Vera', 'Merrow Down’s', 'Bramwell', 'Merrow Down', 'Tom']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: Echoes_of_the_Lighthouse.txt
-Number of Characters: 6
-Characters: ['Keeper Alistair', 'Harborton', 'Frozen', 'Keeper James Alistair', 'Grace Darling', 'Grace']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Light_of_Eridanus.txt
-Number of Characters: 4
-Characters: ['Eridanus', 'Bartley', 'frothy gray', 'Elara']
+Focused Character Score: 0.0000
+Details: set()
 
 
 Title: The_Last_Lightkeeper_2.txt
-Number of Characters: 8
-Characters: ['Samuel', 'Alec’s', 'Alec', 'Corwin', 'Michael', 'Gripping', 'Monihan', 'Haelstorm']
+Focused Character Score: 0.0009
+Details: {'Samuel', 'Monihan'}
 
 
 Title: The_Forgotten_Melody_1.txt
-Number of Characters: 5
-Characters: ['Harold', 'bush', 'Harold’s', 'Forgotten Melody', 'Ellie']
+Focused Character Score: 0.0009
+Details: {'Harold’s', 'Harold'}
 
 
 Title: Untitled_9.txt
-Number of Characters: 5
-Characters: ['Zora', 'Miles', 'Madame Zora', 'Holland', 'Miles Holland']
+Focused Character Score: 0.0009
+Details: {'Miles', 'Zora'}
 
 
 Title: The_Glassmakers_Apprentice.txt
-Number of Characters: 3
-Characters: ['Joren', 'Danvers', 'Glass']
+Focused Character Score: 0.0005
+Details: {'Joren'}
 
 
 Title: The_Echoes_of_Willowbrook.txt
-Number of Characters: 10
-Characters: ['Tabitha', 'Thistle', 'Eleanor’s', 'Charlotte Dunn', 'Eleanor', 'Willowbrook Library', 'Cornelius Rigby', 'Aunt Tabitha', 'Willowbrook', 'Eleanor Rigby']
+Focused Character Score: 0.0013
+Details: {'Thistle', 'Eleanor', 'Tabitha'}

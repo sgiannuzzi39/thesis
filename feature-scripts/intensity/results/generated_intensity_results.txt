@@ -1,102 +1,902 @@
 ### Sentiment Analysis Results for Each File ###
 
-Title: the_heart_of_the_woods.txt
-High positive sentiment: 6
-High negative sentiment: 0
+Title: The_Lighthouse_Keeper_of_Eldrige_Rock.txt
+Normalized absolute sentiment: 0.16206463990554898
 
-Title: the_last_starlight.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: Untitled_4.txt
+Normalized absolute sentiment: 0.11886867299367301
 
-Title: the_last_symphony.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: The_Echoes_of_Willoughby_Street.txt
+Normalized absolute sentiment: 0.12888439037535418
 
-Title: the_lighthouse_keeper's_gift.txt
-High positive sentiment: 6
-High negative sentiment: 0
+Title: The_Clockmaker_of_Vermilion_Street.txt
+Normalized absolute sentiment: 0.16643947500689069
 
-Title: the_whispering_violin.txt
-High positive sentiment: 8
-High negative sentiment: 0
+Title: The_Last_Watchmaker_of_Fillory_Street.txt
+Normalized absolute sentiment: 0.10244781858129312
 
-Title: the_painter_and_the_mysterious_portrait.txt
-High positive sentiment: 6
-High negative sentiment: 1
+Title: The_Lighthouse_Keeper_of_Merrows_Point.txt
+Normalized absolute sentiment: 0.1620771021907386
 
-Title: the_clockmaker's_secret.txt
-High positive sentiment: 6
-High negative sentiment: 0
+Title: The_Clockmakers_Secret_18.txt
+Normalized absolute sentiment: 0.1402211617405583
 
-Title: the_forgotten_melody.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: The_Clockmakers_Apprentice_2.txt
+Normalized absolute sentiment: 0.12232431919931917
 
-Title: the_lighthouse_keeper's_secret.txt
-High positive sentiment: 7
-High negative sentiment: 0
+Title: The_Lighthouse_Keepers_Radiance.txt
+Normalized absolute sentiment: 0.13875370661084946
 
-Title: the_symphony_of_life.txt
-High positive sentiment: 11
-High negative sentiment: 0
+Title: The_Clockmakers_Heart_2.txt
+Normalized absolute sentiment: 0.1766540916469893
 
-Title: the_last_symphony_2.txt
-High positive sentiment: 4
-High negative sentiment: 1
+Title: Echoes_of_Time.txt
+Normalized absolute sentiment: 0.15562654248824462
 
-Title: the_magic_of_the_forgotten_forest.txt
-High positive sentiment: 7
-High negative sentiment: 2
+Title: Adrift_in_the_Clouds.txt
+Normalized absolute sentiment: 0.10960401296668902
 
-Title: the_song_of_the_wind.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: Echoes_of_the_Forgotten.txt
+Normalized absolute sentiment: 0.14834617956569174
 
-Title: the_enchanted_library.txt
-High positive sentiment: 7
-High negative sentiment: 0
+Title: The_Last_Sorrows_of_Autumn.txt
+Normalized absolute sentiment: 0.13240416065416064
 
-Title: the_unseen_melody.txt
-High positive sentiment: 5
-High negative sentiment: 1
+Title: The_Last_Bookbinder_of_Cornish_Cove.txt
+Normalized absolute sentiment: 0.14481977358266018
 
-Title: the_unseen_masterpiece.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: The_Clockmakers_Apprentice_12.txt
+Normalized absolute sentiment: 0.1672493701184177
 
-Title: the_unseen_guardian_2.txt
-High positive sentiment: 5
-High negative sentiment: 1
+Title: Echoes_of_the_Silent_City.txt
+Normalized absolute sentiment: 0.10378546494355323
 
-Title: the_forgotten_diary.txt
-High positive sentiment: 14
-High negative sentiment: 0
+Title: The_Clockmakers_Apprentice_3.txt
+Normalized absolute sentiment: 0.11962955650455648
 
-Title: the_lost_melody.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: The_Clockmaker_of_Via_del_Corso.txt
+Normalized absolute sentiment: 0.13826176303854876
 
-Title: the_magic_quill.txt
-High positive sentiment: 9
-High negative sentiment: 1
+Title: Whispers_of_the_Forgotten_Library.txt
+Normalized absolute sentiment: 0.14854577521244183
 
-Title: the_enchanted_canvas.txt
-High positive sentiment: 3
-High negative sentiment: 0
+Title: The_Last_Lightkeeper_of_Eldoria.txt
+Normalized absolute sentiment: 0.17078400376153186
 
-Title: the_last_dance_of_the_fireflies.txt
-High positive sentiment: 2
-High negative sentiment: 2
+Title: Untitled_5.txt
+Normalized absolute sentiment: 0.13890570511664263
 
-Title: the_colors_of_time.txt
-High positive sentiment: 4
-High negative sentiment: 0
+Title: Echoes_of_Selene.txt
+Normalized absolute sentiment: 0.13437249234505336
 
-Title: the_forgotten_melody_2.txt
-High positive sentiment: 4
-High negative sentiment: 2
+Title: The_Secret_of_Eldridge_Manor.txt
+Normalized absolute sentiment: 0.14226913191559656
 
-Title: the_time_capsule.txt
-High positive sentiment: 2
-High negative sentiment: 0
+Title: Untitled_7.txt
+Normalized absolute sentiment: 0.1251560683114081
+
+Title: The_Last_Garden_4.txt
+Normalized absolute sentiment: 0.10902851263962375
+
+Title: The_Vanishing_Act.txt
+Normalized absolute sentiment: 0.12751475087412587
+
+Title: The_Clockmakers_Paradox_8.txt
+Normalized absolute sentiment: 0.13942851130351128
+
+Title: The_Lighthouse_Keeper_of_Eldwen.txt
+Normalized absolute sentiment: 0.14442330469432235
+
+Title: The_Clockmakers_Promise.txt
+Normalized absolute sentiment: 0.11362704918032784
+
+Title: The_Last_Symphony_45.txt
+Normalized absolute sentiment: 0.13112299663299665
+
+Title: The_Clockmakers_Apprentice_10.txt
+Normalized absolute sentiment: 0.1607236842105263
+
+Title: Untitled_48.txt
+Normalized absolute sentiment: 0.1417870627215287
+
+Title: The_Paradox_Clock.txt
+Normalized absolute sentiment: 0.11426980847435395
+
+Title: The_Lighthouse_Keeper_of_Corwyn_Point.txt
+Normalized absolute sentiment: 0.13811851851851853
+
+Title: Echoes_of_Starlight.txt
+Normalized absolute sentiment: 0.15088106622430386
+
+Title: Untitled_49.txt
+Normalized absolute sentiment: 0.23171093285799174
+
+Title: The_Timekeepers_Paradox.txt
+Normalized absolute sentiment: 0.11552591804746974
+
+Title: The_Clockmakers_Apprentice_11.txt
+Normalized absolute sentiment: 0.15334698234182775
+
+Title: The_Clockmakers_Paradox_9.txt
+Normalized absolute sentiment: 0.1502968385780886
+
+Title: Untitled_6.txt
+Normalized absolute sentiment: 0.10031618698761555
+
+Title: The_Midnight_Hour.txt
+Normalized absolute sentiment: 0.1435929753667849
+
+Title: Untitled_2.txt
+Normalized absolute sentiment: 0.17247280622765118
+
+Title: The_Smithfield_Heirloom.txt
+Normalized absolute sentiment: 0.12007361398665746
+
+Title: The_Shadow_Collector.txt
+Normalized absolute sentiment: 0.13193736897274636
+
+Title: The_Clockmakers_Apprentice_4.txt
+Normalized absolute sentiment: 0.08439976626036534
+
+Title: The_Clockmakers_Heart.txt
+Normalized absolute sentiment: 0.13981635648302318
+
+Title: The_Last_Lantern.txt
+Normalized absolute sentiment: 0.18890825161233332
+
+Title: The_Lighthouse_Keepers_Secret.txt
+Normalized absolute sentiment: 0.10174647266313935
+
+Title: The_Last_Garden.txt
+Normalized absolute sentiment: 0.14648173328728886
+
+Title: The_Fiddler_in_the_Forest.txt
+Normalized absolute sentiment: 0.1504238816738817
+
+Title: The_Lighthouse_Keeper_of_Morwens_Cove.txt
+Normalized absolute sentiment: 0.15048126614987076
+
+Title: The_Clockmakers_Apprentice_5.txt
+Normalized absolute sentiment: 0.13678437130539933
+
+Title: Shards_of_the_Old_World.txt
+Normalized absolute sentiment: 0.13494369781683216
+
+Title: A_Whisper_Down_Dellridge_Lane.txt
+Normalized absolute sentiment: 0.1214407612063862
+
+Title: Untitled_3.txt
+Normalized absolute sentiment: 0.17493245628326273
+
+Title: The_Last_Garden_2.txt
+Normalized absolute sentiment: 0.16420651830808078
+
+Title: The_Clockmakers_Apprentice_7.txt
+Normalized absolute sentiment: 0.13428580981151073
+
+Title: The_Last_Page.txt
+Normalized absolute sentiment: 0.13599142920571491
+
+Title: The_Lighthouse_Keeper_2.txt
+Normalized absolute sentiment: 0.1351919150924833
+
+Title: The_Echoing_Green.txt
+Normalized absolute sentiment: 0.13044483056080994
+
+Title: Echoes_of_Jupiter.txt
+Normalized absolute sentiment: 0.1386708915519891
+
+Title: The_Lighthouse_Keeper_3.txt
+Normalized absolute sentiment: 0.1396584074361852
+
+Title: Whispers_of_the_Old_Willow.txt
+Normalized absolute sentiment: 0.14366123419064597
+
+Title: Echoes_of_the_Past_2.txt
+Normalized absolute sentiment: 0.10435101222420642
+
+Title: The_Clockmakers_Apprentice_6.txt
+Normalized absolute sentiment: 0.09720654709827936
+
+Title: The_Clockmaker_of_Mirewood.txt
+Normalized absolute sentiment: 0.13487548204237768
+
+Title: A_Moonlit_Sonata.txt
+Normalized absolute sentiment: 0.1441433696106593
+
+Title: The_Last_Garden_3.txt
+Normalized absolute sentiment: 0.13849230816972752
+
+Title: The_Weeping_Timekeeper.txt
+Normalized absolute sentiment: 0.14249165254019627
+
+Title: The_Ascent.txt
+Normalized absolute sentiment: 0.13149851691518355
+
+Title: The_Clockmakers_Paradox_19.txt
+Normalized absolute sentiment: 0.12497716321377038
+
+Title: The_Clockmaker_of_Tirsol.txt
+Normalized absolute sentiment: 0.1509605432129017
+
+Title: Among_the_Shadows_of_Winter.txt
+Normalized absolute sentiment: 0.14446822658456324
+
+Title: The_Curious_Case_of_Caelum_Mellor.txt
+Normalized absolute sentiment: 0.12334425354737856
+
+Title: Untitled_14.txt
+Normalized absolute sentiment: 0.16555892255892257
+
+Title: The_Curators_Clock.txt
+Normalized absolute sentiment: 0.11743614718614717
+
+Title: Untitled_28.txt
+Normalized absolute sentiment: 0.13616469168312484
+
+Title: Whispers_in_the_Willow.txt
+Normalized absolute sentiment: 0.14260206228956226
+
+Title: The_Last_Garden_of_Mars_3.txt
+Normalized absolute sentiment: 0.12818731785643553
+
+Title: The_Clockmaker_of_Solitude.txt
+Normalized absolute sentiment: 0.15195634226884225
+
+Title: Echoes_of_the_Fallen_Star.txt
+Normalized absolute sentiment: 0.1629390617633192
+
+Title: The_Unseen_Library.txt
+Normalized absolute sentiment: 0.12276851476070226
+
+Title: Untitled_29.txt
+Normalized absolute sentiment: 0.13337384259259258
+
+Title: Whispers_of_the_Old_Lore.txt
+Normalized absolute sentiment: 0.13347197726827356
+
+Title: Untitled_15.txt
+Normalized absolute sentiment: 0.13146521407885042
+
+Title: The_Echoes_of_Redstone_Manor.txt
+Normalized absolute sentiment: 0.15261447811447812
+
+Title: The_Clockmakers_Paradox_24.txt
+Normalized absolute sentiment: 0.11687919140209907
+
+Title: The_Clockmakers_Paradox_18.txt
+Normalized absolute sentiment: 0.13831938321617224
+
+Title: The_Lighthouse_Keepers_Secret_9.txt
+Normalized absolute sentiment: 0.11010580255105805
+
+Title: Whispering_Pines.txt
+Normalized absolute sentiment: 0.12745987654320987
+
+Title: The_Echoes_of_Margarets_Grove_18.txt
+Normalized absolute sentiment: 0.10376385407964354
+
+Title: Untitled_17.txt
+Normalized absolute sentiment: 0.1429588477366255
+
+Title: The_Clockmakers_Secret_8.txt
+Normalized absolute sentiment: 0.17829465673215672
+
+Title: The_Last_Light_of_Arvale.txt
+Normalized absolute sentiment: 0.14289280651122757
+
+Title: The_Echoes_of_5th_Avenue.txt
+Normalized absolute sentiment: 0.08788777657527658
+
+Title: The_Whispering_Winds_of_Ballymore.txt
+Normalized absolute sentiment: 0.13388431118544752
+
+Title: Echoes_of_Juniper_Hollow.txt
+Normalized absolute sentiment: 0.13529438565549673
+
+Title: The_Lost_Manuscript_of_Thistle_Grove.txt
+Normalized absolute sentiment: 0.11347474174855125
+
+Title: Shadows_on_Lavender_Walls.txt
+Normalized absolute sentiment: 0.14369155844155845
+
+Title: Untitled_16.txt
+Normalized absolute sentiment: 0.14099126371532028
+
+Title: The_Clockmakers_Secret_9.txt
+Normalized absolute sentiment: 0.13389613858363855
+
+Title: The_Clockmakers_Secret.txt
+Normalized absolute sentiment: 0.14645996742531395
+
+Title: The_Lighthouse_Keepers_Secret_8.txt
+Normalized absolute sentiment: 0.11192718407400952
+
+Title: The_Clockmakers_Paradox_23.txt
+Normalized absolute sentiment: 0.14845244680363728
+
+Title: The_Last_Light_of_Loria.txt
+Normalized absolute sentiment: 0.1565829523234415
+
+Title: Echoes_of_the_Forgotten_2.txt
+Normalized absolute sentiment: 0.11520589075276577
+
+Title: The_Clockmakers_Legacy.txt
+Normalized absolute sentiment: 0.14324163127229164
+
+Title: Untitled_12.txt
+Normalized absolute sentiment: 0.1129743029435652
+
+Title: Untitled_13.txt
+Normalized absolute sentiment: 0.11597906947421514
+
+Title: The_Glassmakers_Paradox.txt
+Normalized absolute sentiment: 0.15900012638533048
+
+Title: Echoes_of_the_Forgotten_3.txt
+Normalized absolute sentiment: 0.13758492838972292
+
+Title: The_Clockmakers_Paradox_22.txt
+Normalized absolute sentiment: 0.13543134425487366
+
+Title: The_Clockmakers_Paradox_20.txt
+Normalized absolute sentiment: 0.15678905874218377
+
+Title: The_Clockmakers_Legacy_8.txt
+Normalized absolute sentiment: 0.1347397575250836
+
+Title: Untitled_39.txt
+Normalized absolute sentiment: 0.13755637515505928
+
+Title: Untitled_11.txt
+Normalized absolute sentiment: 0.15916405906895034
+
+Title: The_Lighthouse_Keeper_of_Parsons_Cove.txt
+Normalized absolute sentiment: 0.16263441097016676
+
+Title: Whispers_of_Eloria.txt
+Normalized absolute sentiment: 0.15367763060802833
+
+Title: Untitled_10.txt
+Normalized absolute sentiment: 0.12032682178932178
+
+Title: The_Last_Symphony_of_Mr_Clements.txt
+Normalized absolute sentiment: 0.1528419670607171
+
+Title: Untitled_38.txt
+Normalized absolute sentiment: 0.1492536372562146
+
+Title: The_Clockmaker_of_Via_Marcello.txt
+Normalized absolute sentiment: 0.14073912545787542
+
+Title: The_Hourglass_Symphony.txt
+Normalized absolute sentiment: 0.12667148250886112
+
+Title: Elysiums_Mist.txt
+Normalized absolute sentiment: 0.14637707022322405
+
+Title: The_Clockmakers_Paradox_21.txt
+Normalized absolute sentiment: 0.14205316087312359
+
+Title: The_Lighthouse_Keepers_Secret_3.txt
+Normalized absolute sentiment: 0.129899218531294
+
+Title: The_Lighthouse_Keepers_Diary_3.txt
+Normalized absolute sentiment: 0.11621198507990962
+
+Title: The_Shadow_on_Sundial_Court.txt
+Normalized absolute sentiment: 0.13405604456785558
+
+Title: The_Clockmakers_Paradox_10.txt
+Normalized absolute sentiment: 0.1426698608736423
+
+Title: The_Whispering_Wood_2.txt
+Normalized absolute sentiment: 0.10745069745069746
+
+Title: The_Clockmakers_Apprentice.txt
+Normalized absolute sentiment: 0.18714102542590913
+
+Title: The_Clockmakers_Legacy_4.txt
+Normalized absolute sentiment: 0.12477681224004757
+
+Title: Untitled_21.txt
+Normalized absolute sentiment: 0.1285338716651848
+
+Title: Untitled_35.txt
+Normalized absolute sentiment: 0.17077360284391532
+
+Title: The_Clockmakers_Secret_2.txt
+Normalized absolute sentiment: 0.11975876163884291
+
+Title: Echoes_of_Jupiter_2.txt
+Normalized absolute sentiment: 0.10811061074832261
+
+Title: Echoes_of_Jupiter_3.txt
+Normalized absolute sentiment: 0.1425287607397699
+
+Title: The_Clockmakers_Secret_3.txt
+Normalized absolute sentiment: 0.11110816906933407
+
+Title: Untitled_34.txt
+Normalized absolute sentiment: 0.13249729437229443
+
+Title: Untitled_20.txt
+Normalized absolute sentiment: 0.17228235640372183
+
+Title: The_Clockmakers_Legacy_5.txt
+Normalized absolute sentiment: 0.15639359555375185
+
+Title: The_Echoes_of_Jasmine.txt
+Normalized absolute sentiment: 0.1471432733932734
+
+Title: The_Lighthouse_Keepers_Secret_12.txt
+Normalized absolute sentiment: 0.14702116807453885
+
+Title: The_Clockmakers_Paradox_11.txt
+Normalized absolute sentiment: 0.10961587997772206
+
+Title: Untitled.txt
+Normalized absolute sentiment: 0.13819274189323694
+
+Title: The_Lighthouse_Keepers_Diary_2.txt
+Normalized absolute sentiment: 0.15034485131134617
+
+Title: The_Lighthouse_Keepers_Secret_2.txt
+Normalized absolute sentiment: 0.16575841863225033
+
+Title: The_Echoes_of_Elkwood.txt
+Normalized absolute sentiment: 0.10319833488951129
+
+Title: The_Clockmakers_Paradox_13.txt
+Normalized absolute sentiment: 0.1426089913036816
+
+Title: The_Lighthouse_Keepers_Secret_10.txt
+Normalized absolute sentiment: 0.12639017165412791
+
+Title: The_Lighthouse_Keeper.txt
+Normalized absolute sentiment: 0.11949658875366417
+
+Title: The_Man_with_the_Silver_Clarinet.txt
+Normalized absolute sentiment: 0.1373708330276127
+
+Title: The_Map_of_Lost_Echoes.txt
+Normalized absolute sentiment: 0.1460409350458855
+
+Title: The_Clockmakers_Legacy_7.txt
+Normalized absolute sentiment: 0.14678477106507407
+
+Title: Untitled_36.txt
+Normalized absolute sentiment: 0.12803751803751806
+
+Title: Untitled_22.txt
+Normalized absolute sentiment: 0.12627133996814846
+
+Title: The_Whispering_Gallery.txt
+Normalized absolute sentiment: 0.09348667419710584
+
+Title: Broken_Wings.txt
+Normalized absolute sentiment: 0.10885039682539681
+
+Title: Untitled_23.txt
+Normalized absolute sentiment: 0.1202673961840628
+
+Title: Untitled_37.txt
+Normalized absolute sentiment: 0.13939858531162877
+
+Title: The_Clockmakers_Legacy_6.txt
+Normalized absolute sentiment: 0.12832687103679474
+
+Title: The_Sound_of_Silver.txt
+Normalized absolute sentiment: 0.17819727305522756
+
+Title: The_Silvered_Hourglass.txt
+Normalized absolute sentiment: 0.10958759486908339
+
+Title: The_Lighthouse_Keepers_Secret_11.txt
+Normalized absolute sentiment: 0.13262193662818664
+
+Title: The_Clockmakers_Paradox_12.txt
+Normalized absolute sentiment: 0.15005395897379592
+
+Title: Echoes_of_Winter.txt
+Normalized absolute sentiment: 0.12114783486494016
+
+Title: The_Lighthouse_Keepers_Secret_5.txt
+Normalized absolute sentiment: 0.13004865012843736
+
+Title: The_Lighthouse_Keeper_of_Calloway_Rock.txt
+Normalized absolute sentiment: 0.10120076814719668
+
+Title: The_Clockmakers_Paradox_16.txt
+Normalized absolute sentiment: 0.1215366510729414
+
+Title: The_Clockmaker_of_Sivelin.txt
+Normalized absolute sentiment: 0.13328831161942867
+
+Title: The_Clockmakers_Legacy_2.txt
+Normalized absolute sentiment: 0.11963824527744983
+
+Title: The_Clockmakers_Secret_4.txt
+Normalized absolute sentiment: 0.14236158008658006
+
+Title: The_Last_Page_2.txt
+Normalized absolute sentiment: 0.12707580096560359
+
+Title: Untitled_33.txt
+Normalized absolute sentiment: 0.12598738394728962
+
+Title: The_Lighthouse_Keepers_Diary.txt
+Normalized absolute sentiment: 0.14535718632104172
+
+Title: Untitled_27.txt
+Normalized absolute sentiment: 0.13494157931141407
+
+Title: Whispers_of_the_Past_3.txt
+Normalized absolute sentiment: 0.1686461499493414
+
+Title: The_Midnight_Librarian.txt
+Normalized absolute sentiment: 0.13168862387612387
+
+Title: Whispers_of_the_Past_2.txt
+Normalized absolute sentiment: 0.1450907711569476
+
+Title: Untitled_26.txt
+Normalized absolute sentiment: 0.13486714674214673
+
+Title: Untitled_32.txt
+Normalized absolute sentiment: 0.17290864999198335
+
+Title: The_Clockmakers_Secret_5.txt
+Normalized absolute sentiment: 0.15189022727272725
+
+Title: The_Clockmakers_Legacy_3.txt
+Normalized absolute sentiment: 0.15531991390577254
+
+Title: The_Lighthouse_Keeper_of_Eldritch_Shores.txt
+Normalized absolute sentiment: 0.12236237373737373
+
+Title: The_Clockmakers_Paradox_17.txt
+Normalized absolute sentiment: 0.12191107503607503
+
+Title: The_Lighthouse_Keepers_Secret_4.txt
+Normalized absolute sentiment: 0.1566506297700988
+
+Title: The_Lighthouse_Keepers_Diary_4.txt
+Normalized absolute sentiment: 0.12518986749075242
+
+Title: The_Last_Bookstore_2.txt
+Normalized absolute sentiment: 0.10005058299039779
+
+Title: The_Lighthouse_Keepers_Secret_6.txt
+Normalized absolute sentiment: 0.13259892682041807
+
+Title: The_Last_Pages_of_Summer.txt
+Normalized absolute sentiment: 0.1132120456567359
+
+Title: The_Clockmakers_Paradox_15.txt
+Normalized absolute sentiment: 0.16911609290180718
+
+Title: The_Ledger_of_Lemuel_Pike.txt
+Normalized absolute sentiment: 0.10995847995847992
+
+Title: Whispers_of_the_Old_Willow_3.txt
+Normalized absolute sentiment: 0.114090078261765
+
+Title: A_Whisper_of_Wind.txt
+Normalized absolute sentiment: 0.1371984378670425
+
+Title: The_Clockmakers_Secret_7.txt
+Normalized absolute sentiment: 0.17678932178932177
+
+Title: Untitled_18.txt
+Normalized absolute sentiment: 0.10731798360369783
+
+Title: Untitled_24.txt
+Normalized absolute sentiment: 0.16505018179749362
+
+Title: Untitled_30.txt
+Normalized absolute sentiment: 0.16020517676767676
+
+Title: The_Mask_of_Camille.txt
+Normalized absolute sentiment: 0.14512447589098532
+
+Title: Untitled_31.txt
+Normalized absolute sentiment: 0.12164401956068621
+
+Title: The_Echoes_of_Yesterday.txt
+Normalized absolute sentiment: 0.15088650023116043
+
+Title: Untitled_25.txt
+Normalized absolute sentiment: 0.11085765404686644
+
+Title: The_Clockmakers_Secret_6.txt
+Normalized absolute sentiment: 0.129473083830882
+
+Title: Untitled_19.txt
+Normalized absolute sentiment: 0.11924755298249272
+
+Title: The_Clockmakers_Paradox.txt
+Normalized absolute sentiment: 0.15019116077230113
+
+Title: The_Last_Light_of_Dusk.txt
+Normalized absolute sentiment: 0.140936368053715
+
+Title: Whispers_of_the_Old_Willow_2.txt
+Normalized absolute sentiment: 0.16807344276094272
+
+Title: The_Last_Light_of_Fidelis_4.txt
+Normalized absolute sentiment: 0.1509594241737099
+
+Title: The_Symphony_of_Mr_Bartholomew.txt
+Normalized absolute sentiment: 0.16798754369461444
+
+Title: The_Clockmakers_Paradox_14.txt
+Normalized absolute sentiment: 0.1655183066092157
+
+Title: The_Lighthouse_Keepers_Secret_7.txt
+Normalized absolute sentiment: 0.10319869917664035
+
+Title: The_Echoes_of_Amissville.txt
+Normalized absolute sentiment: 0.1272297767591885
+
+Title: The_Last_Lightkeeper_6.txt
+Normalized absolute sentiment: 0.15903457375957378
+
+Title: Whispers_of_the_Past.txt
+Normalized absolute sentiment: 0.13349936901012172
+
+Title: The_Forgotten_Melody_5.txt
+Normalized absolute sentiment: 0.12663155391064873
+
+Title: The_Clockmaker_of_Vernazza.txt
+Normalized absolute sentiment: 0.1806800279412639
+
+Title: The_Clockmakers_Paradox_2.txt
+Normalized absolute sentiment: 0.1074212501538083
+
+Title: The_Clockmakers_Secret_11.txt
+Normalized absolute sentiment: 0.12008067473414004
+
+Title: The_Midnight_Library.txt
+Normalized absolute sentiment: 0.12718899181264773
+
+Title: The_Echoes_of_Jupiter.txt
+Normalized absolute sentiment: 0.12057479990033941
+
+Title: Untitled_42.txt
+Normalized absolute sentiment: 0.13330274154566604
+
+Title: Untitled_56.txt
+Normalized absolute sentiment: 0.10639966475095781
+
+Title: The_Clockmakers_Promise_3.txt
+Normalized absolute sentiment: 0.11458147321428573
+
+Title: The_Clockmakers_Gift.txt
+Normalized absolute sentiment: 0.18109758297258294
+
+Title: The_Lighthouse_Keeper_of_Eldritch_Cove.txt
+Normalized absolute sentiment: 0.10335355616605618
+
+Title: The_Clockmakers_Promise_2.txt
+Normalized absolute sentiment: 0.17130629383536364
+
+Title: Untitled_43.txt
+Normalized absolute sentiment: 0.0935270778313231
+
+Title: The_Clockmakers_Secret_10.txt
+Normalized absolute sentiment: 0.13226939375673552
+
+Title: The_Clockmakers_Paradox_3.txt
+Normalized absolute sentiment: 0.12576626362700183
+
+Title: The_Forgotten_Melody_4.txt
+Normalized absolute sentiment: 0.15588691105406213
+
+Title: The_Last_Lightkeeper_5.txt
+Normalized absolute sentiment: 0.12470051757241839
+
+Title: The_Vanishing_Point.txt
+Normalized absolute sentiment: 0.13448073862793486
+
+Title: The_Lockbox.txt
+Normalized absolute sentiment: 0.1435950828355891
+
+Title: The_Clockmakers_Apprentice_8.txt
+Normalized absolute sentiment: 0.1255831226295828
+
+Title: The_Clockmakers_Secret_12.txt
+Normalized absolute sentiment: 0.1387912975267626
+
+Title: Untitled_55.txt
+Normalized absolute sentiment: 0.1083289302354959
+
+Title: Untitled_41.txt
+Normalized absolute sentiment: 0.13066902515723272
+
+Title: Whispers_at_Dusk.txt
+Normalized absolute sentiment: 0.1374662675723996
+
+Title: The_Echo_of_Driftwood.txt
+Normalized absolute sentiment: 0.1641549694300105
+
+Title: The_Whispering_Gallery_2.txt
+Normalized absolute sentiment: 0.12187616754477215
+
+Title: Echoes_of_the_Creek.txt
+Normalized absolute sentiment: 0.13151623266302162
+
+Title: The_Whispering_Woods.txt
+Normalized absolute sentiment: 0.13282988630865983
+
+Title: The_Echoes_of_Larkspur_Lane.txt
+Normalized absolute sentiment: 0.10861522545406849
+
+Title: The_Whispering_Gallery_3.txt
+Normalized absolute sentiment: 0.09498644021670338
+
+Title: The_Mapmakers_Paradox.txt
+Normalized absolute sentiment: 0.1410062833606523
+
+Title: Whispers_in_Willowmere.txt
+Normalized absolute sentiment: 0.11561492905242904
+
+Title: Untitled_40.txt
+Normalized absolute sentiment: 0.12165902032749852
+
+Title: Untitled_54.txt
+Normalized absolute sentiment: 0.12260245226154315
+
+Title: The_Clockmakers_Secret_13.txt
+Normalized absolute sentiment: 0.16650886757076078
+
+Title: The_Clockmakers_Apprentice_9.txt
+Normalized absolute sentiment: 0.12475079048677179
+
+Title: The_Lightkeepers_Secret.txt
+Normalized absolute sentiment: 0.1262711451868078
+
+Title: The_Echo_of_the_Lighthouse.txt
+Normalized absolute sentiment: 0.11942001556363259
+
+Title: The_Last_Lightkeeper_4.txt
+Normalized absolute sentiment: 0.12160579181167415
+
+Title: A_Thread_in_Time.txt
+Normalized absolute sentiment: 0.1473201172231344
+
+Title: The_Mysterious_Island_of_Dr_Floros.txt
+Normalized absolute sentiment: 0.12327276952276948
+
+Title: The_Forgotten_Melody_3.txt
+Normalized absolute sentiment: 0.15664082528773252
+
+Title: The_Clockmakers_Secret_17.txt
+Normalized absolute sentiment: 0.13721372170532622
+
+Title: The_Clockmakers_Paradox_4.txt
+Normalized absolute sentiment: 0.1011029711029711
+
+Title: The_Lighthouse_Keeper_of_Grimsby_Point.txt
+Normalized absolute sentiment: 0.11688042162180097
+
+Title: Untitled_50.txt
+Normalized absolute sentiment: 0.1095177898843153
+
+Title: Untitled_44.txt
+Normalized absolute sentiment: 0.14092232347484446
+
+Title: The_Clockmaker_of_Middlesbrooke.txt
+Normalized absolute sentiment: 0.15730777709944377
+
+Title: Echoes_of_the_Past.txt
+Normalized absolute sentiment: 0.17672645519684987
+
+Title: Untitled_45.txt
+Normalized absolute sentiment: 0.15030531331563446
+
+Title: Untitled_51.txt
+Normalized absolute sentiment: 0.12583971861471863
+
+Title: The_Lighthouse_Keeper_of_Evershore.txt
+Normalized absolute sentiment: 0.14539030239501932
+
+Title: Echoes_of_the_Lost_Star.txt
+Normalized absolute sentiment: 0.14069287494612176
+
+Title: The_Forgotten_Map.txt
+Normalized absolute sentiment: 0.1319411632008531
+
+Title: The_Clockmakers_Paradox_5.txt
+Normalized absolute sentiment: 0.1450833637580625
+
+Title: The_Clockmakers_Secret_16.txt
+Normalized absolute sentiment: 0.12457771787960464
+
+Title: The_Ivory_Tower.txt
+Normalized absolute sentiment: 0.13413817750266346
+
+Title: Whispers_of_the_Forgotten_Orchard.txt
+Normalized absolute sentiment: 0.11183016187689084
+
+Title: Untitled_8.txt
+Normalized absolute sentiment: 0.09701498402391258
+
+Title: The_Watcher_of_Westbrook_Avenue.txt
+Normalized absolute sentiment: 0.09090105367883143
+
+Title: Whispering_Winds.txt
+Normalized absolute sentiment: 0.1495281041709613
+
+Title: The_Last_Lightkeeper_3.txt
+Normalized absolute sentiment: 0.16690424373134657
+
+Title: The_Clockmakers_Secret_14.txt
+Normalized absolute sentiment: 0.17593454385121055
+
+Title: The_Clockmakers_Paradox_7.txt
+Normalized absolute sentiment: 0.1450985174162258
+
+Title: The_Lighthouse_Keeper_of_Morwen_Bay.txt
+Normalized absolute sentiment: 0.13633301805570708
+
+Title: The_Lighthouse_Keeper_of_Eventide.txt
+Normalized absolute sentiment: 0.11976486372553788
+
+Title: Untitled_47.txt
+Normalized absolute sentiment: 0.10858083497886128
+
+Title: Untitled_53.txt
+Normalized absolute sentiment: 0.14799415725886308
+
+Title: The_Last_Lightkeeper.txt
+Normalized absolute sentiment: 0.14374313380992768
+
+Title: The_Whispering_Wood.txt
+Normalized absolute sentiment: 0.149979994752722
+
+Title: Untitled_52.txt
+Normalized absolute sentiment: 0.11522005772005775
+
+Title: Untitled_46.txt
+Normalized absolute sentiment: 0.1197981312580549
+
+Title: Whispering_Shadows.txt
+Normalized absolute sentiment: 0.12063148996972525
+
+Title: The_Clockmakers_Paradox_6.txt
+Normalized absolute sentiment: 0.1393299634668682
+
+Title: The_Clockmakers_Secret_15.txt
+Normalized absolute sentiment: 0.15384292000628633
+
+Title: The_Last_Bookstore.txt
+Normalized absolute sentiment: 0.10764526421854005
+
+Title: A_Murmuration_of_Memories.txt
+Normalized absolute sentiment: 0.1276648032746823
+
+Title: The_Lighthouse_Keeper_of_Merrow_Down.txt
+Normalized absolute sentiment: 0.14085662449740122
+
+Title: Echoes_of_the_Lighthouse.txt
+Normalized absolute sentiment: 0.15694902024117147
+
+Title: The_Last_Light_of_Eridanus.txt
+Normalized absolute sentiment: 0.17815302579365078
+
+Title: The_Last_Lightkeeper_2.txt
+Normalized absolute sentiment: 0.16577521542575302
+
+Title: The_Forgotten_Melody_1.txt
+Normalized absolute sentiment: 0.14211194406316355
+
+Title: Untitled_9.txt
+Normalized absolute sentiment: 0.18654900407132552
+
+Title: The_Glassmakers_Apprentice.txt
+Normalized absolute sentiment: 0.1305520038380863
+
+Title: The_Echoes_of_Willowbrook.txt
+Normalized absolute sentiment: 0.15800774283075164
 

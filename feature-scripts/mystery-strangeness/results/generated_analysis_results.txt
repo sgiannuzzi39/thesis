@@ -1,77 +1,902 @@
 ### Analysis Results for Each File ###
 
-Title: the_heart_of_the_woods.txt
-Psychological Intensity: -2.4372
+Title: The_Lighthouse_Keeper_of_Eldrige_Rock.txt
+Normalized Mystery and Strangeness Score: 0.0590
 
-Title: the_last_starlight.txt
-Psychological Intensity: -0.9916
+Title: Untitled_4.txt
+Normalized Mystery and Strangeness Score: 0.0432
 
-Title: the_last_symphony.txt
-Psychological Intensity: -1.1553
+Title: The_Echoes_of_Willoughby_Street.txt
+Normalized Mystery and Strangeness Score: 0.0537
 
-Title: the_lighthouse_keeper's_gift.txt
-Psychological Intensity: -1.7319
+Title: The_Clockmaker_of_Vermilion_Street.txt
+Normalized Mystery and Strangeness Score: 0.0342
 
-Title: the_whispering_violin.txt
-Psychological Intensity: -2.0058
+Title: The_Last_Watchmaker_of_Fillory_Street.txt
+Normalized Mystery and Strangeness Score: 0.0459
 
-Title: the_painter_and_the_mysterious_portrait.txt
-Psychological Intensity: -1.2747
+Title: The_Lighthouse_Keeper_of_Merrows_Point.txt
+Normalized Mystery and Strangeness Score: 0.0568
 
-Title: the_clockmaker's_secret.txt
-Psychological Intensity: -2.3688
+Title: The_Clockmakers_Secret_18.txt
+Normalized Mystery and Strangeness Score: 0.0414
 
-Title: the_forgotten_melody.txt
-Psychological Intensity: -0.8439
+Title: The_Clockmakers_Apprentice_2.txt
+Normalized Mystery and Strangeness Score: 0.0303
 
-Title: the_lighthouse_keeper's_secret.txt
-Psychological Intensity: -1.6176
+Title: The_Lighthouse_Keepers_Radiance.txt
+Normalized Mystery and Strangeness Score: 0.0601
 
-Title: the_symphony_of_life.txt
-Psychological Intensity: -2.2760
+Title: The_Clockmakers_Heart_2.txt
+Normalized Mystery and Strangeness Score: 0.0297
 
-Title: the_last_symphony_2.txt
-Psychological Intensity: -0.5038
+Title: Echoes_of_Time.txt
+Normalized Mystery and Strangeness Score: 0.0424
 
-Title: the_magic_of_the_forgotten_forest.txt
-Psychological Intensity: -1.6806
+Title: Adrift_in_the_Clouds.txt
+Normalized Mystery and Strangeness Score: 0.0445
 
-Title: the_song_of_the_wind.txt
-Psychological Intensity: -1.3235
+Title: Echoes_of_the_Forgotten.txt
+Normalized Mystery and Strangeness Score: 0.0556
 
-Title: the_enchanted_library.txt
-Psychological Intensity: -2.0804
+Title: The_Last_Sorrows_of_Autumn.txt
+Normalized Mystery and Strangeness Score: 0.0261
 
-Title: the_unseen_melody.txt
-Psychological Intensity: -1.0523
+Title: The_Last_Bookbinder_of_Cornish_Cove.txt
+Normalized Mystery and Strangeness Score: 0.0231
 
-Title: the_unseen_masterpiece.txt
-Psychological Intensity: -0.9130
+Title: The_Clockmakers_Apprentice_12.txt
+Normalized Mystery and Strangeness Score: 0.0391
 
-Title: the_unseen_guardian_2.txt
-Psychological Intensity: -0.7150
+Title: Echoes_of_the_Silent_City.txt
+Normalized Mystery and Strangeness Score: 0.0553
 
-Title: the_forgotten_diary.txt
-Psychological Intensity: -2.0493
+Title: The_Clockmakers_Apprentice_3.txt
+Normalized Mystery and Strangeness Score: 0.0218
 
-Title: the_lost_melody.txt
-Psychological Intensity: -1.2780
+Title: The_Clockmaker_of_Via_del_Corso.txt
+Normalized Mystery and Strangeness Score: 0.0196
 
-Title: the_magic_quill.txt
-Psychological Intensity: -2.2693
+Title: Whispers_of_the_Forgotten_Library.txt
+Normalized Mystery and Strangeness Score: 0.0612
 
-Title: the_enchanted_canvas.txt
-Psychological Intensity: -1.2427
+Title: The_Last_Lightkeeper_of_Eldoria.txt
+Normalized Mystery and Strangeness Score: 0.0535
 
-Title: the_last_dance_of_the_fireflies.txt
-Psychological Intensity: -1.0557
+Title: Untitled_5.txt
+Normalized Mystery and Strangeness Score: 0.0231
 
-Title: the_colors_of_time.txt
-Psychological Intensity: -1.4174
+Title: Echoes_of_Selene.txt
+Normalized Mystery and Strangeness Score: 0.0265
 
-Title: the_forgotten_melody_2.txt
-Psychological Intensity: -0.9293
+Title: The_Secret_of_Eldridge_Manor.txt
+Normalized Mystery and Strangeness Score: 0.0687
 
-Title: the_time_capsule.txt
-Psychological Intensity: -0.6983
+Title: Untitled_7.txt
+Normalized Mystery and Strangeness Score: 0.0331
+
+Title: The_Last_Garden_4.txt
+Normalized Mystery and Strangeness Score: 0.0406
+
+Title: The_Vanishing_Act.txt
+Normalized Mystery and Strangeness Score: 0.0600
+
+Title: The_Clockmakers_Paradox_8.txt
+Normalized Mystery and Strangeness Score: 0.0254
+
+Title: The_Lighthouse_Keeper_of_Eldwen.txt
+Normalized Mystery and Strangeness Score: 0.0521
+
+Title: The_Clockmakers_Promise.txt
+Normalized Mystery and Strangeness Score: 0.0536
+
+Title: The_Last_Symphony_45.txt
+Normalized Mystery and Strangeness Score: 0.0180
+
+Title: The_Clockmakers_Apprentice_10.txt
+Normalized Mystery and Strangeness Score: 0.0364
+
+Title: Untitled_48.txt
+Normalized Mystery and Strangeness Score: 0.0516
+
+Title: The_Paradox_Clock.txt
+Normalized Mystery and Strangeness Score: 0.0406
+
+Title: The_Lighthouse_Keeper_of_Corwyn_Point.txt
+Normalized Mystery and Strangeness Score: 0.0607
+
+Title: Echoes_of_Starlight.txt
+Normalized Mystery and Strangeness Score: 0.0305
+
+Title: Untitled_49.txt
+Normalized Mystery and Strangeness Score: 0.0284
+
+Title: The_Timekeepers_Paradox.txt
+Normalized Mystery and Strangeness Score: 0.0391
+
+Title: The_Clockmakers_Apprentice_11.txt
+Normalized Mystery and Strangeness Score: 0.0677
+
+Title: The_Clockmakers_Paradox_9.txt
+Normalized Mystery and Strangeness Score: 0.0356
+
+Title: Untitled_6.txt
+Normalized Mystery and Strangeness Score: 0.0225
+
+Title: The_Midnight_Hour.txt
+Normalized Mystery and Strangeness Score: 0.0738
+
+Title: Untitled_2.txt
+Normalized Mystery and Strangeness Score: 0.0282
+
+Title: The_Smithfield_Heirloom.txt
+Normalized Mystery and Strangeness Score: 0.0382
+
+Title: The_Shadow_Collector.txt
+Normalized Mystery and Strangeness Score: 0.0742
+
+Title: The_Clockmakers_Apprentice_4.txt
+Normalized Mystery and Strangeness Score: 0.0251
+
+Title: The_Clockmakers_Heart.txt
+Normalized Mystery and Strangeness Score: 0.0328
+
+Title: The_Last_Lantern.txt
+Normalized Mystery and Strangeness Score: 0.0568
+
+Title: The_Lighthouse_Keepers_Secret.txt
+Normalized Mystery and Strangeness Score: 0.0340
+
+Title: The_Last_Garden.txt
+Normalized Mystery and Strangeness Score: 0.0267
+
+Title: The_Fiddler_in_the_Forest.txt
+Normalized Mystery and Strangeness Score: 0.0298
+
+Title: The_Lighthouse_Keeper_of_Morwens_Cove.txt
+Normalized Mystery and Strangeness Score: 0.0423
+
+Title: The_Clockmakers_Apprentice_5.txt
+Normalized Mystery and Strangeness Score: 0.0509
+
+Title: Shards_of_the_Old_World.txt
+Normalized Mystery and Strangeness Score: 0.0623
+
+Title: A_Whisper_Down_Dellridge_Lane.txt
+Normalized Mystery and Strangeness Score: 0.0471
+
+Title: Untitled_3.txt
+Normalized Mystery and Strangeness Score: 0.0466
+
+Title: The_Last_Garden_2.txt
+Normalized Mystery and Strangeness Score: 0.0255
+
+Title: The_Clockmakers_Apprentice_7.txt
+Normalized Mystery and Strangeness Score: 0.0305
+
+Title: The_Last_Page.txt
+Normalized Mystery and Strangeness Score: 0.0466
+
+Title: The_Lighthouse_Keeper_2.txt
+Normalized Mystery and Strangeness Score: 0.0400
+
+Title: The_Echoing_Green.txt
+Normalized Mystery and Strangeness Score: 0.0313
+
+Title: Echoes_of_Jupiter.txt
+Normalized Mystery and Strangeness Score: 0.0378
+
+Title: The_Lighthouse_Keeper_3.txt
+Normalized Mystery and Strangeness Score: 0.0487
+
+Title: Whispers_of_the_Old_Willow.txt
+Normalized Mystery and Strangeness Score: 0.0609
+
+Title: Echoes_of_the_Past_2.txt
+Normalized Mystery and Strangeness Score: 0.0313
+
+Title: The_Clockmakers_Apprentice_6.txt
+Normalized Mystery and Strangeness Score: 0.0167
+
+Title: The_Clockmaker_of_Mirewood.txt
+Normalized Mystery and Strangeness Score: 0.0355
+
+Title: A_Moonlit_Sonata.txt
+Normalized Mystery and Strangeness Score: 0.0434
+
+Title: The_Last_Garden_3.txt
+Normalized Mystery and Strangeness Score: 0.0305
+
+Title: The_Weeping_Timekeeper.txt
+Normalized Mystery and Strangeness Score: 0.0516
+
+Title: The_Ascent.txt
+Normalized Mystery and Strangeness Score: 0.0540
+
+Title: The_Clockmakers_Paradox_19.txt
+Normalized Mystery and Strangeness Score: 0.0326
+
+Title: The_Clockmaker_of_Tirsol.txt
+Normalized Mystery and Strangeness Score: 0.0307
+
+Title: Among_the_Shadows_of_Winter.txt
+Normalized Mystery and Strangeness Score: 0.0593
+
+Title: The_Curious_Case_of_Caelum_Mellor.txt
+Normalized Mystery and Strangeness Score: 0.0380
+
+Title: Untitled_14.txt
+Normalized Mystery and Strangeness Score: 0.0338
+
+Title: The_Curators_Clock.txt
+Normalized Mystery and Strangeness Score: 0.0224
+
+Title: Untitled_28.txt
+Normalized Mystery and Strangeness Score: 0.0371
+
+Title: Whispers_in_the_Willow.txt
+Normalized Mystery and Strangeness Score: 0.0361
+
+Title: The_Last_Garden_of_Mars_3.txt
+Normalized Mystery and Strangeness Score: 0.0697
+
+Title: The_Clockmaker_of_Solitude.txt
+Normalized Mystery and Strangeness Score: 0.0286
+
+Title: Echoes_of_the_Fallen_Star.txt
+Normalized Mystery and Strangeness Score: 0.0437
+
+Title: The_Unseen_Library.txt
+Normalized Mystery and Strangeness Score: 0.0438
+
+Title: Untitled_29.txt
+Normalized Mystery and Strangeness Score: 0.0368
+
+Title: Whispers_of_the_Old_Lore.txt
+Normalized Mystery and Strangeness Score: 0.0351
+
+Title: Untitled_15.txt
+Normalized Mystery and Strangeness Score: 0.0196
+
+Title: The_Echoes_of_Redstone_Manor.txt
+Normalized Mystery and Strangeness Score: 0.0531
+
+Title: The_Clockmakers_Paradox_24.txt
+Normalized Mystery and Strangeness Score: 0.0253
+
+Title: The_Clockmakers_Paradox_18.txt
+Normalized Mystery and Strangeness Score: 0.0457
+
+Title: The_Lighthouse_Keepers_Secret_9.txt
+Normalized Mystery and Strangeness Score: 0.0363
+
+Title: Whispering_Pines.txt
+Normalized Mystery and Strangeness Score: 0.0456
+
+Title: The_Echoes_of_Margarets_Grove_18.txt
+Normalized Mystery and Strangeness Score: 0.0385
+
+Title: Untitled_17.txt
+Normalized Mystery and Strangeness Score: 0.0326
+
+Title: The_Clockmakers_Secret_8.txt
+Normalized Mystery and Strangeness Score: 0.0291
+
+Title: The_Last_Light_of_Arvale.txt
+Normalized Mystery and Strangeness Score: 0.0351
+
+Title: The_Echoes_of_5th_Avenue.txt
+Normalized Mystery and Strangeness Score: 0.0193
+
+Title: The_Whispering_Winds_of_Ballymore.txt
+Normalized Mystery and Strangeness Score: 0.0621
+
+Title: Echoes_of_Juniper_Hollow.txt
+Normalized Mystery and Strangeness Score: 0.0600
+
+Title: The_Lost_Manuscript_of_Thistle_Grove.txt
+Normalized Mystery and Strangeness Score: 0.0540
+
+Title: Shadows_on_Lavender_Walls.txt
+Normalized Mystery and Strangeness Score: 0.0266
+
+Title: Untitled_16.txt
+Normalized Mystery and Strangeness Score: 0.0369
+
+Title: The_Clockmakers_Secret_9.txt
+Normalized Mystery and Strangeness Score: 0.0341
+
+Title: The_Clockmakers_Secret.txt
+Normalized Mystery and Strangeness Score: 0.0583
+
+Title: The_Lighthouse_Keepers_Secret_8.txt
+Normalized Mystery and Strangeness Score: 0.0607
+
+Title: The_Clockmakers_Paradox_23.txt
+Normalized Mystery and Strangeness Score: 0.0441
+
+Title: The_Last_Light_of_Loria.txt
+Normalized Mystery and Strangeness Score: 0.0525
+
+Title: Echoes_of_the_Forgotten_2.txt
+Normalized Mystery and Strangeness Score: 0.0245
+
+Title: The_Clockmakers_Legacy.txt
+Normalized Mystery and Strangeness Score: 0.0257
+
+Title: Untitled_12.txt
+Normalized Mystery and Strangeness Score: 0.0425
+
+Title: Untitled_13.txt
+Normalized Mystery and Strangeness Score: 0.0226
+
+Title: The_Glassmakers_Paradox.txt
+Normalized Mystery and Strangeness Score: 0.0349
+
+Title: Echoes_of_the_Forgotten_3.txt
+Normalized Mystery and Strangeness Score: 0.0612
+
+Title: The_Clockmakers_Paradox_22.txt
+Normalized Mystery and Strangeness Score: 0.0424
+
+Title: The_Clockmakers_Paradox_20.txt
+Normalized Mystery and Strangeness Score: 0.0293
+
+Title: The_Clockmakers_Legacy_8.txt
+Normalized Mystery and Strangeness Score: 0.0445
+
+Title: Untitled_39.txt
+Normalized Mystery and Strangeness Score: 0.0605
+
+Title: Untitled_11.txt
+Normalized Mystery and Strangeness Score: 0.0429
+
+Title: The_Lighthouse_Keeper_of_Parsons_Cove.txt
+Normalized Mystery and Strangeness Score: 0.0520
+
+Title: Whispers_of_Eloria.txt
+Normalized Mystery and Strangeness Score: 0.0504
+
+Title: Untitled_10.txt
+Normalized Mystery and Strangeness Score: 0.0373
+
+Title: The_Last_Symphony_of_Mr_Clements.txt
+Normalized Mystery and Strangeness Score: 0.0239
+
+Title: Untitled_38.txt
+Normalized Mystery and Strangeness Score: 0.0436
+
+Title: The_Clockmaker_of_Via_Marcello.txt
+Normalized Mystery and Strangeness Score: 0.0296
+
+Title: The_Hourglass_Symphony.txt
+Normalized Mystery and Strangeness Score: 0.0256
+
+Title: Elysiums_Mist.txt
+Normalized Mystery and Strangeness Score: 0.0590
+
+Title: The_Clockmakers_Paradox_21.txt
+Normalized Mystery and Strangeness Score: 0.0418
+
+Title: The_Lighthouse_Keepers_Secret_3.txt
+Normalized Mystery and Strangeness Score: 0.0351
+
+Title: The_Lighthouse_Keepers_Diary_3.txt
+Normalized Mystery and Strangeness Score: 0.0583
+
+Title: The_Shadow_on_Sundial_Court.txt
+Normalized Mystery and Strangeness Score: 0.0500
+
+Title: The_Clockmakers_Paradox_10.txt
+Normalized Mystery and Strangeness Score: 0.0241
+
+Title: The_Whispering_Wood_2.txt
+Normalized Mystery and Strangeness Score: 0.0356
+
+Title: The_Clockmakers_Apprentice.txt
+Normalized Mystery and Strangeness Score: 0.0457
+
+Title: The_Clockmakers_Legacy_4.txt
+Normalized Mystery and Strangeness Score: 0.0243
+
+Title: Untitled_21.txt
+Normalized Mystery and Strangeness Score: 0.0305
+
+Title: Untitled_35.txt
+Normalized Mystery and Strangeness Score: 0.0831
+
+Title: The_Clockmakers_Secret_2.txt
+Normalized Mystery and Strangeness Score: 0.0401
+
+Title: Echoes_of_Jupiter_2.txt
+Normalized Mystery and Strangeness Score: 0.0361
+
+Title: Echoes_of_Jupiter_3.txt
+Normalized Mystery and Strangeness Score: 0.0516
+
+Title: The_Clockmakers_Secret_3.txt
+Normalized Mystery and Strangeness Score: 0.0259
+
+Title: Untitled_34.txt
+Normalized Mystery and Strangeness Score: 0.0369
+
+Title: Untitled_20.txt
+Normalized Mystery and Strangeness Score: 0.0285
+
+Title: The_Clockmakers_Legacy_5.txt
+Normalized Mystery and Strangeness Score: 0.0469
+
+Title: The_Echoes_of_Jasmine.txt
+Normalized Mystery and Strangeness Score: 0.0354
+
+Title: The_Lighthouse_Keepers_Secret_12.txt
+Normalized Mystery and Strangeness Score: 0.0304
+
+Title: The_Clockmakers_Paradox_11.txt
+Normalized Mystery and Strangeness Score: 0.0375
+
+Title: Untitled.txt
+Normalized Mystery and Strangeness Score: 0.0301
+
+Title: The_Lighthouse_Keepers_Diary_2.txt
+Normalized Mystery and Strangeness Score: 0.0230
+
+Title: The_Lighthouse_Keepers_Secret_2.txt
+Normalized Mystery and Strangeness Score: 0.0522
+
+Title: The_Echoes_of_Elkwood.txt
+Normalized Mystery and Strangeness Score: 0.0454
+
+Title: The_Clockmakers_Paradox_13.txt
+Normalized Mystery and Strangeness Score: 0.0421
+
+Title: The_Lighthouse_Keepers_Secret_10.txt
+Normalized Mystery and Strangeness Score: 0.0649
+
+Title: The_Lighthouse_Keeper.txt
+Normalized Mystery and Strangeness Score: 0.0308
+
+Title: The_Man_with_the_Silver_Clarinet.txt
+Normalized Mystery and Strangeness Score: 0.0297
+
+Title: The_Map_of_Lost_Echoes.txt
+Normalized Mystery and Strangeness Score: 0.0455
+
+Title: The_Clockmakers_Legacy_7.txt
+Normalized Mystery and Strangeness Score: 0.0308
+
+Title: Untitled_36.txt
+Normalized Mystery and Strangeness Score: 0.0311
+
+Title: Untitled_22.txt
+Normalized Mystery and Strangeness Score: 0.0600
+
+Title: The_Whispering_Gallery.txt
+Normalized Mystery and Strangeness Score: 0.0318
+
+Title: Broken_Wings.txt
+Normalized Mystery and Strangeness Score: 0.0426
+
+Title: Untitled_23.txt
+Normalized Mystery and Strangeness Score: 0.0270
+
+Title: Untitled_37.txt
+Normalized Mystery and Strangeness Score: 0.0251
+
+Title: The_Clockmakers_Legacy_6.txt
+Normalized Mystery and Strangeness Score: 0.0402
+
+Title: The_Sound_of_Silver.txt
+Normalized Mystery and Strangeness Score: 0.0167
+
+Title: The_Silvered_Hourglass.txt
+Normalized Mystery and Strangeness Score: 0.0438
+
+Title: The_Lighthouse_Keepers_Secret_11.txt
+Normalized Mystery and Strangeness Score: 0.0444
+
+Title: The_Clockmakers_Paradox_12.txt
+Normalized Mystery and Strangeness Score: 0.0349
+
+Title: Echoes_of_Winter.txt
+Normalized Mystery and Strangeness Score: 0.0431
+
+Title: The_Lighthouse_Keepers_Secret_5.txt
+Normalized Mystery and Strangeness Score: 0.0631
+
+Title: The_Lighthouse_Keeper_of_Calloway_Rock.txt
+Normalized Mystery and Strangeness Score: 0.0419
+
+Title: The_Clockmakers_Paradox_16.txt
+Normalized Mystery and Strangeness Score: 0.0385
+
+Title: The_Clockmaker_of_Sivelin.txt
+Normalized Mystery and Strangeness Score: 0.0280
+
+Title: The_Clockmakers_Legacy_2.txt
+Normalized Mystery and Strangeness Score: 0.0354
+
+Title: The_Clockmakers_Secret_4.txt
+Normalized Mystery and Strangeness Score: 0.0325
+
+Title: The_Last_Page_2.txt
+Normalized Mystery and Strangeness Score: 0.0471
+
+Title: Untitled_33.txt
+Normalized Mystery and Strangeness Score: 0.0375
+
+Title: The_Lighthouse_Keepers_Diary.txt
+Normalized Mystery and Strangeness Score: 0.0562
+
+Title: Untitled_27.txt
+Normalized Mystery and Strangeness Score: 0.0719
+
+Title: Whispers_of_the_Past_3.txt
+Normalized Mystery and Strangeness Score: 0.0216
+
+Title: The_Midnight_Librarian.txt
+Normalized Mystery and Strangeness Score: 0.0258
+
+Title: Whispers_of_the_Past_2.txt
+Normalized Mystery and Strangeness Score: 0.0649
+
+Title: Untitled_26.txt
+Normalized Mystery and Strangeness Score: 0.0485
+
+Title: Untitled_32.txt
+Normalized Mystery and Strangeness Score: 0.0527
+
+Title: The_Clockmakers_Secret_5.txt
+Normalized Mystery and Strangeness Score: 0.0415
+
+Title: The_Clockmakers_Legacy_3.txt
+Normalized Mystery and Strangeness Score: 0.0632
+
+Title: The_Lighthouse_Keeper_of_Eldritch_Shores.txt
+Normalized Mystery and Strangeness Score: 0.0228
+
+Title: The_Clockmakers_Paradox_17.txt
+Normalized Mystery and Strangeness Score: 0.0214
+
+Title: The_Lighthouse_Keepers_Secret_4.txt
+Normalized Mystery and Strangeness Score: 0.0858
+
+Title: The_Lighthouse_Keepers_Diary_4.txt
+Normalized Mystery and Strangeness Score: 0.0461
+
+Title: The_Last_Bookstore_2.txt
+Normalized Mystery and Strangeness Score: 0.0355
+
+Title: The_Lighthouse_Keepers_Secret_6.txt
+Normalized Mystery and Strangeness Score: 0.0434
+
+Title: The_Last_Pages_of_Summer.txt
+Normalized Mystery and Strangeness Score: 0.0484
+
+Title: The_Clockmakers_Paradox_15.txt
+Normalized Mystery and Strangeness Score: 0.0785
+
+Title: The_Ledger_of_Lemuel_Pike.txt
+Normalized Mystery and Strangeness Score: 0.0322
+
+Title: Whispers_of_the_Old_Willow_3.txt
+Normalized Mystery and Strangeness Score: 0.0311
+
+Title: A_Whisper_of_Wind.txt
+Normalized Mystery and Strangeness Score: 0.0486
+
+Title: The_Clockmakers_Secret_7.txt
+Normalized Mystery and Strangeness Score: 0.0487
+
+Title: Untitled_18.txt
+Normalized Mystery and Strangeness Score: 0.0520
+
+Title: Untitled_24.txt
+Normalized Mystery and Strangeness Score: 0.0494
+
+Title: Untitled_30.txt
+Normalized Mystery and Strangeness Score: 0.0390
+
+Title: The_Mask_of_Camille.txt
+Normalized Mystery and Strangeness Score: 0.0398
+
+Title: Untitled_31.txt
+Normalized Mystery and Strangeness Score: 0.0271
+
+Title: The_Echoes_of_Yesterday.txt
+Normalized Mystery and Strangeness Score: 0.0834
+
+Title: Untitled_25.txt
+Normalized Mystery and Strangeness Score: 0.0426
+
+Title: The_Clockmakers_Secret_6.txt
+Normalized Mystery and Strangeness Score: 0.0285
+
+Title: Untitled_19.txt
+Normalized Mystery and Strangeness Score: 0.0358
+
+Title: The_Clockmakers_Paradox.txt
+Normalized Mystery and Strangeness Score: 0.0548
+
+Title: The_Last_Light_of_Dusk.txt
+Normalized Mystery and Strangeness Score: 0.0324
+
+Title: Whispers_of_the_Old_Willow_2.txt
+Normalized Mystery and Strangeness Score: 0.0308
+
+Title: The_Last_Light_of_Fidelis_4.txt
+Normalized Mystery and Strangeness Score: 0.0262
+
+Title: The_Symphony_of_Mr_Bartholomew.txt
+Normalized Mystery and Strangeness Score: 0.0222
+
+Title: The_Clockmakers_Paradox_14.txt
+Normalized Mystery and Strangeness Score: 0.0470
+
+Title: The_Lighthouse_Keepers_Secret_7.txt
+Normalized Mystery and Strangeness Score: 0.0453
+
+Title: The_Echoes_of_Amissville.txt
+Normalized Mystery and Strangeness Score: 0.0422
+
+Title: The_Last_Lightkeeper_6.txt
+Normalized Mystery and Strangeness Score: 0.0391
+
+Title: Whispers_of_the_Past.txt
+Normalized Mystery and Strangeness Score: 0.0438
+
+Title: The_Forgotten_Melody_5.txt
+Normalized Mystery and Strangeness Score: 0.0366
+
+Title: The_Clockmaker_of_Vernazza.txt
+Normalized Mystery and Strangeness Score: 0.0242
+
+Title: The_Clockmakers_Paradox_2.txt
+Normalized Mystery and Strangeness Score: 0.0352
+
+Title: The_Clockmakers_Secret_11.txt
+Normalized Mystery and Strangeness Score: 0.0440
+
+Title: The_Midnight_Library.txt
+Normalized Mystery and Strangeness Score: 0.0412
+
+Title: The_Echoes_of_Jupiter.txt
+Normalized Mystery and Strangeness Score: 0.0383
+
+Title: Untitled_42.txt
+Normalized Mystery and Strangeness Score: 0.0546
+
+Title: Untitled_56.txt
+Normalized Mystery and Strangeness Score: 0.0388
+
+Title: The_Clockmakers_Promise_3.txt
+Normalized Mystery and Strangeness Score: 0.0264
+
+Title: The_Clockmakers_Gift.txt
+Normalized Mystery and Strangeness Score: 0.0319
+
+Title: The_Lighthouse_Keeper_of_Eldritch_Cove.txt
+Normalized Mystery and Strangeness Score: 0.0449
+
+Title: The_Clockmakers_Promise_2.txt
+Normalized Mystery and Strangeness Score: 0.0338
+
+Title: Untitled_43.txt
+Normalized Mystery and Strangeness Score: 0.0244
+
+Title: The_Clockmakers_Secret_10.txt
+Normalized Mystery and Strangeness Score: 0.0468
+
+Title: The_Clockmakers_Paradox_3.txt
+Normalized Mystery and Strangeness Score: 0.0491
+
+Title: The_Forgotten_Melody_4.txt
+Normalized Mystery and Strangeness Score: 0.0518
+
+Title: The_Last_Lightkeeper_5.txt
+Normalized Mystery and Strangeness Score: 0.0325
+
+Title: The_Vanishing_Point.txt
+Normalized Mystery and Strangeness Score: 0.0614
+
+Title: The_Lockbox.txt
+Normalized Mystery and Strangeness Score: 0.0504
+
+Title: The_Clockmakers_Apprentice_8.txt
+Normalized Mystery and Strangeness Score: 0.0443
+
+Title: The_Clockmakers_Secret_12.txt
+Normalized Mystery and Strangeness Score: 0.0372
+
+Title: Untitled_55.txt
+Normalized Mystery and Strangeness Score: 0.0456
+
+Title: Untitled_41.txt
+Normalized Mystery and Strangeness Score: 0.0455
+
+Title: Whispers_at_Dusk.txt
+Normalized Mystery and Strangeness Score: 0.0544
+
+Title: The_Echo_of_Driftwood.txt
+Normalized Mystery and Strangeness Score: 0.0414
+
+Title: The_Whispering_Gallery_2.txt
+Normalized Mystery and Strangeness Score: 0.0338
+
+Title: Echoes_of_the_Creek.txt
+Normalized Mystery and Strangeness Score: 0.0446
+
+Title: The_Whispering_Woods.txt
+Normalized Mystery and Strangeness Score: 0.0462
+
+Title: The_Echoes_of_Larkspur_Lane.txt
+Normalized Mystery and Strangeness Score: 0.0290
+
+Title: The_Whispering_Gallery_3.txt
+Normalized Mystery and Strangeness Score: 0.0434
+
+Title: The_Mapmakers_Paradox.txt
+Normalized Mystery and Strangeness Score: 0.0481
+
+Title: Whispers_in_Willowmere.txt
+Normalized Mystery and Strangeness Score: 0.0298
+
+Title: Untitled_40.txt
+Normalized Mystery and Strangeness Score: 0.0183
+
+Title: Untitled_54.txt
+Normalized Mystery and Strangeness Score: 0.0398
+
+Title: The_Clockmakers_Secret_13.txt
+Normalized Mystery and Strangeness Score: 0.0340
+
+Title: The_Clockmakers_Apprentice_9.txt
+Normalized Mystery and Strangeness Score: 0.0318
+
+Title: The_Lightkeepers_Secret.txt
+Normalized Mystery and Strangeness Score: 0.0286
+
+Title: The_Echo_of_the_Lighthouse.txt
+Normalized Mystery and Strangeness Score: 0.0425
+
+Title: The_Last_Lightkeeper_4.txt
+Normalized Mystery and Strangeness Score: 0.0340
+
+Title: A_Thread_in_Time.txt
+Normalized Mystery and Strangeness Score: 0.0542
+
+Title: The_Mysterious_Island_of_Dr_Floros.txt
+Normalized Mystery and Strangeness Score: 0.0489
+
+Title: The_Forgotten_Melody_3.txt
+Normalized Mystery and Strangeness Score: 0.0552
+
+Title: The_Clockmakers_Secret_17.txt
+Normalized Mystery and Strangeness Score: 0.0364
+
+Title: The_Clockmakers_Paradox_4.txt
+Normalized Mystery and Strangeness Score: 0.0156
+
+Title: The_Lighthouse_Keeper_of_Grimsby_Point.txt
+Normalized Mystery and Strangeness Score: 0.0375
+
+Title: Untitled_50.txt
+Normalized Mystery and Strangeness Score: 0.0325
+
+Title: Untitled_44.txt
+Normalized Mystery and Strangeness Score: 0.0382
+
+Title: The_Clockmaker_of_Middlesbrooke.txt
+Normalized Mystery and Strangeness Score: 0.0542
+
+Title: Echoes_of_the_Past.txt
+Normalized Mystery and Strangeness Score: 0.0912
+
+Title: Untitled_45.txt
+Normalized Mystery and Strangeness Score: 0.0728
+
+Title: Untitled_51.txt
+Normalized Mystery and Strangeness Score: 0.0456
+
+Title: The_Lighthouse_Keeper_of_Evershore.txt
+Normalized Mystery and Strangeness Score: 0.0492
+
+Title: Echoes_of_the_Lost_Star.txt
+Normalized Mystery and Strangeness Score: 0.0352
+
+Title: The_Forgotten_Map.txt
+Normalized Mystery and Strangeness Score: 0.0404
+
+Title: The_Clockmakers_Paradox_5.txt
+Normalized Mystery and Strangeness Score: 0.0413
+
+Title: The_Clockmakers_Secret_16.txt
+Normalized Mystery and Strangeness Score: 0.0420
+
+Title: The_Ivory_Tower.txt
+Normalized Mystery and Strangeness Score: 0.0660
+
+Title: Whispers_of_the_Forgotten_Orchard.txt
+Normalized Mystery and Strangeness Score: 0.0462
+
+Title: Untitled_8.txt
+Normalized Mystery and Strangeness Score: 0.0506
+
+Title: The_Watcher_of_Westbrook_Avenue.txt
+Normalized Mystery and Strangeness Score: 0.0424
+
+Title: Whispering_Winds.txt
+Normalized Mystery and Strangeness Score: 0.0522
+
+Title: The_Last_Lightkeeper_3.txt
+Normalized Mystery and Strangeness Score: 0.0350
+
+Title: The_Clockmakers_Secret_14.txt
+Normalized Mystery and Strangeness Score: 0.0512
+
+Title: The_Clockmakers_Paradox_7.txt
+Normalized Mystery and Strangeness Score: 0.0391
+
+Title: The_Lighthouse_Keeper_of_Morwen_Bay.txt
+Normalized Mystery and Strangeness Score: 0.0593
+
+Title: The_Lighthouse_Keeper_of_Eventide.txt
+Normalized Mystery and Strangeness Score: 0.0206
+
+Title: Untitled_47.txt
+Normalized Mystery and Strangeness Score: 0.0355
+
+Title: Untitled_53.txt
+Normalized Mystery and Strangeness Score: 0.0246
+
+Title: The_Last_Lightkeeper.txt
+Normalized Mystery and Strangeness Score: 0.0378
+
+Title: The_Whispering_Wood.txt
+Normalized Mystery and Strangeness Score: 0.0573
+
+Title: Untitled_52.txt
+Normalized Mystery and Strangeness Score: 0.0209
+
+Title: Untitled_46.txt
+Normalized Mystery and Strangeness Score: 0.0378
+
+Title: Whispering_Shadows.txt
+Normalized Mystery and Strangeness Score: 0.0513
+
+Title: The_Clockmakers_Paradox_6.txt
+Normalized Mystery and Strangeness Score: 0.0195
+
+Title: The_Clockmakers_Secret_15.txt
+Normalized Mystery and Strangeness Score: 0.0477
+
+Title: The_Last_Bookstore.txt
+Normalized Mystery and Strangeness Score: 0.0321
+
+Title: A_Murmuration_of_Memories.txt
+Normalized Mystery and Strangeness Score: 0.0555
+
+Title: The_Lighthouse_Keeper_of_Merrow_Down.txt
+Normalized Mystery and Strangeness Score: 0.0468
+
+Title: Echoes_of_the_Lighthouse.txt
+Normalized Mystery and Strangeness Score: 0.0761
+
+Title: The_Last_Light_of_Eridanus.txt
+Normalized Mystery and Strangeness Score: 0.0350
+
+Title: The_Last_Lightkeeper_2.txt
+Normalized Mystery and Strangeness Score: 0.0359
+
+Title: The_Forgotten_Melody_1.txt
+Normalized Mystery and Strangeness Score: 0.0373
+
+Title: Untitled_9.txt
+Normalized Mystery and Strangeness Score: 0.0306
+
+Title: The_Glassmakers_Apprentice.txt
+Normalized Mystery and Strangeness Score: 0.0423
+
+Title: The_Echoes_of_Willowbrook.txt
+Normalized Mystery and Strangeness Score: 0.0913
 

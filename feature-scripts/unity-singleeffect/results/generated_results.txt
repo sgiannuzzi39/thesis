@@ -1,80 +1,902 @@
 ### Analysis Results for Each File ###
 
-Title: The Heart of the Woods
-VVI: 0.7332
-
-Title: The Last Starlight
-VVI: 0.7875
-
-Title: The Last Symphony
-VVI: 0.7529
+Title: The Lighthouse Keeper of Eldrige Rock
+VVI: 0.7938
 
 Title: Untitled
-VVI: 0.0000
+VVI: 0.7455
 
-Title: The Lighthouse Keeper's Gift
-VVI: 0.7480
+Title: The Echoes of Willoughby Street
+VVI: 0.7818
 
-Title: The Whispering Violin
-VVI: 0.7386
+Title: The Clockmaker of Vermilion Street
+VVI: 0.7575
 
-Title: The Painter and the Mysterious Portrait
-VVI: 0.7566
+Title: The Last Watchmaker of Fillory Street
+VVI: 0.7570
 
-Title: The Clockmaker's Secret
-VVI: 0.7452
+Title: The Lighthouse Keeper of Merrow’s Point
+VVI: 0.7721
 
-Title: The Forgotten Melody
-VVI: 0.7744
+Title: The Clockmaker's Secret 18
+VVI: 0.7527
 
-Title: The Lighthouse Keeper's Secret
-VVI: 0.7670
+Title: The Clockmaker’s Apprentice 2
+VVI: 0.7732
 
-Title: The Symphony of Life
-VVI: 0.7265
+Title: The Lighthouse Keeper’s Radiance
+VVI: 0.8104
 
-Title: The Last Symphony
-VVI: 0.7414
+Title: The Clockmaker's Heart 2
+VVI: 0.7778
 
-Title: The Magic of the Forgotten Forest
-VVI: 0.7501
+Title: Echoes of Time
+VVI: 0.7800
 
-Title: The Unseen Guardian
+Title: Adrift in the Clouds
+VVI: 0.7993
+
+Title: Echoes of the Forgotten
+VVI: 0.7969
+
+Title: The Last Sorrows of Autumn
+VVI: 0.7728
+
+Title: The Last Bookbinder of Cornish Cove
+VVI: 0.7642
+
+Title: The Clockmaker’s Apprentice 12
+VVI: 0.7770
+
+Title: Echoes of the Silent City
 VVI: 0.7595
 
-Title: The Song of the Wind
-VVI: 0.7079
+Title: The Clockmaker’s Apprentice 3
+VVI: 0.7705
 
-Title: The Unseen Melody
-VVI: 0.7243
+Title: The Clockmaker of Via del Corso
+VVI: 0.7225
 
-Title: The Enchanted Library
-VVI: 0.7965
+Title: Whispers of the Forgotten Library
+VVI: 0.7568
 
-Title: The Unseen Masterpiece
-VVI: 0.7582
+Title: The Last Lightkeeper of Eldoria
+VVI: 0.7918
 
-Title: The Forgotten Diary
-VVI: 0.7230
+Title: Untitled 5
+VVI: 0.7520
 
-Title: The Lost Melody
-VVI: 0.7256
+Title: Echoes of Selene
+VVI: 0.7363
 
-Title: The Magic Quill
-VVI: 0.7447
+Title: The Secret of Eldridge Manor
+VVI: 0.7777
 
-Title: The Enchanted Canvas
-VVI: 0.7636
+Title: Untitled 7
+VVI: 0.7624
 
-Title: The Last Dance of the Fireflies
-VVI: 0.7629
+Title: The Last Garden 4
+VVI: 0.7548
 
-Title: The Colors of Time
-VVI: 0.7143
+Title: The Vanishing Act
+VVI: 0.7878
 
-Title: The Forgotten Melody
+Title: The Clockmaker's Paradox 8
+VVI: 0.7824
+
+Title: The Lighthouse Keeper of Eldwen
+VVI: 0.7769
+
+Title: The Clockmaker’s Promise
+VVI: 0.7608
+
+Title: The Last Symphony
+VVI: 0.7556
+
+Title: The Clockmaker's Apprentice 10
+VVI: 0.7689
+
+Title: Untitled 48
+VVI: 0.7744
+
+Title: The Paradox Clock
+VVI: 0.7672
+
+Title: The Lighthouse Keeper of Corwyn Point
+VVI: 0.7996
+
+Title: Echoes of Starlight
+VVI: 0.7474
+
+Title: Untitled 49
+VVI: 0.7899
+
+Title: The Timekeeper’s Paradox
+VVI: 0.7671
+
+Title: The Clockmaker’s Apprentice 11
+VVI: 0.7918
+
+Title: The Clockmaker’s Paradox 9
+VVI: 0.7671
+
+Title: Untitled 6
+VVI: 0.7253
+
+Title: The Midnight Hour
+VVI: 0.7654
+
+Title: Untitled 2
+VVI: 0.7771
+
+Title: The Smithfield Heirloom
+VVI: 0.7663
+
+Title: The Shadow Collector
+VVI: 0.7504
+
+Title: The Clockmaker’s Apprentice
+VVI: 0.7970
+
+Title: The Clockmaker's Heart
+VVI: 0.7849
+
+Title: The Last Lantern
+VVI: 0.7667
+
+Title: The Lighthouse Keeper’s Secret
+VVI: 0.7763
+
+Title: The Last Garden
+VVI: 0.7829
+
+Title: The Fiddler in the Forest
+VVI: 0.7394
+
+Title: The Lighthouse Keeper of Morwen's Cove
+VVI: 0.7568
+
+Title: The Clockmaker's Apprentice 5
+VVI: 0.7646
+
+Title: Shards of the Old World
+VVI: 0.7657
+
+Title: A Whisper Down Dellridge Lane
+VVI: 0.7826
+
+Title: Untitled 3
+VVI: 0.7581
+
+Title: The Last Garden 2
+VVI: 0.7822
+
+Title: The Clockmaker’s Apprentice 7
+VVI: 0.7653
+
+Title: The Last Page
+VVI: 0.7439
+
+Title: The Lighthouse Keeper 2
+VVI: 0.7338
+
+Title: The Echoing Green
+VVI: 0.7527
+
+Title: Echoes of Jupiter
+VVI: 0.7694
+
+Title: The Lighthouse Keeper
+VVI: 0.8029
+
+Title: Whispers of the Old Willow
+VVI: 0.7721
+
+Title: Echoes of the Past 2
+VVI: 0.7507
+
+Title: The Clockmaker's Apprentice 6
+VVI: 0.7729
+
+Title: The Clockmaker of Mirewood
+VVI: 0.7603
+
+Title: A Moonlit Sonata
+VVI: 0.7688
+
+Title: The Last Garden 3
+VVI: 0.7739
+
+Title: The Weeping Timekeeper
+VVI: 0.7902
+
+Title: The Ascent
+VVI: 0.7759
+
+Title: The Clockmaker’s Paradox 19
+VVI: 0.7544
+
+Title: The Clockmaker of Tirsol
+VVI: 0.7564
+
+Title: Among the Shadows of Winter
+VVI: 0.7517
+
+Title: The Curious Case of Caelum Mellor
+VVI: 0.7824
+
+Title: Untitled 14
+VVI: 0.7866
+
+Title: The Curator’s Clock
+VVI: 0.7713
+
+Title: Untitled 28
+VVI: 0.7646
+
+Title: Whispers in the Willow
+VVI: 0.7956
+
+Title: The Last Garden of Mars
+VVI: 0.7823
+
+Title: The Clockmaker of Solitude
+VVI: 0.7687
+
+Title: Echoes of the Fallen Star
+VVI: 0.7716
+
+Title: The Unseen Library
+VVI: 0.7778
+
+Title: Untitled 29
+VVI: 0.7945
+
+Title: Whispers of the Old Lore
+VVI: 0.7606
+
+Title: Untitled 15
+VVI: 0.7845
+
+Title: The Echoes of Redstone Manor
+VVI: 0.7837
+
+Title: The Clockmaker’s Paradox 24
+VVI: 0.7564
+
+Title: The Clockmaker’s Paradox 18
+VVI: 0.7513
+
+Title: The Lighthouse Keeper’s Secret 9
+VVI: 0.7191
+
+Title: Whispering Pines
+VVI: 0.7675
+
+Title: The Echoes of Margaret’s Grove
+VVI: 0.7659
+
+Title: Untitled 17
+VVI: 0.7472
+
+Title: The Clockmaker’s Secret 8
+VVI: 0.7436
+
+Title: The Last Light of Arvale
+VVI: 0.7556
+
+Title: The Echoes of 5th Avenue
+VVI: 0.7690
+
+Title: The Whispering Winds of Ballymore
+VVI: 0.7754
+
+Title: Echoes of Juniper Hollow
+VVI: 0.7648
+
+Title: The Lost Manuscript of Thistle Grove
+VVI: 0.7604
+
+Title: Shadows on Lavender Walls
+VVI: 0.7684
+
+Title: Untitled 16
+VVI: 0.7596
+
+Title: The Clockmaker's Secret 9
+VVI: 0.7640
+
+Title: The Clockmaker’s Secret
+VVI: 0.7523
+
+Title: The Lighthouse Keeper's Secret 8
+VVI: 0.7355
+
+Title: The Clockmaker’s Paradox 23
+VVI: 0.7618
+
+Title: The Last Light of Loria
+VVI: 0.7604
+
+Title: Echoes of the Forgotten 2
+VVI: 0.7258
+
+Title: The Clockmaker's Legacy
+VVI: 0.7634
+
+Title: Untitled 12
+VVI: 0.7595
+
+Title: Untitled 13
+VVI: 0.7542
+
+Title: The Glassmaker's Paradox
+VVI: 0.7577
+
+Title: Echoes of the Forgotten 3
+VVI: 0.7681
+
+Title: The Clockmaker’s Paradox 22
+VVI: 0.7696
+
+Title: The Clockmaker’s Paradox 20
+VVI: 0.7612
+
+Title: The Clockmaker's Legacy 8
+VVI: 0.7899
+
+Title: Untitled 39
+VVI: 0.7705
+
+Title: Untitled 11
+VVI: 0.7742
+
+Title: The Lighthouse Keeper of Parson’s Cove
+VVI: 0.7769
+
+Title: Whispers of Eloria
+VVI: 0.7649
+
+Title: Untitled 10
+VVI: 0.7428
+
+Title: The Last Symphony of Mr. Clements
+VVI: 0.7596
+
+Title: Untitled 38
+VVI: 0.7136
+
+Title: The Clockmaker of Via Marcello
+VVI: 0.7482
+
+Title: The Hourglass Symphony
+VVI: 0.7517
+
+Title: Elysium's Mist
+VVI: 0.7465
+
+Title: The Clockmaker’s Paradox 21
+VVI: 0.7887
+
+Title: The Lighthouse Keeper's Secret 3
+VVI: 0.7663
+
+Title: The Lighthouse Keeper’s Diary 3
+VVI: 0.7902
+
+Title: The Shadow on Sundial Court
+VVI: 0.7585
+
+Title: The Clockmaker's Paradox 10
+VVI: 0.7497
+
+Title: The Whispering Wood 2
+VVI: 0.7615
+
+Title: The Clockmaker’s Apprentice
+VVI: 0.7531
+
+Title: The Clockmaker’s Legacy 4
+VVI: 0.7780
+
+Title: Untitled 21
+VVI: 0.7715
+
+Title: Untitled 35
+VVI: 0.7658
+
+Title: The Clockmaker's Secret 2
+VVI: 0.7465
+
+Title: Echoes of Jupiter 2
+VVI: 0.7555
+
+Title: Echoes of Jupiter 3
+VVI: 0.7691
+
+Title: The Clockmaker's Secret 3
+VVI: 0.7804
+
+Title: Untitled 34
+VVI: 0.7640
+
+Title: Untitled 20
+VVI: 0.7169
+
+Title: The Clockmaker's Legacy
+VVI: 0.7544
+
+Title: The Echoes of Jasmine
+VVI: 0.7456
+
+Title: The Lighthouse Keeper’s Secret 12
+VVI: 0.7558
+
+Title: The Clockmaker’s Paradox 11
+VVI: 0.7383
+
+Title: Untitled
+VVI: 0.7557
+
+Title: The Lighthouse Keeper’s Diary 2
+VVI: 0.7541
+
+Title: The Lighthouse Keeper’s Secret 2
+VVI: 0.7718
+
+Title: The Echoes of Elkwood
+VVI: 0.7646
+
+Title: The Clockmaker's Paradox 13
+VVI: 0.7620
+
+Title: The Lighthouse Keeper's Secret 10
+VVI: 0.7683
+
+Title: The Lighthouse Keeper
+VVI: 0.7899
+
+Title: The Man with the Silver Clarinet
+VVI: 0.7430
+
+Title: The Map of Lost Echoes
+VVI: 0.7778
+
+Title: The Clockmaker's Legacy 7
+VVI: 0.7625
+
+Title: Untitled 36
+VVI: 0.7322
+
+Title: Untitled 22
+VVI: 0.7465
+
+Title: The Whispering Gallery
+VVI: 0.7544
+
+Title: Broken Wings
+VVI: 0.7843
+
+Title: Untitled 23
+VVI: 0.7633
+
+Title: Untitled 37
+VVI: 0.7400
+
+Title: The Clockmaker's Legacy 6
+VVI: 0.7784
+
+Title: The Sound of Silver
+VVI: 0.7728
+
+Title: The Silvered Hourglass
+VVI: 0.7283
+
+Title: The Lighthouse Keeper’s Secret 11
+VVI: 0.7725
+
+Title: The Clockmaker's Paradox 12
+VVI: 0.7739
+
+Title: Echoes of Winter
+VVI: 0.7550
+
+Title: The Lighthouse Keeper’s Secret 5
+VVI: 0.7670
+
+Title: The Lighthouse Keeper of Calloway Rock
+VVI: 0.7530
+
+Title: The Clockmaker’s Paradox 16
+VVI: 0.7777
+
+Title: The Clockmaker of Sivelin
+VVI: 0.7588
+
+Title: The Clockmaker’s Legacy 2
+VVI: 0.7620
+
+Title: The Clockmaker’s Secret 4
+VVI: 0.7684
+
+Title: The Last Page 2
+VVI: 0.7477
+
+Title: Untitled 33
+VVI: 0.7784
+
+Title: The Lighthouse Keeper's Diary
+VVI: 0.7690
+
+Title: Untitled 27
+VVI: 0.7449
+
+Title: Whispers of the Past 3
+VVI: 0.7722
+
+Title: The Midnight Librarian
+VVI: 0.7293
+
+Title: Whispers of the Past 2
+VVI: 0.7734
+
+Title: Untitled 26
+VVI: 0.7669
+
+Title: Untitled 32
+VVI: 0.7717
+
+Title: The Clockmaker’s Secret 5
+VVI: 0.7657
+
+Title: The Clockmaker's Legacy 3
 VVI: 0.7538
 
-Title: The Time Capsule
-VVI: 0.7305
+Title: The Lighthouse Keeper of Eldritch Shores
+VVI: 0.7566
+
+Title: The Clockmaker's Paradox 17
+VVI: 0.7566
+
+Title: The Lighthouse Keeper's Secret 3
+VVI: 0.7632
+
+Title: The Lighthouse Keeper’s Diary 4
+VVI: 0.7642
+
+Title: The Last Bookstore 2
+VVI: 0.7894
+
+Title: The Lighthouse Keeper's Secret 6
+VVI: 0.7495
+
+Title: The Last Pages of Summer
+VVI: 0.7442
+
+Title: The Clockmaker’s Paradox 15
+VVI: 0.7824
+
+Title: The Ledger of Lemuel Pike
+VVI: 0.7747
+
+Title: Whispers of the Old Willow 3
+VVI: 0.7868
+
+Title: A Whisper of Wind
+VVI: 0.7558
+
+Title: The Clockmaker’s Secret 7
+VVI: 0.7751
+
+Title: Untitled 18
+VVI: 0.7834
+
+Title: Untitled 24
+VVI: 0.7678
+
+Title: Untitled 30
+VVI: 0.7569
+
+Title: The Mask of Camille
+VVI: 0.7728
+
+Title: Untitled 31
+VVI: 0.7495
+
+Title: The Echoes of Yesterday
+VVI: 0.7825
+
+Title: Untitled 25
+VVI: 0.7490
+
+Title: The Clockmaker’s Secret 6
+VVI: 0.7663
+
+Title: Untitled 19
+VVI: 0.7578
+
+Title: The Clockmaker’s Paradox
+VVI: 0.7545
+
+Title: The Last Light of Dusk
+VVI: 0.7700
+
+Title: Whispers of the Old Willow 2
+VVI: 0.7756
+
+Title: The Last Light of Fidelis
+VVI: 0.7229
+
+Title: The Symphony of Mr. Bartholomew
+VVI: 0.7842
+
+Title: The Clockmaker’s Paradox 14
+VVI: 0.7524
+
+Title: The Lighthouse Keeper’s Secret 7
+VVI: 0.7702
+
+Title: The Echoes of Amissville
+VVI: 0.7602
+
+Title: The Last Lightkeeper 6
+VVI: 0.8122
+
+Title: Whispers of the Past
+VVI: 0.7746
+
+Title: The Forgotten Melody 2
+VVI: 0.7592
+
+Title: The Clockmaker of Vernazza
+VVI: 0.7608
+
+Title: The Clockmaker’s Paradox 2
+VVI: 0.7692
+
+Title: The Clockmaker’s Secret 11
+VVI: 0.7750
+
+Title: The Midnight Library
+VVI: 0.7392
+
+Title: The Echoes of Jupiter
+VVI: 0.7451
+
+Title: Untitled 42
+VVI: 0.7518
+
+Title: Untitled 56
+VVI: 0.7621
+
+Title: The Clockmaker’s Promise 3
+VVI: 0.7412
+
+Title: The Clockmaker’s Gift
+VVI: 0.7560
+
+Title: The Lighthouse Keeper of Eldritch Cove
+VVI: 0.7606
+
+Title: The Clockmaker’s Promise 2
+VVI: 0.7368
+
+Title: Untitled 43
+VVI: 0.8061
+
+Title: The Clockmaker's Secret 10
+VVI: 0.7758
+
+Title: The Clockmaker's Paradox
+VVI: 0.7562
+
+Title: The Forgotten Melody 4
+VVI: 0.7742
+
+Title: The Last Lightkeeper 5
+VVI: 0.7335
+
+Title: The Vanishing Point
+VVI: 0.7569
+
+Title: The Lockbox
+VVI: 0.7578
+
+Title: The Clockmaker's Apprentice 8
+VVI: 0.7591
+
+Title: The Clockmaker’s Secret 12
+VVI: 0.7848
+
+Title: Untitled
+VVI: 0.7753
+
+Title: Untitled 41
+VVI: 0.7651
+
+Title: Whispers at Dusk
+VVI: 0.7649
+
+Title: The Echo of Driftwood
+VVI: 0.7810
+
+Title: The Whispering Gallery 2
+VVI: 0.7466
+
+Title: Echoes of the Creek
+VVI: 0.7613
+
+Title: The Whispering Woods
+VVI: 0.7545
+
+Title: The Echoes of Larkspur Lane
+VVI: 0.7634
+
+Title: The Whispering Gallery 3
+VVI: 0.7539
+
+Title: The Mapmaker’s Paradox
+VVI: 0.7552
+
+Title: Whispers in Willowmere
+VVI: 0.7517
+
+Title: Untitled 40
+VVI: 0.7487
+
+Title: Untitled 54
+VVI: 0.7549
+
+Title: The Clockmaker’s Secret 13
+VVI: 0.7568
+
+Title: The Clockmaker’s Apprentice 9
+VVI: 0.7451
+
+Title: The Lightkeeper's Secret
+VVI: 0.7661
+
+Title: The Echo of the Lighthouse
+VVI: 0.7628
+
+Title: The Last Lightkeeper 4
+VVI: 0.7661
+
+Title: A Thread in Time
+VVI: 0.7813
+
+Title: The Mysterious Island of Dr. Floros
+VVI: 0.7891
+
+Title: The Forgotten Melody 3
+VVI: 0.7535
+
+Title: The Clockmaker’s Secret 17
+VVI: 0.7467
+
+Title: The Clockmaker’s Paradox 4
+VVI: 0.7639
+
+Title: The Lighthouse Keeper of Grimsby Point
+VVI: 0.7804
+
+Title: Untitled 50
+VVI: 0.7706
+
+Title: Untitled 44
+VVI: 0.7588
+
+Title: The Clockmaker of Middlesbrooke
+VVI: 0.7389
+
+Title: Echoes of the Past
+VVI: 0.7835
+
+Title: Untitled 45
+VVI: 0.7536
+
+Title: Untitled 51
+VVI: 0.7797
+
+Title: The Lighthouse Keeper of Evershore
+VVI: 0.7779
+
+Title: Echoes of the Lost Star
+VVI: 0.8013
+
+Title: The Forgotten Map
+VVI: 0.7398
+
+Title: The Clockmaker’s Paradox 5
+VVI: 0.7996
+
+Title: The Clockmaker's Secret 16
+VVI: 0.7597
+
+Title: The Ivory Tower
+VVI: 0.7631
+
+Title: Whispers of the Forgotten Orchard
+VVI: 0.7702
+
+Title: Untitled 8
+VVI: 0.7640
+
+Title: The Watcher of Westbrook Avenue
+VVI: 0.7468
+
+Title: Whispering Winds
+VVI: 0.7647
+
+Title: The Last Lightkeeper 3
+VVI: 0.7595
+
+Title: The Clockmaker’s Secret 14
+VVI: 0.7787
+
+Title: The Clockmaker’s Paradox 7
+VVI: 0.7731
+
+Title: The Lighthouse Keeper of Morwen Bay
+VVI: 0.7351
+
+Title: The Lighthouse Keeper of Eventide
+VVI: 0.7734
+
+Title: Untitled 47
+VVI: 0.7513
+
+Title: Untitled 53
+VVI: 0.7533
+
+Title: The Last Lightkeeper
+VVI: 0.7626
+
+Title: The Whispering Wood
+VVI: 0.7420
+
+Title: Untitled 52
+VVI: 0.7958
+
+Title: Untitled 46
+VVI: 0.7601
+
+Title: Whispering Shadows
+VVI: 0.7412
+
+Title: The Clockmaker's Paradox 6
+VVI: 0.7619
+
+Title: The Clockmaker’s Secret 15
+VVI: 0.7509
+
+Title: The Last Bookstore
+VVI: 0.7868
+
+Title: A Murmuration of Memories
+VVI: 0.7764
+
+Title: The Lighthouse Keeper of Merrow Down
+VVI: 0.7703
+
+Title: Echoes of the Lighthouse
+VVI: 0.7773
+
+Title: The Last Light of Eridanus
+VVI: 0.7443
+
+Title: The Last Lightkeeper 2
+VVI: 0.7806
+
+Title: The Forgotten Melody
+VVI: 0.7517
+
+Title: Untitled 9
+VVI: 0.7734
+
+Title: The Glassmaker's Apprentice
+VVI: 0.7832
+
+Title: The Echoes of Willowbrook
+VVI: 0.7703
 

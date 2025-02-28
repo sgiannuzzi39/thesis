@@ -49,7 +49,7 @@ def main():
         vvi_data, 
         labels, 
         "VVI: Generated vs. Human Stories", 
-        "Verbal Variety Index (VVI)", 
+        "VVI: Weighted Lexical Diversity Score", 
         "vvi_boxplot.png"
     )
 

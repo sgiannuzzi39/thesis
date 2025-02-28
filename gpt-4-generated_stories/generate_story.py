@@ -2,10 +2,11 @@
     Code co-authored with ChatGPT
     conda activate new_env
 """
+
 from openai import OpenAI
 import os
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="___")
 
 def generate_story_part(prompt, max_tokens=4000):
     try:

@@ -1,77 +1,902 @@
 ### Analysis Results for Each File ###
 
-Title: Goodbye, My Brother
-VVI: 0.6636
+Title: Timbuctoo
+VVI: 0.3580
 
-Title: The Tell-Tale Heart
-VVI: 0.6948
+Title: The Thousand-And-Second Tale of Scheherazade
+VVI: 0.7131
 
-Title: Mother
-VVI: 0.6673
-
-Title: Uncle Wiggily in Connecticut
-VVI: 0.6398
-
-Title: The Aleph
-VVI: 0.7763
-
-Title: Why Don’t You Dance?
-VVI: 0.6405
-
-Title: The Gardener
-VVI: 0.7099
-
-Title: How to Tell a True War Story
-VVI: 0.6611
-
-Title: Big Two-Hearted River
-VVI: 0.5759
-
-Title: The Indian Uprising
-VVI: 0.7760
-
-Title: The Midnight Zone
-VVI: 0.7192
-
-Title: Lost in the Funhouse
-VVI: 0.6955
-
-Title: The Dead
-VVI: 0.6404
-
-Title: Two Men Arrive in a Village
-VVI: 0.7343
-
-Title: Brokeback Mountain
-VVI: 0.6685
+Title: The Soldier's Peaches
+VVI: 0.6457
 
 Title: Ghoul
-VVI: 0.6514
+VVI: 0.6520
+
+Title: A Very Old Man with Enormous Wings
+VVI: 0.7649
+
+Title: The Stranger
+VVI: 0.6360
+
+Title: The Sisters
+VVI: 0.7020
+
+Title: Lady with the Dog
+VVI: 0.6807
+
+Title: A Few Normal Things That Happen A Lot
+VVI: 0.7265
+
+Title: Turkeys Turning The Tables
+VVI: 0.6509
 
 Title: Who Will Greet You at Home
-VVI: 0.6752
+VVI: 0.6763
 
-Title: The Yellow Wallpaper
-VVI: 0.6412
+Title: Beyond the Wall
+VVI: 0.7548
 
-Title: Gooseberries
-VVI: 0.6908
+Title: Split Cherry Tree
+VVI: 0.5857
 
-Title: All Summer in a Day
-VVI: 0.7073
+Title: The Consul
+VVI: 0.6818
+
+Title: What Christmas Is As We Grow Older
+VVI: 0.7422
+
+Title: The Boarding House
+VVI: 0.7496
+
+Title: Some Things About Typewriters
+VVI: 0.8415
+
+Title: The Colonel's Ideas
+VVI: 0.7104
+
+Title: Conditions for Growing
+VVI: 0.7807
+
+Title: Waiter, a Bock!
+VVI: 0.7152
+
+Title: There Is No World
+VVI: 0.8270
+
+Title: I'm Exaggerating
+VVI: 0.8252
+
+Title: The Cats of Ulthar
+VVI: 0.7584
+
+Title: Bellflower
+VVI: 0.7360
+
+Title: Rikki-Tikki-Tavi
+VVI: 0.6061
+
+Title: The Fourth Trimester
+VVI: 0.8110
+
+Title: The End of the Party
+VVI: 0.7031
+
+Title: My Dear You
+VVI: 0.7215
+
+Title: Possum
+VVI: 0.7216
+
+Title: Outside the Raft
+VVI: 0.7188
 
 Title: Bela
-VVI: 0.6282
+VVI: 0.6288
+
+Title: The Veteran
+VVI: 0.7780
+
+Title: The Tomb
+VVI: 0.7642
+
+Title: In the Red Room
+VVI: 0.7384
+
+Title: The Terrible Old Man
+VVI: 0.7957
+
+Title: Preservation
+VVI: 0.7326
+
+Title: The Dowry
+VVI: 0.7056
+
+Title: Predator Satiation
+VVI: 0.7483
+
+Title: The Snows of Kilimanjaro
+VVI: 0.6489
+
+Title: An Alpine Divorce
+VVI: 0.7072
+
+Title: Indiscretion
+VVI: 0.7022
+
+Title: Lamb to the Slaughter
+VVI: 0.6208
+
+Title: According to Their Lights
+VVI: 0.7982
+
+Title: The Celebrated Jumping Frog of Calaveras County
+VVI: 0.7107
+
+Title: The Cop and the Anthem
+VVI: 0.8040
+
+Title: Marjorie Daw
+VVI: 0.7208
+
+Title: Von Kempelen and His Discovery
+VVI: 0.7365
+
+Title: Biblical Proportions
+VVI: 0.8289
+
+Title: Sisters
+VVI: 0.6583
+
+Title: In the Exclusion Zone
+VVI: 0.7669
+
+Title: The Sphinx Without a Secret
+VVI: 0.7190
+
+Title: Leiningen Versus the Ants
+VVI: 0.6759
+
+Title: The Doll's House
+VVI: 0.6851
+
+Title: Why Don’t You Dance?
+VVI: 0.6433
+
+Title: Ron
+VVI: 0.7284
+
+Title: Witches' Loaves
+VVI: 0.7684
+
+Title: Sea Change
+VVI: 0.7780
+
+Title: Pity and Shame
+VVI: 0.6346
+
+Title: The Bet
+VVI: 0.7231
+
+Title: Italian with Grammar
+VVI: 0.7541
+
+Title: The Yellow Wallpaper
+VVI: 0.6426
+
+Title: The Affair at Coulter's Notch
+VVI: 0.7398
+
+Title: The Yarkand Manner
+VVI: 0.7924
+
+Title: What You Want
+VVI: 0.7730
+
+Title: The Black Cat
+VVI: 0.7325
+
+Title: Hunters in the Snow
+VVI: 0.6275
+
+Title: All Summer in a Day
+VVI: 0.7088
+
+Title: Glass People
+VVI: 0.7808
+
+Title: Pigs Is Pigs
+VVI: 0.6924
+
+Title: The Wedding-Knell
+VVI: 0.7424
+
+Title: Untitled
+VVI: 0.5762
+
+Title: Hands
+VVI: 0.7328
+
+Title: The Monk Dilemma
+VVI: 0.7886
+
+Title: Haircut
+VVI: 0.6143
+
+Title: Transients in Arcadia
+VVI: 0.7851
+
+Title: The Diary of a Madman
+VVI: 0.7453
+
+Title: Hearts And Hands
+VVI: 0.7500
+
+Title: It’s Only Been Me, All This Time
+VVI: 0.7353
+
+Title: Theodule Sabot's Confession
+VVI: 0.7065
+
+Title: Regarding Lichen
+VVI: 0.8490
+
+Title: The Coming of the King
+VVI: 0.7610
+
+Title: The Wreck
+VVI: 0.6903
+
+Title: Swamps
+VVI: 0.8044
+
+Title: The Bug Man
+VVI: 0.8376
+
+Title: Shooting an Elephant
+VVI: 0.7131
+
+Title: The Baron of Grogzwig
+VVI: 0.7252
+
+Title: Princess Mary
+VVI: 0.6091
+
+Title: The Spoils
+VVI: 0.8237
+
+Title: Young Goodman Brown
+VVI: 0.6826
+
+Title: The Superstition of Albatross
+VVI: 0.6747
+
+Title: Berenice
+VVI: 0.7631
+
+Title: Whatever Remains
+VVI: 0.8103
+
+Title: Madame Parisse
+VVI: 0.7509
+
+Title: Gooseberries
+VVI: 0.6917
+
+Title: A Retrieved Reformation
+VVI: 0.7387
+
+Title: The Salesman
+VVI: 0.7889
+
+Title: Fantasy
+VVI: 0.8085
+
+Title: African Violets
+VVI: 0.8606
+
+Title: The Door in the Wall
+VVI: 0.6752
+
+Title: Araby
+VVI: 0.7550
+
+Title: A School Story
+VVI: 0.6814
+
+Title: Christmas Alligator
+VVI: 0.7808
+
+Title: Sredni Vashtar
+VVI: 0.7773
+
+Title: Where Are You Going, Where Have You Been?
+VVI: 0.6286
+
+Title: The Sniper
+VVI: 0.7304
+
+Title: Springtime a la Carte
+VVI: 0.7848
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker)
+VVI: 0.6953
+
+Title: Goodbye, My Brother
+VVI: 0.6643
+
+Title: Clouds Eat Blue Sky
+VVI: 0.8292
+
+Title: A True Story, Repeated Word for Word As I Heard It
+VVI: 0.6673
+
+Title: I Have Her Memories Now
+VVI: 0.6885
+
+Title: The Christening
+VVI: 0.7398
+
+Title: How To Breathe Without Thinking About It
+VVI: 0.7312
+
+Title: Gusev
+VVI: 0.6626
+
+Title: Was it Heaven? Or Hell?
+VVI: 0.6830
+
+Title: A Respectable Woman
+VVI: 0.7517
+
+Title: Two Friends
+VVI: 0.7445
+
+Title: Babes in the Jungle
+VVI: 0.7435
+
+Title: The Girl Who Did Not Know Fear
+VVI: 0.6619
+
+Title: Gentlemen: The King!
+VVI: 0.7146
+
+Title: The Drunkard
+VVI: 0.7137
+
+Title: The Story of Keesh
+VVI: 0.6753
+
+Title: The Vendetta
+VVI: 0.7459
+
+Title: Molting
+VVI: 0.8437
+
+Title: A Vagabond
+VVI: 0.6761
+
+Title: The Tell-Tale Heart
+VVI: 0.6969
+
+Title: Robert Kennedy Saved From Drowning
+VVI: 0.7463
+
+Title: An Uncomfortable Bed
+VVI: 0.7890
+
+Title: Man From The South
+VVI: 0.6258
+
+Title: Mademoiselle Fifi
+VVI: 0.7040
+
+Title: The Burial of the Guns
+VVI: 0.6394
+
+Title: Coda
+VVI: 0.7581
+
+Title: Jim Baker's Blue-Jay Yarn
+VVI: 0.6865
+
+Title: The Unrest-Cure
+VVI: 0.7573
+
+Title: Mademoiselle Pearl
+VVI: 0.6613
+
+Title: The Death Of A Government Clerk
+VVI: 0.7463
+
+Title: The Selfish Giant
+VVI: 0.6574
+
+Title: The Child's Story
+VVI: 0.6801
+
+Title: After the Race
+VVI: 0.7879
+
+Title: An Affair of State
+VVI: 0.7073
+
+Title: The Vertical Fields
+VVI: 0.7984
+
+Title: The Storyteller (Saki)
+VVI: 0.7194
+
+Title: The Ambitious Guest
+VVI: 0.7335
+
+Title: Beautiful Animals
+VVI: 0.7604
+
+Title: The Street That Got Mislaid
+VVI: 0.7520
+
+Title: The Shed Chamber
+VVI: 0.6370
+
+Title: The Unknown
+VVI: 0.7353
+
+Title: Hills Like White Elephants
+VVI: 0.5590
+
+Title: Postwar
+VVI: 0.7578
+
+Title: ON AUGUST EIGHTEENTH AT TEN THIRTY PM, ANNIE OTSUKA WATCHED HER FIRST JAPANESE ANIMATED FILM
+VVI: 0.8061
+
+Title: All the Sea in the Fish
+VVI: 0.8138
+
+Title: Souls Belated
+VVI: 0.6872
 
 Title: A Temporary Matter
-VVI: 0.6931
+VVI: 0.6938
 
-Title: The Overcoat
-VVI: 0.6412
+Title: Vanka
+VVI: 0.7291
+
+Title: Useless Beauty
+VVI: 0.6652
+
+Title: Gretel's Dreams
+VVI: 0.8076
+
+Title: The Shoemaker And The Devil
+VVI: 0.6889
+
+Title: A Guided Tour of the Sistine Chapel Ceiling
+VVI: 0.7557
+
+Title: The Other Side of the Fence
+VVI: 0.8304
+
+Title: My Coworker’s Obituary Photograph
+VVI: 0.7684
+
+Title: How I Edited an Agricultural Paper
+VVI: 0.7430
+
+Title: Career Counseling
+VVI: 0.7228
+
+Title: The Unkindest Blow
+VVI: 0.8216
+
+Title: She Was Warned
+VVI: 0.7523
+
+Title: Politics and the English Language
+VVI: 0.7247
+
+Title: Break
+VVI: 0.7575
+
+Title: How the Widow Won the Deacon
+VVI: 0.7091
+
+Title: The Devil
+VVI: 0.7018
+
+Title: Two Little Soldiers
+VVI: 0.7129
+
+Title: Skeleton Lake: An Episode in Camp
+VVI: 0.7143
+
+Title: Go Limp
+VVI: 0.8418
+
+Title: I Don’t Think of You (until I do)
+VVI: 0.8096
+
+Title: Julie Romain
+VVI: 0.7256
+
+Title: Analysis
+VVI: 0.8750
+
+Title: An Encounter
+VVI: 0.7157
+
+Title: The Time Machine
+VVI: 0.5886
+
+Title: Beware of the Dog
+VVI: 0.6011
+
+Title: The Big Lemon
+VVI: 0.7996
+
+Title: Toine
+VVI: 0.7143
+
+Title: Irreversible
+VVI: 0.8137
+
+Title: Mendelssohn
+VVI: 0.6898
+
+Title: Jerry
+VVI: 0.7741
+
+Title: The Disappearance of Crispina Umberleigh
+VVI: 0.7807
+
+Title: The School
+VVI: 0.7302
+
+Title: How the Leopard Got His Spots
+VVI: 0.6331
+
+Title: He Was Trying to Say Something and He Couldn’t Get It Out
+VVI: 0.7239
+
+Title: His Wife's Deceased Sister
+VVI: 0.6946
+
+Title: The Fully-Conducted Tour
+VVI: 0.7225
+
+Title: The Boathouse
+VVI: 0.7338
+
+Title: The Velveteen Rabbit
+VVI: 0.6371
+
+Title: Network
+VVI: 0.7696
+
+Title: Bad Luck Meditation
+VVI: 0.7962
+
+Title: Sink Monkey
+VVI: 0.7678
+
+Title: The Huntress
+VVI: 0.8063
+
+Title: The Whirligig of Life
+VVI: 0.7465
+
+Title: New Fruit
+VVI: 0.7202
+
+Title: The Aleph
+VVI: 0.7764
+
+Title: The School of English
+VVI: 0.6854
+
+Title: A Vine on a House
+VVI: 0.8010
+
+Title: The Strangers That Came to Town
+VVI: 0.7357
+
+Title: Tacky Goblin
+VVI: 0.7738
+
+Title: Inauguration
+VVI: 0.7819
+
+Title: How to Tell a True War Story
+VVI: 0.6623
+
+Title: The Schartz-Metterklume Method
+VVI: 0.7806
+
+Title: The Donkey
+VVI: 0.6918
+
+Title: A Telephone Call
+VVI: 0.5530
+
+Title: Hungarian Sprats
+VVI: 0.8025
+
+Title: A Syrian Winter
+VVI: 0.7908
+
+Title: A Sound of Thunder
+VVI: 0.6769
+
+Title: The Egg
+VVI: 0.6665
+
+Title: Picnic
+VVI: 0.7741
+
+Title: Abyssal Gigantism
+VVI: 0.6993
+
+Title: The Elephant's Child
+VVI: 0.6401
+
+Title: The Coming-Out of Maggie
+VVI: 0.7580
+
+Title: Origami
+VVI: 0.7383
+
+Title: The Cask of Amontillado
+VVI: 0.7529
+
+Title: Game
+VVI: 0.6523
+
+Title: Afterward
+VVI: 0.6620
+
+Title: Keeping Watch
+VVI: 0.6472
+
+Title: That Pig of a Morin
+VVI: 0.6819
+
+Title: The Game
+VVI: 0.8084
+
+Title: Girl
+VVI: 0.7969
+
+Title: Scan
+VVI: 0.7632
+
+Title: The Dreamer
+VVI: 0.7633
+
+Title: How Santa Claus Came to Simpson's Bar
+VVI: 0.7374
+
+Title: Jimmy Scarecrow's Christmas
+VVI: 0.6937
+
+Title: The Enchanted Bluff
+VVI: 0.7142
+
+Title: The Darling
+VVI: 0.6675
+
+Title: Rescue
+VVI: 0.6884
+
+Title: Jean Wants
+VVI: 0.8306
+
+Title: Alien Hunters
+VVI: 0.7894
+
+Title: In The Ravine
+VVI: 0.6221
+
+Title: An Occurrence at Owl Creek Bridge
+VVI: 0.7544
+
+Title: Dance Dance Revolution
+VVI: 0.7829
+
+Title: What Occurred at Franklin
+VVI: 0.7537
+
+Title: Uncle Ray Intercedes for Us
+VVI: 0.8992
+
+Title: To Build a Fire
+VVI: 0.6318
+
+Title: Postcards
+VVI: 0.7772
+
+Title: The Wind's Tale
+VVI: 0.6856
+
+Title: Hermann The Irascible
+VVI: 0.8201
+
+Title: L'Heure Bleue
+VVI: 0.8515
+
+Title: Saturday Night Special
+VVI: 0.7232
+
+Title: Honest. Open. Willing.
+VVI: 0.7600
+
+Title: The Thorny Road of Honor
+VVI: 0.7845
+
+Title: Humiliation
+VVI: 0.7418
+
+Title: The Way to the Dairy
+VVI: 0.7153
+
+Title: Perspective
+VVI: 0.7886
+
+Title: Escape Plans
+VVI: 0.7834
+
+Title: Natural Order
+VVI: 0.8522
+
+Title: With Gun
+VVI: 0.8226
+
+Title: The Righting Reflex
+VVI: 0.8257
+
+Title: Brokeback Mountain
+VVI: 0.6690
+
+Title: Untitled
+VVI: 0.6861
+
+Title: Gentle Hand
+VVI: 0.7196
+
+Title: The Boy And The Filberts
+VVI: 0.8552
+
+Title: Two Gallants
+VVI: 0.7261
+
+Title: Bertie's Christmas Eve
+VVI: 0.7914
+
+Title: The Star
+VVI: 0.7272
+
+Title: Hyacinth
+VVI: 0.7329
+
+Title: The Miss April Houses
+VVI: 0.7492
+
+Title: Tennessee's Partner
+VVI: 0.7656
+
+Title: The Boarded Window
+VVI: 0.8010
+
+Title: As Close as We Dare
+VVI: 0.7849
+
+Title: The Meat Bee
+VVI: 0.7566
+
+Title: Triple Goddess
+VVI: 0.7354
+
+Title: Child Psychology
+VVI: 0.7696
+
+Title: Delicately, I Beg of You
+VVI: 0.6368
+
+Title: Lost in the Funhouse
+VVI: 0.6954
+
+Title: Daughters of the Air
+VVI: 0.7878
+
+Title: The Romance of a Busy Broker
+VVI: 0.7812
+
+Title: The Egg
+VVI: 0.7302
+
+Title: The Edifice
+VVI: 0.8014
+
+Title: The Wolves of Cernogatz
+VVI: 0.7067
+
+Title: The Alchemist
+VVI: 0.7474
+
+Title: The Couplet
+VVI: 0.8461
+
+Title: The Indian Uprising
+VVI: 0.7768
+
+Title: The Aged Mother
+VVI: 0.7788
+
+Title: A Telephonic Conversation
+VVI: 0.7428
+
+Title: Rappaccini's Daughter
+VVI: 0.6432
+
+Title: Two Men Come to a Village
+VVI: 0.7355
+
+Title: The Dead
+VVI: 0.6409
+
+Title: Aloha Oe
+VVI: 0.7455
+
+Title: Yvette
+VVI: 0.7472
+
+Title: Moonlight Paddle in Manchac Swamp
+VVI: 0.7904
+
+Title: Alexandre
+VVI: 0.7546
+
+Title: Re: Clients
+VVI: 0.8568
+
+Title: The Door
+VVI: 0.6678
+
+Title: Out of Nowhere
+VVI: 0.8518
+
+Title: Italian without a Master
+VVI: 0.7802
+
+Title: Uncle Wiggily in Connecticut
+VVI: 0.6397
+
+Title: In the Wood
+VVI: 0.7059
+
+Title: Goodbye to All That
+VVI: 0.7097
+
+Title: Victory Lap
+VVI: 0.6949
+
+Title: The Use of Force
+VVI: 0.7224
+
+Title: Raw Season
+VVI: 0.6823
+
+Title: Take Five Hundred New Nightmares
+VVI: 0.8135
+
+Title: Hall of Hauntings
+VVI: 0.7380
 
 Title: Sonny's Blues
 VVI: 0.6911
 
-Title: Where Are You Going, Where Have You Been?
-VVI: 0.6273
+Title: A Rose for Emily
+VVI: 0.7486
+
+Title: A Slander
+VVI: 0.7626
 

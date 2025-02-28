@@ -1,3 +1,9 @@
+''' 
+    SETUP: conda activate spacy_env
+    Code co-authored with ChatGPT
+
+'''
+
 import os
 import re
 from nltk.stem import PorterStemmer

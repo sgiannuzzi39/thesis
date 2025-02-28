@@ -6,21 +6,21 @@ human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/intensity
 output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/intensity/results"
 
 def parse_sentiment_results(file_path):
-    absolute_sentiment_scores = []
+    normalized_sentiment_scores = []
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
 
             for line in lines:
-                if line.startswith("Total absolute sentiment:"):
+                if line.startswith("Normalized absolute sentiment:"):
                     try:
                         score = float(line.split(":")[1].strip())
-                        absolute_sentiment_scores.append(score)
+                        normalized_sentiment_scores.append(score)
                     except ValueError:
-                        print(f"Unable to parse absolute sentiment from line: {line}")
+                        print(f"Unable to parse normalized sentiment from line: {line}")
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
-    return absolute_sentiment_scores
+    return normalized_sentiment_scores
 
 def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.figure(figsize=(8, 6))
@@ -31,6 +31,8 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.boxplot(data, labels=labels, patch_artist=True, showmeans=True, 
                 meanprops=meanprops, medianprops=medianprops, boxprops=boxprops)
 
+    plt.ylim(0, 0.6)  
+    
     plt.title(title)
     plt.ylabel(ylabel)
 
@@ -45,19 +47,19 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.close()
 
 def main():
-    generated_absolute = parse_sentiment_results(generated_results_path)
-    human_absolute = parse_sentiment_results(human_results_path)
+    generated_normalized = parse_sentiment_results(generated_results_path)
+    human_normalized = parse_sentiment_results(human_results_path)
 
-    if not generated_absolute and not human_absolute:
+    if not generated_normalized and not human_normalized:
         print("No sentiment scores available to plot.")
         return
 
     create_boxplot(
-        [generated_absolute, human_absolute],
+        [generated_normalized, human_normalized],
         ["Generated Stories", "Human Stories"],
-        "Total Intensity: Generated vs. Human Stories",
-        "Total Intensity",
-        "total_absolute_sentiment_boxplot.png"
+        "Normalized Sentiment Intensity: Generated vs. Human Stories",
+        "Normalized Absolute Value Sentiment Scores",
+        "normalized_absolute_sentiment_boxplot.png"
     )
 
     print("Plot generated and saved!")

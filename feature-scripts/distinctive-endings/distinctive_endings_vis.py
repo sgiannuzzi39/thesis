@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import os
 import numpy as np
 
-# File paths
 generated_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/distinctive-endings/results/generated_quarters_results.txt"
 human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/distinctive-endings/results/human_quarters_results.txt"
 output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/distinctive-endings/results"

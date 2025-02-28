@@ -1,102 +1,902 @@
 ### Sentiment Analysis Results for Each File ###
 
-Title: Goodbye, My Brother.txt
-High positive sentiment: 10
-High negative sentiment: 7
+Title: Timbuctoo, Maupassant.txt
+Normalized absolute sentiment: 0.13944837990292536
 
-Title: The Tell-Tale Heart.txt
-High positive sentiment: 10
-High negative sentiment: 4
+Title: The Thousand-And-Second Tale of Scheherazade, Poe.txt
+Normalized absolute sentiment: 0.16392529121949317
 
-Title: Mother.txt
-High positive sentiment: 8
-High negative sentiment: 5
+Title: The Soldier_s Peaches, Cloete.txt
+Normalized absolute sentiment: 0.09443313858589324
 
-Title: uncle_wiggly.txt
-High positive sentiment: 22
-High negative sentiment: 12
+Title: Ghoul, Sanders.txt
+Normalized absolute sentiment: 0.13389594592524356
 
-Title: The Aleph.txt
-High positive sentiment: 4
-High negative sentiment: 2
+Title: A Very Old Man with Enormous Wings, Marquez.txt
+Normalized absolute sentiment: 0.1869842296977714
 
-Title: why_don't_you_dance.txt
-High positive sentiment: 3
-High negative sentiment: 2
+Title: The Stranger, Mansfield.txt
+Normalized absolute sentiment: 0.10561481485004438
 
-Title: The Gardener.txt
-High positive sentiment: 9
-High negative sentiment: 4
+Title: The Sisters, Joyce.txt
+Normalized absolute sentiment: 0.18674373653593404
 
-Title: How to Tell a True War Story, O'Brien.txt
-High positive sentiment: 15
-High negative sentiment: 7
+Title: Lady with the Dog, Chekhov.txt
+Normalized absolute sentiment: 0.13392029698987257
 
-Title: Big Two-Hearted River.txt
-High positive sentiment: 27
-High negative sentiment: 10
+Title: a_few_normal_things_that_happen_a_lot.txt
+Normalized absolute sentiment: 0.1655387389819905
 
-Title: indian_uprising.txt
-High positive sentiment: 5
-High negative sentiment: 1
+Title: Turkeys Turning The Tables, Howells.txt
+Normalized absolute sentiment: 0.13744699988857387
 
-Title: midnight_zone.txt
-High positive sentiment: 7
-High negative sentiment: 4
+Title: Who Will Greet You at Home, Davis.txt
+Normalized absolute sentiment: 0.14150111949103297
 
-Title: Lost in the Funhouse.txt
-High positive sentiment: 6
-High negative sentiment: 10
+Title: Beyond the Wall, Bierce.txt
+Normalized absolute sentiment: 0.18978947898375617
 
-Title: The Dead.txt
-High positive sentiment: 72
-High negative sentiment: 21
+Title: Split Cherry Tree, Stuart.txt
+Normalized absolute sentiment: 0.10561288913472369
 
-Title: two_men_arrive.txt
-High positive sentiment: 1
-High negative sentiment: 0
+Title: The Consul, Davis.txt
+Normalized absolute sentiment: 0.12628582385942203
 
-Title: Brokeback Mountain.txt
-High positive sentiment: 16
-High negative sentiment: 10
+Title: What Christmas Is As We Grow Older, Dickens.txt
+Normalized absolute sentiment: 0.18587685900185902
 
-Title: Ghoul.txt
-High positive sentiment: 17
-High negative sentiment: 15
+Title: The Boarding House, Joyce.txt
+Normalized absolute sentiment: 0.1385234736816062
 
-Title: who_will_greet_you_at_home.txt
-High positive sentiment: 15
-High negative sentiment: 5
+Title: some_things_about_typewriters.txt
+Normalized absolute sentiment: 0.1493118686868687
 
-Title: yellow_wallpaper.txt
-High positive sentiment: 20
-High negative sentiment: 12
+Title: The Colonel_s Ideas, Maupassant.txt
+Normalized absolute sentiment: 0.13864417488375821
 
-Title: Gooseberries.txt
-High positive sentiment: 20
-High negative sentiment: 2
+Title: conditions_for_growing.txt
+Normalized absolute sentiment: 0.12004056963073356
 
-Title: all_summer_in_a_day.txt
-High positive sentiment: 5
-High negative sentiment: 1
+Title: Waiter, a Bock!, Maupassant.txt
+Normalized absolute sentiment: 0.13509924309229857
 
-Title: Bela.txt
-High positive sentiment: 44
-High negative sentiment: 13
+Title: there_is_no_world.txt
+Normalized absolute sentiment: 0.10503850400860368
 
-Title: A Temporary Matter.txt
-High positive sentiment: 13
-High negative sentiment: 4
+Title: i'm_exaggerating.txt
+Normalized absolute sentiment: 0.10608996841635729
 
-Title: the_overcoat.txt
-High positive sentiment: 17
-High negative sentiment: 9
+Title: The Cats of Ulthar, Lovecraft.txt
+Normalized absolute sentiment: 0.17379099927849923
 
-Title: Sonny's Blues.txt
-High positive sentiment: 34
-High negative sentiment: 18
+Title: Bellflower, Maupassant.txt
+Normalized absolute sentiment: 0.141008948706073
 
-Title: where_are_you_going_where_have_you_been.txt
-High positive sentiment: 27
-High negative sentiment: 13
+Title: Rikki-Tikki-Tavi, Kipling.txt
+Normalized absolute sentiment: 0.13499308760992101
+
+Title: the_fourth_trimester.txt
+Normalized absolute sentiment: 0.1265279543688635
+
+Title: The End of the Party, Greene.txt
+Normalized absolute sentiment: 0.14072624861910582
+
+Title: my_dear_you.txt
+Normalized absolute sentiment: 0.13834984412629467
+
+Title: possum.txt
+Normalized absolute sentiment: 0.12987069203944204
+
+Title: outside_the_raft.txt
+Normalized absolute sentiment: 0.12237150639693013
+
+Title: Bela, Lermontov.txt
+Normalized absolute sentiment: 0.11406315354003703
+
+Title: The Veteran, Crane.txt
+Normalized absolute sentiment: 0.1458171296296297
+
+Title: The Tomb, Lovecraft.txt
+Normalized absolute sentiment: 0.1311235237715501
+
+Title: In the Red Room, Bowles.txt
+Normalized absolute sentiment: 0.12717516122855924
+
+Title: The Terrible Old Man, Lovecraft.txt
+Normalized absolute sentiment: 0.15776518383237131
+
+Title: preservation.txt
+Normalized absolute sentiment: 0.1385737968144037
+
+Title: The Dowry, Maupassant.txt
+Normalized absolute sentiment: 0.0884353930461073
+
+Title: predator_satiation.txt
+Normalized absolute sentiment: 0.1357797053692576
+
+Title: The Snows of Kilimanjaro, Hemmingway.txt
+Normalized absolute sentiment: 0.1624497709387626
+
+Title: An Alpine Divorce, Barr.txt
+Normalized absolute sentiment: 0.15400723462066054
+
+Title: Indiscretion, Maupassant.txt
+Normalized absolute sentiment: 0.19601239901028036
+
+Title: Lamb to the Slaughter, Dahl.txt
+Normalized absolute sentiment: 0.13980387549902853
+
+Title: According to Their Lights, Henry.txt
+Normalized absolute sentiment: 0.11482566738816738
+
+Title: The Celebrated Jumping Frog of Calaveras County, Twain.txt
+Normalized absolute sentiment: 0.1597073168948169
+
+Title: The Cop and the Anthem, Henry.txt
+Normalized absolute sentiment: 0.12187997453999312
+
+Title: Marjorie Daw, Aldrich.txt
+Normalized absolute sentiment: 0.13369885867458692
+
+Title: Von Kempelen and His Discovery, Poe.txt
+Normalized absolute sentiment: 0.13921864587977545
+
+Title: biblical_proportions.txt
+Normalized absolute sentiment: 0.08887731481481481
+
+Title: sisters.txt
+Normalized absolute sentiment: 0.1347800802413206
+
+Title: in_the_exclusion_zone.txt
+Normalized absolute sentiment: 0.1168019432031529
+
+Title: The Sphinx Without a Secret, Wilde.txt
+Normalized absolute sentiment: 0.1444503705455692
+
+Title: Leiningen Versus the Ants, Stephenson.txt
+Normalized absolute sentiment: 0.11832527555187129
+
+Title: The Doll_s House, Mansfield.txt
+Normalized absolute sentiment: 0.127880392559499
+
+Title: Why Don_t You Dance, Carver.txt
+Normalized absolute sentiment: 0.08153336125069792
+
+Title: ron.txt
+Normalized absolute sentiment: 0.1648505728167445
+
+Title: Witches_ Loaves, Henry.txt
+Normalized absolute sentiment: 0.19351503788430396
+
+Title: sea_change.txt
+Normalized absolute sentiment: 0.12718084727343987
+
+Title: pity_and_shame.txt
+Normalized absolute sentiment: 0.13066809395152856
+
+Title: The Bet, Chekhov.txt
+Normalized absolute sentiment: 0.11565513177521604
+
+Title: Italian with Grammar, Twain.txt
+Normalized absolute sentiment: 0.09189106036145511
+
+Title: The Yellow Wallpaper, Gilman.txt
+Normalized absolute sentiment: 0.19028600781513844
+
+Title: The Affair at Coulter_s Notch, Bierce.txt
+Normalized absolute sentiment: 0.1273347422097422
+
+Title: The Yarkand Manner, Munro.txt
+Normalized absolute sentiment: 0.12534571848219805
+
+Title: What You Want, Henry.txt
+Normalized absolute sentiment: 0.17031058619786302
+
+Title: The Black Cat, Poe.txt
+Normalized absolute sentiment: 0.1652013397390382
+
+Title: Hunters in the Snow, Wolff.txt
+Normalized absolute sentiment: 0.10107136843237456
+
+Title: All Summer in a Day, Bradbury.txt
+Normalized absolute sentiment: 0.09689546220424199
+
+Title: glass_people.txt
+Normalized absolute sentiment: 0.1713213985088985
+
+Title: Pigs Is Pigs, Butler.txt
+Normalized absolute sentiment: 0.09718366373589916
+
+Title: The Wedding-Knell, Hawthorne.txt
+Normalized absolute sentiment: 0.17020244499864057
+
+Title: Big Two-Hearted River, Hemmingway.txt
+Normalized absolute sentiment: 0.12969294646258178
+
+Title: Hands, Sherwood.txt
+Normalized absolute sentiment: 0.12832366635101009
+
+Title: the_monk_dilemma.txt
+Normalized absolute sentiment: 0.14024430674958846
+
+Title: Haircut, Lardner.txt
+Normalized absolute sentiment: 0.13346748415244725
+
+Title: Transients in Arcadia, Henry.txt
+Normalized absolute sentiment: 0.15811958874458867
+
+Title: The Diary of a Madman, Maupassant.txt
+Normalized absolute sentiment: 0.09349966482522452
+
+Title: Hearts And Hands, Henry.txt
+Normalized absolute sentiment: 0.13679013116513117
+
+Title: it's_only_been_me_all_this_time.txt
+Normalized absolute sentiment: 0.12187838289849784
+
+Title: Theodule Sabot_s Confession, Maupassant.txt
+Normalized absolute sentiment: 0.13899358232691564
+
+Title: regarding_lichen.txt
+Normalized absolute sentiment: 0.10300379572118704
+
+Title: The Coming of the King, Richards.txt
+Normalized absolute sentiment: 0.28462121212121205
+
+Title: The Wreck, Maupassant.txt
+Normalized absolute sentiment: 0.12510050567926387
+
+Title: swamps.txt
+Normalized absolute sentiment: 0.1338534226190476
+
+Title: the_bug_man.txt
+Normalized absolute sentiment: 0.15759454665704664
+
+Title: Shooting an Elephant, Orwell.txt
+Normalized absolute sentiment: 0.15638116208543035
+
+Title: The Baron of Grogzwig, Dickens.txt
+Normalized absolute sentiment: 0.1498635280702042
+
+Title: Princess Mary, Lermontov.txt
+Normalized absolute sentiment: 0.10090004012411206
+
+Title: the_spoils.txt
+Normalized absolute sentiment: 0.08966019417475729
+
+Title: Young Goodman Brown, Hawthorne.txt
+Normalized absolute sentiment: 0.14860799360307234
+
+Title: the_superstition_of_albatross.txt
+Normalized absolute sentiment: 0.1352744507886068
+
+Title: Berenice, Poe.txt
+Normalized absolute sentiment: 0.1290294241620881
+
+Title: whatever_remains.txt
+Normalized absolute sentiment: 0.07911246612466125
+
+Title: Madame Parisse, Maupassant.txt
+Normalized absolute sentiment: 0.14766436177634096
+
+Title: Gooseberries, Chekhov.txt
+Normalized absolute sentiment: 0.17829118377802183
+
+Title: A Retrieved Reformation, Henry.txt
+Normalized absolute sentiment: 0.1462348289705747
+
+Title: the_salesman.txt
+Normalized absolute sentiment: 0.17876833814333812
+
+Title: fantasy.txt
+Normalized absolute sentiment: 0.11410838247258004
+
+Title: african_violets.txt
+Normalized absolute sentiment: 0.16145833333333334
+
+Title: The Door in the Wall, Wells.txt
+Normalized absolute sentiment: 0.12078853318700371
+
+Title: Araby, Joyce.txt
+Normalized absolute sentiment: 0.13540784716298412
+
+Title: A School Story, James.txt
+Normalized absolute sentiment: 0.15557421914646685
+
+Title: christmas_alligator.txt
+Normalized absolute sentiment: 0.14160778289810552
+
+Title: Sredni Vashtar, Munro.txt
+Normalized absolute sentiment: 0.13405028813207823
+
+Title: Where are you going, Where have you been_, Oats.txt
+Normalized absolute sentiment: 0.12816241468872214
+
+Title: The Sniper, O_Flaherty.txt
+Normalized absolute sentiment: 0.08732473544973543
+
+Title: Springtime a la Carte, Henry.txt
+Normalized absolute sentiment: 0.14460694415324046
+
+Title: Rip Van Winkle (A Posthumous Writing of Diedrich Knickerbocker), Irving.txt
+Normalized absolute sentiment: 0.16609118304783627
+
+Title: Goodbye, My Brother, Cheever.txt
+Normalized absolute sentiment: 0.13309799670199254
+
+Title: cloud_eat_blue_sky.txt
+Normalized absolute sentiment: 0.16831212370005477
+
+Title: A True Story, Repeated Word for Word As I Heard It, Twain.txt
+Normalized absolute sentiment: 0.14071677654273895
+
+Title: i_have_her_memories_now.txt
+Normalized absolute sentiment: 0.1389569441334978
+
+Title: The Christening, Maupassant.txt
+Normalized absolute sentiment: 0.13995387774993037
+
+Title: how_to_breathe_without_thinking_about_it.txt
+Normalized absolute sentiment: 0.15099371693121694
+
+Title: Gusev, Chekhov.txt
+Normalized absolute sentiment: 0.08209459323461471
+
+Title: Was it Heaven_ Or Hell_, Twain.txt
+Normalized absolute sentiment: 0.1291539413582152
+
+Title: A Respectable Woman, Chopin.txt
+Normalized absolute sentiment: 0.15954036756003048
+
+Title: Two Friends, Maupassant.txt
+Normalized absolute sentiment: 0.10618677905944984
+
+Title: Babes in the Jungle, Henry.txt
+Normalized absolute sentiment: 0.13440127873384047
+
+Title: the_girl_who_did_not_know_fear.txt
+Normalized absolute sentiment: 0.14077884435247642
+
+Title: Gentlemen The King!, Barr.txt
+Normalized absolute sentiment: 0.14135325920184041
+
+Title: The Drunkard, Maupassant.txt
+Normalized absolute sentiment: 0.15871920064322023
+
+Title: The Story of Keesh, London.txt
+Normalized absolute sentiment: 0.17686551239516202
+
+Title: The Vendetta, Maupassant.txt
+Normalized absolute sentiment: 0.08113638065289007
+
+Title: molting.txt
+Normalized absolute sentiment: 0.16215909090909092
+
+Title: A Vagabond, Maupassant.txt
+Normalized absolute sentiment: 0.12473898945459792
+
+Title: The Tell-Tale Heart, Poe.txt
+Normalized absolute sentiment: 0.1614605629709796
+
+Title: Robert Kennedy Saved From Drowning, Barthelme.txt
+Normalized absolute sentiment: 0.13567445512797272
+
+Title: An Uncomfortable Bed, Maupassant.txt
+Normalized absolute sentiment: 0.11396984126984128
+
+Title: Man From The South, Dahl.txt
+Normalized absolute sentiment: 0.14320504134448722
+
+Title: Mademoiselle Fifi, Maupassant.txt
+Normalized absolute sentiment: 0.15068937861339823
+
+Title: The Burial of the Guns, Page.txt
+Normalized absolute sentiment: 0.12372111420325707
+
+Title: coda.txt
+Normalized absolute sentiment: 0.084204645662979
+
+Title: Jim Baker_s Blue-Jay Yarn, Twain.txt
+Normalized absolute sentiment: 0.1591920512479723
+
+Title: The Unrest-Cure, Munro.txt
+Normalized absolute sentiment: 0.13235498904457452
+
+Title: Mademoiselle Pearl, Maupassant.txt
+Normalized absolute sentiment: 0.1118029237189015
+
+Title: The Death Of A Government Clerk, Chekhov.txt
+Normalized absolute sentiment: 0.05288949686676959
+
+Title: The Selfish Giant, Wilde.txt
+Normalized absolute sentiment: 0.19433033481919626
+
+Title: The Child_s Story, Dickens.txt
+Normalized absolute sentiment: 0.16150152887626518
+
+Title: After the Race, Joyce.txt
+Normalized absolute sentiment: 0.17664465178423924
+
+Title: An Affair of State, Maupassant.txt
+Normalized absolute sentiment: 0.10546474514523842
+
+Title: The Vertical Fields, Dawson.txt
+Normalized absolute sentiment: 0.019034262073623763
+
+Title: The Storyteller, Munro.txt
+Normalized absolute sentiment: 0.17158312289562283
+
+Title: The Ambitious Guest, Hawthorne.txt
+Normalized absolute sentiment: 0.14373322039253417
+
+Title: beautiful_animals.txt
+Normalized absolute sentiment: 0.11241277729236444
+
+Title: The Street That Got Mislaid, Waddington.txt
+Normalized absolute sentiment: 0.12924428139477478
+
+Title: The Shed Chamber, Richards.txt
+Normalized absolute sentiment: 0.1619563008014713
+
+Title: The Unknown, Maupassant.txt
+Normalized absolute sentiment: 0.16698651616414778
+
+Title: Hills like White Elephants.txt
+Normalized absolute sentiment: 0.12358516409318547
+
+Title: postwar.txt
+Normalized absolute sentiment: 0.10404382555978302
+
+Title: ON_AUGUST_EIGHTEENTH_AT_TEN_THIRTY_PM,_ANNIE_OTSUKA_WATCHED_HER_FIRST_JAPANESE_ANIMATED_FILM.txt
+Normalized absolute sentiment: 0.11308633271490416
+
+Title: all_the_sea_in_the_fish.txt
+Normalized absolute sentiment: 0.14544749630956524
+
+Title: Souls Belated, Wharton.txt
+Normalized absolute sentiment: 0.12922553056070904
+
+Title: A Temporary Matter, Lahiri.txt
+Normalized absolute sentiment: 0.13062316864793047
+
+Title: Vanka, Chekhov.txt
+Normalized absolute sentiment: 0.08536373348873348
+
+Title: Useless Beauty, Maupassant.txt
+Normalized absolute sentiment: 0.15412339252881194
+
+Title: gretel's_dreams.txt
+Normalized absolute sentiment: 0.13795022512210015
+
+Title: The Shoemaker And The Devil, Chekhov.txt
+Normalized absolute sentiment: 0.12165344289178481
+
+Title: a_guided_tour_of_the_sistine_chapel_ceiling.txt
+Normalized absolute sentiment: 0.07759414907683308
+
+Title: the_other_side_of_the_fence.txt
+Normalized absolute sentiment: 0.09279431216931214
+
+Title: my_coworker’s_obituary_photograph.txt
+Normalized absolute sentiment: 0.20847560975609755
+
+Title: How I Edited an Agricultural Paper, Twain.txt
+Normalized absolute sentiment: 0.10717356085031865
+
+Title: career_counseling.txt
+Normalized absolute sentiment: 0.14524885511864677
+
+Title: The Unkindest Blow, Munro.txt
+Normalized absolute sentiment: 0.13424458957581076
+
+Title: she_was_warned.txt
+Normalized absolute sentiment: 0.13559605790156493
+
+Title: Politics and the English Language, Orwell.txt
+Normalized absolute sentiment: 0.15432798247400362
+
+Title: break.txt
+Normalized absolute sentiment: 0.1835121328224777
+
+Title: How the Widow Won the Deacon, Lampton.txt
+Normalized absolute sentiment: 0.1768301800622005
+
+Title: The Devil, Maupassant.txt
+Normalized absolute sentiment: 0.11809823517662499
+
+Title: Two Little Soldiers, Maupassant.txt
+Normalized absolute sentiment: 0.12526185825892858
+
+Title: Skeleton Lake An Episode in Camp, Blackwood.txt
+Normalized absolute sentiment: 0.16032040867978373
+
+Title: go_limp.txt
+Normalized absolute sentiment: 0.11608010193116577
+
+Title: I_don't_think_of_you_until_I_do.txt
+Normalized absolute sentiment: 0.12817011765424463
+
+Title: Julie Romain, Maupassant.txt
+Normalized absolute sentiment: 0.19150850367601824
+
+Title: analysis.txt
+Normalized absolute sentiment: 0.07067901234567903
+
+Title: An Encounter, Joyce.txt
+Normalized absolute sentiment: 0.15505646690768982
+
+Title: The Time Machine, Wells.txt
+Normalized absolute sentiment: 0.14063068311356222
+
+Title: Beware of the Dog, Dahl.txt
+Normalized absolute sentiment: 0.13182747331406935
+
+Title: the_big_lemon.txt
+Normalized absolute sentiment: 0.1564164211560045
+
+Title: Toine, Maupassant.txt
+Normalized absolute sentiment: 0.156506253976012
+
+Title: irreversible.txt
+Normalized absolute sentiment: 0.13636465587552543
+
+Title: mendelssohn.txt
+Normalized absolute sentiment: 0.14284474571311173
+
+Title: jerry.txt
+Normalized absolute sentiment: 0.11666114267676772
+
+Title: The Disappearance of Crispina Umberleigh,Munro.txt
+Normalized absolute sentiment: 0.1046072459286745
+
+Title: The School, Barthelme.txt
+Normalized absolute sentiment: 0.16349045299938156
+
+Title: How the Leopard Got His Spots, Kipling.txt
+Normalized absolute sentiment: 0.12451493552743555
+
+Title: he_trying_to_say_something_and_couldn't_get_it_out.txt
+Normalized absolute sentiment: 0.11405482331821613
+
+Title: His Wife_s Deceased Sister, Stockton.txt
+Normalized absolute sentiment: 0.2083318766400451
+
+Title: the_fully-conducted_tour.txt
+Normalized absolute sentiment: 0.14900769022074442
+
+Title: the_boathouse.txt
+Normalized absolute sentiment: 0.12123928106596174
+
+Title: The Velveteen Rabbit, Williams.txt
+Normalized absolute sentiment: 0.15994221627746846
+
+Title: network.txt
+Normalized absolute sentiment: 0.07384244227994227
+
+Title: bad_luck_meditation.txt
+Normalized absolute sentiment: 0.29604392135642127
+
+Title: sink_monkey.txt
+Normalized absolute sentiment: 0.12352878464818766
+
+Title: the_huntress.txt
+Normalized absolute sentiment: 0.09168055555555557
+
+Title: The Whirligig of Life, Henry.txt
+Normalized absolute sentiment: 0.1148907356440469
+
+Title: new_fruit.txt
+Normalized absolute sentiment: 0.15152037553901593
+
+Title: The Aleph, Borges.txt
+Normalized absolute sentiment: 0.13775296215846078
+
+Title: The School of English, Mantel.txt
+Normalized absolute sentiment: 0.11723191046314316
+
+Title: A Vine on a House, Bierce.txt
+Normalized absolute sentiment: 0.12105090422398114
+
+Title: The Strangers That Came to Town, Flack.txt
+Normalized absolute sentiment: 0.15615219384274273
+
+Title: tacky_goblin.txt
+Normalized absolute sentiment: 0.12427823786519436
+
+Title: inauguration.txt
+Normalized absolute sentiment: 0.2679223499453763
+
+Title: How to Tell a True War Story, Hemmingway.txt
+Normalized absolute sentiment: 0.14305740379688253
+
+Title: The Schartz-Metterklume Method, Munro.txt
+Normalized absolute sentiment: 0.1321160377628401
+
+Title: The Donkey, Maupassant.txt
+Normalized absolute sentiment: 0.0976528168468958
+
+Title: A Telephone Call, Parker.txt
+Normalized absolute sentiment: 0.13680994340568814
+
+Title: hungarian_sprats.txt
+Normalized absolute sentiment: 0.19348608263081946
+
+Title: a_syrian_winter.txt
+Normalized absolute sentiment: 0.11713926270991486
+
+Title: A Sound of Thunder, Bradbury.txt
+Normalized absolute sentiment: 0.0873938587307994
+
+Title: The Egg, Anderson.txt
+Normalized absolute sentiment: 0.14597396473553884
+
+Title: picnic.txt
+Normalized absolute sentiment: 0.1366641667719254
+
+Title: abyssal_gigantism.txt
+Normalized absolute sentiment: 0.10548881512202495
+
+Title: The Elephant_s Child, Kipling.txt
+Normalized absolute sentiment: 0.19086868366758408
+
+Title: The Coming-Out of Maggie, Henry.txt
+Normalized absolute sentiment: 0.10763836921336922
+
+Title: origami.txt
+Normalized absolute sentiment: 0.1621182917611489
+
+Title: The Cask of Amontillado, Poe.txt
+Normalized absolute sentiment: 0.11630461109106942
+
+Title: Game, Barthleme.txt
+Normalized absolute sentiment: 0.0931601534110658
+
+Title: Afterward, Wharton.txt
+Normalized absolute sentiment: 0.10745093449051057
+
+Title: Keeping Watch, Jacobs.txt
+Normalized absolute sentiment: 0.12764195438921716
+
+Title: That Pig of a Morin, Maupassant.txt
+Normalized absolute sentiment: 0.16225723783858695
+
+Title: the_game.txt
+Normalized absolute sentiment: 0.1717261904761905
+
+Title: Girl, Henry.txt
+Normalized absolute sentiment: 0.13720464404470617
+
+Title: scan.txt
+Normalized absolute sentiment: 0.12352957435046989
+
+Title: The Dreamer, Munro.txt
+Normalized absolute sentiment: 0.10293427355927355
+
+Title: How Santa Claus Came to Simpson_s Bar, Harte.txt
+Normalized absolute sentiment: 0.12937063321302247
+
+Title: Jimmy Scarecrow_s Christmas, Freeman.txt
+Normalized absolute sentiment: 0.15667268491711164
+
+Title: The Enchanted Bluff, Cather.txt
+Normalized absolute sentiment: 0.13227772866698892
+
+Title: The Darling, Chekhov.txt
+Normalized absolute sentiment: 0.15879183764780652
+
+Title: rescue.txt
+Normalized absolute sentiment: 0.14015895442749066
+
+Title: jean_wants.txt
+Normalized absolute sentiment: 0.09695798142489317
+
+Title: alien_hunters.txt
+Normalized absolute sentiment: 0.10874239338877496
+
+Title: In The Ravine, Chekhov.txt
+Normalized absolute sentiment: 0.10408400447299615
+
+Title: An Occurrence at Owl Creek Bridge, Bierce.txt
+Normalized absolute sentiment: 0.1572682760681033
+
+Title: dance_dance_revolution.txt
+Normalized absolute sentiment: 0.09670427951677951
+
+Title: What Occurred at Franklin, Bierce.txt
+Normalized absolute sentiment: 0.18471332575899882
+
+Title: uncle_ray_intercedes_for_us.txt
+Normalized absolute sentiment: 0.1820271164021164
+
+Title: To Build a Fire, London.txt
+Normalized absolute sentiment: 0.15124841836037725
+
+Title: postcards.txt
+Normalized absolute sentiment: 0.13808280197169084
+
+Title: The Wind_s Tale, Andersen.txt
+Normalized absolute sentiment: 0.12530258123900365
+
+Title: Hermann The Irascible, Munro.txt
+Normalized absolute sentiment: 0.18078849391349391
+
+Title: l'heure_bleue.txt
+Normalized absolute sentiment: 0.22000408496732027
+
+Title: saturday_night_special.txt
+Normalized absolute sentiment: 0.13578984730676952
+
+Title: honest_open_willing.txt
+Normalized absolute sentiment: 0.21257930689382298
+
+Title: The Thorny Road of Honor, Andersen.txt
+Normalized absolute sentiment: 0.13392884892884896
+
+Title: Humiliation, Maupassant.txt
+Normalized absolute sentiment: 0.16094067660734326
+
+Title: The Way to the Dairy, Munro.txt
+Normalized absolute sentiment: 0.16859574889220907
+
+Title: perspective.txt
+Normalized absolute sentiment: 0.13096395741237013
+
+Title: escape_plans.txt
+Normalized absolute sentiment: 0.09241035353535353
+
+Title: natural_order.txt
+Normalized absolute sentiment: 0.11562600593850594
+
+Title: with_gun.txt
+Normalized absolute sentiment: 0.11936936936936937
+
+Title: the_righting_reflex.txt
+Normalized absolute sentiment: 0.1808825583019131
+
+Title: Brokeback Mountain, Proulx.txt
+Normalized absolute sentiment: 0.12906579639976157
+
+Title: Just Before the War with the Eskimos, Salinger.txt
+Normalized absolute sentiment: 0.08659168902533243
+
+Title: Gentle Hand, Rinehart.txt
+Normalized absolute sentiment: 0.18378464849964843
+
+Title: The Boy And The Filberts, Aesop.txt
+Normalized absolute sentiment: 0.29696712018140586
+
+Title: Two Gallants, Joyce.txt
+Normalized absolute sentiment: 0.13157823785339484
+
+Title: Bertie_s Christmas Eve, Munro.txt
+Normalized absolute sentiment: 0.11700158892293722
+
+Title: The Star, Wells.txt
+Normalized absolute sentiment: 0.14296738117069221
+
+Title: Hyacinth, Munro.txt
+Normalized absolute sentiment: 0.14622939188087491
+
+Title: the_miss_april_houses.txt
+Normalized absolute sentiment: 0.1440719553814792
+
+Title: Tennessee_s Partner, Harte.txt
+Normalized absolute sentiment: 0.14898839069258332
+
+Title: The Boarded Window, Bierce.txt
+Normalized absolute sentiment: 0.14335330344258915
+
+Title: as_close_as_we_dare.txt
+Normalized absolute sentiment: 0.16794453152211772
+
+Title: the_meat_bee.txt
+Normalized absolute sentiment: 0.12899135397249625
+
+Title: triple_goddess.txt
+Normalized absolute sentiment: 0.07834504735366805
+
+Title: child_psychology.txt
+Normalized absolute sentiment: 0.10989696067821067
+
+Title: delicately,_I_beg_of_you.txt
+Normalized absolute sentiment: 0.1666209758551308
+
+Title: Lost in the Funhouse, Barth.txt
+Normalized absolute sentiment: 0.14113120013733726
+
+Title: daughters_of_the_air.txt
+Normalized absolute sentiment: 0.08165315459208589
+
+Title: The Romance of a Busy Broker, Henry.txt
+Normalized absolute sentiment: 0.11884558116175764
+
+Title: The Egg, Weir.txt
+Normalized absolute sentiment: 0.11474694960454453
+
+Title: the_edifice.txt
+Normalized absolute sentiment: 0.12086761940245547
+
+Title: The Wolves of Cernogatz, Munro.txt
+Normalized absolute sentiment: 0.15303052389787083
+
+Title: The Alchemist, Lovecraft.txt
+Normalized absolute sentiment: 0.16339143772842155
+
+Title: the_couplet.txt
+Normalized absolute sentiment: 0.16160436349115592
+
+Title: Indian Uprising, Barthelme.txt
+Normalized absolute sentiment: 0.13972950484903032
+
+Title: The Aged Mother, Basho.txt
+Normalized absolute sentiment: 0.1830031277557319
+
+Title: A Telephonic Conversation, Twain.txt
+Normalized absolute sentiment: 0.06745825396825397
+
+Title: Rappaccini_s Daughter, Hawthorne.txt
+Normalized absolute sentiment: 0.1598250147610374
+
+Title: Two Men come to a Village, Smith.txt
+Normalized absolute sentiment: 0.09868070963353023
+
+Title: The Dead, Joyce.txt
+Normalized absolute sentiment: 0.16302071098219206
+
+Title: Aloha Oe, London.txt
+Normalized absolute sentiment: 0.1314714062997514
+
+Title: Yvette, Maupassant.txt
+Normalized absolute sentiment: 0.14788748239194666
+
+Title: moonlight_paddle_in_machac_swamp.txt
+Normalized absolute sentiment: 0.15948031583112227
+
+Title: Alexandre, Maupassant.txt
+Normalized absolute sentiment: 0.21684319663970833
+
+Title: re_clients.txt
+Normalized absolute sentiment: 0.1638383838383838
+
+Title: The Door, White.txt
+Normalized absolute sentiment: 0.11630691311612358
+
+Title: out_of_nowhere.txt
+Normalized absolute sentiment: 0.10747800586510264
+
+Title: Italian without a Master, Twain.txt
+Normalized absolute sentiment: 0.11411476520513315
+
+Title: Uncle Wiggily in Connecticut, Salinger.txt
+Normalized absolute sentiment: 0.10284178691678693
+
+Title: In the Wood, Maupassant.txt
+Normalized absolute sentiment: 0.18731663301975804
+
+Title: Goodbye to all That, Didion.txt
+Normalized absolute sentiment: 0.12075090132931043
+
+Title: Victory Lap, Saunders.txt
+Normalized absolute sentiment: 0.13769719461902005
+
+Title: The Use of Force, Williams.txt
+Normalized absolute sentiment: 0.14615187883480563
+
+Title: raw_season.txt
+Normalized absolute sentiment: 0.08903603259056618
+
+Title: take_five_hundred_new_nightmares.txt
+Normalized absolute sentiment: 0.10412608225108223
+
+Title: hall_of_hantings.txt
+Normalized absolute sentiment: 0.15485487683233584
+
+Title: Sonny_s Blues, Baldwin.txt
+Normalized absolute sentiment: 0.13417389027576432
+
+Title: A Rose for Emily, Faulkner.txt
+Normalized absolute sentiment: 0.11833843915343918
+
+Title: A Slander, Chekhov.txt
+Normalized absolute sentiment: 0.06754896313364055
 
