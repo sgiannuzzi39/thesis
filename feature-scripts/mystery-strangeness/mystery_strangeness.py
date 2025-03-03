@@ -25,10 +25,8 @@ def analyze_file(file_path):
         print(f"Skipping file due to no valid sentences: {file_path}")
         return None
 
-    # Sum absolute negative polarity
     negative_polarity_sum = sum(abs(sentence.sentiment.polarity) for sentence in sentences if sentence.sentiment.polarity < 0)
 
-    # Normalize by number of sentences
     num_sentences = len(sentences)
     normalized_mystery_and_strangeness_score = negative_polarity_sum / num_sentences if num_sentences > 0 else 0
 

@@ -1,3 +1,7 @@
+"""
+Code co-authored with ChatGPT
+"""
+
 import matplotlib.pyplot as plt
 import os
 
