@@ -11,7 +11,7 @@ This repository includes all relevant code created for *Evaluating AI as Author:
 This repository contains **five folders**:
 
 ### 1. `crawlers`
-This folder contains the Python scripts that were utilized to scrape short stories from online platforms, including:
+Contains the Python scripts that were utilized to scrape short stories from online platforms, including:
 - **The New Yorker website** (additional stories were collected by clicking “Next Page”):  
   [https://www.newyorker.com/magazine/fiction](https://www.newyorker.com/magazine/fiction)  
 - **100 Great Short Stories**:  
