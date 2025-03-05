@@ -1,3 +1,6 @@
+"""
+Code co-authored with ChatGPT
+"""
 import matplotlib.pyplot as plt
 import os
 
@@ -6,14 +9,13 @@ human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-sin
 output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/unity-singleeffect/results"
 
 def parse_results(file_path):
-    vvi_values = []
-
+    ttr_values = []
     with open(file_path, 'r') as file:
         for line in file:
-            if line.startswith("VVI:"):
-                vvi_values.append(float(line.split()[1]))
-
-    return vvi_values
+            if line.startswith("Moving TTR:"):
+                tokens = line.split()
+                ttr_values.append(float(tokens[2]))
+    return ttr_values
 
 def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.figure(figsize=(8, 6))
@@ -38,22 +40,21 @@ def create_boxplot(data, labels, title, ylabel, output_filename):
     plt.close()
 
 def main():
-    generated_vvi = parse_results(generated_results_path)
-    human_vvi = parse_results(human_results_path)
+    generated_ttr = parse_results(generated_results_path)
+    human_ttr = parse_results(human_results_path)
 
-    vvi_data = [generated_vvi, human_vvi]
-
+    ttr_data = [generated_ttr, human_ttr]
     labels = ["Generated", "Human"]
 
     create_boxplot(
-        vvi_data, 
+        ttr_data, 
         labels, 
-        "VVI: Generated vs. Human Stories", 
-        "VVI: Weighted Lexical Diversity Score", 
-        "vvi_boxplot.png"
+        "Moving-Average TTR: Generated vs. Human Stories", 
+        "Moving-Average Type-Token Ratio", 
+        "ttr_boxplot.png"
     )
 
-    print("VVI plot generated and saved!")
+    print("TTR plot generated and saved!")
 
 if __name__ == "__main__":
     main()

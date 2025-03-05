@@ -1,902 +1,902 @@
 ### Analysis Results for Each File ###
 
 Title: The Lighthouse Keeper of Eldrige Rock
-VVI: 0.7938
+Moving TTR: 0.7089
 
 Title: Untitled
-VVI: 0.7455
+Moving TTR: 0.7328
 
 Title: The Echoes of Willoughby Street
-VVI: 0.7818
+Moving TTR: 0.7596
 
 Title: The Clockmaker of Vermilion Street
-VVI: 0.7575
+Moving TTR: 0.7425
 
 Title: The Last Watchmaker of Fillory Street
-VVI: 0.7570
+Moving TTR: 0.7372
 
 Title: The Lighthouse Keeper of Merrow’s Point
-VVI: 0.7721
+Moving TTR: 0.7258
 
 Title: The Clockmaker's Secret 18
-VVI: 0.7527
+Moving TTR: 0.7206
 
 Title: The Clockmaker’s Apprentice 2
-VVI: 0.7732
+Moving TTR: 0.7199
 
 Title: The Lighthouse Keeper’s Radiance
-VVI: 0.8104
+Moving TTR: 0.7533
 
 Title: The Clockmaker's Heart 2
-VVI: 0.7778
+Moving TTR: 0.7127
 
 Title: Echoes of Time
-VVI: 0.7800
+Moving TTR: 0.7214
 
 Title: Adrift in the Clouds
-VVI: 0.7993
+Moving TTR: 0.7667
 
 Title: Echoes of the Forgotten
-VVI: 0.7969
+Moving TTR: 0.7546
 
 Title: The Last Sorrows of Autumn
-VVI: 0.7728
+Moving TTR: 0.7482
 
 Title: The Last Bookbinder of Cornish Cove
-VVI: 0.7642
+Moving TTR: 0.7331
 
 Title: The Clockmaker’s Apprentice 12
-VVI: 0.7770
+Moving TTR: 0.7345
 
 Title: Echoes of the Silent City
-VVI: 0.7595
+Moving TTR: 0.7413
 
 Title: The Clockmaker’s Apprentice 3
-VVI: 0.7705
+Moving TTR: 0.7219
 
 Title: The Clockmaker of Via del Corso
-VVI: 0.7225
+Moving TTR: 0.7445
 
 Title: Whispers of the Forgotten Library
-VVI: 0.7568
+Moving TTR: 0.7435
 
 Title: The Last Lightkeeper of Eldoria
-VVI: 0.7918
+Moving TTR: 0.7476
 
 Title: Untitled 5
-VVI: 0.7520
+Moving TTR: 0.7173
 
 Title: Echoes of Selene
-VVI: 0.7363
+Moving TTR: 0.7227
 
 Title: The Secret of Eldridge Manor
-VVI: 0.7777
+Moving TTR: 0.7445
 
 Title: Untitled 7
-VVI: 0.7624
+Moving TTR: 0.7288
 
 Title: The Last Garden 4
-VVI: 0.7548
+Moving TTR: 0.7424
 
 Title: The Vanishing Act
-VVI: 0.7878
+Moving TTR: 0.7326
 
 Title: The Clockmaker's Paradox 8
-VVI: 0.7824
+Moving TTR: 0.7405
 
 Title: The Lighthouse Keeper of Eldwen
-VVI: 0.7769
+Moving TTR: 0.7521
 
 Title: The Clockmaker’s Promise
-VVI: 0.7608
+Moving TTR: 0.7582
 
 Title: The Last Symphony
-VVI: 0.7556
+Moving TTR: 0.7453
 
 Title: The Clockmaker's Apprentice 10
-VVI: 0.7689
+Moving TTR: 0.7320
 
 Title: Untitled 48
-VVI: 0.7744
+Moving TTR: 0.7399
 
 Title: The Paradox Clock
-VVI: 0.7672
+Moving TTR: 0.7517
 
 Title: The Lighthouse Keeper of Corwyn Point
-VVI: 0.7996
+Moving TTR: 0.7535
 
 Title: Echoes of Starlight
-VVI: 0.7474
+Moving TTR: 0.7516
 
 Title: Untitled 49
-VVI: 0.7899
+Moving TTR: 0.7419
 
 Title: The Timekeeper’s Paradox
-VVI: 0.7671
+Moving TTR: 0.7514
 
 Title: The Clockmaker’s Apprentice 11
-VVI: 0.7918
+Moving TTR: 0.7377
 
 Title: The Clockmaker’s Paradox 9
-VVI: 0.7671
+Moving TTR: 0.7336
 
 Title: Untitled 6
-VVI: 0.7253
+Moving TTR: 0.7282
 
 Title: The Midnight Hour
-VVI: 0.7654
+Moving TTR: 0.7409
 
 Title: Untitled 2
-VVI: 0.7771
+Moving TTR: 0.7403
 
 Title: The Smithfield Heirloom
-VVI: 0.7663
+Moving TTR: 0.7428
 
 Title: The Shadow Collector
-VVI: 0.7504
+Moving TTR: 0.7427
 
 Title: The Clockmaker’s Apprentice
-VVI: 0.7970
+Moving TTR: 0.7179
 
 Title: The Clockmaker's Heart
-VVI: 0.7849
+Moving TTR: 0.7496
 
 Title: The Last Lantern
-VVI: 0.7667
+Moving TTR: 0.7399
 
 Title: The Lighthouse Keeper’s Secret
-VVI: 0.7763
+Moving TTR: 0.7428
 
 Title: The Last Garden
-VVI: 0.7829
+Moving TTR: 0.7363
 
 Title: The Fiddler in the Forest
-VVI: 0.7394
+Moving TTR: 0.7064
 
 Title: The Lighthouse Keeper of Morwen's Cove
-VVI: 0.7568
+Moving TTR: 0.7438
 
 Title: The Clockmaker's Apprentice 5
-VVI: 0.7646
+Moving TTR: 0.7340
 
 Title: Shards of the Old World
-VVI: 0.7657
+Moving TTR: 0.7612
 
 Title: A Whisper Down Dellridge Lane
-VVI: 0.7826
+Moving TTR: 0.7424
 
 Title: Untitled 3
-VVI: 0.7581
+Moving TTR: 0.7577
 
 Title: The Last Garden 2
-VVI: 0.7822
+Moving TTR: 0.7363
 
 Title: The Clockmaker’s Apprentice 7
-VVI: 0.7653
+Moving TTR: 0.7363
 
 Title: The Last Page
-VVI: 0.7439
+Moving TTR: 0.7314
 
 Title: The Lighthouse Keeper 2
-VVI: 0.7338
+Moving TTR: 0.7062
 
 Title: The Echoing Green
-VVI: 0.7527
+Moving TTR: 0.7203
 
 Title: Echoes of Jupiter
-VVI: 0.7694
+Moving TTR: 0.7451
 
 Title: The Lighthouse Keeper
-VVI: 0.8029
+Moving TTR: 0.7252
 
 Title: Whispers of the Old Willow
-VVI: 0.7721
+Moving TTR: 0.7154
 
 Title: Echoes of the Past 2
-VVI: 0.7507
+Moving TTR: 0.7336
 
 Title: The Clockmaker's Apprentice 6
-VVI: 0.7729
+Moving TTR: 0.7365
 
 Title: The Clockmaker of Mirewood
-VVI: 0.7603
+Moving TTR: 0.7252
 
 Title: A Moonlit Sonata
-VVI: 0.7688
+Moving TTR: 0.7392
 
 Title: The Last Garden 3
-VVI: 0.7739
+Moving TTR: 0.7393
 
 Title: The Weeping Timekeeper
-VVI: 0.7902
+Moving TTR: 0.7430
 
 Title: The Ascent
-VVI: 0.7759
+Moving TTR: 0.7354
 
 Title: The Clockmaker’s Paradox 19
-VVI: 0.7544
+Moving TTR: 0.7253
 
 Title: The Clockmaker of Tirsol
-VVI: 0.7564
+Moving TTR: 0.7210
 
 Title: Among the Shadows of Winter
-VVI: 0.7517
+Moving TTR: 0.7560
 
 Title: The Curious Case of Caelum Mellor
-VVI: 0.7824
+Moving TTR: 0.7567
 
 Title: Untitled 14
-VVI: 0.7866
+Moving TTR: 0.6937
 
 Title: The Curator’s Clock
-VVI: 0.7713
+Moving TTR: 0.7230
 
 Title: Untitled 28
-VVI: 0.7646
+Moving TTR: 0.7064
 
 Title: Whispers in the Willow
-VVI: 0.7956
+Moving TTR: 0.7249
 
 Title: The Last Garden of Mars
-VVI: 0.7823
+Moving TTR: 0.7506
 
 Title: The Clockmaker of Solitude
-VVI: 0.7687
+Moving TTR: 0.7466
 
 Title: Echoes of the Fallen Star
-VVI: 0.7716
+Moving TTR: 0.7285
 
 Title: The Unseen Library
-VVI: 0.7778
+Moving TTR: 0.7264
 
 Title: Untitled 29
-VVI: 0.7945
+Moving TTR: 0.7522
 
 Title: Whispers of the Old Lore
-VVI: 0.7606
+Moving TTR: 0.7289
 
 Title: Untitled 15
-VVI: 0.7845
+Moving TTR: 0.7392
 
 Title: The Echoes of Redstone Manor
-VVI: 0.7837
+Moving TTR: 0.7196
 
 Title: The Clockmaker’s Paradox 24
-VVI: 0.7564
+Moving TTR: 0.7168
 
 Title: The Clockmaker’s Paradox 18
-VVI: 0.7513
+Moving TTR: 0.7373
 
 Title: The Lighthouse Keeper’s Secret 9
-VVI: 0.7191
+Moving TTR: 0.7418
 
 Title: Whispering Pines
-VVI: 0.7675
+Moving TTR: 0.7484
 
 Title: The Echoes of Margaret’s Grove
-VVI: 0.7659
+Moving TTR: 0.7303
 
 Title: Untitled 17
-VVI: 0.7472
+Moving TTR: 0.7301
 
 Title: The Clockmaker’s Secret 8
-VVI: 0.7436
+Moving TTR: 0.7575
 
 Title: The Last Light of Arvale
-VVI: 0.7556
+Moving TTR: 0.7385
 
 Title: The Echoes of 5th Avenue
-VVI: 0.7690
+Moving TTR: 0.7415
 
 Title: The Whispering Winds of Ballymore
-VVI: 0.7754
+Moving TTR: 0.7274
 
 Title: Echoes of Juniper Hollow
-VVI: 0.7648
+Moving TTR: 0.7275
 
 Title: The Lost Manuscript of Thistle Grove
-VVI: 0.7604
+Moving TTR: 0.7444
 
 Title: Shadows on Lavender Walls
-VVI: 0.7684
+Moving TTR: 0.7679
 
 Title: Untitled 16
-VVI: 0.7596
+Moving TTR: 0.7317
 
 Title: The Clockmaker's Secret 9
-VVI: 0.7640
+Moving TTR: 0.7386
 
 Title: The Clockmaker’s Secret
-VVI: 0.7523
+Moving TTR: 0.7319
 
 Title: The Lighthouse Keeper's Secret 8
-VVI: 0.7355
+Moving TTR: 0.7567
 
 Title: The Clockmaker’s Paradox 23
-VVI: 0.7618
+Moving TTR: 0.7561
 
 Title: The Last Light of Loria
-VVI: 0.7604
+Moving TTR: 0.7371
 
 Title: Echoes of the Forgotten 2
-VVI: 0.7258
+Moving TTR: 0.7243
 
 Title: The Clockmaker's Legacy
-VVI: 0.7634
+Moving TTR: 0.7399
 
 Title: Untitled 12
-VVI: 0.7595
+Moving TTR: 0.7335
 
 Title: Untitled 13
-VVI: 0.7542
+Moving TTR: 0.7315
 
 Title: The Glassmaker's Paradox
-VVI: 0.7577
+Moving TTR: 0.7383
 
 Title: Echoes of the Forgotten 3
-VVI: 0.7681
+Moving TTR: 0.7240
 
 Title: The Clockmaker’s Paradox 22
-VVI: 0.7696
+Moving TTR: 0.7637
 
 Title: The Clockmaker’s Paradox 20
-VVI: 0.7612
+Moving TTR: 0.7374
 
 Title: The Clockmaker's Legacy 8
-VVI: 0.7899
+Moving TTR: 0.7389
 
 Title: Untitled 39
-VVI: 0.7705
+Moving TTR: 0.7456
 
 Title: Untitled 11
-VVI: 0.7742
+Moving TTR: 0.7151
 
 Title: The Lighthouse Keeper of Parson’s Cove
-VVI: 0.7769
+Moving TTR: 0.7343
 
 Title: Whispers of Eloria
-VVI: 0.7649
+Moving TTR: 0.7338
 
 Title: Untitled 10
-VVI: 0.7428
+Moving TTR: 0.7365
 
 Title: The Last Symphony of Mr. Clements
-VVI: 0.7596
+Moving TTR: 0.7547
 
 Title: Untitled 38
-VVI: 0.7136
+Moving TTR: 0.7106
 
 Title: The Clockmaker of Via Marcello
-VVI: 0.7482
+Moving TTR: 0.7471
 
 Title: The Hourglass Symphony
-VVI: 0.7517
+Moving TTR: 0.7169
 
 Title: Elysium's Mist
-VVI: 0.7465
+Moving TTR: 0.7187
 
 Title: The Clockmaker’s Paradox 21
-VVI: 0.7887
+Moving TTR: 0.7359
 
 Title: The Lighthouse Keeper's Secret 3
-VVI: 0.7663
+Moving TTR: 0.7295
 
 Title: The Lighthouse Keeper’s Diary 3
-VVI: 0.7902
+Moving TTR: 0.7530
 
 Title: The Shadow on Sundial Court
-VVI: 0.7585
+Moving TTR: 0.7643
 
 Title: The Clockmaker's Paradox 10
-VVI: 0.7497
+Moving TTR: 0.7362
 
 Title: The Whispering Wood 2
-VVI: 0.7615
+Moving TTR: 0.7178
 
 Title: The Clockmaker’s Apprentice
-VVI: 0.7531
+Moving TTR: 0.7418
 
 Title: The Clockmaker’s Legacy 4
-VVI: 0.7780
+Moving TTR: 0.7468
 
 Title: Untitled 21
-VVI: 0.7715
+Moving TTR: 0.7369
 
 Title: Untitled 35
-VVI: 0.7658
+Moving TTR: 0.7594
 
 Title: The Clockmaker's Secret 2
-VVI: 0.7465
+Moving TTR: 0.7272
 
 Title: Echoes of Jupiter 2
-VVI: 0.7555
+Moving TTR: 0.7565
 
 Title: Echoes of Jupiter 3
-VVI: 0.7691
+Moving TTR: 0.7463
 
 Title: The Clockmaker's Secret 3
-VVI: 0.7804
+Moving TTR: 0.7357
 
 Title: Untitled 34
-VVI: 0.7640
+Moving TTR: 0.7259
 
 Title: Untitled 20
-VVI: 0.7169
+Moving TTR: 0.7410
 
 Title: The Clockmaker's Legacy
-VVI: 0.7544
+Moving TTR: 0.7373
 
 Title: The Echoes of Jasmine
-VVI: 0.7456
+Moving TTR: 0.6999
 
 Title: The Lighthouse Keeper’s Secret 12
-VVI: 0.7558
+Moving TTR: 0.7431
 
 Title: The Clockmaker’s Paradox 11
-VVI: 0.7383
+Moving TTR: 0.7352
 
 Title: Untitled
-VVI: 0.7557
+Moving TTR: 0.7648
 
 Title: The Lighthouse Keeper’s Diary 2
-VVI: 0.7541
+Moving TTR: 0.7334
 
 Title: The Lighthouse Keeper’s Secret 2
-VVI: 0.7718
+Moving TTR: 0.7357
 
 Title: The Echoes of Elkwood
-VVI: 0.7646
+Moving TTR: 0.7284
 
 Title: The Clockmaker's Paradox 13
-VVI: 0.7620
+Moving TTR: 0.7655
 
 Title: The Lighthouse Keeper's Secret 10
-VVI: 0.7683
+Moving TTR: 0.7336
 
 Title: The Lighthouse Keeper
-VVI: 0.7899
+Moving TTR: 0.7487
 
 Title: The Man with the Silver Clarinet
-VVI: 0.7430
+Moving TTR: 0.7337
 
 Title: The Map of Lost Echoes
-VVI: 0.7778
+Moving TTR: 0.7492
 
 Title: The Clockmaker's Legacy 7
-VVI: 0.7625
+Moving TTR: 0.7371
 
 Title: Untitled 36
-VVI: 0.7322
+Moving TTR: 0.7476
 
 Title: Untitled 22
-VVI: 0.7465
+Moving TTR: 0.7301
 
 Title: The Whispering Gallery
-VVI: 0.7544
+Moving TTR: 0.7318
 
 Title: Broken Wings
-VVI: 0.7843
+Moving TTR: 0.7218
 
 Title: Untitled 23
-VVI: 0.7633
+Moving TTR: 0.7377
 
 Title: Untitled 37
-VVI: 0.7400
+Moving TTR: 0.7486
 
 Title: The Clockmaker's Legacy 6
-VVI: 0.7784
+Moving TTR: 0.7480
 
 Title: The Sound of Silver
-VVI: 0.7728
+Moving TTR: 0.7314
 
 Title: The Silvered Hourglass
-VVI: 0.7283
+Moving TTR: 0.7392
 
 Title: The Lighthouse Keeper’s Secret 11
-VVI: 0.7725
+Moving TTR: 0.7249
 
 Title: The Clockmaker's Paradox 12
-VVI: 0.7739
+Moving TTR: 0.7383
 
 Title: Echoes of Winter
-VVI: 0.7550
+Moving TTR: 0.7564
 
 Title: The Lighthouse Keeper’s Secret 5
-VVI: 0.7670
+Moving TTR: 0.7473
 
 Title: The Lighthouse Keeper of Calloway Rock
-VVI: 0.7530
+Moving TTR: 0.7405
 
 Title: The Clockmaker’s Paradox 16
-VVI: 0.7777
+Moving TTR: 0.7361
 
 Title: The Clockmaker of Sivelin
-VVI: 0.7588
+Moving TTR: 0.7357
 
 Title: The Clockmaker’s Legacy 2
-VVI: 0.7620
+Moving TTR: 0.7489
 
 Title: The Clockmaker’s Secret 4
-VVI: 0.7684
+Moving TTR: 0.7321
 
 Title: The Last Page 2
-VVI: 0.7477
+Moving TTR: 0.7297
 
 Title: Untitled 33
-VVI: 0.7784
+Moving TTR: 0.7265
 
 Title: The Lighthouse Keeper's Diary
-VVI: 0.7690
+Moving TTR: 0.7356
 
 Title: Untitled 27
-VVI: 0.7449
+Moving TTR: 0.7411
 
 Title: Whispers of the Past 3
-VVI: 0.7722
+Moving TTR: 0.7285
 
 Title: The Midnight Librarian
-VVI: 0.7293
+Moving TTR: 0.7210
 
 Title: Whispers of the Past 2
-VVI: 0.7734
+Moving TTR: 0.7263
 
 Title: Untitled 26
-VVI: 0.7669
+Moving TTR: 0.7227
 
 Title: Untitled 32
-VVI: 0.7717
+Moving TTR: 0.7398
 
 Title: The Clockmaker’s Secret 5
-VVI: 0.7657
+Moving TTR: 0.7448
 
 Title: The Clockmaker's Legacy 3
-VVI: 0.7538
+Moving TTR: 0.7295
 
 Title: The Lighthouse Keeper of Eldritch Shores
-VVI: 0.7566
+Moving TTR: 0.7303
 
 Title: The Clockmaker's Paradox 17
-VVI: 0.7566
+Moving TTR: 0.7490
 
 Title: The Lighthouse Keeper's Secret 3
-VVI: 0.7632
+Moving TTR: 0.7419
 
 Title: The Lighthouse Keeper’s Diary 4
-VVI: 0.7642
+Moving TTR: 0.7552
 
 Title: The Last Bookstore 2
-VVI: 0.7894
+Moving TTR: 0.7544
 
 Title: The Lighthouse Keeper's Secret 6
-VVI: 0.7495
+Moving TTR: 0.7589
 
 Title: The Last Pages of Summer
-VVI: 0.7442
+Moving TTR: 0.7350
 
 Title: The Clockmaker’s Paradox 15
-VVI: 0.7824
+Moving TTR: 0.7516
 
 Title: The Ledger of Lemuel Pike
-VVI: 0.7747
+Moving TTR: 0.7519
 
 Title: Whispers of the Old Willow 3
-VVI: 0.7868
+Moving TTR: 0.7333
 
 Title: A Whisper of Wind
-VVI: 0.7558
+Moving TTR: 0.6968
 
 Title: The Clockmaker’s Secret 7
-VVI: 0.7751
+Moving TTR: 0.7385
 
 Title: Untitled 18
-VVI: 0.7834
+Moving TTR: 0.7082
 
 Title: Untitled 24
-VVI: 0.7678
+Moving TTR: 0.7329
 
 Title: Untitled 30
-VVI: 0.7569
+Moving TTR: 0.7443
 
 Title: The Mask of Camille
-VVI: 0.7728
+Moving TTR: 0.7336
 
 Title: Untitled 31
-VVI: 0.7495
+Moving TTR: 0.7583
 
 Title: The Echoes of Yesterday
-VVI: 0.7825
+Moving TTR: 0.7310
 
 Title: Untitled 25
-VVI: 0.7490
+Moving TTR: 0.7630
 
 Title: The Clockmaker’s Secret 6
-VVI: 0.7663
+Moving TTR: 0.7311
 
 Title: Untitled 19
-VVI: 0.7578
+Moving TTR: 0.7124
 
 Title: The Clockmaker’s Paradox
-VVI: 0.7545
+Moving TTR: 0.7333
 
 Title: The Last Light of Dusk
-VVI: 0.7700
+Moving TTR: 0.7279
 
 Title: Whispers of the Old Willow 2
-VVI: 0.7756
+Moving TTR: 0.7097
 
 Title: The Last Light of Fidelis
-VVI: 0.7229
+Moving TTR: 0.7176
 
 Title: The Symphony of Mr. Bartholomew
-VVI: 0.7842
+Moving TTR: 0.7356
 
 Title: The Clockmaker’s Paradox 14
-VVI: 0.7524
+Moving TTR: 0.7416
 
 Title: The Lighthouse Keeper’s Secret 7
-VVI: 0.7702
+Moving TTR: 0.7444
 
 Title: The Echoes of Amissville
-VVI: 0.7602
+Moving TTR: 0.7326
 
 Title: The Last Lightkeeper 6
-VVI: 0.8122
+Moving TTR: 0.7394
 
 Title: Whispers of the Past
-VVI: 0.7746
+Moving TTR: 0.7320
 
 Title: The Forgotten Melody 2
-VVI: 0.7592
+Moving TTR: 0.7592
 
 Title: The Clockmaker of Vernazza
-VVI: 0.7608
+Moving TTR: 0.7331
 
 Title: The Clockmaker’s Paradox 2
-VVI: 0.7692
+Moving TTR: 0.7384
 
 Title: The Clockmaker’s Secret 11
-VVI: 0.7750
+Moving TTR: 0.7545
 
 Title: The Midnight Library
-VVI: 0.7392
+Moving TTR: 0.7213
 
 Title: The Echoes of Jupiter
-VVI: 0.7451
+Moving TTR: 0.7461
 
 Title: Untitled 42
-VVI: 0.7518
+Moving TTR: 0.7338
 
 Title: Untitled 56
-VVI: 0.7621
+Moving TTR: 0.7541
 
 Title: The Clockmaker’s Promise 3
-VVI: 0.7412
+Moving TTR: 0.7347
 
 Title: The Clockmaker’s Gift
-VVI: 0.7560
+Moving TTR: 0.7365
 
 Title: The Lighthouse Keeper of Eldritch Cove
-VVI: 0.7606
+Moving TTR: 0.7331
 
 Title: The Clockmaker’s Promise 2
-VVI: 0.7368
+Moving TTR: 0.7228
 
 Title: Untitled 43
-VVI: 0.8061
+Moving TTR: 0.7404
 
 Title: The Clockmaker's Secret 10
-VVI: 0.7758
+Moving TTR: 0.7369
 
 Title: The Clockmaker's Paradox
-VVI: 0.7562
+Moving TTR: 0.7481
 
 Title: The Forgotten Melody 4
-VVI: 0.7742
+Moving TTR: 0.7364
 
 Title: The Last Lightkeeper 5
-VVI: 0.7335
+Moving TTR: 0.7323
 
 Title: The Vanishing Point
-VVI: 0.7569
+Moving TTR: 0.7232
 
 Title: The Lockbox
-VVI: 0.7578
+Moving TTR: 0.7248
 
 Title: The Clockmaker's Apprentice 8
-VVI: 0.7591
+Moving TTR: 0.7428
 
 Title: The Clockmaker’s Secret 12
-VVI: 0.7848
+Moving TTR: 0.7399
 
 Title: Untitled
-VVI: 0.7753
+Moving TTR: 0.7448
 
 Title: Untitled 41
-VVI: 0.7651
+Moving TTR: 0.7393
 
 Title: Whispers at Dusk
-VVI: 0.7649
+Moving TTR: 0.7478
 
 Title: The Echo of Driftwood
-VVI: 0.7810
+Moving TTR: 0.7240
 
 Title: The Whispering Gallery 2
-VVI: 0.7466
+Moving TTR: 0.7363
 
 Title: Echoes of the Creek
-VVI: 0.7613
+Moving TTR: 0.7408
 
 Title: The Whispering Woods
-VVI: 0.7545
+Moving TTR: 0.7267
 
 Title: The Echoes of Larkspur Lane
-VVI: 0.7634
+Moving TTR: 0.7379
 
 Title: The Whispering Gallery 3
-VVI: 0.7539
+Moving TTR: 0.7181
 
 Title: The Mapmaker’s Paradox
-VVI: 0.7552
+Moving TTR: 0.7278
 
 Title: Whispers in Willowmere
-VVI: 0.7517
+Moving TTR: 0.7297
 
 Title: Untitled 40
-VVI: 0.7487
+Moving TTR: 0.7252
 
 Title: Untitled 54
-VVI: 0.7549
+Moving TTR: 0.7406
 
 Title: The Clockmaker’s Secret 13
-VVI: 0.7568
+Moving TTR: 0.7337
 
 Title: The Clockmaker’s Apprentice 9
-VVI: 0.7451
+Moving TTR: 0.7500
 
 Title: The Lightkeeper's Secret
-VVI: 0.7661
+Moving TTR: 0.7580
 
 Title: The Echo of the Lighthouse
-VVI: 0.7628
+Moving TTR: 0.7188
 
 Title: The Last Lightkeeper 4
-VVI: 0.7661
+Moving TTR: 0.7174
 
 Title: A Thread in Time
-VVI: 0.7813
+Moving TTR: 0.7374
 
 Title: The Mysterious Island of Dr. Floros
-VVI: 0.7891
+Moving TTR: 0.7563
 
 Title: The Forgotten Melody 3
-VVI: 0.7535
+Moving TTR: 0.7360
 
 Title: The Clockmaker’s Secret 17
-VVI: 0.7467
+Moving TTR: 0.7313
 
 Title: The Clockmaker’s Paradox 4
-VVI: 0.7639
+Moving TTR: 0.7209
 
 Title: The Lighthouse Keeper of Grimsby Point
-VVI: 0.7804
+Moving TTR: 0.7248
 
 Title: Untitled 50
-VVI: 0.7706
+Moving TTR: 0.7325
 
 Title: Untitled 44
-VVI: 0.7588
+Moving TTR: 0.7369
 
 Title: The Clockmaker of Middlesbrooke
-VVI: 0.7389
+Moving TTR: 0.7503
 
 Title: Echoes of the Past
-VVI: 0.7835
+Moving TTR: 0.7329
 
 Title: Untitled 45
-VVI: 0.7536
+Moving TTR: 0.7426
 
 Title: Untitled 51
-VVI: 0.7797
+Moving TTR: 0.7436
 
 Title: The Lighthouse Keeper of Evershore
-VVI: 0.7779
+Moving TTR: 0.7288
 
 Title: Echoes of the Lost Star
-VVI: 0.8013
+Moving TTR: 0.7184
 
 Title: The Forgotten Map
-VVI: 0.7398
+Moving TTR: 0.7502
 
 Title: The Clockmaker’s Paradox 5
-VVI: 0.7996
+Moving TTR: 0.7498
 
 Title: The Clockmaker's Secret 16
-VVI: 0.7597
+Moving TTR: 0.7300
 
 Title: The Ivory Tower
-VVI: 0.7631
+Moving TTR: 0.7230
 
 Title: Whispers of the Forgotten Orchard
-VVI: 0.7702
+Moving TTR: 0.7183
 
 Title: Untitled 8
-VVI: 0.7640
+Moving TTR: 0.7380
 
 Title: The Watcher of Westbrook Avenue
-VVI: 0.7468
+Moving TTR: 0.7509
 
 Title: Whispering Winds
-VVI: 0.7647
+Moving TTR: 0.7424
 
 Title: The Last Lightkeeper 3
-VVI: 0.7595
+Moving TTR: 0.7261
 
 Title: The Clockmaker’s Secret 14
-VVI: 0.7787
+Moving TTR: 0.7503
 
 Title: The Clockmaker’s Paradox 7
-VVI: 0.7731
+Moving TTR: 0.7506
 
 Title: The Lighthouse Keeper of Morwen Bay
-VVI: 0.7351
+Moving TTR: 0.7265
 
 Title: The Lighthouse Keeper of Eventide
-VVI: 0.7734
+Moving TTR: 0.7358
 
 Title: Untitled 47
-VVI: 0.7513
+Moving TTR: 0.7269
 
 Title: Untitled 53
-VVI: 0.7533
+Moving TTR: 0.7487
 
 Title: The Last Lightkeeper
-VVI: 0.7626
+Moving TTR: 0.7361
 
 Title: The Whispering Wood
-VVI: 0.7420
+Moving TTR: 0.7331
 
 Title: Untitled 52
-VVI: 0.7958
+Moving TTR: 0.7461
 
 Title: Untitled 46
-VVI: 0.7601
+Moving TTR: 0.7368
 
 Title: Whispering Shadows
-VVI: 0.7412
+Moving TTR: 0.7448
 
 Title: The Clockmaker's Paradox 6
-VVI: 0.7619
+Moving TTR: 0.7366
 
 Title: The Clockmaker’s Secret 15
-VVI: 0.7509
+Moving TTR: 0.7353
 
 Title: The Last Bookstore
-VVI: 0.7868
+Moving TTR: 0.7479
 
 Title: A Murmuration of Memories
-VVI: 0.7764
+Moving TTR: 0.7434
 
 Title: The Lighthouse Keeper of Merrow Down
-VVI: 0.7703
+Moving TTR: 0.7390
 
 Title: Echoes of the Lighthouse
-VVI: 0.7773
+Moving TTR: 0.7269
 
 Title: The Last Light of Eridanus
-VVI: 0.7443
+Moving TTR: 0.7061
 
 Title: The Last Lightkeeper 2
-VVI: 0.7806
+Moving TTR: 0.7401
 
 Title: The Forgotten Melody
-VVI: 0.7517
+Moving TTR: 0.7488
 
 Title: Untitled 9
-VVI: 0.7734
+Moving TTR: 0.7443
 
 Title: The Glassmaker's Apprentice
-VVI: 0.7832
+Moving TTR: 0.7297
 
 Title: The Echoes of Willowbrook
-VVI: 0.7703
+Moving TTR: 0.7135
 
