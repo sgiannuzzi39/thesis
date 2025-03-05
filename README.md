@@ -35,7 +35,7 @@ Includes the Python scripts that were made to measure the existence of short sto
 - `submerged-identity`
 - `unity-singleeffect`
 
-Within each of these folders, there is a Python file that holds the algorithm intended to measure for the feature, a folder with the corresponding results of the algorithm, and another file that generates the data visualization to display the findings. The folder `clustering` can also be found in `feature-scripts,` which contains the code that generated the dendrogram (Graph 2.1) in Chapter Two.
+Within each of these folders, there is a Python file that holds the algorithm intended to measure for the feature, a folder with the corresponding results of the algorithm, and another file that generates the data visualization to display the findings. The folder `clustering` can also be found in `feature-scripts,` which contains the code that generated the dendrogram (**Graph 2.1**) in Chapter Two.
 
 ---
 
