@@ -2,7 +2,7 @@
 
 This repository includes all relevant code created for *Evaluating AI as Author: An Analysis of AI-Generated Short Stories*, a thesis submitted to the **Harvard English Department** by **Sofia Giannuzzi** in partial fulfillment of the requirements for the **Bachelor’s Degree with Honors**.
 
-*Writing this code was supported in part by AI tools, specifically OpenAI's ChatGPT.*
+*Creating the files in this repository was supported in part by AI tools, specifically OpenAI's ChatGPT.*
 
 ---
 
