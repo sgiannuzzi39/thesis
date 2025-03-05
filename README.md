@@ -19,8 +19,8 @@ This folder contains the Python scripts that were utilized to scrape short stori
 - **Classic Short Stories site**:  
   [https://classicshorts.com/](https://classicshorts.com/)
 
-Stories were also collected from this Tin House archive, though they were collected manually: 
-- **Tin House fiction archive**:  
+Stories were also collected from the Tin House Fiction archive, though they were collected manually: 
+- **Tin House Fiction archive**:  
   [https://tinhouse.com/category/fiction/](https://tinhouse.com/category/fiction/)
 
 ---
