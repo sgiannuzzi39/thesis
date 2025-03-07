@@ -38,21 +38,21 @@ def parse_results(file_path):
     return [np.mean(q) for q in quarter_scores] if quarter_scores else []
 
 def plot_average_wmd(generated_avg, human_avg, output_filename):
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 7), dpi=300) 
     x_labels = ["WMD between Quarter 1 & 2", "WMD between Quarter 2 & 3", "WMD between Quarter 3 & 4"]
     x_positions = range(1, len(generated_avg) + 1)
     
-    plt.plot(x_positions, generated_avg, marker='o', label="Generated Stories")
-    plt.plot(x_positions, human_avg, marker='s', label="Human Stories")
+    plt.plot(x_positions, generated_avg, marker='D', color='blue', label="Generated Stories", linewidth=2)
+    plt.plot(x_positions, human_avg, marker='D', color='red', label="Human Stories", linewidth=2)
     
     plt.xticks(x_positions, x_labels)
-    plt.title("Average WMD Scores per Quarter Transition")
-    plt.xlabel("Quarter Transitions")
-    plt.ylabel("Average WMD Score")
-    plt.legend()
-    plt.grid(True)
+    plt.title("Average WMD Scores per Quarter Transition", fontsize=14, fontweight='bold')
+    plt.xlabel("Quarter Transitions", fontsize=12)
+    plt.ylabel("Average WMD Score", fontsize=12)
+    plt.legend(loc='upper right')
+    plt.grid(axis='y', linestyle='--', alpha=0.7)
     plt.tight_layout()
-    plt.savefig(os.path.join(output_folder, output_filename))
+    plt.savefig(os.path.join(output_folder, output_filename), dpi=300)
     plt.close()
 
 def main():

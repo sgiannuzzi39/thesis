@@ -1,3 +1,7 @@
+"""
+Code co-authored with ChatGPT
+"""
+
 import matplotlib.pyplot as plt
 import os
 
@@ -10,7 +14,6 @@ def parse_sentiment_results(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
-
             for line in lines:
                 if line.startswith("Normalized absolute sentiment:"):
                     try:
@@ -23,27 +26,34 @@ def parse_sentiment_results(file_path):
     return normalized_sentiment_scores
 
 def create_boxplot(data, labels, title, ylabel, output_filename):
-    plt.figure(figsize=(8, 6))
-    boxprops = dict(facecolor="white", color="black")
-    meanprops = dict(marker='D', markerfacecolor='green', markersize=7, linestyle='none', color='green')
-    medianprops = dict(color='orange', linewidth=2)
+    plt.figure(figsize=(10, 7), dpi=300) 
+    boxprops = dict(facecolor="lightgray", color="black", linewidth=1.5)
+    meanprops = dict(marker='D', markerfacecolor='blue', markersize=8, linestyle='none', color='blue')
+    medianprops = dict(color='red', linewidth=2)
+    whiskerprops = dict(color="black", linewidth=1.5)
+    capprops = dict(color="black", linewidth=1.5)
 
-    plt.boxplot(data, labels=labels, patch_artist=True, showmeans=True, 
-                meanprops=meanprops, medianprops=medianprops, boxprops=boxprops)
+    plt.boxplot(
+        data, labels=labels, patch_artist=True, showmeans=True, 
+        meanprops=meanprops, medianprops=medianprops, 
+        boxprops=boxprops, whiskerprops=whiskerprops, capprops=capprops
+    )
 
     plt.ylim(0, 0.6)  
     
-    plt.title(title)
-    plt.ylabel(ylabel)
+    plt.title(title, fontsize=14, fontweight='bold')
+    plt.ylabel(ylabel, fontsize=12)
+    
+    plt.grid(axis='y', linestyle='--', alpha=0.7)
 
     legend_elements = [
-        plt.Line2D([0], [0], color='orange', lw=2, label='Median (Orange Line)'),
-        plt.Line2D([0], [0], marker='D', color='green', label='Mean (Green Diamond)', linestyle='None', markersize=8)
+        plt.Line2D([0], [0], color='red', lw=2, label='Median (Red Line)'),
+        plt.Line2D([0], [0], marker='D', color='blue', label='Mean (Blue Diamond)', linestyle='None', markersize=8)
     ]
     plt.legend(handles=legend_elements, loc='upper right')
 
     plt.tight_layout()
-    plt.savefig(os.path.join(output_folder, output_filename))
+    plt.savefig(os.path.join(output_folder, output_filename), dpi=300)
     plt.close()
 
 def main():

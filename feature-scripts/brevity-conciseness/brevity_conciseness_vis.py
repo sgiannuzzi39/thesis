@@ -11,7 +11,6 @@ import pandas as pd
 import numpy as np
 import statistics
 
-# Paths
 human_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/brevity-conciseness/results/human_results.txt"
 generated_results_path = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/brevity-conciseness/results/generated_results.txt"
 output_folder = "/Users/sgiannuzzi/Desktop/thesis/feature-scripts/brevity-conciseness/results"
@@ -32,7 +31,7 @@ def parse_results(file_path):
 
     if not os.path.exists(file_path):
         print(f"File not found: {file_path}")
-        return data  # Return empty data if file is missing
+        return data  
 
     with open(file_path, 'r', encoding='utf-8') as file:
         lines = file.readlines()
