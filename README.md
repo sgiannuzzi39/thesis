@@ -50,6 +50,6 @@ Includes the Python script used to access OpenAI's GPT-4-turbo API to generate t
 ---
 
 ### 5. `human-stories`
-Includes all of the human-written stories used for data analyses in this thesis. These stories are stored as `.txt` files.
+Contains all of the human-written stories used for data analyses in this thesis. These stories are stored as `.txt` files.
 
 ---
