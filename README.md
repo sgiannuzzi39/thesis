@@ -1,4 +1,4 @@
-# Evaluating AI as Author: An Analysis of AI-Generated Short Stories
+# AI as Author: An Analysis of AI-Generated Short Stories
 
 This repository includes all relevant code created for *Evaluating AI as Author: An Analysis of AI-Generated Short Stories*, a thesis submitted to the **Harvard English Department** by **Sofia Giannuzzi** in partial fulfillment of the requirements for the **Bachelor’s Degree with Honors**.
 
